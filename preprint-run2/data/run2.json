@@ -1,0 +1,8304 @@
+{
+ "run2": {
+  "t0_utc": "2026-11-05T01:10:31.409000+00:00",
+  "win_utc": "2026-11-05T10:18:09.777000+00:00",
+  "win_h": 9.127324444444445,
+  "milestones": {
+   "stone_tools": 0.06753138888888889,
+   "iron_tools": 0.17649694444444444,
+   "bucket": 0.176945,
+   "flint_and_steel": 1.0602791666666667,
+   "nether_portal": 1.3805458333333334,
+   "fortress": 1.6547919444444446,
+   "blaze_rods": 2.587093888888889,
+   "ender_pearls": 5.470364722222222,
+   "eyes_of_ender": 7.032470833333334,
+   "stronghold": 7.730264444444445,
+   "the_end": 7.920510833333333,
+   "dragon": 9.127324444444445
+  },
+  "advancements": [
+   {
+    "h": 0.050298055555555554,
+    "name": "Stone Age"
+   },
+   {
+    "h": 0.06753138888888889,
+    "name": "Getting an Upgrade"
+   },
+   {
+    "h": 0.16481833333333334,
+    "name": "Acquire Hardware"
+   },
+   {
+    "h": 0.17649694444444444,
+    "name": "Isn't It Iron Pick"
+   },
+   {
+    "h": 0.3166847222222222,
+    "name": "Monster Hunter"
+   },
+   {
+    "h": 0.3406038888888889,
+    "name": "Sweet Dreams"
+   },
+   {
+    "h": 0.6170716666666667,
+    "name": "Suit Up"
+   },
+   {
+    "h": 1.0075663888888888,
+    "name": "Diamonds!"
+   },
+   {
+    "h": 1.1374597222222222,
+    "name": "Ice Bucket Challenge"
+   },
+   {
+    "h": 1.3805458333333334,
+    "name": "We Need to Go Deeper"
+   },
+   {
+    "h": 1.6547916666666667,
+    "name": "A Terrible Fortress"
+   },
+   {
+    "h": 2.5870936111111114,
+    "name": "Into Fire"
+   },
+   {
+    "h": 3.7282480555555555,
+    "name": "Hot Stuff"
+   },
+   {
+    "h": 4.14961,
+    "name": "Cover Me with Diamonds"
+   },
+   {
+    "h": 7.730264166666667,
+    "name": "Eye Spy"
+   },
+   {
+    "h": 7.920510833333333,
+    "name": "The End?"
+   },
+   {
+    "h": 8.037047777777778,
+    "name": "Take Aim"
+   },
+   {
+    "h": 9.127324166666666,
+    "name": "Free the End"
+   }
+  ],
+  "deaths": [
+   {
+    "h": 0.2977688888888889,
+    "text": "opus was shot by Skeleton",
+    "cause": "Skeletons",
+    "in_program": true,
+    "since_program_end_s": null,
+    "dim": "overworld",
+    "pos": [
+     32.6,
+     64,
+     -31.5
+    ],
+    "next_program_s": 12.880000114440918,
+    "next_commit_min": 15.52705
+   },
+   {
+    "h": 0.32558472222222223,
+    "text": "opus was slain by Zombie",
+    "cause": "Zombies",
+    "in_program": true,
+    "since_program_end_s": null,
+    "dim": "overworld",
+    "pos": [
+     0.9,
+     68,
+     2.3
+    ],
+    "next_program_s": 7.799999952316284,
+    "next_commit_min": 13.8581
+   },
+   {
+    "h": 0.36369333333333337,
+    "text": "opus was skewered by a falling stalactite",
+    "cause": "Stalactite",
+    "in_program": true,
+    "since_program_end_s": null,
+    "dim": "overworld",
+    "pos": [
+     35.5,
+     51,
+     -23.3
+    ],
+    "next_program_s": 15.172000169754028,
+    "next_commit_min": 11.571583333333331
+   },
+   {
+    "h": 1.6648030555555555,
+    "text": "opus was slain by Wither Skeleton",
+    "cause": "Skeletons",
+    "in_program": false,
+    "since_program_end_s": 5.131,
+    "dim": "the_nether",
+    "pos": [
+     -146.5,
+     61.6,
+     -80.3
+    ],
+    "next_program_s": 0.10400009155273438,
+    "next_commit_min": 38.688333333333354
+   },
+   {
+    "h": 1.7070800000000002,
+    "text": "opus was fireballed by Blaze",
+    "cause": "Blazes",
+    "in_program": false,
+    "since_program_end_s": 0.115,
+    "dim": "the_nether",
+    "pos": [
+     -67.6,
+     61,
+     -36.5
+    ],
+    "next_program_s": 75.1650002002716,
+    "next_commit_min": 36.15171666666667
+   },
+   {
+    "h": 2.432728888888889,
+    "text": "opus was slain by Zombified Piglin",
+    "cause": "Piglins",
+    "in_program": true,
+    "since_program_end_s": null,
+    "dim": "the_nether",
+    "pos": [
+     -57.5,
+     61,
+     -22.5
+    ],
+    "next_program_s": 38.99000024795532,
+    "next_commit_min": 61.82945
+   },
+   {
+    "h": 2.777606111111111,
+    "text": "opus was slain by Zombified Piglin",
+    "cause": "Piglins",
+    "in_program": false,
+    "since_program_end_s": 27.816,
+    "dim": "the_nether",
+    "pos": [
+     -145.4,
+     63,
+     -82.1
+    ],
+    "next_program_s": 1.0740001201629639,
+    "next_commit_min": 41.13681666666669
+   },
+   {
+    "h": 3.264894722222222,
+    "text": "opus withered away",
+    "cause": "Withering",
+    "in_program": true,
+    "since_program_end_s": null,
+    "dim": "the_nether",
+    "pos": [
+     -145.3,
+     61,
+     -80.6
+    ],
+    "next_program_s": 38.08299994468689,
+    "next_commit_min": 11.899500000000032
+   },
+   {
+    "h": 5.493833888888889,
+    "text": "opus was slain by Piglin",
+    "cause": "Piglins",
+    "in_program": true,
+    "since_program_end_s": null,
+    "dim": "the_nether",
+    "pos": [
+     144.4,
+     59,
+     264.5
+    ],
+    "next_program_s": 40.33899998664856,
+    "next_commit_min": 14.896483333333315
+   },
+   {
+    "h": 5.722459722222222,
+    "text": "opus tried to swim in lava",
+    "cause": "Lava and fire",
+    "in_program": false,
+    "since_program_end_s": 0.536,
+    "dim": "the_nether",
+    "pos": [
+     99.5,
+     59,
+     279.9
+    ],
+    "next_program_s": 71.32400012016296,
+    "next_commit_min": 1.1789333333333296
+   },
+   {
+    "h": 6.1071019444444445,
+    "text": "opus suffocated in a wall",
+    "cause": "Suffocation",
+    "in_program": false,
+    "since_program_end_s": 0.497,
+    "dim": "overworld",
+    "pos": [
+     36.6,
+     60,
+     -33.5
+    ],
+    "next_program_s": 9.199000120162964,
+    "next_commit_min": 8.783733333333323
+   },
+   {
+    "h": 6.860545833333333,
+    "text": "opus was slain by Piglin",
+    "cause": "Piglins",
+    "in_program": true,
+    "since_program_end_s": null,
+    "dim": "the_nether",
+    "pos": [
+     145.3,
+     58.8,
+     265.5
+    ],
+    "next_program_s": 50.97000026702881,
+    "next_commit_min": 3.810433333333343
+   },
+   {
+    "h": 8.2859725,
+    "text": "opus was killed by Ender Dragon using magic",
+    "cause": "Dragon breath",
+    "in_program": false,
+    "since_program_end_s": 37.361,
+    "dim": "the_end",
+    "pos": [
+     0.5,
+     60,
+     -4.5
+    ],
+    "next_program_s": 4.332000255584717,
+    "next_commit_min": 38.434833333333316
+   },
+   {
+    "h": 8.702356388888889,
+    "text": "opus was slain by Enderman",
+    "cause": "Endermen",
+    "in_program": false,
+    "since_program_end_s": 5.194,
+    "dim": "the_end",
+    "pos": [
+     -8.8,
+     60,
+     -21.3
+    ],
+    "next_program_s": 6.677999973297119,
+    "next_commit_min": 13.451799999999956
+   },
+   {
+    "h": 8.77689111111111,
+    "text": "opus was killed by Ender Dragon using magic",
+    "cause": "Dragon breath",
+    "in_program": false,
+    "since_program_end_s": 17.474,
+    "dim": "the_end",
+    "pos": [
+     -1.7,
+     59.4,
+     -13.6
+    ],
+    "next_program_s": 4.614000082015991,
+    "next_commit_min": 8.979716666666668
+   },
+   {
+    "h": 8.913179166666666,
+    "text": "opus was killed by Ender Dragon using magic",
+    "cause": "Dragon breath",
+    "in_program": false,
+    "since_program_end_s": 0.351,
+    "dim": "the_end",
+    "pos": [
+     6.7,
+     57,
+     -13.5
+    ],
+    "next_program_s": 48.319000244140625,
+    "next_commit_min": 0.8024333333333544
+   }
+  ],
+  "deaths_after_first_program": 16,
+  "death_causes": [
+   [
+    "Piglins",
+    4
+   ],
+   [
+    "Dragon breath",
+    3
+   ],
+   [
+    "Skeletons",
+    2
+   ],
+   [
+    "Zombies",
+    1
+   ],
+   [
+    "Stalactite",
+    1
+   ],
+   [
+    "Blazes",
+    1
+   ],
+   [
+    "Withering",
+    1
+   ],
+   [
+    "Lava and fire",
+    1
+   ],
+   [
+    "Suffocation",
+    1
+   ],
+   [
+    "Endermen",
+    1
+   ]
+  ],
+  "programs": {
+   "before_win": 780,
+   "library_checks": 0,
+   "real": 780,
+   "errors": 0,
+   "timed_out": 14,
+   "median_s_real": 5.885,
+   "distinct_lines": 6658,
+   "after_win": 4,
+   "per_half_hour": [
+    [
+     0,
+     47
+    ],
+    [
+     1,
+     58
+    ],
+    [
+     2,
+     64
+    ],
+    [
+     3,
+     42
+    ],
+    [
+     4,
+     44
+    ],
+    [
+     5,
+     40
+    ],
+    [
+     6,
+     46
+    ],
+    [
+     7,
+     65
+    ],
+    [
+     8,
+     44
+    ],
+    [
+     9,
+     43
+    ],
+    [
+     10,
+     22
+    ],
+    [
+     11,
+     36
+    ],
+    [
+     12,
+     43
+    ],
+    [
+     13,
+     32
+    ],
+    [
+     14,
+     55
+    ],
+    [
+     15,
+     38
+    ],
+    [
+     16,
+     30
+    ],
+    [
+     17,
+     28
+    ],
+    [
+     18,
+     3
+    ]
+   ]
+  },
+  "running_share": 0.5803846679177747,
+  "running_h": 5.297359166666676,
+  "pauses": {
+   "n": 769,
+   "median_s": 11.56,
+   "mean_s": 17.945409622886867,
+   "p90_s": 36.633,
+   "longest_s": 194.273,
+   "total_h": 3.833338888888887
+  },
+  "deaths_in_pause": {
+   "n": 9,
+   "within_10s": 6
+  },
+  "deaths_by_dim": [
+   [
+    "the_nether",
+    8
+   ],
+   [
+    "overworld",
+    4
+   ],
+   [
+    "the_end",
+    4
+   ]
+  ],
+  "frames": {
+   "to_win": 3339,
+   "total": 4293,
+   "max_gap_s": 22.718,
+   "median_gap_s": 10.001,
+   "share_by_dim": [
+    [
+     "overworld",
+     1965
+    ],
+    [
+     "the_nether",
+     926
+    ],
+    [
+     "the_end",
+     396
+    ]
+   ]
+  },
+  "tool_calls": [
+   [
+    "Bash",
+    792
+   ],
+   [
+    "Read",
+    32
+   ],
+   [
+    "Write",
+    13
+   ],
+   [
+    "ToolSearch",
+    2
+   ],
+   [
+    "ScheduleWakeup",
+    2
+   ],
+   [
+    "Edit",
+    1
+   ]
+  ],
+  "prep_s": 472.183,
+  "inherited_use": {
+   "calls": 35,
+   "before_first_program": 16,
+   "during_run": 19,
+   "areas_before": [
+    [
+     "lib",
+     7
+    ],
+    [
+     "memory",
+     3
+    ],
+    [
+     "other",
+     3
+    ],
+    [
+     "programs/events/server log",
+     2
+    ],
+    [
+     "preprint",
+     2
+    ],
+    [
+     "index",
+     1
+    ]
+   ],
+   "areas_during": [
+    [
+     "memory",
+     13
+    ],
+    [
+     "lib",
+     12
+    ],
+    [
+     "programs/events/server log",
+     2
+    ],
+    [
+     "git history",
+     1
+    ]
+   ],
+   "during_hours": [
+    1.164,
+    2.412,
+    2.781,
+    3.749,
+    4.493,
+    4.622,
+    4.624,
+    5.0,
+    5.017,
+    5.091,
+    6.511,
+    6.694,
+    6.778,
+    7.68,
+    7.882,
+    7.889,
+    7.964,
+    7.974,
+    8.205
+   ],
+   "during_text": [
+    {
+     "h": 1.16,
+     "text": "cd runs/2026-11-04-1901/inherited/2026-11-01-1211/workspace && rg -n -i 'blaze|pillbox|spawner room|closed room' memory/*.md | cut -c1-330 | head -30; sed -n 1,31p lib/pillbox.js | cut -c1-240"
+    },
+    {
+     "h": 2.41,
+     "text": "lib/run.sh --timeout 115 $TMPDIR/win4.js; date -u; rg -n \"blaze_rod\" ../inherited/2026-11-01-1211/workspace/lib -l | head -3; rg -n \"\\\"blaze_rod\\\"|blaze_rod\" lib/pillbox.js | cut -c1-200 | head -4"
+    },
+    {
+     "h": 2.78,
+     "text": "lib/run.sh --timeout 8 -e 'return {d:L.dmg(14),chest:await L.chestList(new L.Vec3(35,60,-32)),t:bot.time.timeOfDay,inv:L.inv()}'; rg -n \"zombified|Zombified\" memory/02-lessons.md | head; rg -n -i \"zombified\" guides/nethe"
+    },
+    {
+     "h": 3.75,
+     "text": "rg -n \"pillbox|8 rods|closed room\" ../inherited/2026-11-01-1211/workspace/memory/*.md | cut -c1-260 | head -14; sed -n 1,12p lib/pillbox.js | cut -c1-420; cat $TMPDIR/d6.out | tail -2; date -u"
+    },
+    {
+     "h": 4.49,
+     "text": "lib/run.sh --timeout 15 $TMPDIR/bk.js; date -u; rg -n -i \"pearl|warped|enderman\" guides/nether.md | cut -c1-260 | head -16; rg -n -i \"warped|pit |pearl\" ../inherited/2026-11-01-1211/workspace/memory/lessons.md | cut -c1-"
+    },
+    {
+     "h": 4.62,
+     "text": "lib/run.sh --timeout 25 $TMPDIR/ck5.js; date -u; sed -n 1,3p lib/ebunker.js | cut -c1-200; rg -n \"^L\\.[a-zA-Z]+ *=\" lib/ebunker.js | cut -c1-140; rg -n -i \"bunker|mouth|enderHunt\" ../inherited/2026-11-01-1211/workspace/m"
+    },
+    {
+     "h": 4.62,
+     "text": "ls lib | tr '\\n' ' '; sed -n 337,348p ../inherited/2026-11-01-1211/workspace/memory/progress.md | cut -c1-420; wc -l ../inherited/2026-11-01-1211/workspace/lib/pit.js; sed -n 1,60p ../inherited/2026-11-01-1211/workspace/"
+    },
+    {
+     "h": 5.0,
+     "text": "rg -n -i \"warped\" ../inherited/2026-11-01-1211/workspace/memory/*.md | cut -c1-240 | head -14"
+    },
+    {
+     "h": 5.02,
+     "text": "cd runs/2026-11-04-1901/inherited/2026-11-01-1211 && rg -n -i \"pearl\" workspace/memory/*.md | cut -c1-260 | head -30; rg -n -i \"warped\" workspace/memory/*.md | cut -c1-220 | head -14"
+    },
+    {
+     "h": 5.09,
+     "text": "cd runs/2026-11-04-1901/inherited/2026-11-01-1211 && rg -n -i \"enderman|endermen\" workspace/memory/lessons.md | cut -c1-260 | head -20; rg -n -i \"enderHunt\" workspace/memory/*.md | cut -c1-260 | head; cd ../../records 2>"
+    },
+    {
+     "h": 6.51,
+     "text": "cd ../inherited/2026-11-01-1211/workspace && rg -n -i 'mortar|crystal' memory/*.md | cut -c1-360 | head -24; head -12 lib/mortar.js | cut -c1-300"
+    },
+    {
+     "h": 6.69,
+     "text": "sed -i '' 's/| empty chest | 385 | | | death 10 at t+5:44 burned kit |/| empty chest | 385 | 396 | +11 | death 10 at t+5:44 burned kit; water scoop failed unchecked, 3 min |/' memory/01-targets.md; sed -n 26,46p guides/o"
+    },
+    {
+     "h": 6.78,
+     "text": "cd ../inherited/2026-11-01-1211/workspace && sed -n 1,30p memory/progress.md | cut -c1-420; rg -n -i 'fight pit|L.fight|end pit|dragon' memory/lessons.md | cut -c1-320 | head -20"
+    },
+    {
+     "h": 7.68,
+     "text": "cd runs/2026-11-04-1901/workspace; sed -n 1,200p memory/01-targets.md | tail -32; echo ----; tail -30 memory/02-lessons.md; echo ----; tail -24 memory/03-world.md; echo; wc -l ../inherited/2026-11-01-1211/workspace/lib/m"
+    },
+    {
+     "h": 7.88,
+     "text": "cd runs/2026-11-04-1901/inherited/2026-11-01-1211; rg -n -i 'platform|bridge to|island edge|first entry|arriv' workspace/memory/*.md | cut -c1-260 | head -24; echo ---; rg -n -i 'mortar|crystal' workspace/memory/*.md | c"
+    },
+    {
+     "h": 7.89,
+     "text": "cd runs/2026-11-04-1901/inherited/2026-11-01-1211; sed -n 1,30p workspace/memory/progress.md | cut -c1-520; echo ---; sed -n 217,222p workspace/memory/progress.md | cut -c1-600; echo ---; sed -n 120,135p workspace/memory"
+    },
+    {
+     "h": 7.96,
+     "text": "Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>\"; git log --oneline | head -1; sed -n 1,60p ../inherited/2026-11-01-1211/workspace/prog_fire.js | cut -c1-400; ls ../inherited/2026-11-01-1211/workspace/prog_* | wc"
+    },
+    {
+     "h": 7.97,
+     "text": "cd runs/2026-11-04-1901/workspace; grep -n \"ORDER\\|mortar\" lib/install.sh | head; grep -n \"ender3\\|L.guardOn\" lib/core.js | cut -c1-260 | head -8; cat ../inherited/2026-11-01-1211/workspace/prog_fight.js | cut -c1-600; c"
+    },
+    {
+     "h": 8.21,
+     "text": "lib/run.sh --timeout 15 $TMPDIR/m1.js; sed -n 1,12p ../inherited/2026-11-01-1211/workspace/prog_fight2.js | cut -c1-500; rg -n \"FG\\s*=\" ../inherited/2026-11-01-1211/workspace/*.js | cut -c1-400 | head -5; date -u"
+    }
+   ],
+   "read_camera_frames": false,
+   "read_readme_prediction": false
+  },
+  "library": {
+   "run1_files": 51,
+   "run1_lines": 2631,
+   "run2_files": 52,
+   "run2_lines": 3257,
+   "run2_lines_identical_to_run1": 2635,
+   "share_identical": 0.8090267116978815,
+   "share_identical_lines_of_20_chars_or_more": 0.7691397000789266,
+   "files_named_as_in_run1": 48,
+   "files_new": [
+    "base.js",
+    "endpit.js",
+    "install.sh",
+    "pearl.js"
+   ],
+   "files_unchanged": [
+    "blaze.js",
+    "blaze2.js",
+    "bow.js",
+    "bridge.js",
+    "bunker.js",
+    "dump.js",
+    "end.js",
+    "endentry.js",
+    "ender.js",
+    "ender3.js",
+    "eye.js",
+    "farm.js",
+    "field.js",
+    "fish.js",
+    "hide.js",
+    "kit.js",
+    "ladder.js",
+    "land.js",
+    "mine.js",
+    "mortar.js",
+    "nether.js",
+    "obsidian.js",
+    "ore.js",
+    "pit.js",
+    "portal.js",
+    "roof.js",
+    "room.js",
+    "route.js",
+    "safe.js",
+    "scout.js",
+    "seal.js",
+    "shot.js",
+    "stairwatch.js",
+    "starter.js",
+    "swim.js",
+    "trap.js",
+    "trek.js"
+   ],
+   "files_dropped": [
+    "endp.js",
+    "mwalk.js",
+    "reset.sh"
+   ],
+   "first_commit": "13132b7",
+   "first_commit_files": 50,
+   "first_commit_lines": 2749,
+   "per_file": [
+    {
+     "file": "base.js",
+     "lines": 375,
+     "in_run1_file": false,
+     "identical_lines": 64,
+     "from_same_file": 0,
+     "unchanged": false
+    },
+    {
+     "file": "core.js",
+     "lines": 372,
+     "in_run1_file": true,
+     "identical_lines": 351,
+     "from_same_file": 351,
+     "unchanged": false
+    },
+    {
+     "file": "pillbox.js",
+     "lines": 185,
+     "in_run1_file": true,
+     "identical_lines": 124,
+     "from_same_file": 121,
+     "unchanged": false
+    },
+    {
+     "file": "end.js",
+     "lines": 151,
+     "in_run1_file": true,
+     "identical_lines": 151,
+     "from_same_file": 151,
+     "unchanged": true
+    },
+    {
+     "file": "pearl.js",
+     "lines": 135,
+     "in_run1_file": false,
+     "identical_lines": 19,
+     "from_same_file": 0,
+     "unchanged": false
+    },
+    {
+     "file": "stairs.js",
+     "lines": 134,
+     "in_run1_file": true,
+     "identical_lines": 129,
+     "from_same_file": 129,
+     "unchanged": false
+    },
+    {
+     "file": "nether.js",
+     "lines": 119,
+     "in_run1_file": true,
+     "identical_lines": 119,
+     "from_same_file": 119,
+     "unchanged": true
+    },
+    {
+     "file": "ebunker.js",
+     "lines": 109,
+     "in_run1_file": true,
+     "identical_lines": 105,
+     "from_same_file": 104,
+     "unchanged": false
+    },
+    {
+     "file": "wallbridge.js",
+     "lines": 101,
+     "in_run1_file": true,
+     "identical_lines": 65,
+     "from_same_file": 63,
+     "unchanged": false
+    },
+    {
+     "file": "obs2.js",
+     "lines": 87,
+     "in_run1_file": true,
+     "identical_lines": 85,
+     "from_same_file": 85,
+     "unchanged": false
+    },
+    {
+     "file": "bow.js",
+     "lines": 86,
+     "in_run1_file": true,
+     "identical_lines": 86,
+     "from_same_file": 86,
+     "unchanged": true
+    },
+    {
+     "file": "trek.js",
+     "lines": 83,
+     "in_run1_file": true,
+     "identical_lines": 83,
+     "from_same_file": 83,
+     "unchanged": true
+    },
+    {
+     "file": "trap.js",
+     "lines": 79,
+     "in_run1_file": true,
+     "identical_lines": 79,
+     "from_same_file": 79,
+     "unchanged": true
+    },
+    {
+     "file": "tunnel.js",
+     "lines": 78,
+     "in_run1_file": true,
+     "identical_lines": 75,
+     "from_same_file": 75,
+     "unchanged": false
+    },
+    {
+     "file": "hide.js",
+     "lines": 63,
+     "in_run1_file": true,
+     "identical_lines": 63,
+     "from_same_file": 63,
+     "unchanged": true
+    },
+    {
+     "file": "safe.js",
+     "lines": 57,
+     "in_run1_file": true,
+     "identical_lines": 57,
+     "from_same_file": 57,
+     "unchanged": true
+    },
+    {
+     "file": "ender3.js",
+     "lines": 54,
+     "in_run1_file": true,
+     "identical_lines": 54,
+     "from_same_file": 54,
+     "unchanged": true
+    },
+    {
+     "file": "obsidian.js",
+     "lines": 51,
+     "in_run1_file": true,
+     "identical_lines": 51,
+     "from_same_file": 51,
+     "unchanged": true
+    },
+    {
+     "file": "pit.js",
+     "lines": 51,
+     "in_run1_file": true,
+     "identical_lines": 51,
+     "from_same_file": 51,
+     "unchanged": true
+    },
+    {
+     "file": "roof.js",
+     "lines": 46,
+     "in_run1_file": true,
+     "identical_lines": 46,
+     "from_same_file": 46,
+     "unchanged": true
+    },
+    {
+     "file": "bridge.js",
+     "lines": 44,
+     "in_run1_file": true,
+     "identical_lines": 44,
+     "from_same_file": 44,
+     "unchanged": true
+    },
+    {
+     "file": "bunker.js",
+     "lines": 43,
+     "in_run1_file": true,
+     "identical_lines": 43,
+     "from_same_file": 43,
+     "unchanged": true
+    },
+    {
+     "file": "portal.js",
+     "lines": 42,
+     "in_run1_file": true,
+     "identical_lines": 42,
+     "from_same_file": 42,
+     "unchanged": true
+    },
+    {
+     "file": "ladder.js",
+     "lines": 40,
+     "in_run1_file": true,
+     "identical_lines": 40,
+     "from_same_file": 40,
+     "unchanged": true
+    },
+    {
+     "file": "field.js",
+     "lines": 39,
+     "in_run1_file": true,
+     "identical_lines": 39,
+     "from_same_file": 39,
+     "unchanged": true
+    },
+    {
+     "file": "ender.js",
+     "lines": 37,
+     "in_run1_file": true,
+     "identical_lines": 37,
+     "from_same_file": 37,
+     "unchanged": true
+    },
+    {
+     "file": "mine.js",
+     "lines": 34,
+     "in_run1_file": true,
+     "identical_lines": 34,
+     "from_same_file": 34,
+     "unchanged": true
+    },
+    {
+     "file": "bucket.js",
+     "lines": 32,
+     "in_run1_file": true,
+     "identical_lines": 31,
+     "from_same_file": 31,
+     "unchanged": false
+    },
+    {
+     "file": "seal.js",
+     "lines": 32,
+     "in_run1_file": true,
+     "identical_lines": 32,
+     "from_same_file": 32,
+     "unchanged": true
+    },
+    {
+     "file": "blaze2.js",
+     "lines": 31,
+     "in_run1_file": true,
+     "identical_lines": 31,
+     "from_same_file": 31,
+     "unchanged": true
+    },
+    {
+     "file": "mortar.js",
+     "lines": 31,
+     "in_run1_file": true,
+     "identical_lines": 31,
+     "from_same_file": 31,
+     "unchanged": true
+    },
+    {
+     "file": "blaze.js",
+     "lines": 30,
+     "in_run1_file": true,
+     "identical_lines": 30,
+     "from_same_file": 30,
+     "unchanged": true
+    },
+    {
+     "file": "dump.js",
+     "lines": 30,
+     "in_run1_file": true,
+     "identical_lines": 30,
+     "from_same_file": 30,
+     "unchanged": true
+    },
+    {
+     "file": "shot.js",
+     "lines": 30,
+     "in_run1_file": true,
+     "identical_lines": 30,
+     "from_same_file": 30,
+     "unchanged": true
+    },
+    {
+     "file": "room.js",
+     "lines": 29,
+     "in_run1_file": true,
+     "identical_lines": 29,
+     "from_same_file": 29,
+     "unchanged": true
+    },
+    {
+     "file": "eye.js",
+     "lines": 28,
+     "in_run1_file": true,
+     "identical_lines": 28,
+     "from_same_file": 28,
+     "unchanged": true
+    },
+    {
+     "file": "fight.js",
+     "lines": 27,
+     "in_run1_file": true,
+     "identical_lines": 15,
+     "from_same_file": 15,
+     "unchanged": false
+    },
+    {
+     "file": "farm.js",
+     "lines": 25,
+     "in_run1_file": true,
+     "identical_lines": 25,
+     "from_same_file": 25,
+     "unchanged": true
+    },
+    {
+     "file": "run.sh",
+     "lines": 25,
+     "in_run1_file": true,
+     "identical_lines": 3,
+     "from_same_file": 3,
+     "unchanged": false
+    },
+    {
+     "file": "starter.js",
+     "lines": 23,
+     "in_run1_file": true,
+     "identical_lines": 23,
+     "from_same_file": 23,
+     "unchanged": true
+    },
+    {
+     "file": "hunt.js",
+     "lines": 22,
+     "in_run1_file": true,
+     "identical_lines": 21,
+     "from_same_file": 21,
+     "unchanged": false
+    },
+    {
+     "file": "endentry.js",
+     "lines": 21,
+     "in_run1_file": true,
+     "identical_lines": 21,
+     "from_same_file": 21,
+     "unchanged": true
+    },
+    {
+     "file": "ore.js",
+     "lines": 21,
+     "in_run1_file": true,
+     "identical_lines": 21,
+     "from_same_file": 21,
+     "unchanged": true
+    },
+    {
+     "file": "route.js",
+     "lines": 21,
+     "in_run1_file": true,
+     "identical_lines": 21,
+     "from_same_file": 21,
+     "unchanged": true
+    },
+    {
+     "file": "fish.js",
+     "lines": 19,
+     "in_run1_file": true,
+     "identical_lines": 19,
+     "from_same_file": 19,
+     "unchanged": true
+    },
+    {
+     "file": "kit.js",
+     "lines": 18,
+     "in_run1_file": true,
+     "identical_lines": 18,
+     "from_same_file": 18,
+     "unchanged": true
+    },
+    {
+     "file": "install.sh",
+     "lines": 17,
+     "in_run1_file": false,
+     "identical_lines": 2,
+     "from_same_file": 0,
+     "unchanged": false
+    },
+    {
+     "file": "scout.js",
+     "lines": 15,
+     "in_run1_file": true,
+     "identical_lines": 15,
+     "from_same_file": 15,
+     "unchanged": true
+    },
+    {
+     "file": "endpit.js",
+     "lines": 12,
+     "in_run1_file": false,
+     "identical_lines": 0,
+     "from_same_file": 0,
+     "unchanged": false
+    },
+    {
+     "file": "land.js",
+     "lines": 11,
+     "in_run1_file": true,
+     "identical_lines": 11,
+     "from_same_file": 11,
+     "unchanged": true
+    },
+    {
+     "file": "swim.js",
+     "lines": 9,
+     "in_run1_file": true,
+     "identical_lines": 9,
+     "from_same_file": 9,
+     "unchanged": true
+    },
+    {
+     "file": "stairwatch.js",
+     "lines": 3,
+     "in_run1_file": true,
+     "identical_lines": 3,
+     "from_same_file": 3,
+     "unchanged": true
+    }
+   ],
+   "functions_called": 141,
+   "functions_called_from_run1": 78,
+   "calls": 3623,
+   "calls_to_run1_functions": 1923,
+   "top_new_functions": [
+    [
+     "wrapRun",
+     700
+    ],
+    [
+     "walkPath",
+     149
+    ],
+    [
+     "sealed",
+     122
+    ],
+    [
+     "walkMinHp",
+     81
+    ],
+    [
+     "bfs",
+     64
+    ],
+    [
+     "shaftUp",
+     56
+    ],
+    [
+     "mineList",
+     43
+    ],
+    [
+     "diggo",
+     38
+    ],
+    [
+     "go",
+     37
+    ],
+    [
+     "dmg",
+     36
+    ],
+    [
+     "toCell",
+     25
+    ],
+    [
+     "placeAt",
+     21
+    ],
+    [
+     "usePortal",
+     21
+    ],
+    [
+     "fastBridge",
+     21
+    ],
+    [
+     "oreList",
+     20
+    ]
+   ],
+   "top_old_functions": [
+    [
+     "pos",
+     360
+    ],
+    [
+     "sleep",
+     330
+    ],
+    [
+     "count",
+     245
+    ],
+    [
+     "inv",
+     118
+    ],
+    [
+     "dig",
+     100
+    ],
+    [
+     "fillCell",
+     99
+    ],
+    [
+     "shaftDown",
+     54
+    ],
+    [
+     "guardOn",
+     49
+    ],
+    [
+     "dInfo",
+     40
+    ],
+    [
+     "pickup",
+     34
+    ],
+    [
+     "goto",
+     33
+    ],
+    [
+     "hunt",
+     33
+    ],
+    [
+     "huntR",
+     31
+    ],
+    [
+     "craftSlow",
+     26
+    ],
+    [
+     "eat",
+     24
+    ]
+   ]
+  },
+  "commits": [
+   {
+    "hash": "fdb2e24",
+    "h": -0.14816916666666666,
+    "subject": "Workspace for the run",
+    "lib_lines": 0,
+    "lib_files": 0,
+    "lib_identical": 0,
+    "plan_chars": 0,
+    "lessons_lines": 0,
+    "targets_chars": 0
+   },
+   {
+    "hash": "13132b7",
+    "h": -0.00011361111111111111,
+    "subject": "Plan, targets, adapted library before first program",
+    "lib_lines": 2749,
+    "lib_files": 50,
+    "lib_identical": 2586,
+    "plan_chars": 1243,
+    "lessons_lines": 38,
+    "targets_chars": 4555
+   },
+   {
+    "hash": "721a2fd",
+    "h": 0.14933083333333333,
+    "subject": "Base 1 sealed at t+10; tools for ore and rooms",
+    "lib_lines": 2760,
+    "lib_files": 50,
+    "lib_identical": 2585,
+    "plan_chars": 1243,
+    "lessons_lines": 38,
+    "targets_chars": 4555
+   },
+   {
+    "hash": "1ce31a6",
+    "h": 0.5565530555555556,
+    "subject": "Protect containers from digging; death 3 lessons, plan rewritten after compaction",
+    "lib_lines": 2776,
+    "lib_files": 50,
+    "lib_identical": 2582,
+    "plan_chars": 1484,
+    "lessons_lines": 42,
+    "targets_chars": 4624
+   },
+   {
+    "hash": "a584be2",
+    "h": 0.8412752777777778,
+    "subject": "Shaft and chop tools, furnace helpers; bed and chest back in base",
+    "lib_lines": 2813,
+    "lib_files": 50,
+    "lib_identical": 2592,
+    "plan_chars": 1484,
+    "lessons_lines": 42,
+    "targets_chars": 4624
+   },
+   {
+    "hash": "ec20b76",
+    "h": 1.1579419444444445,
+    "subject": "Axis-step mover, obsidian casting on one-deep lava, plan update",
+    "lib_lines": 2848,
+    "lib_files": 50,
+    "lib_identical": 2592,
+    "plan_chars": 1490,
+    "lessons_lines": 45,
+    "targets_chars": 4729
+   },
+   {
+    "hash": "2096956",
+    "h": 1.352386388888889,
+    "subject": "Portal cut into rock beside base; diamond gear; travel tools",
+    "lib_lines": 2851,
+    "lib_files": 50,
+    "lib_identical": 2589,
+    "plan_chars": 1490,
+    "lessons_lines": 48,
+    "targets_chars": 4789
+   },
+   {
+    "hash": "4c35b21",
+    "h": 2.3096086111111114,
+    "subject": "Rebuild after deaths 4-5: gate passed, dash and damage log tools, lessons",
+    "lib_lines": 2882,
+    "lib_files": 50,
+    "lib_identical": 2588,
+    "plan_chars": 1637,
+    "lessons_lines": 61,
+    "targets_chars": 4789
+   },
+   {
+    "hash": "11ae892",
+    "h": 3.4632197222222225,
+    "subject": "Gravity guard on dig, stricter Nether gate, fastBridge skirt, farmHere; death 8 lessons",
+    "lib_lines": 2947,
+    "lib_files": 50,
+    "lib_identical": 2598,
+    "plan_chars": 1702,
+    "lessons_lines": 72,
+    "targets_chars": 4789
+   },
+   {
+    "hash": "648f3b6",
+    "h": 3.864886388888889,
+    "subject": "Obsidian generator, cook tool, shaftDown lid; base rebuilt after creeper",
+    "lib_lines": 3004,
+    "lib_files": 50,
+    "lib_identical": 2607,
+    "plan_chars": 1702,
+    "lessons_lines": 75,
+    "targets_chars": 4789
+   },
+   {
+    "hash": "c7022ee",
+    "h": 4.061275277777778,
+    "subject": "Route walker, plan rewrite: melee replaces window fights; kit recovered, 2 rods",
+    "lib_lines": 3016,
+    "lib_files": 50,
+    "lib_identical": 2609,
+    "plan_chars": 1379,
+    "lessons_lines": 80,
+    "targets_chars": 4789
+   },
+   {
+    "hash": "10304c5",
+    "h": 4.3390530555555555,
+    "subject": "L.melee, L.go, diamond armor and sword, four furnaces in base",
+    "lib_lines": 3076,
+    "lib_files": 50,
+    "lib_identical": 2620,
+    "plan_chars": 1379,
+    "lessons_lines": 84,
+    "targets_chars": 4999
+   },
+   {
+    "hash": "328fb4e",
+    "h": 4.501553055555556,
+    "subject": "Rods step done: 6 banked at t+4:29; plan for food and pearls",
+    "lib_lines": 3076,
+    "lib_files": 50,
+    "lib_identical": 2620,
+    "plan_chars": 1498,
+    "lessons_lines": 84,
+    "targets_chars": 5078
+   },
+   {
+    "hash": "1505afe",
+    "h": 4.922386388888889,
+    "subject": "Bridge roof and plug fixes, swath over dug cells, more block types; plan update",
+    "lib_lines": 3076,
+    "lib_files": 50,
+    "lib_identical": 2619,
+    "plan_chars": 1566,
+    "lessons_lines": 87,
+    "targets_chars": 5078
+   },
+   {
+    "hash": "f1a663e",
+    "h": 5.026275277777778,
+    "subject": "World notes: west route and biomes",
+    "lib_lines": 3076,
+    "lib_files": 50,
+    "lib_identical": 2619,
+    "plan_chars": 1566,
+    "lessons_lines": 87,
+    "targets_chars": 5078
+   },
+   {
+    "hash": "30c716f",
+    "h": 5.101553055555556,
+    "subject": "routeWalk handles unloaded chunks; plan: search SSE next",
+    "lib_lines": 3076,
+    "lib_files": 50,
+    "lib_identical": 2619,
+    "plan_chars": 1458,
+    "lessons_lines": 88,
+    "targets_chars": 5078
+   },
+   {
+    "hash": "6f821c0",
+    "h": 5.3134975,
+    "subject": "Warped forest found SE of portal; route notes",
+    "lib_lines": 3076,
+    "lib_files": 50,
+    "lib_identical": 2619,
+    "plan_chars": 1494,
+    "lessons_lines": 89,
+    "targets_chars": 5078
+   },
+   {
+    "hash": "ec7d3f1",
+    "h": 5.742108611111111,
+    "subject": "Death 9-10 lessons, farm and hunt tools, rescaled targets",
+    "lib_lines": 3187,
+    "lib_files": 51,
+    "lib_identical": 2636,
+    "plan_chars": 1451,
+    "lessons_lines": 91,
+    "targets_chars": 5308
+   },
+   {
+    "hash": "337f969",
+    "h": 6.2534975,
+    "subject": "Death 11 lesson, shaftUp names",
+    "lib_lines": 3187,
+    "lib_files": 51,
+    "lib_identical": 2636,
+    "plan_chars": 1451,
+    "lessons_lines": 92,
+    "targets_chars": 5308
+   },
+   {
+    "hash": "45ef393",
+    "h": 6.508775277777778,
+    "subject": "Generator 2, flint tool, provoke walk",
+    "lib_lines": 3229,
+    "lib_files": 51,
+    "lib_identical": 2643,
+    "plan_chars": 1494,
+    "lessons_lines": 94,
+    "targets_chars": 5308
+   },
+   {
+    "hash": "6701519",
+    "h": 6.691553055555556,
+    "subject": "20 obsidian banked, pearl farm running, plan update",
+    "lib_lines": 3240,
+    "lib_files": 51,
+    "lib_identical": 2646,
+    "plan_chars": 1551,
+    "lessons_lines": 96,
+    "targets_chars": 5308
+   },
+   {
+    "hash": "812bc1c",
+    "h": 6.9240530555555555,
+    "subject": "Death 12: piglin rule, closed-door fighting, pearl fetch fix",
+    "lib_lines": 3243,
+    "lib_files": 51,
+    "lib_identical": 2646,
+    "plan_chars": 1551,
+    "lessons_lines": 97,
+    "targets_chars": 5353
+   },
+   {
+    "hash": "f28edb8",
+    "h": 7.5779419444444445,
+    "subject": "Stronghold found, eyes crafted, forward base plan",
+    "lib_lines": 3243,
+    "lib_files": 51,
+    "lib_identical": 2646,
+    "plan_chars": 1551,
+    "lessons_lines": 98,
+    "targets_chars": 5413
+   },
+   {
+    "hash": "fa34dda",
+    "h": 7.741275277777778,
+    "subject": "Forward base done: bed, chest, spawn; plan for portal room and End",
+    "lib_lines": 3243,
+    "lib_files": 51,
+    "lib_identical": 2646,
+    "plan_chars": 1558,
+    "lessons_lines": 101,
+    "targets_chars": 5574
+   },
+   {
+    "hash": "8411e83",
+    "h": 7.964330833333333,
+    "subject": "End reached at t+7:55: chest placed, pit sim, plan rewritten",
+    "lib_lines": 3243,
+    "lib_files": 51,
+    "lib_identical": 2646,
+    "plan_chars": 1699,
+    "lessons_lines": 104,
+    "targets_chars": 5788
+   },
+   {
+    "hash": "7efbb62",
+    "h": 8.205164166666666,
+    "subject": "All ten crystals destroyed at t+8:10",
+    "lib_lines": 3253,
+    "lib_files": 52,
+    "lib_identical": 2646,
+    "plan_chars": 1699,
+    "lessons_lines": 105,
+    "targets_chars": 5923
+   },
+   {
+    "hash": "19373fb",
+    "h": 8.926553055555555,
+    "subject": "Dragon at 42: fight line x=2, auto-dive, flee away from clouds, deaths 13-16 lessons",
+    "lib_lines": 3257,
+    "lib_files": 52,
+    "lib_identical": 2635,
+    "plan_chars": 1333,
+    "lessons_lines": 111,
+    "targets_chars": 5923
+   },
+   {
+    "hash": "58d6c79",
+    "h": 9.137941944444444,
+    "subject": "Free the End at t+9:07:38: jump gate 5.06, head priority on stage, results recorded",
+    "lib_lines": 3257,
+    "lib_files": 52,
+    "lib_identical": 2635,
+    "plan_chars": 614,
+    "lessons_lines": 112,
+    "targets_chars": 6125
+   },
+   {
+    "hash": "e51d3df",
+    "h": 11.395164166666667,
+    "subject": "Post-run: exit portal taken, back in sealed base",
+    "lib_lines": 3257,
+    "lib_files": 52,
+    "lib_identical": 2635,
+    "plan_chars": 647,
+    "lessons_lines": 112,
+    "targets_chars": 6125
+   }
+  ],
+  "memory": {
+   "plan_edits": 20,
+   "plan_edit_hours": [
+    -0.002,
+    0.538,
+    1.148,
+    1.378,
+    1.936,
+    1.937,
+    1.958,
+    2.522,
+    3.463,
+    4.061,
+    4.502,
+    4.921,
+    5.096,
+    5.314,
+    5.742,
+    6.371,
+    6.692,
+    7.738,
+    7.964,
+    8.927
+   ],
+   "targets_edits": 27,
+   "targets_edit_hours": [
+    -0.007,
+    -0.002,
+    0.538,
+    0.541,
+    1.148,
+    1.158,
+    1.352,
+    1.378,
+    1.936,
+    2.164,
+    3.275,
+    3.463,
+    4.061,
+    4.076,
+    4.08,
+    4.502,
+    4.921,
+    5.742,
+    6.509,
+    6.692,
+    6.812,
+    7.738,
+    7.742,
+    7.964,
+    8.205,
+    8.927,
+    8.981
+   ],
+   "lessons_edits": 42,
+   "lessons_lines": 112,
+   "lessons_chars": 20431,
+   "plan_max_chars": 1702,
+   "plan_chars_final": 647,
+   "commits_changing_plan": 18,
+   "commits_changing_targets": 13
+  },
+  "compactions": [
+   {
+    "h": 0.4835722222222222,
+    "read_infra": true,
+    "read_planning": true,
+    "first_read_s": 2.983,
+    "to_next_program_s": 5.607,
+    "pre": 351352,
+    "post": 11169
+   },
+   {
+    "h": 1.7985655555555555,
+    "read_infra": true,
+    "read_planning": true,
+    "first_read_s": 7.488,
+    "to_next_program_s": 7.025,
+    "pre": 350737,
+    "post": 12190
+   },
+   {
+    "h": 3.41946,
+    "read_infra": true,
+    "read_planning": true,
+    "first_read_s": 2.558,
+    "to_next_program_s": 5.373,
+    "pre": 350525,
+    "post": 13699
+   },
+   {
+    "h": 4.749898888888889,
+    "read_infra": true,
+    "read_planning": true,
+    "first_read_s": 3.226,
+    "to_next_program_s": 3.373,
+    "pre": 352508,
+    "post": 11049
+   },
+   {
+    "h": 6.249815833333333,
+    "read_infra": true,
+    "read_planning": true,
+    "first_read_s": 2.763,
+    "to_next_program_s": 4.828,
+    "pre": 349957,
+    "post": 12609
+   },
+   {
+    "h": 7.6734333333333336,
+    "read_infra": true,
+    "read_planning": true,
+    "first_read_s": 2.904,
+    "to_next_program_s": 5.017,
+    "pre": 354206,
+    "post": 11442
+   },
+   {
+    "h": 8.978774166666666,
+    "read_infra": true,
+    "read_planning": true,
+    "first_read_s": 6.819,
+    "to_next_program_s": 6.953,
+    "pre": 356082,
+    "post": 12163
+   }
+  ],
+  "status_lines": {
+   "programs_with_status": 685,
+   "sealed_share": 0.29635036496350364,
+   "by_dim": {
+    "the_nether": {
+     "n": 166,
+     "sealed": 41
+    },
+    "overworld": {
+     "n": 469,
+     "sealed": 149
+    },
+    "the_end": {
+     "n": 50,
+     "sealed": 13
+    }
+   }
+  },
+  "nether_entries": [
+   {
+    "h": 1.3809069444444446,
+    "obsidian": 13,
+    "fns": 1,
+    "status_age_s": 18.014,
+    "first_inside_obsidian": 13,
+    "first_inside_fns": 1,
+    "ok_before": true,
+    "ok_either": true
+   },
+   {
+    "h": 1.4559155555555556,
+    "obsidian": 13,
+    "fns": 1,
+    "status_age_s": 288.045,
+    "first_inside_obsidian": 13,
+    "first_inside_fns": 1,
+    "ok_before": true,
+    "ok_either": true
+   },
+   {
+    "h": 1.4864750000000002,
+    "obsidian": 13,
+    "fns": 1,
+    "status_age_s": 23.349,
+    "first_inside_obsidian": 13,
+    "first_inside_fns": 1,
+    "ok_before": true,
+    "ok_either": true
+   },
+   {
+    "h": 1.6892783333333334,
+    "obsidian": 10,
+    "fns": 1,
+    "status_age_s": 22.844,
+    "first_inside_obsidian": 10,
+    "first_inside_fns": 1,
+    "ok_before": true,
+    "ok_either": true
+   },
+   {
+    "h": 2.3115869444444446,
+    "obsidian": 12,
+    "fns": 1,
+    "status_age_s": 29.473,
+    "first_inside_obsidian": 12,
+    "first_inside_fns": 1,
+    "ok_before": true,
+    "ok_either": true
+   },
+   {
+    "h": 2.456049166666667,
+    "obsidian": 10,
+    "fns": 1,
+    "status_age_s": 43.939,
+    "first_inside_obsidian": 10,
+    "first_inside_fns": 1,
+    "ok_before": true,
+    "ok_either": true
+   },
+   {
+    "h": 3.183916111111111,
+    "obsidian": 10,
+    "fns": 1,
+    "status_age_s": 18.941,
+    "first_inside_obsidian": 10,
+    "first_inside_fns": 1,
+    "ok_before": true,
+    "ok_either": true
+   },
+   {
+    "h": 3.872896111111111,
+    "obsidian": 10,
+    "fns": 1,
+    "status_age_s": 18.875,
+    "first_inside_obsidian": 10,
+    "first_inside_fns": 1,
+    "ok_before": true,
+    "ok_either": true
+   },
+   {
+    "h": 4.359071666666667,
+    "obsidian": 10,
+    "fns": 1,
+    "status_age_s": 19.79,
+    "first_inside_obsidian": 10,
+    "first_inside_fns": 1,
+    "ok_before": true,
+    "ok_either": true
+   },
+   {
+    "h": 4.645224722222222,
+    "obsidian": 10,
+    "fns": 1,
+    "status_age_s": 26.934,
+    "first_inside_obsidian": 10,
+    "first_inside_fns": 1,
+    "ok_before": true,
+    "ok_either": true
+   },
+   {
+    "h": 5.209182777777778,
+    "obsidian": 10,
+    "fns": 1,
+    "status_age_s": 21.707,
+    "first_inside_obsidian": 10,
+    "first_inside_fns": 1,
+    "ok_before": true,
+    "ok_either": true
+   },
+   {
+    "h": 5.525892777777778,
+    "obsidian": 10,
+    "fns": 1,
+    "status_age_s": 23.256,
+    "first_inside_obsidian": 10,
+    "first_inside_fns": 1,
+    "ok_before": true,
+    "ok_either": true
+   },
+   {
+    "h": 6.6149186111111105,
+    "obsidian": 10,
+    "fns": 1,
+    "status_age_s": 27.358,
+    "first_inside_obsidian": 10,
+    "first_inside_fns": 1,
+    "ok_before": true,
+    "ok_either": true
+   },
+   {
+    "h": 6.878845,
+    "obsidian": 0,
+    "fns": 0,
+    "status_age_s": 57.485,
+    "first_inside_obsidian": 10,
+    "first_inside_fns": 1,
+    "ok_before": false,
+    "ok_either": true
+   },
+   {
+    "h": 7.120544166666666,
+    "obsidian": 10,
+    "fns": 1,
+    "status_age_s": 25.931,
+    "first_inside_obsidian": 10,
+    "first_inside_fns": 1,
+    "ok_before": true,
+    "ok_either": true
+   }
+  ],
+  "nether_compliance": {
+   "entries": 15,
+   "ok_last_overworld_status": 14,
+   "ok_either": 15
+  },
+  "places": {
+   "deaths_with_frame": 16,
+   "returned": 15,
+   "never": 1,
+   "median_back_s": 168.36,
+   "within_300s": 10,
+   "back_s": [
+    8.468,
+    8.891,
+    117.86,
+    119.49,
+    134.819,
+    135.711,
+    156.876,
+    168.36,
+    186.16,
+    256.388,
+    311.548,
+    1583.395,
+    2256.724,
+    2279.411,
+    3959.42
+   ],
+   "per_death": [
+    {
+     "h": 0.2975791666666667,
+     "dim": "overworld",
+     "back_s": 119.49,
+     "censor_s": 31787.083,
+     "respawn_at_world_spawn": true
+    },
+    {
+     "h": 0.32552305555555555,
+     "dim": "overworld",
+     "back_s": 8.891,
+     "censor_s": 31686.485,
+     "respawn_at_world_spawn": true
+    },
+    {
+     "h": 0.3636902777777778,
+     "dim": "overworld",
+     "back_s": 311.548,
+     "censor_s": 31549.083,
+     "respawn_at_world_spawn": true
+    },
+    {
+     "h": 1.6645827777777777,
+     "dim": "the_nether",
+     "back_s": 3959.42,
+     "censor_s": 26865.87,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 1.7069444444444444,
+     "dim": "the_nether",
+     "back_s": 2256.724,
+     "censor_s": 26713.368,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 2.4324891666666666,
+     "dim": "the_nether",
+     "back_s": 134.819,
+     "censor_s": 24101.407,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 2.777421388888889,
+     "dim": "the_nether",
+     "back_s": 1583.395,
+     "censor_s": 22859.651,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 3.2647288888888886,
+     "dim": "the_nether",
+     "back_s": 2279.411,
+     "censor_s": 21105.344,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 5.493629166666667,
+     "dim": "the_nether",
+     "back_s": 186.16,
+     "censor_s": 13081.303,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 5.722239166666667,
+     "dim": "the_nether",
+     "back_s": null,
+     "censor_s": 12258.307,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 6.106949166666666,
+     "dim": "overworld",
+     "back_s": 8.468,
+     "censor_s": 10873.351,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 6.860272222222222,
+     "dim": "the_nether",
+     "back_s": 156.876,
+     "censor_s": 8161.388,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 8.285778055555555,
+     "dim": "the_end",
+     "back_s": 135.711,
+     "censor_s": 3029.567,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 8.702321388888889,
+     "dim": "the_end",
+     "back_s": 256.388,
+     "censor_s": 1530.011,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 8.776780277777778,
+     "dim": "the_end",
+     "back_s": 168.36,
+     "censor_s": 1261.959,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 8.913044722222223,
+     "dim": "the_end",
+     "back_s": 117.86,
+     "censor_s": 771.407,
+     "respawn_at_world_spawn": false
+    }
+   ],
+   "hours_by_dim": {
+    "overworld": 5.453458055555719,
+    "the_nether": 2.5753494444444693,
+    "the_end": 1.0973705555555546
+   },
+   "deaths_by_dim": [
+    [
+     "the_nether",
+     8
+    ],
+    [
+     "overworld",
+     4
+    ],
+    [
+     "the_end",
+     4
+    ]
+   ],
+   "respawns_at_world_spawn": 3,
+   "first_frame_h": -0.14394472222222224,
+   "spawn_dist_note": "respawn within 30 blocks of the first connect position"
+  },
+  "death_stats": {
+   "per_h_run1": 1.8905645003662261,
+   "per_h_run2": 1.7529781150421102,
+   "per_h_run1_excl_sleep": 2.0765038111552703,
+   "deaths_in_sleep_band": 2,
+   "rate_ratio": 0.9272247070663477,
+   "ratio_ci95": [
+    0.5496153532583756,
+    1.5642679053583601
+   ],
+   "per_program_run1": 0.019561149855417587,
+   "per_program_run2": 0.020512820512820513,
+   "per_real_program_run1": 0.03087248322147651,
+   "rates_by_dim_run1": {
+    "overworld": 1.6768979607389594,
+    "the_nether": 1.7934546290850677,
+    "the_end": 7.2039333476077045
+   },
+   "rates_by_dim_run2": {
+    "overworld": 0.7334795572370808,
+    "the_nether": 3.106374561035808,
+    "the_end": 3.645076842776195
+   },
+   "hours_by_dim_run1_with_precamera": {
+    "overworld": 41.147405277774766,
+    "the_nether": 9.47891277777825,
+    "the_end": 4.025578611111161
+   },
+   "expected_at_run1_rates": 21.669049414836877,
+   "poisson_p_le_observed": 0.13093615273655482,
+   "in_pause_per_h_run1": 5.3277593737970514,
+   "in_pause_per_h_run2": 2.3478226843149517,
+   "running_per_h_run1": 1.2139959438502828,
+   "running_per_h_run2": 1.3214131380871987
+  },
+  "recovery": {
+   "logrank": {
+    "chi2": 14.9455472958139,
+    "p": 0.0001106589053754545
+   },
+   "stratified_by_place": {
+    "chi2": 23.907582103283353,
+    "p": 1.0107289787894777e-06
+   },
+   "by_place": {
+    "overworld": {
+     "run2_n": 4,
+     "run2_back": 4,
+     "run2_median_s": 64.1905,
+     "run1_n": 67,
+     "run1_back": 39,
+     "run1_median_s": 104.7,
+     "chi2": 9.725490436184057,
+     "p": 0.0018172982164880813
+    },
+    "the_nether": {
+     "run2_n": 8,
+     "run2_back": 7,
+     "run2_median_s": 1583.395,
+     "run1_n": 17,
+     "run1_back": 12,
+     "run1_median_s": 3264.3895,
+     "chi2": 5.850295892270044,
+     "p": 0.015574432326516986
+    },
+    "the_end": {
+     "run2_n": 4,
+     "run2_back": 4,
+     "run2_median_s": 152.0355,
+     "run1_n": 28,
+     "run1_back": 15,
+     "run1_median_s": 339.059,
+     "chi2": 13.32939422605854,
+     "p": 0.00026127791209692834
+    }
+   },
+   "km_median_s": {
+    "run2": 168.36,
+    "run1": 10060.932,
+    "run1_awake": 10060.932
+   },
+   "km_median_ci95_s": {
+    "run2": [
+     134.819,
+     1583.395
+    ],
+    "run1": [
+     2802.552,
+     56515.681
+    ]
+   },
+   "fisher_returned_p": 0.005533008519468117,
+   "run1_awake": {
+    "n": 110,
+    "returned": 64,
+    "median_s": 285.3995,
+    "logrank": {
+     "chi2": 14.369464511491916,
+     "p": 0.00015021868342871003
+    }
+   }
+  },
+  "worlds": {
+   "run2": {
+    "portal_to_fortress": 79.89549424091449,
+    "portal_to_first_rod": 66.09841147864296,
+    "portal_to_first_pearl": 300.0396807090689,
+    "first_portal_to_stronghold": 1672.8763283638154,
+    "spawn_to_stronghold": 1691.8943258962718,
+    "origin_to_stronghold": 1690.2911613091987,
+    "portal_to_fortress_min": 16.454766666666664,
+    "diamonds_h": 1.0075663888888888,
+    "path_blocks": {
+     "overworld": 9759.031500393836,
+     "the_nether": 5760.180307184988,
+     "the_end": 1466.9145918531394
+    },
+    "path_total": 16986.126399431963,
+    "path_hours": {
+     "overworld": 5.397910555555716,
+     "the_nether": 2.533667777777802,
+     "the_end": 1.086252499999999
+    },
+    "blocks_per_h": {
+     "overworld": 1807.9276045709028,
+     "the_nether": 2273.4552484371316,
+     "the_end": 1350.4361019681344
+    },
+    "camera_start_h": -0.14394472222222224
+   },
+   "run1": {
+    "portal_to_fortress": 246.9817807045694,
+    "portal_to_first_rod": 246.61711213944582,
+    "portal_to_first_pearl": 477.01513602819773,
+    "first_portal_to_stronghold": 2143.273874240061,
+    "spawn_to_stronghold": 1951.6923989194609,
+    "origin_to_stronghold": 2014.6405436206232,
+    "portal_to_fortress_min": 10.674299999999999,
+    "diamonds_h": 0.5175763888888889,
+    "path_blocks": {
+     "overworld": 114344.63923489873,
+     "the_nether": 22458.247279174393,
+     "the_end": 3509.6084788280004
+    },
+    "path_total": 140312.49499290113,
+    "path_hours": {
+     "overworld": 40.08939083333031,
+     "the_nether": 9.38727694444492,
+     "the_end": 3.94769861111116
+    },
+    "blocks_per_h": {
+     "overworld": 2852.241873923228,
+     "the_nether": 2392.4134136113285,
+     "the_end": 889.0264492202838
+    },
+    "camera_start_h": 0.8858247222222222
+   },
+   "one_trip_over_the_differences_h": 0.30873570434869646,
+   "gap_h": 51.70106833333333,
+   "trips_to_fill_the_gap": 167.46060661302852
+  },
+  "pauses_real": {
+   "run2": {
+    "hours": 9.127324444444445,
+    "programs": 780,
+    "real": 780,
+    "running_share": 0.5803846679177747,
+    "median_s": 11.56,
+    "mean_s": 17.945409622886867,
+    "p90_s": 36.633,
+    "longest_s": 194.273,
+    "total_h": 3.833338888888887,
+    "over_15_min": 0
+   },
+   "run2_end": {
+    "hours": 1.2068136111111123,
+    "programs": 66,
+    "real": 66,
+    "running_share": 0.595075093295498,
+    "median_s": 11.641,
+    "mean_s": 26.193384615384616,
+    "p90_s": 68.716,
+    "longest_s": 124.831,
+    "total_h": 0.47293611111111106,
+    "over_15_min": 0
+   },
+   "run1": {
+    "hours": 60.82839277777778,
+    "programs": 5879,
+    "real": 3725,
+    "running_share": 0.8395881457294933,
+    "median_s": 4.969,
+    "mean_s": 9.571639880141651,
+    "p90_s": 13.683,
+    "longest_s": 1189.47,
+    "total_h": 9.760413888888866,
+    "over_15_min": 7
+   },
+   "run1_awake": {
+    "hours": 60.82839277777778,
+    "programs": 5879,
+    "real": 3725,
+    "running_share": 0.8395881457294933,
+    "median_s": 5.279,
+    "mean_s": 7.406895517957851,
+    "p90_s": 14.032,
+    "longest_s": 147.568,
+    "total_h": 6.931619722222215,
+    "over_15_min": 0
+   },
+   "run1_medium_awake": {
+    "hours": 58.97,
+    "programs": 5630,
+    "real": 3592,
+    "running_share": 0.847122802554967,
+    "median_s": 5.22,
+    "mean_s": 6.897034887310898,
+    "p90_s": 13.408,
+    "longest_s": 144.756,
+    "total_h": 6.205415555555547,
+    "over_15_min": 0
+   },
+   "run1_xhigh": {
+    "hours": 1.8583927777777802,
+    "programs": 249,
+    "real": 133,
+    "running_share": 0.603943012884191,
+    "median_s": 9.445,
+    "mean_s": 19.92082575757576,
+    "p90_s": 67.161,
+    "longest_s": 147.568,
+    "total_h": 0.730430277777778,
+    "over_15_min": 0
+   }
+  },
+  "same_effort": {
+   "switch_h": 58.97,
+   "tail_hours_by_dim": {
+    "overworld": 0.6361630555555545,
+    "the_nether": 0.05831861111111111,
+    "the_end": 1.161281388888888
+   },
+   "tail_deaths_by_dim": {
+    "the_end": 5,
+    "overworld": 1
+   },
+   "tail_end_rate": 4.305588678024016,
+   "medium_end_deaths": 24,
+   "medium_end_hours": 2.864297222222273,
+   "medium_end_rate": 8.379018704413479,
+   "this_end_rate": 3.645076842776195
+  },
+  "tool_origin": {
+   "names": {
+    "first_player": 234,
+    "before_first_program": 31,
+    "during_run": 63
+   },
+   "run1_names": 238,
+   "per_hour": {
+    "0": {
+     "before_first_program": 102,
+     "first_player": 269,
+     "during_run": 45
+    },
+    "1": {
+     "first_player": 254,
+     "during_run": 80,
+     "before_first_program": 127
+    },
+    "2": {
+     "first_player": 196,
+     "during_run": 106,
+     "before_first_program": 117
+    },
+    "3": {
+     "during_run": 163,
+     "before_first_program": 152,
+     "first_player": 279
+    },
+    "4": {
+     "first_player": 178,
+     "during_run": 131,
+     "before_first_program": 105
+    },
+    "5": {
+     "before_first_program": 66,
+     "first_player": 118,
+     "during_run": 80
+    },
+    "6": {
+     "first_player": 139,
+     "during_run": 66,
+     "before_first_program": 83
+    },
+    "7": {
+     "before_first_program": 108,
+     "first_player": 233,
+     "during_run": 82
+    },
+    "8": {
+     "first_player": 257,
+     "before_first_program": 53,
+     "during_run": 34
+    }
+   },
+   "totals": {
+    "first_player": 1923,
+    "before_first_program": 913,
+    "during_run": 787
+   },
+   "called_names": {
+    "first_player": 78,
+    "before_first_program": 12,
+    "during_run": 51
+   },
+   "top_during_run": [
+    [
+     "walkPath",
+     149
+    ],
+    [
+     "walkMinHp",
+     81
+    ],
+    [
+     "bfs",
+     64
+    ],
+    [
+     "shaftUp",
+     56
+    ],
+    [
+     "mineList",
+     43
+    ],
+    [
+     "diggo",
+     38
+    ],
+    [
+     "go",
+     37
+    ],
+    [
+     "dmg",
+     36
+    ],
+    [
+     "toCell",
+     25
+    ],
+    [
+     "fastBridge",
+     21
+    ]
+   ],
+   "median_lines_by_hour": {
+    "0": 4.0,
+    "1": 4.0,
+    "2": 11,
+    "3": 13,
+    "4": 11.5,
+    "5": 13.0,
+    "6": 13.0,
+    "7": 16.0,
+    "8": 13.0
+   },
+   "programs_calling_fix_tools": {
+    "dig": 100,
+    "runTo": 2,
+    "peek": 8,
+    "fastBridge": 21,
+    "fightStep": 13,
+    "dive": 2,
+    "wrapRun": 700,
+    "fleeWait": 0,
+    "melee": 3,
+    "obsGen": 6,
+    "safeGravel": 0,
+    "pickup": 34
+   },
+   "fix_tools_born_h": {
+    "dig": -0.00011361111111111111,
+    "runTo": 2.3096086111111114,
+    "peek": 2.3096086111111114,
+    "fastBridge": 3.4632197222222225,
+    "fightStep": -0.00011361111111111111,
+    "dive": 8.926553055555555,
+    "wrapRun": -0.00011361111111111111,
+    "fleeWait": -0.00011361111111111111,
+    "melee": 4.3390530555555555,
+    "obsGen": 3.864886388888889,
+    "safeGravel": null,
+    "pickup": -0.00011361111111111111
+   },
+   "safeGravel_defined_in_final_library": false,
+   "safeGravel_in_any_program": false,
+   "pickup_programs_after_death_11": 1
+  },
+  "barter": {
+   "run2": {
+    "programs_naming_barter": 0,
+    "programs_naming_piglin_and_gold_ingot": 0,
+    "library_naming_barter": 0,
+    "note_lines_naming_barter": 0
+   },
+   "run1": {
+    "programs_naming_barter": 0,
+    "programs_naming_piglin_and_gold_ingot": 0,
+    "library_naming_barter": 0,
+    "note_lines_naming_barter": 1
+   }
+  },
+  "prediction": {
+   "low_h": 15,
+   "high_h": 25,
+   "commit": "345ec9a",
+   "minutes_before_session": 36.87043333333334,
+   "beat_low_end_by_h": 5.8726755555555545,
+   "own_target_h": 9.5,
+   "own_target_off_min": 22.360533333333272
+  },
+  "forecast": [
+   {
+    "h": 0.0,
+    "finish_h": 9.5
+   },
+   {
+    "h": 1.9356113888888888,
+    "finish_h": 11.0
+   },
+   {
+    "h": 2.522234722222222,
+    "finish_h": 12.0
+   },
+   {
+    "h": 3.4633825,
+    "finish_h": 11.0
+   },
+   {
+    "h": 4.061196111111111,
+    "finish_h": 11.5
+   },
+   {
+    "h": 5.742221666666667,
+    "finish_h": 12.5
+   },
+   {
+    "h": 5.742221666666667,
+    "finish_h": 11.833333333333334
+   },
+   {
+    "h": 7.738261111111112,
+    "finish_h": 11.0
+   },
+   {
+    "h": 7.964325,
+    "finish_h": 10.0
+   },
+   {
+    "h": 8.926557777777777,
+    "finish_h": 9.5
+   }
+  ],
+  "dragon": [
+   {
+    "h": 8.015565555555556,
+    "hp": 200.0,
+    "min": 200.0
+   },
+   {
+    "h": 8.019173055555555,
+    "hp": 200.0,
+    "min": 200.0
+   },
+   {
+    "h": 8.029231388888888,
+    "hp": 200.0,
+    "min": 200.0
+   },
+   {
+    "h": 8.038455277777777,
+    "hp": 200.0,
+    "min": 200.0
+   },
+   {
+    "h": 8.082595277777777,
+    "hp": 200.0,
+    "min": 194.0
+   },
+   {
+    "h": 8.100971944444444,
+    "hp": 200.0,
+    "min": 200.0
+   },
+   {
+    "h": 8.112449166666666,
+    "hp": 200.0,
+    "min": 200.0
+   },
+   {
+    "h": 8.124066666666666,
+    "hp": 190.0,
+    "min": 190.0
+   },
+   {
+    "h": 8.154497777777777,
+    "hp": 200.0,
+    "min": 200.0
+   },
+   {
+    "h": 8.1707375,
+    "hp": 200.0,
+    "min": 200.0
+   },
+   {
+    "h": 8.205278333333334,
+    "hp": 200.0,
+    "min": 200.0
+   },
+   {
+    "h": 8.227400555555555,
+    "hp": 200.0,
+    "min": 200.0
+   },
+   {
+    "h": 8.232332777777778,
+    "hp": 200.0,
+    "min": 200.0
+   },
+   {
+    "h": 8.275594444444444,
+    "hp": 178.0,
+    "min": 178.0
+   },
+   {
+    "h": 8.324333888888889,
+    "hp": 178.0,
+    "min": 178.0
+   },
+   {
+    "h": 8.33357111111111,
+    "hp": 178.0,
+    "min": 178.0
+   },
+   {
+    "h": 8.336525277777778,
+    "hp": 178.0,
+    "min": 178.0
+   },
+   {
+    "h": 8.345256944444444,
+    "hp": 178.0,
+    "min": 178.0
+   },
+   {
+    "h": 8.390974444444446,
+    "hp": 165.5,
+    "min": 165.5
+   },
+   {
+    "h": 8.45234111111111,
+    "hp": 123.5,
+    "min": 123.5
+   },
+   {
+    "h": 8.499967222222223,
+    "hp": 123.5,
+    "min": 123.5
+   },
+   {
+    "h": 8.515861388888888,
+    "hp": 123.5,
+    "min": 123.5
+   },
+   {
+    "h": 8.55846,
+    "hp": 123.5,
+    "min": 123.5
+   },
+   {
+    "h": 8.592944444444443,
+    "hp": 123.5,
+    "min": 123.5
+   },
+   {
+    "h": 8.6363525,
+    "hp": 120.75,
+    "min": 120.75
+   },
+   {
+    "h": 8.700913611111112,
+    "hp": 118.0,
+    "min": 118.0
+   },
+   {
+    "h": 8.753835277777778,
+    "hp": 118.0,
+    "min": 118.0
+   },
+   {
+    "h": 8.772037222222222,
+    "hp": 118.0,
+    "min": 118.0
+   },
+   {
+    "h": 8.847433333333333,
+    "hp": 118.0,
+    "min": 118.0
+   },
+   {
+    "h": 8.890918888888889,
+    "hp": 62.0,
+    "min": 62.0
+   },
+   {
+    "h": 8.913081666666667,
+    "hp": 42.75,
+    "min": 42.75
+   },
+   {
+    "h": 8.946030277777778,
+    "hp": 42.75,
+    "min": 42.75
+   },
+   {
+    "h": 8.980705555555556,
+    "hp": 42.75,
+    "min": 42.75
+   },
+   {
+    "h": 8.984475,
+    "hp": 42.75,
+    "min": 42.75
+   },
+   {
+    "h": 9.026517222222223,
+    "hp": 42.75,
+    "min": 42.75
+   },
+   {
+    "h": 9.094460277777777,
+    "hp": 26.25,
+    "min": 26.25
+   },
+   {
+    "h": 9.130698055555555,
+    "hp": 0.0,
+    "min": 0.0
+   }
+  ],
+  "ctx": [
+   [
+    0.0019,
+    294690
+   ],
+   [
+    0.0505,
+    295800
+   ],
+   [
+    0.0568,
+    296906
+   ],
+   [
+    0.0716,
+    299680
+   ],
+   [
+    0.0838,
+    301074
+   ],
+   [
+    0.088,
+    302280
+   ],
+   [
+    0.1164,
+    305288
+   ],
+   [
+    0.118,
+    306309
+   ],
+   [
+    0.1403,
+    307179
+   ],
+   [
+    0.1479,
+    310522
+   ],
+   [
+    0.1695,
+    312191
+   ],
+   [
+    0.1789,
+    314881
+   ],
+   [
+    0.2218,
+    315983
+   ],
+   [
+    0.2246,
+    316778
+   ],
+   [
+    0.2286,
+    318035
+   ],
+   [
+    0.2377,
+    319830
+   ],
+   [
+    0.252,
+    320875
+   ],
+   [
+    0.2553,
+    322400
+   ],
+   [
+    0.2656,
+    324569
+   ],
+   [
+    0.2903,
+    325609
+   ],
+   [
+    0.3003,
+    328482
+   ],
+   [
+    0.3073,
+    330566
+   ],
+   [
+    0.3198,
+    332919
+   ],
+   [
+    0.3227,
+    334133
+   ],
+   [
+    0.3269,
+    335560
+   ],
+   [
+    0.3367,
+    336710
+   ],
+   [
+    0.3457,
+    340249
+   ],
+   [
+    0.3613,
+    342644
+   ],
+   [
+    0.3671,
+    343493
+   ],
+   [
+    0.3818,
+    345408
+   ],
+   [
+    0.4145,
+    346826
+   ],
+   [
+    0.4286,
+    347998
+   ],
+   [
+    0.4337,
+    348805
+   ],
+   [
+    0.484,
+    31031
+   ],
+   [
+    0.4872,
+    36298
+   ],
+   [
+    0.4901,
+    39644
+   ],
+   [
+    0.4997,
+    41014
+   ],
+   [
+    0.5108,
+    43849
+   ],
+   [
+    0.5353,
+    45081
+   ],
+   [
+    0.5678,
+    49473
+   ],
+   [
+    0.5711,
+    54995
+   ],
+   [
+    0.5726,
+    56084
+   ],
+   [
+    0.5736,
+    57296
+   ],
+   [
+    0.5771,
+    57866
+   ],
+   [
+    0.5861,
+    59891
+   ],
+   [
+    0.5944,
+    62444
+   ],
+   [
+    0.5958,
+    64832
+   ],
+   [
+    0.6023,
+    67230
+   ],
+   [
+    0.6182,
+    69947
+   ],
+   [
+    0.6233,
+    71712
+   ],
+   [
+    0.6339,
+    73717
+   ],
+   [
+    0.6485,
+    75594
+   ],
+   [
+    0.6684,
+    77116
+   ],
+   [
+    0.6742,
+    78628
+   ],
+   [
+    0.6764,
+    80314
+   ],
+   [
+    0.6783,
+    81464
+   ],
+   [
+    0.6884,
+    82648
+   ],
+   [
+    0.6898,
+    84125
+   ],
+   [
+    0.6924,
+    84754
+   ],
+   [
+    0.6948,
+    86118
+   ],
+   [
+    0.7147,
+    87631
+   ],
+   [
+    0.7228,
+    88971
+   ],
+   [
+    0.7374,
+    90027
+   ],
+   [
+    0.74,
+    91124
+   ],
+   [
+    0.7514,
+    92422
+   ],
+   [
+    0.7658,
+    95202
+   ],
+   [
+    0.777,
+    96054
+   ],
+   [
+    0.7797,
+    97390
+   ],
+   [
+    0.791,
+    98759
+   ],
+   [
+    0.8022,
+    100294
+   ],
+   [
+    0.8133,
+    101944
+   ],
+   [
+    0.8196,
+    103098
+   ],
+   [
+    0.8268,
+    104016
+   ],
+   [
+    0.8382,
+    106170
+   ],
+   [
+    0.846,
+    111152
+   ],
+   [
+    0.8515,
+    114413
+   ],
+   [
+    0.8625,
+    116184
+   ],
+   [
+    0.8912,
+    116998
+   ],
+   [
+    0.9178,
+    118877
+   ],
+   [
+    0.921,
+    119971
+   ],
+   [
+    0.9442,
+    121945
+   ],
+   [
+    0.9465,
+    123214
+   ],
+   [
+    0.9714,
+    124448
+   ],
+   [
+    0.9769,
+    129208
+   ],
+   [
+    0.9953,
+    129837
+   ],
+   [
+    1.0043,
+    131693
+   ],
+   [
+    1.0094,
+    133252
+   ],
+   [
+    1.0112,
+    134179
+   ],
+   [
+    1.0153,
+    135044
+   ],
+   [
+    1.0185,
+    136811
+   ],
+   [
+    1.0337,
+    138521
+   ],
+   [
+    1.0353,
+    139484
+   ],
+   [
+    1.0376,
+    140561
+   ],
+   [
+    1.0429,
+    141119
+   ],
+   [
+    1.0539,
+    143589
+   ],
+   [
+    1.0572,
+    147116
+   ],
+   [
+    1.068,
+    149447
+   ],
+   [
+    1.0706,
+    150786
+   ],
+   [
+    1.0738,
+    152292
+   ],
+   [
+    1.0902,
+    154802
+   ],
+   [
+    1.1121,
+    160602
+   ],
+   [
+    1.1199,
+    162922
+   ],
+   [
+    1.1255,
+    164404
+   ],
+   [
+    1.1326,
+    165873
+   ],
+   [
+    1.1433,
+    168264
+   ],
+   [
+    1.1448,
+    168970
+   ],
+   [
+    1.1568,
+    171930
+   ],
+   [
+    1.1585,
+    176449
+   ],
+   [
+    1.1613,
+    178195
+   ],
+   [
+    1.1637,
+    180171
+   ],
+   [
+    1.1681,
+    186035
+   ],
+   [
+    1.1712,
+    188927
+   ],
+   [
+    1.1748,
+    190693
+   ],
+   [
+    1.176,
+    194211
+   ],
+   [
+    1.1763,
+    194603
+   ],
+   [
+    1.1795,
+    198357
+   ],
+   [
+    1.1839,
+    200440
+   ],
+   [
+    1.1907,
+    202165
+   ],
+   [
+    1.1974,
+    204959
+   ],
+   [
+    1.1993,
+    209178
+   ],
+   [
+    1.2327,
+    210473
+   ],
+   [
+    1.2404,
+    211458
+   ],
+   [
+    1.2423,
+    212365
+   ],
+   [
+    1.2591,
+    213356
+   ],
+   [
+    1.2751,
+    214474
+   ],
+   [
+    1.2981,
+    215250
+   ],
+   [
+    1.3257,
+    216390
+   ],
+   [
+    1.3341,
+    217607
+   ],
+   [
+    1.3383,
+    219474
+   ],
+   [
+    1.3431,
+    220641
+   ],
+   [
+    1.35,
+    222475
+   ],
+   [
+    1.3593,
+    224877
+   ],
+   [
+    1.3614,
+    228089
+   ],
+   [
+    1.3624,
+    228778
+   ],
+   [
+    1.3658,
+    230375
+   ],
+   [
+    1.3746,
+    232040
+   ],
+   [
+    1.378,
+    234866
+   ],
+   [
+    1.3864,
+    236217
+   ],
+   [
+    1.3886,
+    238418
+   ],
+   [
+    1.3953,
+    239797
+   ],
+   [
+    1.3995,
+    243771
+   ],
+   [
+    1.4103,
+    247448
+   ],
+   [
+    1.4169,
+    253090
+   ],
+   [
+    1.4401,
+    257023
+   ],
+   [
+    1.449,
+    265194
+   ],
+   [
+    1.4561,
+    267060
+   ],
+   [
+    1.4608,
+    268296
+   ],
+   [
+    1.4646,
+    269672
+   ],
+   [
+    1.4697,
+    271035
+   ],
+   [
+    1.4777,
+    272666
+   ],
+   [
+    1.4812,
+    275597
+   ],
+   [
+    1.485,
+    276828
+   ],
+   [
+    1.4908,
+    277428
+   ],
+   [
+    1.4966,
+    279238
+   ],
+   [
+    1.5055,
+    280626
+   ],
+   [
+    1.5113,
+    285572
+   ],
+   [
+    1.5208,
+    290074
+   ],
+   [
+    1.5362,
+    295247
+   ],
+   [
+    1.5368,
+    300217
+   ],
+   [
+    1.5422,
+    300666
+   ],
+   [
+    1.5493,
+    303158
+   ],
+   [
+    1.5692,
+    306403
+   ],
+   [
+    1.5922,
+    309735
+   ],
+   [
+    1.6127,
+    312942
+   ],
+   [
+    1.6202,
+    322270
+   ],
+   [
+    1.6328,
+    323234
+   ],
+   [
+    1.6525,
+    324582
+   ],
+   [
+    1.6641,
+    329206
+   ],
+   [
+    1.6775,
+    329851
+   ],
+   [
+    1.6848,
+    337044
+   ],
+   [
+    1.6907,
+    338811
+   ],
+   [
+    1.7265,
+    341235
+   ],
+   [
+    1.7304,
+    348380
+   ],
+   [
+    1.7458,
+    348802
+   ],
+   [
+    1.7995,
+    33436
+   ],
+   [
+    1.8084,
+    39671
+   ],
+   [
+    1.8249,
+    43789
+   ],
+   [
+    1.8285,
+    50058
+   ],
+   [
+    1.8362,
+    51179
+   ],
+   [
+    1.8421,
+    54187
+   ],
+   [
+    1.8428,
+    55513
+   ],
+   [
+    1.8599,
+    56543
+   ],
+   [
+    1.8705,
+    58632
+   ],
+   [
+    1.9033,
+    62870
+   ],
+   [
+    1.921,
+    65724
+   ],
+   [
+    1.9307,
+    66697
+   ],
+   [
+    1.9331,
+    69320
+   ],
+   [
+    1.9429,
+    71416
+   ],
+   [
+    1.9551,
+    74342
+   ],
+   [
+    1.9741,
+    80779
+   ],
+   [
+    1.9856,
+    83026
+   ],
+   [
+    1.9876,
+    84755
+   ],
+   [
+    2.0131,
+    86256
+   ],
+   [
+    2.0413,
+    87838
+   ],
+   [
+    2.0503,
+    90540
+   ],
+   [
+    2.0678,
+    92182
+   ],
+   [
+    2.1019,
+    92937
+   ],
+   [
+    2.1039,
+    93896
+   ],
+   [
+    2.1079,
+    95922
+   ],
+   [
+    2.1359,
+    97610
+   ],
+   [
+    2.1452,
+    99316
+   ],
+   [
+    2.1578,
+    103083
+   ],
+   [
+    2.1634,
+    104589
+   ],
+   [
+    2.1664,
+    106793
+   ],
+   [
+    2.1695,
+    108334
+   ],
+   [
+    2.1722,
+    109920
+   ],
+   [
+    2.2434,
+    110735
+   ],
+   [
+    2.2536,
+    114029
+   ],
+   [
+    2.2677,
+    114670
+   ],
+   [
+    2.272,
+    115935
+   ],
+   [
+    2.2786,
+    117073
+   ],
+   [
+    2.2884,
+    120092
+   ],
+   [
+    2.292,
+    122927
+   ],
+   [
+    2.2941,
+    124088
+   ],
+   [
+    2.2961,
+    125510
+   ],
+   [
+    2.2978,
+    126138
+   ],
+   [
+    2.3003,
+    127398
+   ],
+   [
+    2.3084,
+    129336
+   ],
+   [
+    2.3125,
+    132105
+   ],
+   [
+    2.3151,
+    134615
+   ],
+   [
+    2.3248,
+    135868
+   ],
+   [
+    2.3361,
+    139518
+   ],
+   [
+    2.3425,
+    142248
+   ],
+   [
+    2.3472,
+    144656
+   ],
+   [
+    2.3834,
+    146724
+   ],
+   [
+    2.3953,
+    149580
+   ],
+   [
+    2.4043,
+    154167
+   ],
+   [
+    2.4102,
+    158221
+   ],
+   [
+    2.4423,
+    160496
+   ],
+   [
+    2.4514,
+    165605
+   ],
+   [
+    2.4598,
+    170198
+   ],
+   [
+    2.4726,
+    172876
+   ],
+   [
+    2.4771,
+    175636
+   ],
+   [
+    2.4802,
+    177412
+   ],
+   [
+    2.5201,
+    178923
+   ],
+   [
+    2.5345,
+    184624
+   ],
+   [
+    2.5522,
+    192802
+   ],
+   [
+    2.5704,
+    197239
+   ],
+   [
+    2.5754,
+    199373
+   ],
+   [
+    2.5849,
+    200704
+   ],
+   [
+    2.5921,
+    202525
+   ],
+   [
+    2.6775,
+    205861
+   ],
+   [
+    2.6883,
+    207133
+   ],
+   [
+    2.6896,
+    207989
+   ],
+   [
+    2.6924,
+    209632
+   ],
+   [
+    2.6999,
+    211021
+   ],
+   [
+    2.7235,
+    212806
+   ],
+   [
+    2.7326,
+    215518
+   ],
+   [
+    2.7356,
+    219607
+   ],
+   [
+    2.7385,
+    221454
+   ],
+   [
+    2.7678,
+    223414
+   ],
+   [
+    2.7764,
+    226616
+   ],
+   [
+    2.7797,
+    230055
+   ],
+   [
+    2.8062,
+    232038
+   ],
+   [
+    2.8156,
+    242709
+   ],
+   [
+    2.8263,
+    246637
+   ],
+   [
+    2.8353,
+    249570
+   ],
+   [
+    2.8435,
+    251190
+   ],
+   [
+    2.8484,
+    253401
+   ],
+   [
+    2.856,
+    255870
+   ],
+   [
+    2.8596,
+    257046
+   ],
+   [
+    2.8678,
+    258975
+   ],
+   [
+    2.877,
+    261071
+   ],
+   [
+    2.9002,
+    262450
+   ],
+   [
+    2.9222,
+    265441
+   ],
+   [
+    2.9334,
+    266645
+   ],
+   [
+    2.9497,
+    268304
+   ],
+   [
+    2.9602,
+    270890
+   ],
+   [
+    2.971,
+    272610
+   ],
+   [
+    2.9921,
+    275258
+   ],
+   [
+    3.011,
+    276837
+   ],
+   [
+    3.0167,
+    278640
+   ],
+   [
+    3.0422,
+    279401
+   ],
+   [
+    3.0451,
+    279964
+   ],
+   [
+    3.0509,
+    282268
+   ],
+   [
+    3.0957,
+    283762
+   ],
+   [
+    3.1115,
+    286239
+   ],
+   [
+    3.1535,
+    287430
+   ],
+   [
+    3.1586,
+    291618
+   ],
+   [
+    3.175,
+    292972
+   ],
+   [
+    3.1797,
+    295684
+   ],
+   [
+    3.1909,
+    297433
+   ],
+   [
+    3.2324,
+    300809
+   ],
+   [
+    3.2421,
+    304923
+   ],
+   [
+    3.2551,
+    306443
+   ],
+   [
+    3.2604,
+    311484
+   ],
+   [
+    3.2738,
+    313423
+   ],
+   [
+    3.282,
+    317563
+   ],
+   [
+    3.2892,
+    321417
+   ],
+   [
+    3.2971,
+    323121
+   ],
+   [
+    3.3159,
+    327248
+   ],
+   [
+    3.3205,
+    328827
+   ],
+   [
+    3.3327,
+    330891
+   ],
+   [
+    3.3419,
+    332813
+   ],
+   [
+    3.3459,
+    334467
+   ],
+   [
+    3.3483,
+    336152
+   ],
+   [
+    3.3511,
+    337406
+   ],
+   [
+    3.3558,
+    341207
+   ],
+   [
+    3.3597,
+    343508
+   ],
+   [
+    3.3623,
+    345284
+   ],
+   [
+    3.3665,
+    347199
+   ],
+   [
+    3.371,
+    348515
+   ],
+   [
+    3.4198,
+    36207
+   ],
+   [
+    3.4219,
+    43491
+   ],
+   [
+    3.4349,
+    44601
+   ],
+   [
+    3.4435,
+    49727
+   ],
+   [
+    3.4491,
+    52613
+   ],
+   [
+    3.4577,
+    56510
+   ],
+   [
+    3.4652,
+    62269
+   ],
+   [
+    3.4735,
+    66817
+   ],
+   [
+    3.4767,
+    68904
+   ],
+   [
+    3.4788,
+    70279
+   ],
+   [
+    3.4811,
+    71482
+   ],
+   [
+    3.4891,
+    72162
+   ],
+   [
+    3.4927,
+    73660
+   ],
+   [
+    3.499,
+    75334
+   ],
+   [
+    3.5057,
+    77211
+   ],
+   [
+    3.51,
+    79678
+   ],
+   [
+    3.5203,
+    81674
+   ],
+   [
+    3.5332,
+    83425
+   ],
+   [
+    3.5406,
+    85770
+   ],
+   [
+    3.5636,
+    90081
+   ],
+   [
+    3.5774,
+    91860
+   ],
+   [
+    3.5896,
+    92998
+   ],
+   [
+    3.5973,
+    94007
+   ],
+   [
+    3.6063,
+    95308
+   ],
+   [
+    3.6178,
+    97717
+   ],
+   [
+    3.6237,
+    100411
+   ],
+   [
+    3.6268,
+    101820
+   ],
+   [
+    3.6307,
+    103709
+   ],
+   [
+    3.6341,
+    106087
+   ],
+   [
+    3.6365,
+    108096
+   ],
+   [
+    3.6396,
+    109665
+   ],
+   [
+    3.6501,
+    111576
+   ],
+   [
+    3.6619,
+    116039
+   ],
+   [
+    3.6686,
+    121295
+   ],
+   [
+    3.672,
+    123588
+   ],
+   [
+    3.6822,
+    124887
+   ],
+   [
+    3.7137,
+    126532
+   ],
+   [
+    3.7189,
+    137239
+   ],
+   [
+    3.7242,
+    139519
+   ],
+   [
+    3.7346,
+    141599
+   ],
+   [
+    3.7359,
+    142997
+   ],
+   [
+    3.7475,
+    145175
+   ],
+   [
+    3.7493,
+    149403
+   ],
+   [
+    3.7557,
+    150560
+   ],
+   [
+    3.7601,
+    153592
+   ],
+   [
+    3.7635,
+    154910
+   ],
+   [
+    3.7713,
+    156577
+   ],
+   [
+    3.775,
+    159797
+   ],
+   [
+    3.7873,
+    161408
+   ],
+   [
+    3.8005,
+    163280
+   ],
+   [
+    3.8042,
+    164640
+   ],
+   [
+    3.8131,
+    166680
+   ],
+   [
+    3.8263,
+    169594
+   ],
+   [
+    3.8338,
+    171343
+   ],
+   [
+    3.8365,
+    173275
+   ],
+   [
+    3.8401,
+    174750
+   ],
+   [
+    3.8627,
+    176489
+   ],
+   [
+    3.8666,
+    179154
+   ],
+   [
+    3.8685,
+    179938
+   ],
+   [
+    3.8786,
+    181357
+   ],
+   [
+    3.8827,
+    182996
+   ],
+   [
+    3.8858,
+    184578
+   ],
+   [
+    3.9056,
+    188217
+   ],
+   [
+    3.9149,
+    192959
+   ],
+   [
+    3.9231,
+    196533
+   ],
+   [
+    3.9299,
+    199979
+   ],
+   [
+    3.9395,
+    202005
+   ],
+   [
+    3.9441,
+    207037
+   ],
+   [
+    3.9546,
+    209665
+   ],
+   [
+    3.9596,
+    212333
+   ],
+   [
+    3.9632,
+    213674
+   ],
+   [
+    3.9669,
+    215251
+   ],
+   [
+    3.9751,
+    216892
+   ],
+   [
+    3.9825,
+    220766
+   ],
+   [
+    4.0164,
+    222486
+   ],
+   [
+    4.0222,
+    228622
+   ],
+   [
+    4.0262,
+    230326
+   ],
+   [
+    4.0325,
+    232212
+   ],
+   [
+    4.0423,
+    233828
+   ],
+   [
+    4.0563,
+    234972
+   ],
+   [
+    4.07,
+    239400
+   ],
+   [
+    4.0747,
+    243282
+   ],
+   [
+    4.0771,
+    246157
+   ],
+   [
+    4.0802,
+    247707
+   ],
+   [
+    4.0897,
+    250071
+   ],
+   [
+    4.0975,
+    256330
+   ],
+   [
+    4.1115,
+    257797
+   ],
+   [
+    4.1148,
+    259016
+   ],
+   [
+    4.1287,
+    260527
+   ],
+   [
+    4.1321,
+    261745
+   ],
+   [
+    4.1472,
+    263399
+   ],
+   [
+    4.152,
+    265209
+   ],
+   [
+    4.1572,
+    266501
+   ],
+   [
+    4.1724,
+    268294
+   ],
+   [
+    4.1754,
+    269669
+   ],
+   [
+    4.1786,
+    271401
+   ],
+   [
+    4.1816,
+    272308
+   ],
+   [
+    4.1831,
+    273706
+   ],
+   [
+    4.2008,
+    274450
+   ],
+   [
+    4.2363,
+    276275
+   ],
+   [
+    4.2405,
+    277824
+   ],
+   [
+    4.2437,
+    278951
+   ],
+   [
+    4.2531,
+    280689
+   ],
+   [
+    4.2553,
+    283622
+   ],
+   [
+    4.2766,
+    285763
+   ],
+   [
+    4.288,
+    287798
+   ],
+   [
+    4.3017,
+    288961
+   ],
+   [
+    4.3137,
+    290397
+   ],
+   [
+    4.3157,
+    291673
+   ],
+   [
+    4.3299,
+    292706
+   ],
+   [
+    4.3364,
+    295080
+   ],
+   [
+    4.344,
+    296716
+   ],
+   [
+    4.3552,
+    299397
+   ],
+   [
+    4.3738,
+    301492
+   ],
+   [
+    4.3896,
+    302964
+   ],
+   [
+    4.4227,
+    304128
+   ],
+   [
+    4.4689,
+    305174
+   ],
+   [
+    4.4911,
+    307538
+   ],
+   [
+    4.4978,
+    311678
+   ],
+   [
+    4.5026,
+    314537
+   ],
+   [
+    4.5124,
+    315380
+   ],
+   [
+    4.5146,
+    316360
+   ],
+   [
+    4.5193,
+    317451
+   ],
+   [
+    4.5506,
+    319048
+   ],
+   [
+    4.5787,
+    320321
+   ],
+   [
+    4.5915,
+    321395
+   ],
+   [
+    4.6023,
+    322417
+   ],
+   [
+    4.6186,
+    323165
+   ],
+   [
+    4.6236,
+    326368
+   ],
+   [
+    4.628,
+    330119
+   ],
+   [
+    4.6386,
+    332581
+   ],
+   [
+    4.6451,
+    334186
+   ],
+   [
+    4.655,
+    335299
+   ],
+   [
+    4.6715,
+    339516
+   ],
+   [
+    4.6795,
+    341604
+   ],
+   [
+    4.69,
+    344960
+   ],
+   [
+    4.6956,
+    346981
+   ],
+   [
+    4.7035,
+    349793
+   ],
+   [
+    4.7504,
+    31400
+   ],
+   [
+    4.753,
+    41794
+   ],
+   [
+    4.7663,
+    43868
+   ],
+   [
+    4.7714,
+    45206
+   ],
+   [
+    4.7764,
+    47705
+   ],
+   [
+    4.7792,
+    50673
+   ],
+   [
+    4.7906,
+    53440
+   ],
+   [
+    4.7972,
+    58133
+   ],
+   [
+    4.8121,
+    60137
+   ],
+   [
+    4.8215,
+    66094
+   ],
+   [
+    4.854,
+    67361
+   ],
+   [
+    4.8567,
+    68533
+   ],
+   [
+    4.8607,
+    69477
+   ],
+   [
+    4.868,
+    72309
+   ],
+   [
+    4.8777,
+    76688
+   ],
+   [
+    4.8874,
+    79989
+   ],
+   [
+    4.9098,
+    81891
+   ],
+   [
+    4.9176,
+    83767
+   ],
+   [
+    4.923,
+    88937
+   ],
+   [
+    4.9238,
+    89643
+   ],
+   [
+    4.9273,
+    91113
+   ],
+   [
+    4.9497,
+    92773
+   ],
+   [
+    4.9701,
+    94140
+   ],
+   [
+    4.9993,
+    96864
+   ],
+   [
+    5.0095,
+    102404
+   ],
+   [
+    5.0154,
+    106701
+   ],
+   [
+    5.0209,
+    111583
+   ],
+   [
+    5.0215,
+    116578
+   ],
+   [
+    5.0226,
+    117076
+   ],
+   [
+    5.0235,
+    117278
+   ],
+   [
+    5.025,
+    117753
+   ],
+   [
+    5.027,
+    118888
+   ],
+   [
+    5.0278,
+    119660
+   ],
+   [
+    5.0283,
+    119982
+   ],
+   [
+    5.0288,
+    120174
+   ],
+   [
+    5.0297,
+    123624
+   ],
+   [
+    5.0873,
+    124700
+   ],
+   [
+    5.0929,
+    134521
+   ],
+   [
+    5.0978,
+    137749
+   ],
+   [
+    5.0989,
+    138600
+   ],
+   [
+    5.1782,
+    146869
+   ],
+   [
+    5.1811,
+    148037
+   ],
+   [
+    5.2016,
+    149849
+   ],
+   [
+    5.205,
+    152924
+   ],
+   [
+    5.2254,
+    156269
+   ],
+   [
+    5.2618,
+    163612
+   ],
+   [
+    5.2663,
+    165473
+   ],
+   [
+    5.2677,
+    167616
+   ],
+   [
+    5.2697,
+    168196
+   ],
+   [
+    5.3012,
+    169672
+   ],
+   [
+    5.3099,
+    172822
+   ],
+   [
+    5.3271,
+    177029
+   ],
+   [
+    5.3651,
+    183463
+   ],
+   [
+    5.3939,
+    186845
+   ],
+   [
+    5.4067,
+    197300
+   ],
+   [
+    5.4427,
+    202393
+   ],
+   [
+    5.4549,
+    207129
+   ],
+   [
+    5.4813,
+    216473
+   ],
+   [
+    5.5039,
+    218449
+   ],
+   [
+    5.5114,
+    222575
+   ],
+   [
+    5.5204,
+    225957
+   ],
+   [
+    5.5471,
+    228443
+   ],
+   [
+    5.5578,
+    230931
+   ],
+   [
+    5.5964,
+    235228
+   ],
+   [
+    5.6092,
+    236708
+   ],
+   [
+    5.6153,
+    244128
+   ],
+   [
+    5.6487,
+    250727
+   ],
+   [
+    5.6549,
+    252967
+   ],
+   [
+    5.6597,
+    255761
+   ],
+   [
+    5.6648,
+    257990
+   ],
+   [
+    5.6686,
+    259815
+   ],
+   [
+    5.7091,
+    261478
+   ],
+   [
+    5.7134,
+    265078
+   ],
+   [
+    5.7365,
+    267740
+   ],
+   [
+    5.7468,
+    275197
+   ],
+   [
+    5.7545,
+    277359
+   ],
+   [
+    5.7557,
+    279129
+   ],
+   [
+    5.7601,
+    279757
+   ],
+   [
+    5.7727,
+    281147
+   ],
+   [
+    5.7797,
+    284658
+   ],
+   [
+    5.8013,
+    286523
+   ],
+   [
+    5.8098,
+    289821
+   ],
+   [
+    5.8156,
+    292714
+   ],
+   [
+    5.826,
+    295407
+   ],
+   [
+    5.8274,
+    301527
+   ],
+   [
+    5.8616,
+    302686
+   ],
+   [
+    5.8757,
+    305456
+   ],
+   [
+    5.8839,
+    307088
+   ],
+   [
+    5.8868,
+    308575
+   ],
+   [
+    5.8901,
+    310475
+   ],
+   [
+    5.8962,
+    312426
+   ],
+   [
+    5.9226,
+    314510
+   ],
+   [
+    5.9448,
+    316704
+   ],
+   [
+    6.0053,
+    318566
+   ],
+   [
+    6.0349,
+    321263
+   ],
+   [
+    6.0622,
+    323255
+   ],
+   [
+    6.0942,
+    324624
+   ],
+   [
+    6.102,
+    328032
+   ],
+   [
+    6.1088,
+    330720
+   ],
+   [
+    6.1109,
+    331964
+   ],
+   [
+    6.1164,
+    333468
+   ],
+   [
+    6.1244,
+    336528
+   ],
+   [
+    6.1297,
+    339955
+   ],
+   [
+    6.1351,
+    341265
+   ],
+   [
+    6.1361,
+    342242
+   ],
+   [
+    6.1367,
+    343507
+   ],
+   [
+    6.1395,
+    344725
+   ],
+   [
+    6.143,
+    345796
+   ],
+   [
+    6.1905,
+    348362
+   ],
+   [
+    6.2502,
+    34479
+   ],
+   [
+    6.2526,
+    44349
+   ],
+   [
+    6.2811,
+    47462
+   ],
+   [
+    6.302,
+    48900
+   ],
+   [
+    6.3041,
+    50191
+   ],
+   [
+    6.3093,
+    51043
+   ],
+   [
+    6.3165,
+    52207
+   ],
+   [
+    6.3239,
+    56544
+   ],
+   [
+    6.3303,
+    60806
+   ],
+   [
+    6.3347,
+    65069
+   ],
+   [
+    6.339,
+    67394
+   ],
+   [
+    6.3455,
+    70127
+   ],
+   [
+    6.3671,
+    72919
+   ],
+   [
+    6.3725,
+    82353
+   ],
+   [
+    6.3792,
+    83940
+   ],
+   [
+    6.3941,
+    86202
+   ],
+   [
+    6.3998,
+    88025
+   ],
+   [
+    6.4091,
+    90662
+   ],
+   [
+    6.4113,
+    94395
+   ],
+   [
+    6.422,
+    95232
+   ],
+   [
+    6.4362,
+    98296
+   ],
+   [
+    6.4456,
+    100220
+   ],
+   [
+    6.4495,
+    101974
+   ],
+   [
+    6.4675,
+    104329
+   ],
+   [
+    6.477,
+    108435
+   ],
+   [
+    6.483,
+    110513
+   ],
+   [
+    6.498,
+    120121
+   ],
+   [
+    6.5068,
+    127722
+   ],
+   [
+    6.5102,
+    131156
+   ],
+   [
+    6.514,
+    135916
+   ],
+   [
+    6.5194,
+    138122
+   ],
+   [
+    6.526,
+    140235
+   ],
+   [
+    6.5464,
+    142524
+   ],
+   [
+    6.5547,
+    151348
+   ],
+   [
+    6.5671,
+    151948
+   ],
+   [
+    6.5697,
+    152893
+   ],
+   [
+    6.5817,
+    154223
+   ],
+   [
+    6.5966,
+    155923
+   ],
+   [
+    6.611,
+    157865
+   ],
+   [
+    6.6153,
+    160040
+   ],
+   [
+    6.6388,
+    161867
+   ],
+   [
+    6.6856,
+    163457
+   ],
+   [
+    6.6881,
+    165888
+   ],
+   [
+    6.6934,
+    168890
+   ],
+   [
+    6.6961,
+    171038
+   ],
+   [
+    6.6973,
+    172807
+   ],
+   [
+    6.7323,
+    173573
+   ],
+   [
+    6.7401,
+    175563
+   ],
+   [
+    6.7432,
+    177346
+   ],
+   [
+    6.7514,
+    179431
+   ],
+   [
+    6.7578,
+    182247
+   ],
+   [
+    6.7778,
+    183576
+   ],
+   [
+    6.7816,
+    187297
+   ],
+   [
+    6.8082,
+    188909
+   ],
+   [
+    6.8126,
+    191173
+   ],
+   [
+    6.8717,
+    192732
+   ],
+   [
+    6.899,
+    198018
+   ],
+   [
+    6.9031,
+    200141
+   ],
+   [
+    6.9086,
+    202075
+   ],
+   [
+    6.9206,
+    204305
+   ],
+   [
+    6.923,
+    208481
+   ],
+   [
+    6.9436,
+    209573
+   ],
+   [
+    6.9992,
+    211834
+   ],
+   [
+    7.0248,
+    212655
+   ],
+   [
+    7.0278,
+    215320
+   ],
+   [
+    7.0298,
+    216296
+   ],
+   [
+    7.0341,
+    218217
+   ],
+   [
+    7.0447,
+    219118
+   ],
+   [
+    7.0525,
+    220350
+   ],
+   [
+    7.0553,
+    223832
+   ],
+   [
+    7.0605,
+    225185
+   ],
+   [
+    7.0772,
+    226817
+   ],
+   [
+    7.0862,
+    231233
+   ],
+   [
+    7.0971,
+    234623
+   ],
+   [
+    7.1022,
+    236143
+   ],
+   [
+    7.1046,
+    238032
+   ],
+   [
+    7.1104,
+    239261
+   ],
+   [
+    7.1152,
+    241331
+   ],
+   [
+    7.1369,
+    244799
+   ],
+   [
+    7.1419,
+    248777
+   ],
+   [
+    7.146,
+    250354
+   ],
+   [
+    7.1517,
+    252007
+   ],
+   [
+    7.1549,
+    253844
+   ],
+   [
+    7.1695,
+    255769
+   ],
+   [
+    7.1717,
+    256891
+   ],
+   [
+    7.1809,
+    258646
+   ],
+   [
+    7.2277,
+    260452
+   ],
+   [
+    7.2315,
+    262267
+   ],
+   [
+    7.2389,
+    264329
+   ],
+   [
+    7.2526,
+    266785
+   ],
+   [
+    7.2551,
+    267403
+   ],
+   [
+    7.2576,
+    268780
+   ],
+   [
+    7.262,
+    270644
+   ],
+   [
+    7.2731,
+    271911
+   ],
+   [
+    7.2761,
+    273743
+   ],
+   [
+    7.2886,
+    276226
+   ],
+   [
+    7.3048,
+    277597
+   ],
+   [
+    7.3114,
+    279017
+   ],
+   [
+    7.32,
+    283007
+   ],
+   [
+    7.3261,
+    286401
+   ],
+   [
+    7.3383,
+    289915
+   ],
+   [
+    7.3417,
+    295223
+   ],
+   [
+    7.3467,
+    297146
+   ],
+   [
+    7.3891,
+    298914
+   ],
+   [
+    7.3927,
+    301858
+   ],
+   [
+    7.4003,
+    304751
+   ],
+   [
+    7.4225,
+    306540
+   ],
+   [
+    7.4284,
+    309945
+   ],
+   [
+    7.4358,
+    311766
+   ],
+   [
+    7.4383,
+    313001
+   ],
+   [
+    7.441,
+    314406
+   ],
+   [
+    7.4496,
+    315262
+   ],
+   [
+    7.4514,
+    316063
+   ],
+   [
+    7.4596,
+    317472
+   ],
+   [
+    7.4778,
+    319662
+   ],
+   [
+    7.491,
+    321749
+   ],
+   [
+    7.5017,
+    323731
+   ],
+   [
+    7.5167,
+    324922
+   ],
+   [
+    7.5213,
+    328211
+   ],
+   [
+    7.5393,
+    329893
+   ],
+   [
+    7.5438,
+    332195
+   ],
+   [
+    7.5589,
+    334581
+   ],
+   [
+    7.562,
+    336200
+   ],
+   [
+    7.5764,
+    338212
+   ],
+   [
+    7.6039,
+    342718
+   ],
+   [
+    7.6123,
+    345788
+   ],
+   [
+    7.6223,
+    348425
+   ],
+   [
+    7.6263,
+    349737
+   ],
+   [
+    7.6738,
+    31918
+   ],
+   [
+    7.6781,
+    36796
+   ],
+   [
+    7.6877,
+    47971
+   ],
+   [
+    7.704,
+    58953
+   ],
+   [
+    7.7131,
+    68544
+   ],
+   [
+    7.7272,
+    79088
+   ],
+   [
+    7.7347,
+    80821
+   ],
+   [
+    7.7444,
+    85733
+   ],
+   [
+    7.7472,
+    89300
+   ],
+   [
+    7.7878,
+    90383
+   ],
+   [
+    7.8035,
+    91167
+   ],
+   [
+    7.8173,
+    93660
+   ],
+   [
+    7.8284,
+    96367
+   ],
+   [
+    7.838,
+    100285
+   ],
+   [
+    7.8693,
+    102468
+   ],
+   [
+    7.8787,
+    114276
+   ],
+   [
+    7.886,
+    120815
+   ],
+   [
+    7.8925,
+    126829
+   ],
+   [
+    7.8985,
+    128183
+   ],
+   [
+    7.9034,
+    131041
+   ],
+   [
+    7.911,
+    133789
+   ],
+   [
+    7.9178,
+    137124
+   ],
+   [
+    7.9371,
+    139923
+   ],
+   [
+    7.944,
+    147420
+   ],
+   [
+    7.9578,
+    154603
+   ],
+   [
+    7.9694,
+    161790
+   ],
+   [
+    7.975,
+    166237
+   ],
+   [
+    7.9803,
+    167439
+   ],
+   [
+    8.0166,
+    168662
+   ],
+   [
+    8.0244,
+    172761
+   ],
+   [
+    8.03,
+    175500
+   ],
+   [
+    8.0392,
+    177103
+   ],
+   [
+    8.098,
+    179158
+   ],
+   [
+    8.1113,
+    186896
+   ],
+   [
+    8.1132,
+    191245
+   ],
+   [
+    8.119,
+    193314
+   ],
+   [
+    8.1364,
+    196039
+   ],
+   [
+    8.1653,
+    201905
+   ],
+   [
+    8.2027,
+    207343
+   ],
+   [
+    8.2188,
+    220048
+   ],
+   [
+    8.2286,
+    226013
+   ],
+   [
+    8.233,
+    227737
+   ],
+   [
+    8.2859,
+    230309
+   ],
+   [
+    8.2939,
+    234838
+   ],
+   [
+    8.3011,
+    239361
+   ],
+   [
+    8.3141,
+    241354
+   ],
+   [
+    8.316,
+    242906
+   ],
+   [
+    8.3227,
+    243873
+   ],
+   [
+    8.3259,
+    245622
+   ],
+   [
+    8.3302,
+    247406
+   ],
+   [
+    8.3352,
+    248599
+   ],
+   [
+    8.3395,
+    250433
+   ],
+   [
+    8.3471,
+    252792
+   ],
+   [
+    8.4076,
+    256367
+   ],
+   [
+    8.4568,
+    264936
+   ],
+   [
+    8.5081,
+    268596
+   ],
+   [
+    8.5163,
+    273441
+   ],
+   [
+    8.5854,
+    274613
+   ],
+   [
+    8.5938,
+    285259
+   ],
+   [
+    8.6518,
+    287394
+   ],
+   [
+    8.6579,
+    293973
+   ],
+   [
+    8.7023,
+    297909
+   ],
+   [
+    8.7286,
+    299611
+   ],
+   [
+    8.735,
+    312411
+   ],
+   [
+    8.7462,
+    315704
+   ],
+   [
+    8.7681,
+    318113
+   ],
+   [
+    8.7744,
+    323930
+   ],
+   [
+    8.7887,
+    326702
+   ],
+   [
+    8.7894,
+    329626
+   ],
+   [
+    8.7935,
+    330200
+   ],
+   [
+    8.8123,
+    336081
+   ],
+   [
+    8.8146,
+    337228
+   ],
+   [
+    8.8321,
+    339021
+   ],
+   [
+    8.8482,
+    343050
+   ],
+   [
+    8.8917,
+    345635
+   ],
+   [
+    8.9183,
+    347850
+   ],
+   [
+    8.9795,
+    34340
+   ],
+   [
+    8.9818,
+    41548
+   ],
+   [
+    9.0362,
+    45200
+   ],
+   [
+    9.05,
+    50944
+   ],
+   [
+    9.0512,
+    57119
+   ],
+   [
+    9.0952,
+    59721
+   ]
+  ],
+  "tokens": {
+   "input_tokens": 1546,
+   "cache_read_input_tokens": 151864329,
+   "cache_creation_input_tokens": 2445142,
+   "output_tokens": 1437012,
+   "thinking_tokens": 811015,
+   "cache_1h": 2445142,
+   "cache_5m": 0,
+   "api_responses": 771
+  },
+  "model_usage_session_end": {
+   "claude-opus-5-5": {
+    "inputTokens": 19952,
+    "outputTokens": 1542265,
+    "cacheReadInputTokens": 154480693,
+    "cacheCreationInputTokens": 2457899,
+    "webSearchRequests": 0,
+    "costUSD": 81.46333059999992,
+    "contextWindow": 1000000,
+    "maxOutputTokens": 128000,
+    "thinkingTokens": 811928,
+    "cacheCreationEphemeral5mInputTokens": 7036,
+    "cacheCreationEphemeral1hInputTokens": 2450863,
+    "canonicalModel": "claude-opus-5-5",
+    "provider": "firstParty",
+    "costBasis": "list"
+   }
+  },
+  "turns_session_end": 855,
+  "cost_usd_session_end": 81.46333059999992,
+  "cost_usd_after_portal": 82.3766893999999,
+  "api_ms_session_end": 14851308,
+  "session_results": 3,
+  "effort_requests": [
+   [
+    "xhigh",
+    771
+   ]
+  ],
+  "after_win": {
+   "programs": 4,
+   "times": [
+    "2026-11-05T10:18:36.969Z",
+    "2026-11-05T10:19:12.832Z",
+    "2026-11-05T12:33:35.619Z",
+    "2026-11-05T12:34:00.344Z"
+   ]
+  },
+  "server_restarts": 0,
+  "bot_reconnects": 0,
+  "event_types": [
+   [
+    "bot_respawn",
+    44
+   ],
+   [
+    "advancement",
+    18
+   ],
+   [
+    "bot_death",
+    16
+   ],
+   [
+    "death",
+    16
+   ],
+   [
+    "milestone",
+    12
+   ],
+   [
+    "supervisor",
+    2
+   ],
+   [
+    "bot_disconnected",
+    2
+   ],
+   [
+    "gateway_start",
+    1
+   ],
+   [
+    "bot_host_ready",
+    1
+   ],
+   [
+    "bot_connected",
+    1
+   ],
+   [
+    "server_ready",
+    1
+   ],
+   [
+    "win",
+    1
+   ],
+   [
+    "bot_kicked",
+    1
+   ],
+   [
+    "bot_error",
+    1
+   ],
+   [
+    "bot_host_exit",
+    1
+   ]
+  ]
+ },
+ "run1": {
+  "t0_utc": "2026-11-01T18:13:11.992000+00:00",
+  "win_utc": "2026-11-04T07:02:54.206000+00:00",
+  "win_h": 60.82839277777778,
+  "milestones": {
+   "stone_tools": 0.07893972222222222,
+   "bucket": 0.14004166666666665,
+   "iron_tools": 0.14009055555555555,
+   "flint_and_steel": 0.7257841666666667,
+   "nether_portal": 0.9049541666666667,
+   "fortress": 1.0828591666666667,
+   "blaze_rods": 5.9534980555555554,
+   "ender_pearls": 8.856433888888889,
+   "eyes_of_ender": 20.61983222222222,
+   "stronghold": 22.26450138888889,
+   "the_end": 40.48687833333333,
+   "dragon": 60.82839277777778
+  },
+  "advancements": [
+   {
+    "h": 0.056981111111111114,
+    "name": "Stone Age"
+   },
+   {
+    "h": 0.07893888888888889,
+    "name": "Getting an Upgrade"
+   },
+   {
+    "h": 0.12480333333333332,
+    "name": "Acquire Hardware"
+   },
+   {
+    "h": 0.14009055555555555,
+    "name": "Isn't It Iron Pick"
+   },
+   {
+    "h": 0.19206805555555556,
+    "name": "Monster Hunter"
+   },
+   {
+    "h": 0.34161138888888887,
+    "name": "Suit Up"
+   },
+   {
+    "h": 0.5175763888888889,
+    "name": "Diamonds!"
+   },
+   {
+    "h": 0.6332005555555555,
+    "name": "Hot Stuff"
+   },
+   {
+    "h": 0.6515441666666667,
+    "name": "Ice Bucket Challenge"
+   },
+   {
+    "h": 0.8302636111111111,
+    "name": "Sweet Dreams"
+   },
+   {
+    "h": 0.9049541666666667,
+    "name": "We Need to Go Deeper"
+   },
+   {
+    "h": 1.0828583333333333,
+    "name": "A Terrible Fortress"
+   },
+   {
+    "h": 1.5128827777777778,
+    "name": "Cover Me with Diamonds"
+   },
+   {
+    "h": 5.7184808333333335,
+    "name": "Not Today, Thank You"
+   },
+   {
+    "h": 5.9534980555555554,
+    "name": "Into Fire"
+   },
+   {
+    "h": 8.55688,
+    "name": "Hot Tourist Destinations"
+   },
+   {
+    "h": 22.26450111111111,
+    "name": "Eye Spy"
+   },
+   {
+    "h": 36.7871225,
+    "name": "A Seedy Place"
+   },
+   {
+    "h": 40.48687833333333,
+    "name": "The End?"
+   },
+   {
+    "h": 43.43436166666666,
+    "name": "Take Aim"
+   },
+   {
+    "h": 60.8283925,
+    "name": "Free the End"
+   }
+  ],
+  "deaths": [
+   {
+    "h": -0.01084138888888889,
+    "text": "opus was slain by Zombie",
+    "cause": "Zombies",
+    "in_program": false,
+    "since_program_end_s": null,
+    "before_first_program": true
+   },
+   {
+    "h": 0.5600994444444445,
+    "text": "opus suffocated in a wall",
+    "cause": "Suffocation",
+    "in_program": false,
+    "since_program_end_s": 2.381
+   },
+   {
+    "h": 0.5620455555555556,
+    "text": "opus fell from a high place",
+    "cause": "Falls",
+    "in_program": false,
+    "since_program_end_s": 5.408
+   },
+   {
+    "h": 1.085916388888889,
+    "text": "opus was doomed to fall",
+    "cause": "Falls",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 1.1028733333333334,
+    "text": "opus tried to swim in lava",
+    "cause": "Lava and fire",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 1.236025,
+    "text": "opus drowned",
+    "cause": "Drowning",
+    "in_program": false,
+    "since_program_end_s": 0.623
+   },
+   {
+    "h": 1.6988897222222221,
+    "text": "opus was fireballed by Blaze",
+    "cause": "Blazes",
+    "in_program": false,
+    "since_program_end_s": 4.064
+   },
+   {
+    "h": 1.721421388888889,
+    "text": "opus was blown up by Creeper",
+    "cause": "Creepers",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 2.4910894444444445,
+    "text": "opus was burned to a crisp while fighting Blaze",
+    "cause": "Lava and fire",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 2.525025,
+    "text": "opus tried to swim in lava",
+    "cause": "Lava and fire",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 3.2727377777777775,
+    "text": "opus tried to swim in lava",
+    "cause": "Lava and fire",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 3.6706333333333334,
+    "text": "opus drowned",
+    "cause": "Drowning",
+    "in_program": false,
+    "since_program_end_s": 0.213
+   },
+   {
+    "h": 4.117865,
+    "text": "opus drowned",
+    "cause": "Drowning",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 4.6643975,
+    "text": "opus was shot by Skeleton",
+    "cause": "Skeletons",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 4.699720277777778,
+    "text": "opus was shot by Skeleton",
+    "cause": "Skeletons",
+    "in_program": false,
+    "since_program_end_s": 0.543
+   },
+   {
+    "h": 5.278778055555555,
+    "text": "opus was shot by Skeleton",
+    "cause": "Skeletons",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 6.076914166666667,
+    "text": "opus was slain by Piglin",
+    "cause": "Piglins",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 6.806719444444444,
+    "text": "opus tried to swim in lava",
+    "cause": "Lava and fire",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 8.94486,
+    "text": "opus was slain by Enderman",
+    "cause": "Endermen",
+    "in_program": false,
+    "since_program_end_s": 0.897
+   },
+   {
+    "h": 9.499897500000001,
+    "text": "opus was slain by Zombie",
+    "cause": "Zombies",
+    "in_program": false,
+    "since_program_end_s": 225.553
+   },
+   {
+    "h": 14.333491944444445,
+    "text": "opus was slain by Enderman",
+    "cause": "Endermen",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 15.923036666666667,
+    "text": "opus was slain by Zombie",
+    "cause": "Zombies",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 16.493545833333332,
+    "text": "opus was shot by Pillager",
+    "cause": "Pillagers",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 16.98555888888889,
+    "text": "opus was shot by Skeleton",
+    "cause": "Skeletons",
+    "in_program": false,
+    "since_program_end_s": 11.64
+   },
+   {
+    "h": 17.388288888888887,
+    "text": "opus was shot by Pillager",
+    "cause": "Pillagers",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 17.953163333333332,
+    "text": "opus was slain by Zombie",
+    "cause": "Zombies",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 21.15896111111111,
+    "text": "opus was blown up by Creeper",
+    "cause": "Creepers",
+    "in_program": false,
+    "since_program_end_s": 0.29
+   },
+   {
+    "h": 22.272009444444443,
+    "text": "opus burned to death",
+    "cause": "Lava and fire",
+    "in_program": false,
+    "since_program_end_s": 0.307
+   },
+   {
+    "h": 23.286315833333333,
+    "text": "opus drowned",
+    "cause": "Drowning",
+    "in_program": false,
+    "since_program_end_s": 0.871
+   },
+   {
+    "h": 23.59865138888889,
+    "text": "opus drowned",
+    "cause": "Drowning",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 24.093723333333333,
+    "text": "opus drowned",
+    "cause": "Drowning",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 24.733161388888888,
+    "text": "opus drowned",
+    "cause": "Drowning",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 24.94259305555556,
+    "text": "opus was shot by Skeleton",
+    "cause": "Skeletons",
+    "in_program": false,
+    "since_program_end_s": 1.095
+   },
+   {
+    "h": 25.58729638888889,
+    "text": "opus tried to swim in lava",
+    "cause": "Lava and fire",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 27.435481944444444,
+    "text": "opus tried to swim in lava",
+    "cause": "Lava and fire",
+    "in_program": false,
+    "since_program_end_s": 0.153
+   },
+   {
+    "h": 27.772851666666668,
+    "text": "opus was shot by Skeleton",
+    "cause": "Skeletons",
+    "in_program": false,
+    "since_program_end_s": 0.339
+   },
+   {
+    "h": 27.86046,
+    "text": "opus was shot by Skeleton",
+    "cause": "Skeletons",
+    "in_program": false,
+    "since_program_end_s": 3.322
+   },
+   {
+    "h": 28.601945277777777,
+    "text": "opus was slain by Piglin",
+    "cause": "Piglins",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 30.7461725,
+    "text": "opus was burned to a crisp while fighting Skeleton",
+    "cause": "Lava and fire",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 31.786545277777776,
+    "text": "opus was shot by Skeleton",
+    "cause": "Skeletons",
+    "in_program": false,
+    "since_program_end_s": 1.032
+   },
+   {
+    "h": 32.530235833333336,
+    "text": "opus went up in flames",
+    "cause": "Lava and fire",
+    "in_program": false,
+    "since_program_end_s": 0.949
+   },
+   {
+    "h": 33.1584675,
+    "text": "opus was shot by Pillager",
+    "cause": "Pillagers",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 33.17682527777777,
+    "text": "opus was shot by Skeleton",
+    "cause": "Skeletons",
+    "in_program": false,
+    "since_program_end_s": 0.056
+   },
+   {
+    "h": 33.359546944444446,
+    "text": "opus was slain by Hoglin",
+    "cause": "Hoglins",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 33.45878527777778,
+    "text": "opus was slain by Piglin",
+    "cause": "Piglins",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 34.433818333333335,
+    "text": "opus tried to swim in lava",
+    "cause": "Lava and fire",
+    "in_program": false,
+    "since_program_end_s": 1.072
+   },
+   {
+    "h": 35.57528805555555,
+    "text": "opus tried to swim in lava",
+    "cause": "Lava and fire",
+    "in_program": false,
+    "since_program_end_s": 0.215
+   },
+   {
+    "h": 35.885133055555556,
+    "text": "opus was slain by Zombie",
+    "cause": "Zombies",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 37.491641666666666,
+    "text": "opus was slain by Piglin",
+    "cause": "Piglins",
+    "in_program": false,
+    "since_program_end_s": 2.609
+   },
+   {
+    "h": 38.9774475,
+    "text": "opus was slain by Silverfish",
+    "cause": "Silverfish",
+    "in_program": false,
+    "since_program_end_s": 3.239
+   },
+   {
+    "h": 40.49856138888889,
+    "text": "opus was killed by Ender Dragon using magic",
+    "cause": "Dragon breath",
+    "in_program": false,
+    "since_program_end_s": 0.678
+   },
+   {
+    "h": 40.539168611111116,
+    "text": "opus tried to swim in lava to escape Silverfish",
+    "cause": "Lava and fire",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 40.55391,
+    "text": "opus fell out of the world",
+    "cause": "Void",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 40.5622525,
+    "text": "opus was killed by Ender Dragon using magic",
+    "cause": "Dragon breath",
+    "in_program": false,
+    "since_program_end_s": 1.595
+   },
+   {
+    "h": 40.84706944444445,
+    "text": "opus was killed by Ender Dragon using magic",
+    "cause": "Dragon breath",
+    "in_program": false,
+    "since_program_end_s": 0.705
+   },
+   {
+    "h": 41.08569249999999,
+    "text": "opus was doomed to fall by Ender Dragon",
+    "cause": "Dragon (fall, contact)",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 41.112950277777784,
+    "text": "opus was killed by Ender Dragon using magic",
+    "cause": "Dragon breath",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 41.28038638888889,
+    "text": "opus was shot by Skeleton",
+    "cause": "Skeletons",
+    "in_program": false,
+    "since_program_end_s": 0.582
+   },
+   {
+    "h": 41.66003916666667,
+    "text": "opus was killed by Ender Dragon using magic",
+    "cause": "Dragon breath",
+    "in_program": false,
+    "since_program_end_s": 0.531
+   },
+   {
+    "h": 41.69313555555556,
+    "text": "opus fell out of the world",
+    "cause": "Void",
+    "in_program": false,
+    "since_program_end_s": 0.556
+   },
+   {
+    "h": 41.706485,
+    "text": "opus fell out of the world",
+    "cause": "Void",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 42.09659111111111,
+    "text": "opus was slain by Ender Dragon",
+    "cause": "Dragon (fall, contact)",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 42.517158888888886,
+    "text": "opus fell out of the world",
+    "cause": "Void",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 42.553295,
+    "text": "opus was blown up by Creeper",
+    "cause": "Creepers",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 43.59846055555556,
+    "text": "opus drowned while trying to escape Skeleton",
+    "cause": "Drowning",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 44.01202444444444,
+    "text": "opus was killed by Ender Dragon using magic",
+    "cause": "Dragon breath",
+    "in_program": false,
+    "since_program_end_s": 0.178
+   },
+   {
+    "h": 44.02620583333333,
+    "text": "opus fell out of the world",
+    "cause": "Void",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 44.12021,
+    "text": "opus was killed by Ender Dragon using magic",
+    "cause": "Dragon breath",
+    "in_program": false,
+    "since_program_end_s": 0.044
+   },
+   {
+    "h": 44.178894166666666,
+    "text": "opus was blown up by Creeper",
+    "cause": "Creepers",
+    "in_program": false,
+    "since_program_end_s": 0.548
+   },
+   {
+    "h": 44.24119916666667,
+    "text": "opus didn't want to live in the same world as Ender Dragon",
+    "cause": "Void",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 44.25844722222222,
+    "text": "opus fell out of the world",
+    "cause": "Void",
+    "in_program": false,
+    "since_program_end_s": 0.774
+   },
+   {
+    "h": 44.272909444444444,
+    "text": "opus drowned",
+    "cause": "Drowning",
+    "in_program": false,
+    "since_program_end_s": 0.65
+   },
+   {
+    "h": 44.35273305555556,
+    "text": "opus was slain by Silverfish",
+    "cause": "Silverfish",
+    "in_program": false,
+    "since_program_end_s": 0.344
+   },
+   {
+    "h": 44.36358222222223,
+    "text": "opus drowned",
+    "cause": "Drowning",
+    "in_program": false,
+    "since_program_end_s": 4.799
+   },
+   {
+    "h": 44.37831944444445,
+    "text": "opus drowned",
+    "cause": "Drowning",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 44.38833416666667,
+    "text": "opus fell out of the world",
+    "cause": "Void",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 44.55380472222222,
+    "text": "opus was slain by Zombie",
+    "cause": "Zombies",
+    "in_program": false,
+    "since_program_end_s": 0.628
+   },
+   {
+    "h": 44.95959333333333,
+    "text": "opus was shot by Skeleton",
+    "cause": "Skeletons",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 45.626575,
+    "text": "opus was slain by Enderman",
+    "cause": "Endermen",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 46.19507722222222,
+    "text": "opus was shot by Skeleton",
+    "cause": "Skeletons",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 47.428577499999996,
+    "text": "opus didn't want to live in the same world as Ender Dragon",
+    "cause": "Void",
+    "in_program": false,
+    "since_program_end_s": 8.769
+   },
+   {
+    "h": 47.53064833333333,
+    "text": "opus drowned",
+    "cause": "Drowning",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 47.93169944444444,
+    "text": "opus was slain by Spider",
+    "cause": "Spiders",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 48.16449305555555,
+    "text": "opus was slain by Spider",
+    "cause": "Spiders",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 48.320523888888886,
+    "text": "opus suffocated in a wall",
+    "cause": "Suffocation",
+    "in_program": false,
+    "since_program_end_s": 0.477
+   },
+   {
+    "h": 49.25364222222222,
+    "text": "opus was killed by Ender Dragon using magic",
+    "cause": "Dragon breath",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 49.29202055555556,
+    "text": "opus was killed by Ender Dragon using magic",
+    "cause": "Dragon breath",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 49.48837972222222,
+    "text": "opus was shot by Skeleton",
+    "cause": "Skeletons",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 52.29772583333333,
+    "text": "opus was doomed to fall by Ender Dragon",
+    "cause": "Dragon (fall, contact)",
+    "in_program": false,
+    "since_program_end_s": 0.345
+   },
+   {
+    "h": 52.35418277777777,
+    "text": "opus fell out of the world",
+    "cause": "Void",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 52.39812194444445,
+    "text": "opus was slain by Zombie",
+    "cause": "Zombies",
+    "in_program": false,
+    "since_program_end_s": 0.099
+   },
+   {
+    "h": 52.62505833333333,
+    "text": "opus fell out of the world",
+    "cause": "Void",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 52.635908055555554,
+    "text": "opus fell out of the world",
+    "cause": "Void",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 52.83365472222222,
+    "text": "opus was shot by Skeleton",
+    "cause": "Skeletons",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 53.522573055555554,
+    "text": "opus was shot by Skeleton",
+    "cause": "Skeletons",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 54.12718138888889,
+    "text": "opus fell from a high place",
+    "cause": "Falls",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 54.233404444444446,
+    "text": "opus fell from a high place",
+    "cause": "Falls",
+    "in_program": false,
+    "since_program_end_s": 5.464
+   },
+   {
+    "h": 54.25369722222222,
+    "text": "opus was slain by Zombie",
+    "cause": "Zombies",
+    "in_program": false,
+    "since_program_end_s": 0.709
+   },
+   {
+    "h": 54.6413475,
+    "text": "opus drowned",
+    "cause": "Drowning",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 54.95870472222222,
+    "text": "opus drowned",
+    "cause": "Drowning",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 54.98679305555555,
+    "text": "opus was blown up by Creeper",
+    "cause": "Creepers",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 55.60368444444444,
+    "text": "opus was shot by Skeleton",
+    "cause": "Skeletons",
+    "in_program": false,
+    "since_program_end_s": 3.209
+   },
+   {
+    "h": 56.457839444444446,
+    "text": "opus was slain by Zombie",
+    "cause": "Zombies",
+    "in_program": false,
+    "since_program_end_s": 0.591
+   },
+   {
+    "h": 56.70677472222222,
+    "text": "opus was slain by Zombie Villager",
+    "cause": "Zombies",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 57.04583027777778,
+    "text": "opus drowned",
+    "cause": "Drowning",
+    "in_program": false,
+    "since_program_end_s": 0.399
+   },
+   {
+    "h": 57.0986775,
+    "text": "opus was blown up by Creeper",
+    "cause": "Creepers",
+    "in_program": false,
+    "since_program_end_s": 3.66
+   },
+   {
+    "h": 57.27806666666667,
+    "text": "opus was blown up by Creeper",
+    "cause": "Creepers",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 57.548361944444444,
+    "text": "opus tried to swim in lava to escape Cave Spider",
+    "cause": "Lava and fire",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 58.33710944444445,
+    "text": "opus drowned",
+    "cause": "Drowning",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 59.5155075,
+    "text": "opus was killed by Ender Dragon using magic",
+    "cause": "Dragon breath",
+    "in_program": false,
+    "since_program_end_s": 2.348
+   },
+   {
+    "h": 59.87000305555556,
+    "text": "opus was killed by Ender Dragon using magic",
+    "cause": "Dragon breath",
+    "in_program": false,
+    "since_program_end_s": 0.256
+   },
+   {
+    "h": 60.44736666666666,
+    "text": "opus was killed by Ender Dragon using magic",
+    "cause": "Dragon breath",
+    "in_program": false,
+    "since_program_end_s": 0.672
+   },
+   {
+    "h": 60.64233,
+    "text": "opus was doomed to fall by Ender Dragon",
+    "cause": "Dragon (fall, contact)",
+    "in_program": true,
+    "since_program_end_s": null
+   },
+   {
+    "h": 60.675981944444445,
+    "text": "opus drowned",
+    "cause": "Drowning",
+    "in_program": false,
+    "since_program_end_s": 11.528
+   },
+   {
+    "h": 60.71742138888889,
+    "text": "opus was killed by Ender Dragon using magic",
+    "cause": "Dragon breath",
+    "in_program": false,
+    "since_program_end_s": 21.284
+   }
+  ],
+  "deaths_after_first_program": 114,
+  "death_causes": [
+   [
+    "Drowning",
+    17
+   ],
+   [
+    "Skeletons",
+    16
+   ],
+   [
+    "Lava and fire",
+    14
+   ],
+   [
+    "Dragon breath",
+    13
+   ],
+   [
+    "Void",
+    12
+   ],
+   [
+    "Zombies",
+    10
+   ],
+   [
+    "Creepers",
+    7
+   ],
+   [
+    "Falls",
+    4
+   ],
+   [
+    "Piglins",
+    4
+   ],
+   [
+    "Dragon (fall, contact)",
+    4
+   ],
+   [
+    "Endermen",
+    3
+   ],
+   [
+    "Pillagers",
+    3
+   ],
+   [
+    "Suffocation",
+    2
+   ],
+   [
+    "Silverfish",
+    2
+   ],
+   [
+    "Spiders",
+    2
+   ],
+   [
+    "Blazes",
+    1
+   ],
+   [
+    "Hoglins",
+    1
+   ]
+  ],
+  "programs": {
+   "before_win": 5879,
+   "library_checks": 2154,
+   "real": 3725,
+   "errors": 55,
+   "timed_out": 56,
+   "median_s_real": 2.2984999999999998,
+   "distinct_lines": 6637,
+   "after_win": 5,
+   "per_half_hour": [
+    [
+     0,
+     66
+    ],
+    [
+     1,
+     71
+    ],
+    [
+     2,
+     24
+    ],
+    [
+     3,
+     39
+    ],
+    [
+     4,
+     37
+    ],
+    [
+     5,
+     25
+    ],
+    [
+     6,
+     23
+    ],
+    [
+     7,
+     25
+    ],
+    [
+     8,
+     47
+    ],
+    [
+     9,
+     29
+    ],
+    [
+     10,
+     30
+    ],
+    [
+     11,
+     53
+    ],
+    [
+     12,
+     42
+    ],
+    [
+     13,
+     35
+    ],
+    [
+     14,
+     57
+    ],
+    [
+     15,
+     38
+    ],
+    [
+     16,
+     69
+    ],
+    [
+     17,
+     99
+    ],
+    [
+     18,
+     121
+    ],
+    [
+     19,
+     24
+    ],
+    [
+     20,
+     5
+    ],
+    [
+     21,
+     30
+    ],
+    [
+     22,
+     1
+    ],
+    [
+     23,
+     24
+    ],
+    [
+     24,
+     28
+    ],
+    [
+     25,
+     32
+    ],
+    [
+     26,
+     22
+    ],
+    [
+     27,
+     23
+    ],
+    [
+     28,
+     63
+    ],
+    [
+     29,
+     21
+    ],
+    [
+     30,
+     43
+    ],
+    [
+     31,
+     26
+    ],
+    [
+     32,
+     65
+    ],
+    [
+     33,
+     49
+    ],
+    [
+     34,
+     60
+    ],
+    [
+     35,
+     30
+    ],
+    [
+     36,
+     19
+    ],
+    [
+     37,
+     36
+    ],
+    [
+     38,
+     16
+    ],
+    [
+     39,
+     16
+    ],
+    [
+     40,
+     12
+    ],
+    [
+     41,
+     22
+    ],
+    [
+     42,
+     43
+    ],
+    [
+     43,
+     9
+    ],
+    [
+     44,
+     39
+    ],
+    [
+     45,
+     11
+    ],
+    [
+     46,
+     17
+    ],
+    [
+     47,
+     16
+    ],
+    [
+     48,
+     42
+    ],
+    [
+     49,
+     32
+    ],
+    [
+     50,
+     31
+    ],
+    [
+     51,
+     34
+    ],
+    [
+     52,
+     14
+    ],
+    [
+     53,
+     32
+    ],
+    [
+     54,
+     19
+    ],
+    [
+     55,
+     48
+    ],
+    [
+     56,
+     27
+    ],
+    [
+     57,
+     36
+    ],
+    [
+     58,
+     34
+    ],
+    [
+     59,
+     9
+    ],
+    [
+     60,
+     12
+    ],
+    [
+     61,
+     32
+    ],
+    [
+     62,
+     29
+    ],
+    [
+     63,
+     25
+    ],
+    [
+     64,
+     12
+    ],
+    [
+     65,
+     17
+    ],
+    [
+     66,
+     28
+    ],
+    [
+     67,
+     8
+    ],
+    [
+     68,
+     21
+    ],
+    [
+     69,
+     12
+    ],
+    [
+     70,
+     17
+    ],
+    [
+     71,
+     15
+    ],
+    [
+     72,
+     14
+    ],
+    [
+     73,
+     89
+    ],
+    [
+     74,
+     37
+    ],
+    [
+     75,
+     15
+    ],
+    [
+     76,
+     29
+    ],
+    [
+     77,
+     28
+    ],
+    [
+     78,
+     22
+    ],
+    [
+     79,
+     37
+    ],
+    [
+     80,
+     20
+    ],
+    [
+     81,
+     28
+    ],
+    [
+     82,
+     26
+    ],
+    [
+     83,
+     20
+    ],
+    [
+     84,
+     15
+    ],
+    [
+     85,
+     16
+    ],
+    [
+     86,
+     26
+    ],
+    [
+     87,
+     34
+    ],
+    [
+     88,
+     49
+    ],
+    [
+     89,
+     17
+    ],
+    [
+     90,
+     15
+    ],
+    [
+     91,
+     20
+    ],
+    [
+     92,
+     20
+    ],
+    [
+     93,
+     12
+    ],
+    [
+     94,
+     40
+    ],
+    [
+     95,
+     18
+    ],
+    [
+     96,
+     17
+    ],
+    [
+     97,
+     15
+    ],
+    [
+     98,
+     39
+    ],
+    [
+     99,
+     21
+    ],
+    [
+     100,
+     19
+    ],
+    [
+     101,
+     14
+    ],
+    [
+     102,
+     14
+    ],
+    [
+     103,
+     11
+    ],
+    [
+     104,
+     28
+    ],
+    [
+     105,
+     27
+    ],
+    [
+     106,
+     10
+    ],
+    [
+     107,
+     21
+    ],
+    [
+     108,
+     31
+    ],
+    [
+     109,
+     32
+    ],
+    [
+     110,
+     42
+    ],
+    [
+     111,
+     24
+    ],
+    [
+     112,
+     32
+    ],
+    [
+     113,
+     55
+    ],
+    [
+     114,
+     47
+    ],
+    [
+     115,
+     29
+    ],
+    [
+     116,
+     27
+    ],
+    [
+     117,
+     76
+    ],
+    [
+     118,
+     43
+    ],
+    [
+     119,
+     44
+    ],
+    [
+     120,
+     18
+    ],
+    [
+     121,
+     24
+    ]
+   ]
+  },
+  "running_share": 0.839591652863636,
+  "running_h": 51.071010833332906,
+  "pauses": {
+   "n": 5814,
+   "median_s": 0.04,
+   "mean_s": 6.04346783625731,
+   "p90_s": 10.173,
+   "longest_s": 1189.47,
+   "total_h": 9.7602005555555
+  },
+  "deaths_in_pause": {
+   "n": 52,
+   "within_10s": 48
+  },
+  "places": {
+   "deaths_with_frame": 112,
+   "returned": 66,
+   "never": 46,
+   "median_back_s": 338.043,
+   "within_300s": 32,
+   "back_s": [
+    9.237,
+    9.638,
+    9.787,
+    9.885,
+    10.639,
+    11.367,
+    12.122,
+    12.8,
+    13.63,
+    26.586,
+    30.73,
+    35.551,
+    37.342,
+    37.412,
+    41.571,
+    48.647,
+    51.36,
+    55.08,
+    67.247,
+    80.326,
+    96.73,
+    104.7,
+    121.511,
+    131.768,
+    151.549,
+    166.786,
+    176.685,
+    186.47,
+    223.558,
+    225.743,
+    226.967,
+    233.772,
+    337.027,
+    339.059,
+    679.136,
+    795.016,
+    886.509,
+    928.681,
+    996.971,
+    1014.732,
+    1362.876,
+    1628.19,
+    1823.556,
+    2017.819,
+    2609.404,
+    2802.552,
+    2908.721,
+    2950.314,
+    3459.689,
+    3620.058,
+    4913.373,
+    5139.563,
+    5211.259,
+    5457.56,
+    5853.183,
+    10060.932,
+    11219.709,
+    11369.714,
+    11442.02,
+    12479.306,
+    13879.861,
+    19976.905,
+    24776.067,
+    33784.878,
+    56515.681,
+    78862.154
+   ],
+   "per_death": [
+    {
+     "h": 1.085695,
+     "dim": "the_nether",
+     "back_s": null,
+     "censor_s": 215073.712,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 1.102826388888889,
+     "dim": "the_nether",
+     "back_s": 2017.819,
+     "censor_s": 215012.039,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 1.2357969444444443,
+     "dim": "overworld",
+     "back_s": null,
+     "censor_s": 214533.345,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 1.6988072222222224,
+     "dim": "the_nether",
+     "back_s": 2802.552,
+     "censor_s": 212866.508,
+     "respawn_at_world_spawn": true
+    },
+    {
+     "h": 1.7211824999999998,
+     "dim": "overworld",
+     "back_s": 131.768,
+     "censor_s": 212785.957,
+     "respawn_at_world_spawn": true
+    },
+    {
+     "h": 2.491006111111111,
+     "dim": "the_nether",
+     "back_s": 11442.02,
+     "censor_s": 210014.592,
+     "respawn_at_world_spawn": true
+    },
+    {
+     "h": 2.524977777777778,
+     "dim": "the_nether",
+     "back_s": 11219.709,
+     "censor_s": 209892.294,
+     "respawn_at_world_spawn": true
+    },
+    {
+     "h": 3.272476111111111,
+     "dim": "overworld",
+     "back_s": 78862.154,
+     "censor_s": 207201.3,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 3.6705738888888892,
+     "dim": "overworld",
+     "back_s": null,
+     "censor_s": 205768.148,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 4.117715277777777,
+     "dim": "overworld",
+     "back_s": null,
+     "censor_s": 204158.439,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 4.664396111111111,
+     "dim": "overworld",
+     "back_s": 37.412,
+     "censor_s": 202190.388,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 4.699468055555555,
+     "dim": "overworld",
+     "back_s": null,
+     "censor_s": 202064.129,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 5.2785275,
+     "dim": "overworld",
+     "back_s": 166.786,
+     "censor_s": 199979.515,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 6.076783055555556,
+     "dim": "the_nether",
+     "back_s": 1823.556,
+     "censor_s": 197105.795,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 6.8066875,
+     "dim": "the_nether",
+     "back_s": null,
+     "censor_s": 194478.139,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 8.944610833333332,
+     "dim": "overworld",
+     "back_s": 80.326,
+     "censor_s": 186781.615,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 9.4997275,
+     "dim": "overworld",
+     "back_s": 5139.563,
+     "censor_s": 184783.195,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 14.333301944444445,
+     "dim": "the_nether",
+     "back_s": 13879.861,
+     "censor_s": 167382.327,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 15.922873611111111,
+     "dim": "overworld",
+     "back_s": 886.509,
+     "censor_s": 161659.869,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 16.493500555555556,
+     "dim": "overworld",
+     "back_s": null,
+     "censor_s": 159605.612,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 16.9855025,
+     "dim": "overworld",
+     "back_s": 11.367,
+     "censor_s": 157834.405,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 17.388226111111113,
+     "dim": "overworld",
+     "back_s": null,
+     "censor_s": 156384.6,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 17.953051944444443,
+     "dim": "overworld",
+     "back_s": 48.647,
+     "censor_s": 154351.227,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 21.158880277777776,
+     "dim": "overworld",
+     "back_s": 3459.689,
+     "censor_s": 142810.245,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 22.271898055555557,
+     "dim": "overworld",
+     "back_s": 24776.067,
+     "censor_s": 138803.381,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 23.286194722222223,
+     "dim": "overworld",
+     "back_s": null,
+     "censor_s": 135151.913,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 23.598390555555557,
+     "dim": "overworld",
+     "back_s": null,
+     "censor_s": 134028.008,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 24.09361527777778,
+     "dim": "overworld",
+     "back_s": null,
+     "censor_s": 132245.199,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 24.733159444444443,
+     "dim": "overworld",
+     "back_s": null,
+     "censor_s": 129942.84,
+     "respawn_at_world_spawn": true
+    },
+    {
+     "h": 24.94250777777778,
+     "dim": "overworld",
+     "back_s": 2950.314,
+     "censor_s": 129189.186,
+     "respawn_at_world_spawn": true
+    },
+    {
+     "h": 25.587108333333333,
+     "dim": "overworld",
+     "back_s": 10060.932,
+     "censor_s": 126868.624,
+     "respawn_at_world_spawn": true
+    },
+    {
+     "h": 27.435254722222222,
+     "dim": "overworld",
+     "back_s": null,
+     "censor_s": 120215.297,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 27.77263138888889,
+     "dim": "overworld",
+     "back_s": 12.8,
+     "censor_s": 119000.741,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 27.86027,
+     "dim": "overworld",
+     "back_s": 37.342,
+     "censor_s": 118685.242,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 28.60169,
+     "dim": "the_nether",
+     "back_s": 928.681,
+     "censor_s": 116016.13,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 30.746073055555556,
+     "dim": "the_nether",
+     "back_s": 3620.058,
+     "censor_s": 108296.351,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 31.786535,
+     "dim": "the_nether",
+     "back_s": 19976.905,
+     "censor_s": 104550.688,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 32.52997222222222,
+     "dim": "the_nether",
+     "back_s": 2908.721,
+     "censor_s": 101874.314,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 33.15835916666666,
+     "dim": "overworld",
+     "back_s": 186.47,
+     "censor_s": 99612.121,
+     "respawn_at_world_spawn": true
+    },
+    {
+     "h": 33.176650555555554,
+     "dim": "overworld",
+     "back_s": 33784.878,
+     "censor_s": 99546.272,
+     "respawn_at_world_spawn": true
+    },
+    {
+     "h": 33.359430277777776,
+     "dim": "the_nether",
+     "back_s": null,
+     "censor_s": 98888.265,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 33.458555,
+     "dim": "the_nether",
+     "back_s": null,
+     "censor_s": 98531.416,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 34.43364166666667,
+     "dim": "the_nether",
+     "back_s": null,
+     "censor_s": 95021.104,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 35.57521444444444,
+     "dim": "the_nether",
+     "back_s": 5457.56,
+     "censor_s": 90911.442,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 35.884882777777776,
+     "dim": "overworld",
+     "back_s": null,
+     "censor_s": 89796.636,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 37.49151333333334,
+     "dim": "the_nether",
+     "back_s": 2609.404,
+     "censor_s": 84012.766,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 38.97740583333333,
+     "dim": "overworld",
+     "back_s": 5211.259,
+     "censor_s": 78663.553,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 40.498399166666665,
+     "dim": "the_end",
+     "back_s": 225.743,
+     "censor_s": 73187.977,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 40.538982777777775,
+     "dim": "overworld",
+     "back_s": 9.638,
+     "censor_s": 73041.876,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 40.553760555555556,
+     "dim": "the_end",
+     "back_s": null,
+     "censor_s": 72988.676,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 40.56198277777778,
+     "dim": "the_end",
+     "back_s": 996.971,
+     "censor_s": 72959.076,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 40.84681833333333,
+     "dim": "the_end",
+     "back_s": 41.571,
+     "censor_s": 71933.668,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 41.08542972222222,
+     "dim": "the_end",
+     "back_s": 1362.876,
+     "censor_s": 71074.667,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 41.11268,
+     "dim": "the_end",
+     "back_s": 1014.732,
+     "censor_s": 70976.566,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 41.28022305555556,
+     "dim": "overworld",
+     "back_s": 151.549,
+     "censor_s": 70373.411,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 41.65989138888889,
+     "dim": "the_end",
+     "back_s": 795.016,
+     "censor_s": 69006.605,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 41.693015833333334,
+     "dim": "the_end",
+     "back_s": null,
+     "censor_s": 68887.357,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 41.70640527777778,
+     "dim": "the_end",
+     "back_s": null,
+     "censor_s": 68839.155,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 42.09653222222222,
+     "dim": "the_end",
+     "back_s": null,
+     "censor_s": 67434.698,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 42.51703305555555,
+     "dim": "the_end",
+     "back_s": null,
+     "censor_s": 65920.895,
+     "respawn_at_world_spawn": true
+    },
+    {
+     "h": 42.553216666666664,
+     "dim": "overworld",
+     "back_s": 9.237,
+     "censor_s": 65790.634,
+     "respawn_at_world_spawn": true
+    },
+    {
+     "h": 43.59834222222222,
+     "dim": "overworld",
+     "back_s": 67.247,
+     "censor_s": 62028.182,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 44.01191333333333,
+     "dim": "the_end",
+     "back_s": 56515.681,
+     "censor_s": 60539.326,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 44.026024166666666,
+     "dim": "the_end",
+     "back_s": null,
+     "censor_s": 60488.527,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 44.120135833333336,
+     "dim": "the_end",
+     "back_s": 339.059,
+     "censor_s": 60149.725,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 44.178691944444445,
+     "dim": "overworld",
+     "back_s": 11369.714,
+     "censor_s": 59938.923,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 44.24103888888889,
+     "dim": "the_end",
+     "back_s": null,
+     "censor_s": 59714.474,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 44.258178055555554,
+     "dim": "the_end",
+     "back_s": null,
+     "censor_s": 59652.773,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 44.27271972222222,
+     "dim": "overworld",
+     "back_s": 9.787,
+     "censor_s": 59600.423,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 44.3526375,
+     "dim": "overworld",
+     "back_s": 12.122,
+     "censor_s": 59312.719,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 44.36333111111111,
+     "dim": "overworld",
+     "back_s": 13.63,
+     "censor_s": 59274.222,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 44.37826194444444,
+     "dim": "overworld",
+     "back_s": 9.885,
+     "censor_s": 59220.471,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 44.388261944444444,
+     "dim": "overworld",
+     "back_s": null,
+     "censor_s": 59184.471,
+     "respawn_at_world_spawn": true
+    },
+    {
+     "h": 44.55362083333333,
+     "dim": "overworld",
+     "back_s": null,
+     "censor_s": 58589.179,
+     "respawn_at_world_spawn": true
+    },
+    {
+     "h": 44.959509722222215,
+     "dim": "overworld",
+     "back_s": 12479.306,
+     "censor_s": 57127.979,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 45.62655888888889,
+     "dim": "overworld",
+     "back_s": 26.586,
+     "censor_s": 54726.602,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 46.19495055555555,
+     "dim": "overworld",
+     "back_s": 10.639,
+     "censor_s": 52680.392,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 47.42835916666667,
+     "dim": "the_end",
+     "back_s": null,
+     "censor_s": 48240.121,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 47.53048444444445,
+     "dim": "overworld",
+     "back_s": null,
+     "censor_s": 47872.47,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 47.93154222222222,
+     "dim": "overworld",
+     "back_s": null,
+     "censor_s": 46428.662,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 48.16445944444445,
+     "dim": "overworld",
+     "back_s": 51.36,
+     "censor_s": 45590.16,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 48.320251666666664,
+     "dim": "overworld",
+     "back_s": 30.73,
+     "censor_s": 45029.308,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 49.25345111111111,
+     "dim": "the_end",
+     "back_s": 121.511,
+     "censor_s": 41669.79,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 49.292006111111114,
+     "dim": "the_end",
+     "back_s": 4913.373,
+     "censor_s": 41530.992,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 49.48820166666667,
+     "dim": "overworld",
+     "back_s": 176.685,
+     "censor_s": 40824.688,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 52.29763,
+     "dim": "the_end",
+     "back_s": null,
+     "censor_s": 30710.746,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 52.35414388888889,
+     "dim": "the_end",
+     "back_s": null,
+     "censor_s": 30507.296,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 52.39803333333334,
+     "dim": "overworld",
+     "back_s": 5853.183,
+     "censor_s": 30349.294,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 52.624853888888886,
+     "dim": "the_end",
+     "back_s": null,
+     "censor_s": 29532.74,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 52.635756666666666,
+     "dim": "the_end",
+     "back_s": null,
+     "censor_s": 29493.49,
+     "respawn_at_world_spawn": true
+    },
+    {
+     "h": 52.83356333333334,
+     "dim": "overworld",
+     "back_s": null,
+     "censor_s": 28781.386,
+     "respawn_at_world_spawn": true
+    },
+    {
+     "h": 53.52231666666667,
+     "dim": "overworld",
+     "back_s": 35.551,
+     "censor_s": 26301.874,
+     "respawn_at_world_spawn": true
+    },
+    {
+     "h": 54.12713805555555,
+     "dim": "overworld",
+     "back_s": null,
+     "censor_s": 24124.517,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 54.23340222222222,
+     "dim": "overworld",
+     "back_s": null,
+     "censor_s": 23741.966,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 54.253458055555555,
+     "dim": "overworld",
+     "back_s": 233.772,
+     "censor_s": 23669.765,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 54.64125138888889,
+     "dim": "overworld",
+     "back_s": 1628.19,
+     "censor_s": 22273.709,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 54.9586825,
+     "dim": "overworld",
+     "back_s": null,
+     "censor_s": 21130.957,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 54.98661333333333,
+     "dim": "overworld",
+     "back_s": 104.7,
+     "censor_s": 21030.406,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 55.60364361111111,
+     "dim": "overworld",
+     "back_s": null,
+     "censor_s": 18809.097,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 56.45760555555556,
+     "dim": "overworld",
+     "back_s": null,
+     "censor_s": 15734.834,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 56.70660666666667,
+     "dim": "overworld",
+     "back_s": null,
+     "censor_s": 14838.43,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 57.04560805555556,
+     "dim": "overworld",
+     "back_s": null,
+     "censor_s": 13618.025,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 57.098483333333334,
+     "dim": "overworld",
+     "back_s": null,
+     "censor_s": 13427.674,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 57.27790055555556,
+     "dim": "overworld",
+     "back_s": null,
+     "censor_s": 12781.772,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 57.54824861111111,
+     "dim": "overworld",
+     "back_s": null,
+     "censor_s": 11808.519,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 58.336974166666664,
+     "dim": "overworld",
+     "back_s": 55.08,
+     "censor_s": 8969.107,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 59.51526944444444,
+     "dim": "the_end",
+     "back_s": 223.558,
+     "censor_s": 4727.244,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 59.86989638888889,
+     "dim": "the_end",
+     "back_s": 337.027,
+     "censor_s": 3450.587,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 60.44717527777778,
+     "dim": "the_end",
+     "back_s": 679.136,
+     "censor_s": 1372.383,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 60.642231111111116,
+     "dim": "the_end",
+     "back_s": 226.967,
+     "censor_s": 670.182,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 60.675718055555556,
+     "dim": "overworld",
+     "back_s": null,
+     "censor_s": 549.629,
+     "respawn_at_world_spawn": false
+    },
+    {
+     "h": 60.71730138888889,
+     "dim": "the_end",
+     "back_s": 96.73,
+     "censor_s": 399.929,
+     "respawn_at_world_spawn": false
+    }
+   ],
+   "hours_by_dim": {
+    "overworld": 40.26158055555254,
+    "the_nether": 9.47891277777825,
+    "the_end": 4.025578611111161
+   },
+   "deaths_by_dim": [
+    [
+     "overworld",
+     67
+    ],
+    [
+     "the_end",
+     28
+    ],
+    [
+     "the_nether",
+     17
+    ],
+    [
+     null,
+     2
+    ]
+   ],
+   "respawns_at_world_spawn": 18,
+   "first_frame_h": 0.8858247222222222,
+   "spawn_dist_note": "respawn within 30 blocks of the first connect position"
+  },
+  "tokens": {
+   "input_tokens": 6308,
+   "cache_read_input_tokens": 636461306,
+   "cache_creation_input_tokens": 3795105,
+   "output_tokens": 2396077,
+   "thinking_tokens": 1035223,
+   "cache_1h": 3795105,
+   "cache_5m": 0,
+   "api_responses": 3149
+  }
+ },
+ "team": {
+  "win_h": 27.233333333333334,
+  "programs": 2783,
+  "distinct_lines": 63313,
+  "deaths": 605,
+  "milestones_min": {
+   "stone_tools": 6,
+   "iron_tools": 14,
+   "bucket": 14,
+   "flint_and_steel": 64,
+   "nether_portal": 102,
+   "fortress": 177,
+   "ender_pearls": 186,
+   "blaze_rods": 257,
+   "eyes_of_ender": 643,
+   "stronghold": 797,
+   "the_end": 813,
+   "ten_crystals": 1594,
+   "dragon": 1634
+  }
+ }
+}

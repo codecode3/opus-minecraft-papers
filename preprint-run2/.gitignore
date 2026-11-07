@@ -1,0 +1,8 @@
+*.aux
+*.log
+*.blg
+*.out
+*.synctex.gz
+figures/preview/
+arxiv/
+arxiv.tar.gz

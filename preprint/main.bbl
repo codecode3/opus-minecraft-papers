@@ -1,0 +1,173 @@
+\begin{thebibliography}{25}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[{AI Bengineering}(2026)]{aibengineering2026}
+{AI Bengineering}.
+\newblock {Mine {AI} {MCP}: beating {Minecraft} with an {LLM} agent}.
+\newblock \url{https://github.com/aibengineering/mine-ai-mcp}, 2026.
+\newblock Dataset: \url{https://huggingface.co/datasets/aibengineering/beat-the-game-minecraft}. Run that defeated the Ender Dragon, 2026-09-15. Accessed 2026-10-13.
+
+\bibitem[{Altera.AL} et~al.(2024){Altera.AL}, Ahn, Becker, Carroll, Christie, Cortes, Demirci, Du, Li, Luo, Wang, Willows, Yang, and Yang]{altera2024sid}
+{Altera.AL}, A.~Ahn, N.~Becker, S.~Carroll, N.~Christie, M.~Cortes, A.~Demirci, M.~Du, F.~Li, S.~Luo, P.~Y. Wang, M.~Willows, F.~Yang, and G.~R. Yang.
+\newblock {Project {Sid}: Many-agent simulations toward {AI} civilization}.
+\newblock \emph{arXiv preprint arXiv:2411.00114}, 2024.
+\newblock \doi{10.48550/arXiv.2411.00114}.
+\newblock URL \url{https://arxiv.org/abs/2411.00114}.
+
+\bibitem[{Anthropic}(2026)]{claudecode}
+{Anthropic}.
+\newblock {Claude {Code}}.
+\newblock \url{https://code.claude.com/docs}, 2026.
+\newblock Agentic coding tool. Accessed 2026-11-04.
+
+\bibitem[Baker et~al.(2022)Baker, Akkaya, Zhokhov, Huizinga, Tang, Ecoffet, Houghton, Sampedro, and Clune]{baker2022vpt}
+B.~Baker, I.~Akkaya, P.~Zhokhov, J.~Huizinga, J.~Tang, A.~Ecoffet, B.~Houghton, R.~Sampedro, and J.~Clune.
+\newblock {Video {PreTraining} ({VPT}): Learning to Act by Watching Unlabeled Online Videos}.
+\newblock In \emph{Advances in Neural Information Processing Systems}, 2022.
+\newblock \doi{10.48550/arXiv.2206.11795}.
+\newblock URL \url{https://arxiv.org/abs/2206.11795}.
+
+\bibitem[Faldor et~al.(2026)Faldor, Singh, and Raileanu]{faldor2026team}
+M.~Faldor, S.~Singh, and R.~Raileanu.
+\newblock {A team of {Gemini} 4 {Argon} agents beats {Minecraft}}.
+\newblock \emph{arXiv preprint arXiv:2610.22319}, 2026.
+\newblock \doi{10.48550/arXiv.2610.22319}.
+\newblock URL \url{https://arxiv.org/abs/2610.22319}.
+
+\bibitem[Fan et~al.(2022)Fan, Wang, Jiang, Mandlekar, Yang, Zhu, Tang, Huang, Zhu, and Anandkumar]{fan2022minedojo}
+L.~Fan, G.~Wang, Y.~Jiang, A.~Mandlekar, Y.~Yang, H.~Zhu, A.~Tang, D.-A. Huang, Y.~Zhu, and A.~Anandkumar.
+\newblock {{MineDojo}: Building Open-Ended Embodied Agents with Internet-Scale Knowledge}.
+\newblock In \emph{Advances in Neural Information Processing Systems (NeurIPS), Datasets and Benchmarks Track}, 2022.
+\newblock \doi{10.48550/arXiv.2206.08853}.
+\newblock URL \url{https://arxiv.org/abs/2206.08853}.
+
+\bibitem[Gong et~al.(2024)Gong, Huang, Ma, Noda, Durante, Zheng, Terzopoulos, Fei-Fei, Gao, and Vo]{gong2024mindagent}
+R.~Gong, Q.~Huang, X.~Ma, Y.~Noda, Z.~Durante, Z.~Zheng, D.~Terzopoulos, L.~Fei-Fei, J.~Gao, and H.~Vo.
+\newblock {{MindAgent}: Emergent Gaming Interaction}.
+\newblock In \emph{Findings of the Association for Computational Linguistics: NAACL 2024}, pages 3154--3183. Association for Computational Linguistics, 2024.
+\newblock \doi{10.18653/v1/2024.findings-naacl.200}.
+
+\bibitem[Guss et~al.(2019{\natexlab{a}})Guss, Codel, Hofmann, Houghton, Kuno, Milani, Mohanty, Liebana, Salakhutdinov, Topin, Veloso, and Wang]{guss2019competition}
+W.~H. Guss, C.~Codel, K.~Hofmann, B.~Houghton, N.~Kuno, S.~Milani, S.~Mohanty, D.~P. Liebana, R.~Salakhutdinov, N.~Topin, M.~Veloso, and P.~Wang.
+\newblock {The {MineRL} 2019 Competition on Sample Efficient Reinforcement Learning using Human Priors}.
+\newblock \emph{arXiv preprint arXiv:1904.10079}, 2019{\natexlab{a}}.
+\newblock \doi{10.48550/arXiv.1904.10079}.
+\newblock URL \url{https://arxiv.org/abs/1904.10079}.
+
+\bibitem[Guss et~al.(2019{\natexlab{b}})Guss, Houghton, Topin, Wang, Codel, Veloso, and Salakhutdinov]{guss2019minerl}
+W.~H. Guss, B.~Houghton, N.~Topin, P.~Wang, C.~Codel, M.~Veloso, and R.~Salakhutdinov.
+\newblock {{MineRL}: A Large-Scale Dataset of {Minecraft} Demonstrations}.
+\newblock In \emph{Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence (IJCAI)}, pages 2442--2448. International Joint Conferences on Artificial Intelligence Organization, 2019{\natexlab{b}}.
+\newblock \doi{10.24963/ijcai.2019/339}.
+
+\bibitem[Hafner et~al.(2025)Hafner, Pasukonis, Ba, and Lillicrap]{hafner2025dreamer}
+D.~Hafner, J.~Pasukonis, J.~Ba, and T.~Lillicrap.
+\newblock {Mastering diverse control tasks through world models}.
+\newblock \emph{Nature}, 640\penalty0 (8059):\penalty0 647--653, 2025.
+\newblock \doi{10.1038/s41586-025-08744-2}.
+
+\bibitem[Li et~al.(2024)Li, Xie, Shao, Chen, Jiang, and Nie]{li2024optimus}
+Z.~Li, Y.~Xie, R.~Shao, G.~Chen, D.~Jiang, and L.~Nie.
+\newblock {{Optimus-1}: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks}.
+\newblock In \emph{Advances in Neural Information Processing Systems}, 2024.
+\newblock \doi{10.48550/arXiv.2408.03615}.
+\newblock URL \url{https://arxiv.org/abs/2408.03615}.
+
+\bibitem[Liang et~al.(2023)Liang, Huang, Xia, Xu, Hausman, Ichter, Florence, and Zeng]{liang2023code}
+J.~Liang, W.~Huang, F.~Xia, P.~Xu, K.~Hausman, B.~Ichter, P.~Florence, and A.~Zeng.
+\newblock {Code as Policies: Language Model Programs for Embodied Control}.
+\newblock In \emph{2023 IEEE International Conference on Robotics and Automation (ICRA)}, pages 9493--9500. IEEE, 2023.
+\newblock \doi{10.1109/ICRA48891.2023.10160591}.
+
+\bibitem[Lifshitz et~al.(2023)Lifshitz, Paster, Chan, Ba, and McIlraith]{lifshitz2023steve}
+S.~Lifshitz, K.~Paster, H.~Chan, J.~Ba, and S.~McIlraith.
+\newblock {{STEVE-1}: A Generative Model for Text-to-Behavior in {Minecraft}}.
+\newblock In \emph{Advances in Neural Information Processing Systems}, 2023.
+\newblock \doi{10.48550/arXiv.2306.00937}.
+\newblock URL \url{https://arxiv.org/abs/2306.00937}.
+
+\bibitem[Malde(2026)]{malde2026astra}
+R.~Malde.
+\newblock {Astra and {JEV} {Minecraft} agent}.
+\newblock \url{https://github.com/rmalde/minecraft-agent}, 2026.
+\newblock GitHub repository, created 2026-09-20. Accessed 2026-10-13.
+
+\bibitem[{PrismarineJS}(2026)]{mineflayer}
+{PrismarineJS}.
+\newblock {Mineflayer: create {Minecraft} bots with a stable, high level {JavaScript} {API}}.
+\newblock \url{https://github.com/PrismarineJS/mineflayer}, 2026.
+\newblock Version 4.39.0, with mineflayer-pathfinder 2.4.5.
+
+\bibitem[{SIMA Team}(2024)]{sima2024}
+{SIMA Team}.
+\newblock {Scaling Instructable Agents Across Many Simulated Worlds}.
+\newblock \emph{arXiv preprint arXiv:2404.10179}, 2024.
+\newblock \doi{10.48550/arXiv.2404.10179}.
+\newblock URL \url{https://arxiv.org/abs/2404.10179}.
+
+\bibitem[{SIMA Team}(2025)]{sima2025}
+{SIMA Team}.
+\newblock {{SIMA} 2: A Generalist Embodied Agent for Virtual Worlds}.
+\newblock \emph{arXiv preprint arXiv:2512.04797}, 2025.
+\newblock \doi{10.48550/arXiv.2512.04797}.
+\newblock URL \url{https://arxiv.org/abs/2512.04797}.
+
+\bibitem[Wang et~al.(2024)Wang, Xie, Jiang, Mandlekar, Xiao, Zhu, Fan, and Anandkumar]{wang2024voyager}
+G.~Wang, Y.~Xie, Y.~Jiang, A.~Mandlekar, C.~Xiao, Y.~Zhu, L.~Fan, and A.~Anandkumar.
+\newblock {Voyager: An Open-Ended Embodied Agent with Large Language Models}.
+\newblock \emph{Transactions on Machine Learning Research}, 2024.
+\newblock \doi{10.48550/arXiv.2305.16291}.
+\newblock URL \url{https://arxiv.org/abs/2305.16291}.
+
+\bibitem[Wang et~al.(2023)Wang, Cai, Chen, Liu, Ma, and Liang]{wang2023deps}
+Z.~Wang, S.~Cai, G.~Chen, A.~Liu, X.~Ma, and Y.~Liang.
+\newblock {Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents}.
+\newblock In \emph{Advances in Neural Information Processing Systems}, 2023.
+\newblock \doi{10.48550/arXiv.2302.01560}.
+\newblock URL \url{https://arxiv.org/abs/2302.01560}.
+
+\bibitem[Wang et~al.(2025)Wang, Cai, Liu, Jin, Hou, Zhang, Lin, He, Zheng, Yang, Ma, and Liang]{wang2025jarvis}
+Z.~Wang, S.~Cai, A.~Liu, Y.~Jin, J.~Hou, B.~Zhang, H.~Lin, Z.~He, Z.~Zheng, Y.~Yang, X.~Ma, and Y.~Liang.
+\newblock {{JARVIS-1}: Open-World Multi-Task Agents With Memory-Augmented Multimodal Language Models}.
+\newblock \emph{IEEE Transactions on Pattern Analysis and Machine Intelligence}, 47\penalty0 (3):\penalty0 1894--1907, 2025.
+\newblock \doi{10.1109/TPAMI.2024.3511593}.
+
+\bibitem[White et~al.(2025)White, Nottingham, Maniar, Robinson, Lillemark, Maheshwari, Qin, and Ammanabrolu]{white2025collaborating}
+I.~White, K.~Nottingham, A.~Maniar, M.~Robinson, H.~Lillemark, M.~Maheshwari, L.~Qin, and P.~Ammanabrolu.
+\newblock {Collaborating Action by Action: A Multi-agent {LLM} Framework for Embodied Reasoning}.
+\newblock \emph{arXiv preprint arXiv:2504.17950}, 2025.
+\newblock \doi{10.48550/arXiv.2504.17950}.
+\newblock URL \url{https://arxiv.org/abs/2504.17950}.
+
+\bibitem[{XSSheep} and {Nova\_Wostra}(2026)]{pixelperfection}
+{XSSheep} and {Nova\_Wostra}.
+\newblock {Pixel {Perfection} {Legacy} texture pack}.
+\newblock \url{https://modrinth.com/resourcepack/pixel-perfection-legacy}, 2026.
+\newblock Version 13.21.3. Licensed under CC BY-SA 4.0.
+
+\bibitem[Yao et~al.(2023)Yao, Zhao, Yu, Du, Shafran, Narasimhan, and Cao]{yao2023react}
+S.~Yao, J.~Zhao, D.~Yu, N.~Du, I.~Shafran, K.~Narasimhan, and Y.~Cao.
+\newblock {{ReAct}: Synergizing Reasoning and Acting in Language Models}.
+\newblock In \emph{International Conference on Learning Representations}, 2023.
+\newblock \doi{10.48550/arXiv.2210.03629}.
+\newblock URL \url{https://arxiv.org/abs/2210.03629}.
+
+\bibitem[Yuan et~al.(2023)Yuan, Zhang, Wang, Xie, Cai, Dong, and Lu]{yuan2023plan4mc}
+H.~Yuan, C.~Zhang, H.~Wang, F.~Xie, P.~Cai, H.~Dong, and Z.~Lu.
+\newblock {Skill Reinforcement Learning and Planning for Open-World Long-Horizon Tasks}.
+\newblock \emph{arXiv preprint arXiv:2303.16563}, 2023.
+\newblock \doi{10.48550/arXiv.2303.16563}.
+\newblock URL \url{https://arxiv.org/abs/2303.16563}.
+
+\bibitem[Zhu et~al.(2023)Zhu, Chen, Tian, Tao, Su, Yang, Huang, Li, Lu, Wang, Qiao, Zhang, and Dai]{zhu2023gitm}
+X.~Zhu, Y.~Chen, H.~Tian, C.~Tao, W.~Su, C.~Yang, G.~Huang, B.~Li, L.~Lu, X.~Wang, Y.~Qiao, Z.~Zhang, and J.~Dai.
+\newblock {Ghost in the {Minecraft}: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory}.
+\newblock \emph{arXiv preprint arXiv:2305.17144}, 2023.
+\newblock \doi{10.48550/arXiv.2305.17144}.
+\newblock URL \url{https://arxiv.org/abs/2305.17144}.
+
+\end{thebibliography}
