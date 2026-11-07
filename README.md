@@ -8,8 +8,8 @@ No organisation keeps this record, so the claim rests on our own search of publi
 
 | Run | Time | Why it's outside |
 | --- | --- | --- |
-| [Claude Opus 5 with mine-ai-mcp](https://huggingface.co/datasets/aibengineering/beat-the-game-minecraft), 15 September 2026 | 3 h 56 min | Also one LLM in one unbroken session, but a different setup: 37 ready-made game tools, including dragon-fighting tools; Normal difficulty; a set seed; Minecraft 1.21.4 |
-| [Astra and JEV](https://github.com/rmalde/minecraft-agent) | 8 min 43 s | Two models, not one continuous session (35 planner calls and 131 action decisions on a fixed route); a fixed seed; Peaceful difficulty; beds used on the dragon; Minecraft 1.16.5 |
+| [Claude Opus 5 with mine-ai-mcp](https://huggingface.co/datasets/aibengineering/beat-the-game-minecraft), 15 September 2026 | 3 h 56 min | **NOT A RANDOM SEED** (seed set to 97996358). Also a different setup: 37 ready-made game tools, including dragon-fighting tools; Normal difficulty; Minecraft 1.21.4. Like run 4, it was one LLM in one unbroken session |
+| [Astra and JEV](https://github.com/rmalde/minecraft-agent) | 8 min 43 s | **NOT A RANDOM SEED** (a fixed seed that its README says has a village, three supply chests with 21 obsidian and a naturally active End portal). Also two models, not one continuous session (35 planner calls and 131 action decisions on a fixed route); Peaceful difficulty; beds used on the dragon; Minecraft 1.16.5 |
 | [Fastest human](https://www.speedrun.com/mc/runs/y44238ky), random seed, 1.16+ | 6 min 40 s of game time | A person playing, not an LLM |
 
 Three preprints by Ben Batsuk on Claude Opus 5.5 agents defeating the Ender Dragon in Minecraft Java Edition 1.20.4, on Easy difficulty, in randomly generated worlds. Each agent plays alone by writing Mineflayer programs, and each one after the first inherits the files of the players before it.
