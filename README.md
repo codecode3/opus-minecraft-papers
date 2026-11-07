@@ -1,4 +1,4 @@
-# Opus plays Minecraft: three papers and a world record in its category
+# World record in its category: Opus beats Minecraft in 6:50:52
 
 **World record in its category, as of 7 November 2026.** The category is an engineering challenge: engineer an agent in this setup that beats the previous record, with an LLM running the attempt from beginning to end and keeping its own continuous session alive. Run 4's 6:50:52 is, to our knowledge, the fastest in this category. The previous record was run 2's 9:16:17. In the same game setup, a team of four Gemini 4 Argon agents took 27:14.
 
