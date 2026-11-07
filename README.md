@@ -35,6 +35,6 @@ The three PDFs are at the top of this repo. Everything else is in `source/`, wit
 
 To build a paper, run this in its folder under `source/`: `pdflatex main && bibtex main && pdflatex main && pdflatex main`.
 
-The run records (programs, events, server logs, camera frames and transcripts) are not public, so `run_data.py` and run 1's `make_figures.py` can't be rerun from this repo. The worlds' seeds are withheld.
+The run records (programs, events, server logs, camera frames and transcripts) are not public, so `run_data.py` and run 1's `make_figures.py` can't be rerun from this repo. Each paper gives its run's world seed, and the run 4 paper lists all four.
 
 The item icons and camera renders use the open-source [Pixel Perfection](https://modrinth.com/resourcepack/pixel-perfection-legacy) texture pack by XSSheep and Nova_Wostra (CC BY-SA 4.0), not Minecraft's textures. Minecraft is a registered trademark of Mojang Synergies AB / Microsoft Corporation. This independent research is not approved by or affiliated with Mojang or Microsoft.
