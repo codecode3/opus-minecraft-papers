@@ -1,16 +1,18 @@
 # Opus plays Minecraft: three papers
 
-**World record in its category, as of 7 November 2026.** Run 4's 6:50:52 is, to our knowledge, the fastest published Ender Dragon kill by an AI agent working only through the standard Mineflayer library, in an unfiltered random survival world on Easy, with no game code written by humans. The code it inherited was written by earlier AI players, and it was also given written strategy notes. The previous best under these rules was run 2's 9:16:17, and a team of four Gemini 4 Argon agents took 27:14.
+**World record in its category, as of 7 November 2026.** The category is an engineering challenge: engineer an agent in this setup that beats the previous record, with an LLM running the attempt from beginning to end and keeping its own continuous session alive. Run 4's 6:50:52 is, to our knowledge, the fastest in this category. The previous record was run 2's 9:16:17. In the same game setup, a team of four Gemini 4 Argon agents took 27:14.
 
-No organisation keeps this record, so the claim rests on our own search of published runs. Faster runs exist under other rules:
+The setup copies the environment of [Faldor et al. (2026)](https://arxiv.org/abs/2610.22319): Minecraft Java 1.20.4, survival on Easy in an unfiltered random world, played through the standard Mineflayer library and its pathfinding plugin by JavaScript programs the agent sends. How the agent is engineered is open. Run 4's agent started with earlier players' files and written strategy notes. It played as one Claude Code session with no resets and no messages from researchers. The harness's standard line telling it to keep going reached it once, at 0:34.
 
-| Run | Time | How the rules differ |
+No organisation keeps this record, so the claim rests on our own search of published runs. Faster runs exist outside the category:
+
+| Run | Time | Why it's outside |
 | --- | --- | --- |
-| [Claude Opus 5 with mine-ai-mcp](https://huggingface.co/datasets/aibengineering/beat-the-game-minecraft), 15 September 2026 | 3 h 56 min | 37 ready-made game tools, including dragon-fighting tools; Normal difficulty; a set seed; Minecraft 1.21.4 |
-| [Astra and JEV](https://github.com/rmalde/minecraft-agent) | 8 min 43 s | A planner with an action-selection model; a fixed seed; Peaceful difficulty; beds used on the dragon; Minecraft 1.16.5 |
-| [Fastest human](https://www.speedrun.com/mc/runs/y44238ky), random seed, 1.16+ | 6 min 40 s of game time | A person playing |
+| [Claude Opus 5 with mine-ai-mcp](https://huggingface.co/datasets/aibengineering/beat-the-game-minecraft), 15 September 2026 | 3 h 56 min | Also one LLM in one unbroken session, but a different setup: 37 ready-made game tools, including dragon-fighting tools; Normal difficulty; a set seed; Minecraft 1.21.4 |
+| [Astra and JEV](https://github.com/rmalde/minecraft-agent) | 8 min 43 s | Two models, not one continuous session (35 planner calls and 131 action decisions on a fixed route); a fixed seed; Peaceful difficulty; beds used on the dragon; Minecraft 1.16.5 |
+| [Fastest human](https://www.speedrun.com/mc/runs/y44238ky), random seed, 1.16+ | 6 min 40 s of game time | A person playing, not an LLM |
 
-Three preprints by Ben Batsuk on Claude Opus 5.5 agents defeating the Ender Dragon in Minecraft Java Edition 1.20.4, on Easy difficulty, in randomly generated worlds. Each agent plays alone by writing Mineflayer programs, and each one after the first inherits the files of the players before it. The environment copies the one in [Faldor et al. (2026)](https://arxiv.org/abs/2610.22319).
+Three preprints by Ben Batsuk on Claude Opus 5.5 agents defeating the Ender Dragon in Minecraft Java Edition 1.20.4, on Easy difficulty, in randomly generated worlds. Each agent plays alone by writing Mineflayer programs, and each one after the first inherits the files of the players before it.
 
 | Attempt | Paper | Official time | Deaths | Programs |
 | --- | --- | --- | --- | --- |
