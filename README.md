@@ -1,6 +1,6 @@
 # Opus plays Minecraft: three papers
 
-Three preprints by Ben Batsuk on Claude Opus 5.5 agents defeating the Ender Dragon in Minecraft Java Edition 1.20.4, on Easy difficulty, in randomly generated worlds. Each agent plays alone by writing Mineflayer programs and inherits the files of the players before it. The environment copies the one in [Faldor et al. (2026)](https://arxiv.org/abs/2610.22319).
+Three preprints by Ben Batsuk on Claude Opus 5.5 agents defeating the Ender Dragon in Minecraft Java Edition 1.20.4, on Easy difficulty, in randomly generated worlds. Each agent plays alone by writing Mineflayer programs, and each one after the first inherits the files of the players before it. The environment copies the one in [Faldor et al. (2026)](https://arxiv.org/abs/2610.22319).
 
 | Attempt | Paper | Official time | Deaths | Programs |
 | --- | --- | --- | --- | --- |
@@ -19,10 +19,10 @@ Each folder holds one paper:
 - `main.tex`, `refs.bib`, `main.bbl`: its source
 - `data/`: the measurements behind its numbers and figures
 - `figures/`: the figures
-- `scripts/`: `run_data.py` computes `data/` from the run records, and `make_figures.py` draws the figures from `data/`
+- `scripts/`: `run_data.py` computes `data/` from the run records, and `make_figures.py` draws the figures from `data/` (run 1's also reads one run record)
 
 To build a paper, run this in its folder: `pdflatex main && bibtex main && pdflatex main && pdflatex main`.
 
-The run records (programs, events, server logs, camera frames and transcripts) are not public, so `run_data.py` can't be rerun from this repo. The worlds' seeds are withheld.
+The run records (programs, events, server logs, camera frames and transcripts) are not public, so `run_data.py` and run 1's `make_figures.py` can't be rerun from this repo. The worlds' seeds are withheld.
 
-The item icons and camera renders use the open-source [Pixel Perfection](https://www.curseforge.com/minecraft/texture-packs/pixel-perfection-legacy) texture pack by XSSheep and Nova_Wostra (CC BY-SA 4.0), not Minecraft's textures. Minecraft is a registered trademark of Mojang Synergies AB / Microsoft Corporation. This independent research is not approved by or affiliated with Mojang or Microsoft.
+The item icons and camera renders use the open-source [Pixel Perfection](https://modrinth.com/resourcepack/pixel-perfection-legacy) texture pack by XSSheep and Nova_Wostra (CC BY-SA 4.0), not Minecraft's textures. Minecraft is a registered trademark of Mojang Synergies AB / Microsoft Corporation. This independent research is not approved by or affiliated with Mojang or Microsoft.
