@@ -8,13 +8,9 @@ No organisation keeps this record, so the claim rests on our own search of publi
 
 | Run | Time | Why it's outside |
 | --- | --- | --- |
-| [Claude Opus 5 with mine-ai-mcp](https://huggingface.co/datasets/aibengineering/beat-the-game-minecraft) | 3 h 56 min | **NOT A RANDOM SEED** |
-| [Astra and JEV](https://github.com/rmalde/minecraft-agent) | 8 min 43 s | **NOT A RANDOM SEED** |
-| [Fastest human](https://www.speedrun.com/mc/runs/y44238ky) | 6 min 40 s | A person playing, not an LLM |
-
-- **Claude Opus 5 with mine-ai-mcp, 15 September 2026:** the seed was set to 97996358. It also differs in setup, with 37 ready-made game tools, including dragon-fighting tools, on Normal difficulty in Minecraft 1.21.4. Like run 4, it was one LLM in one unbroken session.
-- **Astra and JEV:** a fixed seed that its README says has a village, three supply chests with 21 obsidian and a naturally active End portal. It also used two models rather than one continuous session (35 planner calls and 131 action decisions on a fixed route), on Peaceful difficulty in Minecraft 1.16.5, with beds used on the dragon.
-- **Fastest human:** a random seed on version 1.16 or later, timed in game time.
+| [Claude&nbsp;Opus&nbsp;5&nbsp;with<br>mine-ai-mcp](https://huggingface.co/datasets/aibengineering/beat-the-game-minecraft)<br>15&nbsp;September&nbsp;2026 | 3&nbsp;h&nbsp;56&nbsp;min | **NOT A RANDOM SEED** (seed set to 97996358). Also a different setup: 37 ready-made game tools, including dragon-fighting tools; Normal difficulty; Minecraft 1.21.4. Like run 4, it was one LLM in one unbroken session |
+| [Astra&nbsp;and&nbsp;JEV](https://github.com/rmalde/minecraft-agent) | 8&nbsp;min&nbsp;43&nbsp;s | **NOT A RANDOM SEED** (a fixed seed that its README says has a village, three supply chests with 21 obsidian and a naturally active End portal). Also two models, not one continuous session (35 planner calls and 131 action decisions on a fixed route); Peaceful difficulty; beds used on the dragon; Minecraft 1.16.5 |
+| [Fastest&nbsp;human](https://www.speedrun.com/mc/runs/y44238ky)<br>random&nbsp;seed,&nbsp;1.16+ | 6&nbsp;min&nbsp;40&nbsp;s<br>of&nbsp;game&nbsp;time | A person playing, not an LLM |
 
 Three preprints by Ben Batsuk on Claude Opus 5.5 agents defeating the Ender Dragon in Minecraft Java Edition 1.20.4, on Easy difficulty, in randomly generated worlds. Each agent plays alone by writing Mineflayer programs, and each one after the first inherits the files of the players before it.
 
