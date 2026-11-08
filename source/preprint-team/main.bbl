@@ -1,0 +1,115 @@
+\begin{thebibliography}{18}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[{AI Bengineering}(2026)]{aibengineering2026}
+{AI Bengineering}.
+\newblock {Mine {AI} {MCP}: beating {Minecraft} with an {LLM} agent}.
+\newblock \url{https://github.com/aibengineering/mine-ai-mcp}, 2026.
+\newblock Dataset: \url{https://huggingface.co/datasets/aibengineering/beat-the-game-minecraft}. Run that defeated the Ender Dragon, 2026-09-15. Accessed 2026-10-13.
+
+\bibitem[{Altera.AL} et~al.(2024){Altera.AL}, Ahn, Becker, Carroll, Christie, Cortes, Demirci, Du, Li, Luo, Wang, Willows, Yang, and Yang]{altera2024sid}
+{Altera.AL}, A.~Ahn, N.~Becker, S.~Carroll, N.~Christie, M.~Cortes, A.~Demirci, M.~Du, F.~Li, S.~Luo, P.~Y. Wang, M.~Willows, F.~Yang, and G.~R. Yang.
+\newblock {Project {Sid}: Many-agent simulations toward {AI} civilization}.
+\newblock \emph{arXiv preprint arXiv:2411.00114}, 2024.
+\newblock \doi{10.48550/arXiv.2411.00114}.
+\newblock URL \url{https://arxiv.org/abs/2411.00114}.
+
+\bibitem[{Anthropic}(2026)]{claudecode}
+{Anthropic}.
+\newblock {Claude {Code}}.
+\newblock \url{https://code.claude.com/docs}, 2026.
+\newblock Agentic coding tool. Accessed 2026-11-04.
+
+\bibitem[Batsuk(2026{\natexlab{a}})]{batsuk2026fourth}
+B.~Batsuk.
+\newblock A {Claude Opus 5.5} agent, given three earlier players' files, beats {Minecraft} in 6 hours 51 minutes and misses its 5-hour plan, 2026{\natexlab{a}}.
+\newblock Preprint.
+
+\bibitem[Batsuk(2026{\natexlab{b}})]{batsuk2026second}
+B.~Batsuk.
+\newblock A second {Claude Opus 5.5} agent, given the first one's files, beats {Minecraft} in nine hours, 2026{\natexlab{b}}.
+\newblock Preprint.
+
+\bibitem[Batsuk(2026{\natexlab{c}})]{batsuk2026single}
+B.~Batsuk.
+\newblock A single {Claude Opus 5.5} agent beats {Minecraft}, 2026{\natexlab{c}}.
+\newblock Preprint.
+
+\bibitem[Carroll et~al.(2019)Carroll, Shah, Ho, Griffiths, Seshia, Abbeel, and Dragan]{carroll2019}
+M.~Carroll, R.~Shah, M.~K. Ho, T.~L. Griffiths, S.~A. Seshia, P.~Abbeel, and A.~Dragan.
+\newblock On the utility of learning about humans for human-{AI} coordination.
+\newblock In \emph{Advances in Neural Information Processing Systems}, 2019.
+
+\bibitem[Faldor et~al.(2026)Faldor, Singh, and Raileanu]{faldor2026team}
+M.~Faldor, S.~Singh, and R.~Raileanu.
+\newblock {A team of {Gemini} 4 {Argon} agents beats {Minecraft}}.
+\newblock \emph{arXiv preprint arXiv:2610.22319}, 2026.
+\newblock \doi{10.48550/arXiv.2610.22319}.
+\newblock URL \url{https://arxiv.org/abs/2610.22319}.
+
+\bibitem[Gong et~al.(2024)Gong, Huang, Ma, Noda, Durante, Zheng, Terzopoulos, Fei-Fei, Gao, and Vo]{gong2024mindagent}
+R.~Gong, Q.~Huang, X.~Ma, Y.~Noda, Z.~Durante, Z.~Zheng, D.~Terzopoulos, L.~Fei-Fei, J.~Gao, and H.~Vo.
+\newblock {{MindAgent}: Emergent Gaming Interaction}.
+\newblock In \emph{Findings of the Association for Computational Linguistics: NAACL 2024}, pages 3154--3183. Association for Computational Linguistics, 2024.
+\newblock \doi{10.18653/v1/2024.findings-naacl.200}.
+
+\bibitem[Liang et~al.(2023)Liang, Huang, Xia, Xu, Hausman, Ichter, Florence, and Zeng]{liang2023code}
+J.~Liang, W.~Huang, F.~Xia, P.~Xu, K.~Hausman, B.~Ichter, P.~Florence, and A.~Zeng.
+\newblock {Code as Policies: Language Model Programs for Embodied Control}.
+\newblock In \emph{2023 IEEE International Conference on Robotics and Automation (ICRA)}, pages 9493--9500. IEEE, 2023.
+\newblock \doi{10.1109/ICRA48891.2023.10160591}.
+
+\bibitem[Malde(2026)]{malde2026astra}
+R.~Malde.
+\newblock {Astra and {JEV} {Minecraft} agent}.
+\newblock \url{https://github.com/rmalde/minecraft-agent}, 2026.
+\newblock GitHub repository, created 2026-09-20. Accessed 2026-11-05.
+
+\bibitem[{Meta Fundamental AI Research Diplomacy Team (FAIR)} et~al.(2022){Meta Fundamental AI Research Diplomacy Team (FAIR)}, Bakhtin, Brown, Dinan, Farina, Flaherty, Fried, Goff, Gray, Hu, et~al.]{fair2022cicero}
+{Meta Fundamental AI Research Diplomacy Team (FAIR)}, A.~Bakhtin, N.~Brown, E.~Dinan, G.~Farina, C.~Flaherty, D.~Fried, A.~Goff, J.~Gray, H.~Hu, et~al.
+\newblock Human-level play in the game of {Diplomacy} by combining language models with strategic reasoning.
+\newblock \emph{Science}, 378\penalty0 (6624):\penalty0 1067--1074, 2022.
+
+\bibitem[Narayan-Chen et~al.(2019)Narayan-Chen, Jayannavar, and Hockenmaier]{narayanchen2019}
+A.~Narayan-Chen, P.~Jayannavar, and J.~Hockenmaier.
+\newblock Collaborative dialogue in {Minecraft}.
+\newblock In \emph{Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics}, 2019.
+
+\bibitem[{PrismarineJS}(2026)]{mineflayer}
+{PrismarineJS}.
+\newblock {Mineflayer: create {Minecraft} bots with a stable, high level {JavaScript} {API}}.
+\newblock \url{https://github.com/PrismarineJS/mineflayer}, 2026.
+\newblock Version 4.39.0, with mineflayer-pathfinder 2.4.5.
+
+\bibitem[Wang et~al.(2024)Wang, Xie, Jiang, Mandlekar, Xiao, Zhu, Fan, and Anandkumar]{wang2024voyager}
+G.~Wang, Y.~Xie, Y.~Jiang, A.~Mandlekar, C.~Xiao, Y.~Zhu, L.~Fan, and A.~Anandkumar.
+\newblock {Voyager: An Open-Ended Embodied Agent with Large Language Models}.
+\newblock \emph{Transactions on Machine Learning Research}, 2024.
+\newblock \doi{10.48550/arXiv.2305.16291}.
+\newblock URL \url{https://arxiv.org/abs/2305.16291}.
+
+\bibitem[White et~al.(2025)White, Nottingham, Maniar, Robinson, Lillemark, Maheshwari, Qin, and Ammanabrolu]{white2025collaborating}
+I.~White, K.~Nottingham, A.~Maniar, M.~Robinson, H.~Lillemark, M.~Maheshwari, L.~Qin, and P.~Ammanabrolu.
+\newblock {Collaborating Action by Action: A Multi-agent {LLM} Framework for Embodied Reasoning}.
+\newblock \emph{arXiv preprint arXiv:2504.17950}, 2025.
+\newblock \doi{10.48550/arXiv.2504.17950}.
+\newblock URL \url{https://arxiv.org/abs/2504.17950}.
+
+\bibitem[{XSSheep} and {Nova\_Wostra}(2026)]{pixelperfection}
+{XSSheep} and {Nova\_Wostra}.
+\newblock {Pixel {Perfection} {Legacy} texture pack}.
+\newblock \url{https://modrinth.com/resourcepack/pixel-perfection-legacy}, 2026.
+\newblock Version 13.21.3. Licensed under CC BY-SA 4.0.
+
+\bibitem[Yao et~al.(2023)Yao, Zhao, Yu, Du, Shafran, Narasimhan, and Cao]{yao2023react}
+S.~Yao, J.~Zhao, D.~Yu, N.~Du, I.~Shafran, K.~Narasimhan, and Y.~Cao.
+\newblock {{ReAct}: Synergizing Reasoning and Acting in Language Models}.
+\newblock In \emph{International Conference on Learning Representations}, 2023.
+\newblock \doi{10.48550/arXiv.2210.03629}.
+\newblock URL \url{https://arxiv.org/abs/2210.03629}.
+
+\end{thebibliography}

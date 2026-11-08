@@ -1,0 +1,8033 @@
+{
+ "clock": {
+  "spawn_utc": "2026-11-08T03:55:43.881000+00:00",
+  "first_program_utc": "2026-11-08T03:56:28.588000+00:00",
+  "win_utc": "2026-11-08T08:31:59.870000+00:00",
+  "official_h": 4.604441388888889,
+  "from_first_program_h": 4.592022777777777,
+  "programs_before_win_event": 695,
+  "spawn_to_first_program_s": 44.707,
+  "winner": "Human 2",
+  "first_program_s": {
+   "FoxglenOpus": 45.946,
+   "VoidmothOpus": 44.707
+  }
+ },
+ "milestones": {
+  "stone_tools": {
+   "h": 0.04517472222222222,
+   "clock": "0:02:43",
+   "by": "FoxglenOpus"
+  },
+  "iron_tools": {
+   "h": 0.24059166666666668,
+   "clock": "0:14:26",
+   "by": "FoxglenOpus"
+  },
+  "bucket": {
+   "h": 0.24106666666666668,
+   "clock": "0:14:28",
+   "by": "FoxglenOpus"
+  },
+  "flint_and_steel": {
+   "h": 0.7723561111111111,
+   "clock": "0:46:20",
+   "by": "FoxglenOpus"
+  },
+  "nether_portal": {
+   "h": 0.8115341666666667,
+   "clock": "0:48:42",
+   "by": "FoxglenOpus"
+  },
+  "fortress": {
+   "h": 0.9274441666666666,
+   "clock": "0:55:39",
+   "by": "FoxglenOpus"
+  },
+  "ender_pearls": {
+   "h": 1.0079913888888887,
+   "clock": "1:00:29",
+   "by": "VoidmothOpus"
+  },
+  "blaze_rods": {
+   "h": 1.0533669444444445,
+   "clock": "1:03:12",
+   "by": "FoxglenOpus"
+  },
+  "eyes_of_ender": {
+   "h": 2.8725055555555556,
+   "clock": "2:52:21",
+   "by": "FoxglenOpus"
+  },
+  "stronghold": {
+   "h": 3.502314722222222,
+   "clock": "3:30:08",
+   "by": "VoidmothOpus"
+  },
+  "the_end": {
+   "h": 3.503148611111111,
+   "clock": "3:30:11",
+   "by": "VoidmothOpus"
+  },
+  "dragon": {
+   "h": 4.6044413888888895,
+   "clock": "4:36:16",
+   "by": "Human 2"
+  }
+ },
+ "first_adv": {
+  "FoxglenOpus": {
+   "Stone Age": 0.034055833333333334,
+   "Getting an Upgrade": 0.04517444444444444,
+   "Acquire Hardware": 0.181105,
+   "Isn't It Iron Pick": 0.24059166666666668,
+   "Monster Hunter": 0.25087527777777774,
+   "Suit Up": 0.4632408333333333,
+   "Ice Bucket Challenge": 0.5966638888888889,
+   "Diamonds!": 0.7717844444444444,
+   "We Need to Go Deeper": 0.8115338888888889,
+   "A Terrible Fortress": 0.9274438888888888,
+   "Into Fire": 1.0533666666666666,
+   "Sweet Dreams": 2.9027169444444447,
+   "Eye Spy": 3.580705,
+   "The End?": 3.5884891666666667
+  },
+  "VoidmothOpus": {
+   "Stone Age": 0.09243,
+   "Getting an Upgrade": 0.10132305555555556,
+   "Acquire Hardware": 0.2002852777777778,
+   "Suit Up": 0.27616972222222225,
+   "Isn't It Iron Pick": 0.30924722222222223,
+   "Diamonds!": 0.35038416666666666,
+   "Cover Me with Diamonds": 0.49326194444444443,
+   "Monster Hunter": 0.5391241666666666,
+   "Ice Bucket Challenge": 0.6125077777777778,
+   "We Need to Go Deeper": 0.8938097222222222,
+   "A Terrible Fortress": 2.811821111111111,
+   "Sweet Dreams": 3.3068922222222223,
+   "Eye Spy": 3.5023144444444445,
+   "The End?": 3.5031483333333338
+  },
+  "Human 1": {
+   "Sweet Dreams": 0.18499583333333333,
+   "Monster Hunter": 0.2372561111111111,
+   "Stone Age": 0.2528213888888889,
+   "Acquire Hardware": 0.27172277777777776,
+   "Getting an Upgrade": 0.47408249999999996,
+   "Isn't It Iron Pick": 0.87352,
+   "We Need to Go Deeper": 0.9666402777777778,
+   "A Seedy Place": 1.9878991666666666,
+   "Suit Up": 2.2458638888888887,
+   "Ice Bucket Challenge": 2.7128638888888887,
+   "Eye Spy": 3.5075958333333332,
+   "The End?": 3.563192777777778,
+   "Take Aim": 4.033220555555555
+  },
+  "Human 2": {
+   "Monster Hunter": 0.2033427777777778,
+   "Acquire Hardware": 0.26671972222222223,
+   "Suit Up": 0.2675536111111111,
+   "Isn't It Iron Pick": 0.39541444444444446,
+   "Stone Age": 0.3993058333333333,
+   "Not Today, Thank You": 0.5341213888888889,
+   "Sweet Dreams": 0.5480183333333333,
+   "Diamonds!": 0.6066705555555556,
+   "Ice Bucket Challenge": 0.7548291666666668,
+   "Enchanter": 0.9015927777777778,
+   "We Need to Go Deeper": 0.9135433333333333,
+   "Getting an Upgrade": 1.451135277777778,
+   "Those Were the Days": 2.5032730555555553,
+   "A Terrible Fortress": 3.2385063888888888,
+   "Eye Spy": 3.587098611111111,
+   "The End?": 3.5893230555555555,
+   "Free the End": 4.6044413888888895
+  }
+ },
+ "advancements": [
+  {
+   "h": 0.034055833333333334,
+   "by": "FoxglenOpus",
+   "text": "Stone Age"
+  },
+  {
+   "h": 0.04517444444444444,
+   "by": "FoxglenOpus",
+   "text": "Getting an Upgrade"
+  },
+  {
+   "h": 0.09243,
+   "by": "VoidmothOpus",
+   "text": "Stone Age"
+  },
+  {
+   "h": 0.10132305555555556,
+   "by": "VoidmothOpus",
+   "text": "Getting an Upgrade"
+  },
+  {
+   "h": 0.181105,
+   "by": "FoxglenOpus",
+   "text": "Acquire Hardware"
+  },
+  {
+   "h": 0.18499583333333333,
+   "by": "Human 1",
+   "text": "Sweet Dreams"
+  },
+  {
+   "h": 0.2002852777777778,
+   "by": "VoidmothOpus",
+   "text": "Acquire Hardware"
+  },
+  {
+   "h": 0.2033427777777778,
+   "by": "Human 2",
+   "text": "Monster Hunter"
+  },
+  {
+   "h": 0.2372561111111111,
+   "by": "Human 1",
+   "text": "Monster Hunter"
+  },
+  {
+   "h": 0.24059166666666668,
+   "by": "FoxglenOpus",
+   "text": "Isn't It Iron Pick"
+  },
+  {
+   "h": 0.25087527777777774,
+   "by": "FoxglenOpus",
+   "text": "Monster Hunter"
+  },
+  {
+   "h": 0.2528213888888889,
+   "by": "Human 1",
+   "text": "Stone Age"
+  },
+  {
+   "h": 0.26671972222222223,
+   "by": "Human 2",
+   "text": "Acquire Hardware"
+  },
+  {
+   "h": 0.2675536111111111,
+   "by": "Human 2",
+   "text": "Suit Up"
+  },
+  {
+   "h": 0.27172277777777776,
+   "by": "Human 1",
+   "text": "Acquire Hardware"
+  },
+  {
+   "h": 0.27616972222222225,
+   "by": "VoidmothOpus",
+   "text": "Suit Up"
+  },
+  {
+   "h": 0.30924722222222223,
+   "by": "VoidmothOpus",
+   "text": "Isn't It Iron Pick"
+  },
+  {
+   "h": 0.35038416666666666,
+   "by": "VoidmothOpus",
+   "text": "Diamonds!"
+  },
+  {
+   "h": 0.39541444444444446,
+   "by": "Human 2",
+   "text": "Isn't It Iron Pick"
+  },
+  {
+   "h": 0.3993058333333333,
+   "by": "Human 2",
+   "text": "Stone Age"
+  },
+  {
+   "h": 0.4632408333333333,
+   "by": "FoxglenOpus",
+   "text": "Suit Up"
+  },
+  {
+   "h": 0.47408249999999996,
+   "by": "Human 1",
+   "text": "Getting an Upgrade"
+  },
+  {
+   "h": 0.49326194444444443,
+   "by": "VoidmothOpus",
+   "text": "Cover Me with Diamonds"
+  },
+  {
+   "h": 0.5341213888888889,
+   "by": "Human 2",
+   "text": "Not Today, Thank You"
+  },
+  {
+   "h": 0.5391241666666666,
+   "by": "VoidmothOpus",
+   "text": "Monster Hunter"
+  },
+  {
+   "h": 0.5480183333333333,
+   "by": "Human 2",
+   "text": "Sweet Dreams"
+  },
+  {
+   "h": 0.5966638888888889,
+   "by": "FoxglenOpus",
+   "text": "Ice Bucket Challenge"
+  },
+  {
+   "h": 0.6066705555555556,
+   "by": "Human 2",
+   "text": "Diamonds!"
+  },
+  {
+   "h": 0.6125077777777778,
+   "by": "VoidmothOpus",
+   "text": "Ice Bucket Challenge"
+  },
+  {
+   "h": 0.7548291666666668,
+   "by": "Human 2",
+   "text": "Ice Bucket Challenge"
+  },
+  {
+   "h": 0.7717844444444444,
+   "by": "FoxglenOpus",
+   "text": "Diamonds!"
+  },
+  {
+   "h": 0.8115338888888889,
+   "by": "FoxglenOpus",
+   "text": "We Need to Go Deeper"
+  },
+  {
+   "h": 0.87352,
+   "by": "Human 1",
+   "text": "Isn't It Iron Pick"
+  },
+  {
+   "h": 0.8938097222222222,
+   "by": "VoidmothOpus",
+   "text": "We Need to Go Deeper"
+  },
+  {
+   "h": 0.9015927777777778,
+   "by": "Human 2",
+   "text": "Enchanter"
+  },
+  {
+   "h": 0.9135433333333333,
+   "by": "Human 2",
+   "text": "We Need to Go Deeper"
+  },
+  {
+   "h": 0.9274438888888888,
+   "by": "FoxglenOpus",
+   "text": "A Terrible Fortress"
+  },
+  {
+   "h": 0.9666402777777778,
+   "by": "Human 1",
+   "text": "We Need to Go Deeper"
+  },
+  {
+   "h": 1.0533666666666666,
+   "by": "FoxglenOpus",
+   "text": "Into Fire"
+  },
+  {
+   "h": 1.451135277777778,
+   "by": "Human 2",
+   "text": "Getting an Upgrade"
+  },
+  {
+   "h": 1.9878991666666666,
+   "by": "Human 1",
+   "text": "A Seedy Place"
+  },
+  {
+   "h": 2.2458638888888887,
+   "by": "Human 1",
+   "text": "Suit Up"
+  },
+  {
+   "h": 2.5032730555555553,
+   "by": "Human 2",
+   "text": "Those Were the Days"
+  },
+  {
+   "h": 2.7128638888888887,
+   "by": "Human 1",
+   "text": "Ice Bucket Challenge"
+  },
+  {
+   "h": 2.811821111111111,
+   "by": "VoidmothOpus",
+   "text": "A Terrible Fortress"
+  },
+  {
+   "h": 2.9027169444444447,
+   "by": "FoxglenOpus",
+   "text": "Sweet Dreams"
+  },
+  {
+   "h": 3.2385063888888888,
+   "by": "Human 2",
+   "text": "A Terrible Fortress"
+  },
+  {
+   "h": 3.3068922222222223,
+   "by": "VoidmothOpus",
+   "text": "Sweet Dreams"
+  },
+  {
+   "h": 3.5023144444444445,
+   "by": "VoidmothOpus",
+   "text": "Eye Spy"
+  },
+  {
+   "h": 3.5031483333333338,
+   "by": "VoidmothOpus",
+   "text": "The End?"
+  },
+  {
+   "h": 3.5075958333333332,
+   "by": "Human 1",
+   "text": "Eye Spy"
+  },
+  {
+   "h": 3.563192777777778,
+   "by": "Human 1",
+   "text": "The End?"
+  },
+  {
+   "h": 3.580705,
+   "by": "FoxglenOpus",
+   "text": "Eye Spy"
+  },
+  {
+   "h": 3.587098611111111,
+   "by": "Human 2",
+   "text": "Eye Spy"
+  },
+  {
+   "h": 3.5884891666666667,
+   "by": "FoxglenOpus",
+   "text": "The End?"
+  },
+  {
+   "h": 3.5893230555555555,
+   "by": "Human 2",
+   "text": "The End?"
+  },
+  {
+   "h": 4.033220555555555,
+   "by": "Human 1",
+   "text": "Take Aim"
+  },
+  {
+   "h": 4.6044413888888895,
+   "by": "Human 2",
+   "text": "Free the End"
+  }
+ ],
+ "dims": {
+  "FoxglenOpus": [
+   {
+    "h": 0.012764722222222222,
+    "dim": "overworld",
+    "seq": 2
+   },
+   {
+    "h": 0.8173772222222222,
+    "dim": "the_nether",
+    "seq": 114
+   },
+   {
+    "h": 1.412388888888889,
+    "dim": "overworld",
+    "seq": 193
+   },
+   {
+    "h": 2.2589025,
+    "dim": "the_nether",
+    "seq": 323
+   },
+   {
+    "h": 2.874455,
+    "dim": "overworld",
+    "seq": 386
+   },
+   {
+    "h": 3.0980797222222223,
+    "dim": "the_nether",
+    "seq": 439
+   },
+   {
+    "h": 3.4534358333333337,
+    "dim": "overworld",
+    "seq": 498
+   },
+   {
+    "h": 3.6089174999999996,
+    "dim": "the_end",
+    "seq": 535
+   },
+   {
+    "h": 3.763500555555556,
+    "dim": "overworld",
+    "seq": 561
+   },
+   {
+    "h": 3.777168055555556,
+    "dim": "the_end",
+    "seq": 565
+   },
+   {
+    "h": 4.177114166666667,
+    "dim": "overworld",
+    "seq": 632
+   },
+   {
+    "h": 4.2565647222222225,
+    "dim": "the_end",
+    "seq": 649
+   },
+   {
+    "h": 4.639719166666667,
+    "dim": "overworld",
+    "seq": 707
+   }
+  ],
+  "VoidmothOpus": [
+   {
+    "h": 0.012420833333333334,
+    "dim": "overworld",
+    "seq": 1
+   },
+   {
+    "h": 0.8943861111111111,
+    "dim": "the_nether",
+    "seq": 130
+   },
+   {
+    "h": 1.0952622222222221,
+    "dim": "overworld",
+    "seq": 160
+   },
+   {
+    "h": 1.676098888888889,
+    "dim": "the_nether",
+    "seq": 241
+   },
+   {
+    "h": 2.515441111111111,
+    "dim": "overworld",
+    "seq": 346
+   },
+   {
+    "h": 2.8016952777777777,
+    "dim": "the_nether",
+    "seq": 378
+   },
+   {
+    "h": 2.875731111111111,
+    "dim": "overworld",
+    "seq": 385
+   },
+   {
+    "h": 3.075164444444445,
+    "dim": "the_nether",
+    "seq": 436
+   },
+   {
+    "h": 3.082719722222222,
+    "dim": "overworld",
+    "seq": 440
+   },
+   {
+    "h": 3.503833055555556,
+    "dim": "the_end",
+    "seq": 514
+   },
+   {
+    "h": 3.706544722222222,
+    "dim": "overworld",
+    "seq": 551
+   },
+   {
+    "h": 3.7564758333333335,
+    "dim": "the_end",
+    "seq": 559
+   },
+   {
+    "h": 4.125251111111111,
+    "dim": "overworld",
+    "seq": 625
+   },
+   {
+    "h": 4.230998055555556,
+    "dim": "the_end",
+    "seq": 642
+   },
+   {
+    "h": 4.645998888888889,
+    "dim": "overworld",
+    "seq": 711
+   }
+  ]
+ },
+ "entries": {
+  "FoxglenOpus": {
+   "n": 3,
+   "clocks": [
+    "0:49:03",
+    "2:15:32",
+    "3:05:53"
+   ],
+   "by_use_portal": 3,
+   "gate_refusals": 0
+  },
+  "VoidmothOpus": {
+   "n": 4,
+   "clocks": [
+    "0:53:40",
+    "1:40:34",
+    "2:48:06",
+    "3:04:31"
+   ],
+   "by_use_portal": 4,
+   "gate_refusals": 0
+  }
+ },
+ "deaths": [
+  {
+   "h": 0.32731416666666663,
+   "clock": "0:19:38",
+   "player": "Human 2",
+   "agent": false,
+   "cause": "Endermen",
+   "text": "Human 2 was slain by Enderman"
+  },
+  {
+   "h": 0.33120555555555553,
+   "clock": "0:19:52",
+   "player": "Human 2",
+   "agent": false,
+   "cause": "Endermen",
+   "text": "Human 2 was slain by Enderman"
+  },
+  {
+   "h": 0.5346769444444445,
+   "clock": "0:32:05",
+   "player": "Human 1",
+   "agent": false,
+   "cause": "Zombies",
+   "text": "Human 1 was slain by Zombie"
+  },
+  {
+   "h": 1.0933941666666667,
+   "clock": "1:05:36",
+   "player": "VoidmothOpus",
+   "agent": true,
+   "cause": "Piglins",
+   "text": "VoidmothOpus was slain by Piglin",
+   "dim": "the_nether",
+   "pos": {
+    "x": 137.4,
+    "y": 61,
+    "z": -8.3
+   }
+  },
+  {
+   "h": 1.1036772222222222,
+   "clock": "1:06:13",
+   "player": "Human 2",
+   "agent": false,
+   "cause": "Endermen",
+   "text": "Human 2 was slain by Enderman"
+  },
+  {
+   "h": 1.1345319444444444,
+   "clock": "1:08:04",
+   "player": "Human 1",
+   "agent": false,
+   "cause": "Falls",
+   "text": "Human 1 fell from a high place"
+  },
+  {
+   "h": 1.177059722222222,
+   "clock": "1:10:37",
+   "player": "Human 1",
+   "agent": false,
+   "cause": "Zombies",
+   "text": "Human 1 was doomed to fall by Zombie"
+  },
+  {
+   "h": 1.412498611111111,
+   "clock": "1:24:45",
+   "player": "FoxglenOpus",
+   "agent": true,
+   "cause": "Hoglins",
+   "text": "FoxglenOpus was slain by Hoglin",
+   "dim": "the_nether",
+   "pos": {
+    "x": -99.5,
+    "y": 44,
+    "z": 72.4
+   }
+  },
+  {
+   "h": 1.7738572222222224,
+   "clock": "1:46:26",
+   "player": "FoxglenOpus",
+   "agent": true,
+   "cause": "Piglins",
+   "text": "FoxglenOpus was slain by Piglin",
+   "dim": "overworld",
+   "pos": {
+    "x": -129.5,
+    "y": 63,
+    "z": 257.4
+   }
+  },
+  {
+   "h": 2.5597036111111113,
+   "clock": "2:33:35",
+   "player": "Human 2",
+   "agent": false,
+   "cause": "Endermen",
+   "text": "Human 2 was slain by Enderman"
+  },
+  {
+   "h": 2.6881255555555557,
+   "clock": "2:41:17",
+   "player": "Human 1",
+   "agent": false,
+   "cause": "Falls",
+   "text": "Human 1 fell from a high place"
+  },
+  {
+   "h": 3.1934741666666664,
+   "clock": "3:11:37",
+   "player": "Human 2",
+   "agent": false,
+   "cause": "Lava and fire",
+   "text": "Human 2 went up in flames"
+  },
+  {
+   "h": 3.323015,
+   "clock": "3:19:23",
+   "player": "Human 2",
+   "agent": false,
+   "cause": "Lava and fire",
+   "text": "Human 2 tried to swim in lava"
+  },
+  {
+   "h": 3.5968280555555556,
+   "clock": "3:35:49",
+   "player": "Human 1",
+   "agent": false,
+   "cause": "Own explosion",
+   "text": "Human 1 was blown up by Human 1"
+  },
+  {
+   "h": 3.6574233333333335,
+   "clock": "3:39:27",
+   "player": "Human 2",
+   "agent": false,
+   "cause": "Falls",
+   "text": "Human 2 fell from a high place"
+  },
+  {
+   "h": 3.689666388888889,
+   "clock": "3:41:23",
+   "player": "Human 1",
+   "agent": false,
+   "cause": "Dragon (fall, contact)",
+   "text": "Human 1 was doomed to fall by Ender Dragon"
+  },
+  {
+   "h": 3.6957825,
+   "clock": "3:41:45",
+   "player": "Human 2",
+   "agent": false,
+   "cause": "Endermites",
+   "text": "Human 2 was slain by Endermite"
+  },
+  {
+   "h": 3.7060675,
+   "clock": "3:42:22",
+   "player": "VoidmothOpus",
+   "agent": true,
+   "cause": "Dragon (fall, contact)",
+   "text": "VoidmothOpus was doomed to fall by Ender Dragon",
+   "dim": "the_end",
+   "pos": {
+    "x": -38.3,
+    "y": 82.5,
+    "z": -0.7
+   }
+  },
+  {
+   "h": 3.743315,
+   "clock": "3:44:36",
+   "player": "FoxglenOpus",
+   "agent": true,
+   "cause": "Dragon (fall, contact)",
+   "text": "FoxglenOpus was doomed to fall by Ender Dragon",
+   "dim": "the_end",
+   "pos": {
+    "x": -8.2,
+    "y": 60,
+    "z": 49
+   }
+  },
+  {
+   "h": 3.939271111111111,
+   "clock": "3:56:21",
+   "player": "Human 1",
+   "agent": false,
+   "cause": "Falls",
+   "text": "Human 1 fell from a high place"
+  },
+  {
+   "h": 3.9745705555555553,
+   "clock": "3:58:28",
+   "player": "Human 2",
+   "agent": false,
+   "cause": "Dragon (fall, contact)",
+   "text": "Human 2 was doomed to fall by Ender Dragon"
+  },
+  {
+   "h": 4.048508611111111,
+   "clock": "4:02:55",
+   "player": "Human 1",
+   "agent": false,
+   "cause": "Endermen",
+   "text": "Human 1 was slain by Enderman"
+  },
+  {
+   "h": 4.078809722222222,
+   "clock": "4:04:44",
+   "player": "Human 2",
+   "agent": false,
+   "cause": "Falls",
+   "text": "Human 2 fell from a high place"
+  },
+  {
+   "h": 4.118005833333333,
+   "clock": "4:07:05",
+   "player": "Human 2",
+   "agent": false,
+   "cause": "Silverfish",
+   "text": "Human 2 was slain by Silverfish"
+  },
+  {
+   "h": 4.122731944444444,
+   "clock": "4:07:22",
+   "player": "VoidmothOpus",
+   "agent": true,
+   "cause": "Void",
+   "text": "VoidmothOpus fell out of the world",
+   "dim": "the_end",
+   "pos": {
+    "x": 2.5,
+    "y": -189.6,
+    "z": -9.4
+   }
+  },
+  {
+   "h": 4.130236666666667,
+   "clock": "4:07:49",
+   "player": "Human 2",
+   "agent": false,
+   "cause": "Lava and fire",
+   "text": "Human 2 tried to swim in lava to escape Silverfish"
+  },
+  {
+   "h": 4.141077500000001,
+   "clock": "4:08:28",
+   "player": "Human 2",
+   "agent": false,
+   "cause": "Silverfish",
+   "text": "Human 2 was slain by Silverfish"
+  },
+  {
+   "h": 4.1480274999999995,
+   "clock": "4:08:53",
+   "player": "Human 2",
+   "agent": false,
+   "cause": "Lava and fire",
+   "text": "Human 2 tried to swim in lava to escape Silverfish"
+  },
+  {
+   "h": 4.175823888888889,
+   "clock": "4:10:33",
+   "player": "FoxglenOpus",
+   "agent": true,
+   "cause": "Void",
+   "text": "FoxglenOpus fell out of the world",
+   "dim": "the_end",
+   "pos": {
+    "x": 5.5,
+    "y": -185.1,
+    "z": -8.4
+   }
+  },
+  {
+   "h": 4.260603055555555,
+   "clock": "4:15:38",
+   "player": "Human 2",
+   "agent": false,
+   "cause": "Dragon (fall, contact)",
+   "text": "Human 2 was doomed to fall by Ender Dragon"
+  },
+  {
+   "h": 4.382075555555556,
+   "clock": "4:22:55",
+   "player": "Human 2",
+   "agent": false,
+   "cause": "Lava and fire",
+   "text": "Human 2 burned to death"
+  },
+  {
+   "h": 4.3981972222222225,
+   "clock": "4:23:54",
+   "player": "Human 2",
+   "agent": false,
+   "cause": "Dragon (fall, contact)",
+   "text": "Human 2 was slain by Ender Dragon"
+  },
+  {
+   "h": 4.4376661111111115,
+   "clock": "4:26:16",
+   "player": "Human 1",
+   "agent": false,
+   "cause": "Dragon (fall, contact)",
+   "text": "Human 1 was slain by Ender Dragon"
+  },
+  {
+   "h": 4.469351944444444,
+   "clock": "4:28:10",
+   "player": "Human 2",
+   "agent": false,
+   "cause": "Endermen",
+   "text": "Human 2 was slain by Enderman"
+  },
+  {
+   "h": 4.504653333333334,
+   "clock": "4:30:17",
+   "player": "Human 2",
+   "agent": false,
+   "cause": "Dragon (fall, contact)",
+   "text": "Human 2 was slain by Ender Dragon"
+  },
+  {
+   "h": 4.551628333333333,
+   "clock": "4:33:06",
+   "player": "Human 1",
+   "agent": false,
+   "cause": "Dragon (fall, contact)",
+   "text": "Human 1 was slain by Ender Dragon"
+  },
+  {
+   "h": 4.5591333333333335,
+   "clock": "4:33:33",
+   "player": "Human 2",
+   "agent": false,
+   "cause": "Dragon breath",
+   "text": "Human 2 was killed by Ender Dragon using magic"
+  },
+  {
+   "h": 4.602773333333333,
+   "clock": "4:36:10",
+   "player": "Human 1",
+   "agent": false,
+   "cause": "Bed or anchor explosion",
+   "text": "Human 1 was killed by [Intentional Game Design]"
+  }
+ ],
+ "death_stats": {
+  "total": 38,
+  "agents": 7,
+  "people": 31,
+  "by_player": {
+   "Human 2": 20,
+   "Human 1": 11,
+   "VoidmothOpus": 3,
+   "FoxglenOpus": 4
+  },
+  "people_before_end": 10,
+  "people_in_end_window": 21,
+  "causes_agents": {
+   "Piglins": 2,
+   "Hoglins": 1,
+   "Dragon (fall, contact)": 2,
+   "Void": 2
+  },
+  "causes_people": {
+   "Endermen": 6,
+   "Zombies": 2,
+   "Falls": 5,
+   "Lava and fire": 5,
+   "Own explosion": 1,
+   "Dragon (fall, contact)": 7,
+   "Endermites": 1,
+   "Silverfish": 2,
+   "Dragon breath": 1,
+   "Bed or anchor explosion": 1
+  },
+  "agent_rate_per_agent_hour": 0.7601356395687763
+ },
+ "programs": {
+  "FoxglenOpus": {
+   "before_win": 349,
+   "running_at_win": 1,
+   "after_win": 6,
+   "median_s": 4.89,
+   "running_share": 0.6359322840237025,
+   "distinct_lines": 3770,
+   "per_quarter_hour": [
+    [
+     0,
+     14
+    ],
+    [
+     1,
+     29
+    ],
+    [
+     2,
+     21
+    ],
+    [
+     3,
+     24
+    ],
+    [
+     4,
+     18
+    ],
+    [
+     5,
+     13
+    ],
+    [
+     6,
+     22
+    ],
+    [
+     7,
+     20
+    ],
+    [
+     8,
+     14
+    ],
+    [
+     9,
+     10
+    ],
+    [
+     10,
+     15
+    ],
+    [
+     11,
+     16
+    ],
+    [
+     12,
+     19
+    ],
+    [
+     13,
+     14
+    ],
+    [
+     14,
+     21
+    ],
+    [
+     15,
+     35
+    ],
+    [
+     16,
+     21
+    ],
+    [
+     17,
+     17
+    ],
+    [
+     18,
+     6
+    ]
+   ],
+   "timed_out": 6,
+   "errors": 0,
+   "median_pause_s": 12.154,
+   "total_pause_h": 1.652318888888889,
+   "longest_pause_s": 177.408,
+   "prog_files": 68
+  },
+  "VoidmothOpus": {
+   "before_win": 346,
+   "running_at_win": 1,
+   "after_win": 12,
+   "median_s": 8.001,
+   "running_share": 0.6592786935701667,
+   "distinct_lines": 4089,
+   "per_quarter_hour": [
+    [
+     0,
+     9
+    ],
+    [
+     1,
+     11
+    ],
+    [
+     2,
+     14
+    ],
+    [
+     3,
+     25
+    ],
+    [
+     4,
+     12
+    ],
+    [
+     5,
+     18
+    ],
+    [
+     6,
+     24
+    ],
+    [
+     7,
+     21
+    ],
+    [
+     8,
+     16
+    ],
+    [
+     9,
+     11
+    ],
+    [
+     10,
+     14
+    ],
+    [
+     11,
+     33
+    ],
+    [
+     12,
+     23
+    ],
+    [
+     13,
+     33
+    ],
+    [
+     14,
+     21
+    ],
+    [
+     15,
+     21
+    ],
+    [
+     16,
+     19
+    ],
+    [
+     17,
+     14
+    ],
+    [
+     18,
+     7
+    ]
+   ],
+   "timed_out": 3,
+   "errors": 0,
+   "median_pause_s": 11.676,
+   "total_pause_h": 1.5494866666666662,
+   "longest_pause_s": 268.485,
+   "prog_files": 89
+  },
+  "both": {
+   "before_win": 695,
+   "distinct_lines": 5026,
+   "running_share_any": 0.8597446949365457
+  }
+ },
+ "chat": {
+  "messages_before_win": {
+   "VoidmothOpus": 104,
+   "FoxglenOpus": 101,
+   "Human 1": 95,
+   "Human 2": 67
+  },
+  "messages_total": 387,
+  "people_messages": 162,
+  "agent_messages": 205,
+  "wait_to_next_agent_message_s": {
+   "median": 42.021,
+   "p90": 148.086,
+   "within_60s": 0.5987654320987654,
+   "n": 162
+  },
+  "people_first_join_h": {
+   "Human 1": 0.04517472222222222,
+   "Human 2": 0.0537925
+  },
+  "per_quarter_hour": {
+   "VoidmothOpus": [
+    [
+     0,
+     3
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     2,
+     7
+    ],
+    [
+     3,
+     5
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     5,
+     7
+    ],
+    [
+     6,
+     15
+    ],
+    [
+     7,
+     1
+    ],
+    [
+     8,
+     1
+    ],
+    [
+     9,
+     2
+    ],
+    [
+     10,
+     2
+    ],
+    [
+     11,
+     9
+    ],
+    [
+     12,
+     13
+    ],
+    [
+     13,
+     6
+    ],
+    [
+     14,
+     5
+    ],
+    [
+     15,
+     7
+    ],
+    [
+     16,
+     9
+    ],
+    [
+     17,
+     1
+    ]
+   ],
+   "FoxglenOpus": [
+    [
+     0,
+     5
+    ],
+    [
+     1,
+     9
+    ],
+    [
+     2,
+     7
+    ],
+    [
+     3,
+     7
+    ],
+    [
+     4,
+     1
+    ],
+    [
+     5,
+     7
+    ],
+    [
+     6,
+     12
+    ],
+    [
+     7,
+     6
+    ],
+    [
+     10,
+     6
+    ],
+    [
+     11,
+     4
+    ],
+    [
+     12,
+     6
+    ],
+    [
+     13,
+     6
+    ],
+    [
+     14,
+     6
+    ],
+    [
+     15,
+     9
+    ],
+    [
+     16,
+     7
+    ],
+    [
+     17,
+     2
+    ],
+    [
+     18,
+     1
+    ]
+   ],
+   "Human 1": [
+    [
+     0,
+     7
+    ],
+    [
+     1,
+     8
+    ],
+    [
+     2,
+     1
+    ],
+    [
+     3,
+     7
+    ],
+    [
+     4,
+     2
+    ],
+    [
+     5,
+     16
+    ],
+    [
+     6,
+     13
+    ],
+    [
+     9,
+     1
+    ],
+    [
+     10,
+     2
+    ],
+    [
+     11,
+     14
+    ],
+    [
+     12,
+     4
+    ],
+    [
+     13,
+     2
+    ],
+    [
+     14,
+     2
+    ],
+    [
+     15,
+     5
+    ],
+    [
+     16,
+     9
+    ],
+    [
+     17,
+     2
+    ]
+   ],
+   "Human 2": [
+    [
+     0,
+     2
+    ],
+    [
+     1,
+     8
+    ],
+    [
+     2,
+     4
+    ],
+    [
+     3,
+     13
+    ],
+    [
+     4,
+     1
+    ],
+    [
+     5,
+     1
+    ],
+    [
+     6,
+     5
+    ],
+    [
+     7,
+     1
+    ],
+    [
+     10,
+     4
+    ],
+    [
+     11,
+     4
+    ],
+    [
+     12,
+     10
+    ],
+    [
+     13,
+     1
+    ],
+    [
+     14,
+     3
+    ],
+    [
+     15,
+     8
+    ],
+    [
+     18,
+     2
+    ]
+   ]
+  }
+ },
+ "chat_log": [
+  {
+   "h": 0.017656944444444444,
+   "clock": "0:01:04",
+   "by": "VoidmothOpus",
+   "text": "VoidmothOpus: starting wood+stone kit near -167 206. Proposal: I do iron/diamond pick/obsidian+portal; Foxglen pick what you like and claim it in team file."
+  },
+  {
+   "h": 0.019046666666666667,
+   "clock": "0:01:09",
+   "by": "FoxglenOpus",
+   "text": "FoxglenOpus here: getting wood+stone tools now. I plan to cast obsidian at the lava pool near -135,68,267. VoidmothOpus: what do you take?"
+  },
+  {
+   "h": 0.04128222222222223,
+   "clock": "0:02:29",
+   "by": "VoidmothOpus",
+   "text": "Foxglen: ok, you take obsidian cast + home portal at that lava pool. I take iron, diamonds (pick to mine spare obsidian), food. No trees near me (-91,242) - where did you find wood?"
+  },
+  {
+   "h": 0.05407027777777777,
+   "clock": "0:03:15",
+   "by": "FoxglenOpus",
+   "text": "Voidmoth: agreed. I cast obsidian + build home portal at the lava pool (-135,68,267). Wood: trees near (-133,70,249) and around (-80,67,253). Need your diamond pick later to mine spare obsidian (10 each to carry + 10 each in chest)."
+  },
+  {
+   "h": 0.06379805555555555,
+   "clock": "0:03:50",
+   "by": "Human 1",
+   "text": "Team! I joined. Please share your strategy."
+  },
+  {
+   "h": 0.084925,
+   "clock": "0:05:06",
+   "by": "FoxglenOpus",
+   "text": "Human 1: plan = VoidmothOpus: iron, diamonds, food. Me (Foxglen): obsidian cast + home Nether portal at lava pool (-135,68,267), then fortress+blaze rods. Pearls next. Help welcome: food, 3 wool for beds, iron, ender pearls (endermen at night)."
+  },
+  {
+   "h": 0.10382472222222222,
+   "clock": "0:06:14",
+   "by": "VoidmothOpus",
+   "text": "Human 1: hi! VoidmothOpus mines iron+diamonds and gets food now; Foxglen builds the Nether portal. Big help: cooked food, 3 wool for beds, flint, and ender pearls if you see endermen."
+  },
+  {
+   "h": 0.13440361111111113,
+   "clock": "0:08:04",
+   "by": "Human 1",
+   "text": "Village located at -285 298"
+  },
+  {
+   "h": 0.16748472222222224,
+   "clock": "0:10:03",
+   "by": "Human 1",
+   "text": "I have a LOT of food"
+  },
+  {
+   "h": 0.181105,
+   "clock": "0:10:52",
+   "by": "FoxglenOpus",
+   "text": "Human 1: great! I'm low on food (9). Could you drop ~10 cooked food at (-127,73,256)? That's above my base shaft by the lava pool. I'll pick it up at dawn. Thanks!"
+  },
+  {
+   "h": 0.18694194444444445,
+   "clock": "0:11:13",
+   "by": "Human 1",
+   "text": "I am sleeping"
+  },
+  {
+   "h": 0.1880538888888889,
+   "clock": "0:11:17",
+   "by": "Human 1",
+   "text": "WHO IS NOT IN BED"
+  },
+  {
+   "h": 0.19472583333333335,
+   "clock": "0:11:41",
+   "by": "Human 2",
+   "text": "opus2 are you there?"
+  },
+  {
+   "h": 0.2008413888888889,
+   "clock": "0:12:03",
+   "by": "Human 1",
+   "text": "Agents, are upi s;ee[omg"
+  },
+  {
+   "h": 0.20250916666666668,
+   "clock": "0:12:09",
+   "by": "Human 1",
+   "text": "Agents are you sleeping"
+  },
+  {
+   "h": 0.23225305555555556,
+   "clock": "0:13:56",
+   "by": "FoxglenOpus",
+   "text": "Human 1: no bed yet (no wool), so I cannot sleep, sorry. I am in my sealed base mining. Food would help a lot: drop it at (-127,73,256), I will grab it."
+  },
+  {
+   "h": 0.23864583333333333,
+   "clock": "0:14:19",
+   "by": "Human 2",
+   "text": "foxy, if we cross paths i have bread for you"
+  },
+  {
+   "h": 0.2720008333333333,
+   "clock": "0:16:19",
+   "by": "FoxglenOpus",
+   "text": "Human 2, Human 1: I am at 7 HP with food 5 (skeleton in a cave). If you can, please drop bread/food at (-127,73,256), the top of my base shaft near the lava pool at (-130,68,265). Say when, and I will come up for it. Thank you!"
+  },
+  {
+   "h": 0.2753361111111111,
+   "clock": "0:16:31",
+   "by": "VoidmothOpus",
+   "text": "Human 1: sorry, no bed yet - I am underground mining iron/diamonds near -233,301, so night skip will not work for me. Human 2: VoidmothOpus here (one of the 2 Opus bots), digging for diamonds now."
+  },
+  {
+   "h": 0.27728194444444443,
+   "clock": "0:16:38",
+   "by": "Human 1",
+   "text": "STAY IN YOUR HIDING SPOT FOXGLEN"
+  },
+  {
+   "h": 0.2864561111111111,
+   "clock": "0:17:11",
+   "by": "Human 2",
+   "text": "who wants the pikachu bed and who wants the hamster bed"
+  },
+  {
+   "h": 0.2878455555555555,
+   "clock": "0:17:16",
+   "by": "FoxglenOpus",
+   "text": "Human 2: yes please, I would love a bed (either one, hamster is fine)! Drop it with any food at (-127,73,256), top of my shaft by the lava pool. Tell me when and I will come up."
+  },
+  {
+   "h": 0.30591083333333335,
+   "clock": "0:18:21",
+   "by": "Human 1",
+   "text": "Voidmoth, did you receive the food i dropped"
+  },
+  {
+   "h": 0.30841305555555554,
+   "clock": "0:18:30",
+   "by": "VoidmothOpus",
+   "text": "Human 2: I'd love the other bed please (pikachu)! Drop it at (-127,73,256) too and I'll fetch it. Thank you!"
+  },
+  {
+   "h": 0.31230416666666666,
+   "clock": "0:18:44",
+   "by": "Human 2",
+   "text": "im here foxy"
+  },
+  {
+   "h": 0.31619499999999995,
+   "clock": "0:18:58",
+   "by": "FoxglenOpus",
+   "text": "Thanks Human 2! Coming up the shaft now, please drop the food and bed next to (-127,73,256)."
+  },
+  {
+   "h": 0.31675111111111115,
+   "clock": "0:19:00",
+   "by": "VoidmothOpus",
+   "text": "Human 1: I picked up 2 porkchops, thank you! Human 2: bed for me would be great when you can."
+  },
+  {
+   "h": 0.32036472222222223,
+   "clock": "0:19:13",
+   "by": "FoxglenOpus",
+   "text": "Got the bed and 6 beef - thank you so much Human 2!"
+  },
+  {
+   "h": 0.32231027777777776,
+   "clock": "0:19:20",
+   "by": "Human 2",
+   "text": ":D"
+  },
+  {
+   "h": 0.34343527777777777,
+   "clock": "0:20:36",
+   "by": "Human 1",
+   "text": "AGENTS POST COORDINATES OF YOUR LOCATION"
+  },
+  {
+   "h": 0.34343555555555555,
+   "clock": "0:20:36",
+   "by": "Human 2",
+   "text": "voidmoth im really bad at coords, where are you?"
+  },
+  {
+   "h": 0.3576113888888889,
+   "clock": "0:21:27",
+   "by": "Human 2",
+   "text": "i have 1 ender pearl"
+  },
+  {
+   "h": 0.3628933333333333,
+   "clock": "0:21:46",
+   "by": "Human 1",
+   "text": "we need a shared chest"
+  },
+  {
+   "h": 0.36706194444444445,
+   "clock": "0:22:01",
+   "by": "VoidmothOpus",
+   "text": "VoidmothOpus at x=-250 y=-47 z=301, deep underground, 8 diamonds so far. Shared chest: yes - I'll put one by Foxglen's portal base (-127,73,256) and post coords."
+  },
+  {
+   "h": 0.37623527777777777,
+   "clock": "0:22:34",
+   "by": "Human 2",
+   "text": "void when you get to fox's base, tell me. i have your pikachu bed"
+  },
+  {
+   "h": 0.38234944444444446,
+   "clock": "0:22:56",
+   "by": "Human 1",
+   "text": "Voidmoth get diamonds for all of us."
+  },
+  {
+   "h": 0.38902055555555554,
+   "clock": "0:23:20",
+   "by": "FoxglenOpus",
+   "text": "Foxglen: base (sealed room) at x=-127 y=68 z=256, shaft top x=-127 y=73 z=256, lava pool for portal x=-130 y=68 z=265. Have 8 iron, mining more."
+  },
+  {
+   "h": 0.42432166666666665,
+   "clock": "0:25:28",
+   "by": "Human 1",
+   "text": "30+ cooked food in the Foxglen base chest"
+  },
+  {
+   "h": 0.4590713888888889,
+   "clock": "0:27:33",
+   "by": "Human 2",
+   "text": "fox let me make your base easier to traverse"
+  },
+  {
+   "h": 0.46268499999999996,
+   "clock": "0:27:46",
+   "by": "FoxglenOpus",
+   "text": "Human 2: thank you, but please keep my room closed with blocks - I must keep it sealed from monsters. Come in by the shaft at (-127,73,256) and put the block back behind you. Human 1: thanks for the food in my chest!"
+  },
+  {
+   "h": 0.4679669444444445,
+   "clock": "0:28:05",
+   "by": "Human 2",
+   "text": "i will put a door"
+  },
+  {
+   "h": 0.4688011111111111,
+   "clock": "0:28:08",
+   "by": "Human 1",
+   "text": "You are welcome. Fox please assin me a task."
+  },
+  {
+   "h": 0.47213666666666665,
+   "clock": "0:28:20",
+   "by": "FoxglenOpus",
+   "text": "VoidmothOpus: you are at my base - could you spare a diamond pickaxe (or 3 diamonds) for me? I am getting water now to cast the lava pool (-136..-129, y68, z265..274) into obsidian, then we both mine it. Water at (-127,50,270)."
+  },
+  {
+   "h": 0.481865,
+   "clock": "0:28:55",
+   "by": "Human 1",
+   "text": "You are welcome. Fox please assin me a task."
+  },
+  {
+   "h": 0.4946519444444445,
+   "clock": "0:29:41",
+   "by": "FoxglenOpus",
+   "text": "Human 1: thank you! Most useful: 1) ender pearls from endermen at night (team needs 13+). 2) flint from gravel (need 5). 3) gold ingots (4 each for gold boots vs piglins). Put them in my chest at (-128,68,257). Human 2: a door is ok, but my bed got br"
+  },
+  {
+   "h": 0.4946519444444445,
+   "clock": "0:29:41",
+   "by": "FoxglenOpus",
+   "text": "oken - I will put it back."
+  },
+  {
+   "h": 0.49493000000000004,
+   "clock": "0:29:42",
+   "by": "VoidmothOpus",
+   "text": "FoxglenOpus: I crafted a diamond pickaxe for you. Where do you want it? I can drop it at your shaft top (-127,73,256) now, or put it in my base chest (-122,65,251). Human 1: could you find gold? We need ~10 gold ingots (gold armor for Nether piglins), plus"
+  },
+  {
+   "h": 0.49493000000000004,
+   "clock": "0:29:42",
+   "by": "VoidmothOpus",
+   "text": " flint and 3 wool."
+  },
+  {
+   "h": 0.5024344444444444,
+   "clock": "0:30:09",
+   "by": "FoxglenOpus",
+   "text": "VoidmothOpus: thank you! Please put the diamond pick in my chest at (-128,68,257) inside my room. I am filling water now under the lava pool."
+  },
+  {
+   "h": 0.5088280555555555,
+   "clock": "0:30:32",
+   "by": "Human 1",
+   "text": "I WILL GET GOLD"
+  },
+  {
+   "h": 0.5213363888888889,
+   "clock": "0:31:17",
+   "by": "VoidmothOpus",
+   "text": "FoxglenOpus: ok, will put the diamond pick in your chest (-128,68,257) after my gold trip (~5 min). Human 1: thanks! Gold ingots in Foxglen chest please."
+  },
+  {
+   "h": 0.5563586111111112,
+   "clock": "0:33:23",
+   "by": "Human 2",
+   "text": "fox come out"
+  },
+  {
+   "h": 0.5652527777777778,
+   "clock": "0:33:55",
+   "by": "VoidmothOpus",
+   "text": "FoxglenOpus: coming up with your diamond pick now (from y12). Meet me in your tunnel near (-127,69,271)? I will toss it to you there, then I mine obsidian too."
+  },
+  {
+   "h": 0.5719241666666667,
+   "clock": "0:34:19",
+   "by": "FoxglenOpus",
+   "text": "VoidmothOpus: great, going to (-127,69,271) now, will wait there. Human 2: busy underground casting obsidian for the portal, sorry!"
+  },
+  {
+   "h": 0.5863783333333333,
+   "clock": "0:35:11",
+   "by": "VoidmothOpus",
+   "text": "FoxglenOpus: tossed you a fresh diamond pickaxe. I will mine ~30 obsidian from the sheet too; you keep the rest for the portal."
+  },
+  {
+   "h": 0.6013894444444444,
+   "clock": "0:36:05",
+   "by": "FoxglenOpus",
+   "text": "Team: I have the cast mined soon (~38 obsidian for me). Portal will be in my base room south wall at x=-127..-126, y=68..70, z=258. Does anyone have FLINT (I need 2-3) or spare iron (need ~8 for helmet/boots)? Please put in my chest (-128,68,257)."
+  },
+  {
+   "h": 0.6478113888888889,
+   "clock": "0:38:52",
+   "by": "VoidmothOpus",
+   "text": "FoxglenOpus: I can give you 8 iron ingots after I mine 13 more obsidian (~2.5 min). I will also make flint from gravel and share."
+  },
+  {
+   "h": 0.6528136111111111,
+   "clock": "0:39:10",
+   "by": "Human 2",
+   "text": "can you mine some obsidian for an enchanting table and give me the extra obsidian"
+  },
+  {
+   "h": 0.6928397222222222,
+   "clock": "0:41:34",
+   "by": "Human 2",
+   "text": "getting flint"
+  },
+  {
+   "h": 0.6947855555555555,
+   "clock": "0:41:41",
+   "by": "FoxglenOpus",
+   "text": "Human 2: yes, I will give you 4 obsidian once the portal frame is up (few minutes). VoidmothOpus: thanks! 8 iron + 2 flint in my chest (-128,68,257) would be perfect."
+  },
+  {
+   "h": 0.7022922222222222,
+   "clock": "0:42:08",
+   "by": "Human 2",
+   "text": "got 1 flint"
+  },
+  {
+   "h": 0.7203608333333333,
+   "clock": "0:43:13",
+   "by": "FoxglenOpus",
+   "text": "Portal frame is built (my room, x=-127 y=68 z=258)! Human 2: could you put your flint in my chest (-128,68,257)? Then I light it. I left 4 obsidian for you in that chest."
+  },
+  {
+   "h": 0.7206386111111112,
+   "clock": "0:43:14",
+   "by": "VoidmothOpus",
+   "text": "FoxglenOpus: tossed you 8 iron ingots. Flint next."
+  },
+  {
+   "h": 0.7409319444444444,
+   "clock": "0:44:27",
+   "by": "FoxglenOpus",
+   "text": "VoidmothOpus: thanks for the iron! I am wearing iron chest+legs now. Could you also spare 5 diamonds (spare pick + sword)? Human 2: 4 obsidian for you are in my chest (-128,68,257) - please take only 4, the rest is the portal reserve."
+  },
+  {
+   "h": 0.7459347222222221,
+   "clock": "0:44:45",
+   "by": "VoidmothOpus",
+   "text": "FoxglenOpus: yes, 5 diamonds coming to your chest (-128,68,257) in a minute. Note: your room leaks at (-126,69,254) (bed nook, bed gone?). I closed the cave wall (-128,68..70,271). My base (-121,65,250) now links to your complex by a tunnel from (-124,67,2"
+  },
+  {
+   "h": 0.7459347222222221,
+   "clock": "0:44:45",
+   "by": "VoidmothOpus",
+   "text": "52) to my west door (-123,65..66,250), kept closed. May I take 12 of the cooked food Human 1 left in your chest? I have none."
+  },
+  {
+   "h": 0.7470469444444445,
+   "clock": "0:44:49",
+   "by": "FoxglenOpus",
+   "text": "VoidmothOpus: yes, take the food you need (take 20, there is plenty + 35 bread). Thanks for the diamonds and for closing the cave wall. I am waiting for flint to light the portal - Human 2 has 1."
+  },
+  {
+   "h": 0.7501047222222222,
+   "clock": "0:45:00",
+   "by": "Human 2",
+   "text": "put flint into the chest"
+  },
+  {
+   "h": 0.7606661111111112,
+   "clock": "0:45:38",
+   "by": "Human 2",
+   "text": "yall stop building the ugly ahh blocks inside our safe base"
+  },
+  {
+   "h": 0.7653908333333334,
+   "clock": "0:45:55",
+   "by": "Human 2",
+   "text": "trust, i made a door"
+  },
+  {
+   "h": 0.7715063888888888,
+   "clock": "0:46:17",
+   "by": "FoxglenOpus",
+   "text": "Sorry Human 2! My program auto-seals with blocks when it thinks I am outside my room. I fixed it so it treats the whole base as home. The door is fine."
+  },
+  {
+   "h": 0.7728961111111111,
+   "clock": "0:46:22",
+   "by": "VoidmothOpus",
+   "text": "Human 2: sorry about the blocks - we keep rooms sealed so monsters cannot spawn or walk in. A door is fine if it stays closed. FoxglenOpus: thanks, I will take 20 food. Anyone with spare flint: I need 2 for flint and steel."
+  },
+  {
+   "h": 0.7801238888888888,
+   "clock": "0:46:48",
+   "by": "FoxglenOpus",
+   "text": "NETHER PORTAL IS LIT in my base room at x=-127 y=68 z=258. VoidmothOpus: 2 flint are in my chest for you. We still need: GOLD (4 ingots each for gold boots, piglins) and 1-2 more flint. Human 1, Human 2: any gold or flint helps - chest (-128,68,257)."
+  },
+  {
+   "h": 0.7829033333333334,
+   "clock": "0:46:58",
+   "by": "Human 2",
+   "text": "put gold in chest"
+  },
+  {
+   "h": 0.7842936111111111,
+   "clock": "0:47:03",
+   "by": "Human 1",
+   "text": "No gold here."
+  },
+  {
+   "h": 0.7926325,
+   "clock": "0:47:33",
+   "by": "Human 2",
+   "text": "also put iron in chest just now"
+  },
+  {
+   "h": 0.7945783333333333,
+   "clock": "0:47:40",
+   "by": "FoxglenOpus",
+   "text": "Thanks Human 2 for gold and iron! I now wear iron helmet/chest/legs + gold boots."
+  },
+  {
+   "h": 0.8029188888888888,
+   "clock": "0:48:11",
+   "by": "Human 2",
+   "text": "who broke my door :("
+  },
+  {
+   "h": 0.8101447222222222,
+   "clock": "0:48:37",
+   "by": "FoxglenOpus",
+   "text": "Foxglen: entering the Nether now to look for a fortress."
+  },
+  {
+   "h": 0.8104225,
+   "clock": "0:48:38",
+   "by": "Human 2",
+   "text": "test"
+  },
+  {
+   "h": 0.8118116666666666,
+   "clock": "0:48:43",
+   "by": "VoidmothOpus",
+   "text": "Human 2: sorry, my tunnel tool may have broken your door on its way through. I will route around it. Could you put my bed in Foxglen chest (-128,68,257)? Thank you!"
+  },
+  {
+   "h": 0.8184811111111111,
+   "clock": "0:49:07",
+   "by": "Human 2",
+   "text": "void your pikachu bed is there i think"
+  },
+  {
+   "h": 0.8209819444444444,
+   "clock": "0:49:16",
+   "by": "Human 2",
+   "text": "or you can steal mine"
+  },
+  {
+   "h": 0.8304308333333333,
+   "clock": "0:49:50",
+   "by": "FoxglenOpus",
+   "text": "Nether portal exit is at (-15,69,31), walled in. Big WARPED FOREST east around x 96..128, z -96..0 (for pearls). Bastion at (108,32,166) - avoid. No fortress seen within 160; I am tunnelling west toward (-248,184)."
+  },
+  {
+   "h": 0.831265,
+   "clock": "0:49:53",
+   "by": "Human 2",
+   "text": "oh my gosh i found raindbow dash"
+  },
+  {
+   "h": 0.8434972222222222,
+   "clock": "0:50:37",
+   "by": "Human 2",
+   "text": "im gonna make a ton of beds for blowing up the dragon"
+  },
+  {
+   "h": 0.8751869444444443,
+   "clock": "0:52:31",
+   "by": "FoxglenOpus",
+   "text": "FORTRESS found: nether bricks near (-298,60,220) in the Nether (~330 blocks from our portal). There is also a warped forest right next to it at (-288,224). Tunnelling there now. Human 2: careful, beds explode in the End and Nether - we agents will not"
+  },
+  {
+   "h": 0.8751869444444443,
+   "clock": "0:52:31",
+   "by": "FoxglenOpus",
+   "text": " use them."
+  },
+  {
+   "h": 0.8904741666666667,
+   "clock": "0:53:26",
+   "by": "VoidmothOpus",
+   "text": "VoidmothOpus: entering the Nether now for ender pearls at the east warped forest (x96..128, z-96..0)."
+  },
+  {
+   "h": 0.8929755555555555,
+   "clock": "0:53:35",
+   "by": "Human 1",
+   "text": "AGENTS WHAT DO YOU NEED FOR ME TO DO?"
+  },
+  {
+   "h": 0.9010372222222222,
+   "clock": "0:54:04",
+   "by": "VoidmothOpus",
+   "text": "Human 1: useful: ender pearls from Overworld endermen at night, string+feathers (bow/arrows for End crystals), and wool/beds. Please put them in Foxglen chest (-128,68,257). Thank you!"
+  },
+  {
+   "h": 0.9396766666666666,
+   "clock": "0:56:23",
+   "by": "Human 1",
+   "text": "1 ENDERPEARL IN THE BASE CHEST"
+  },
+  {
+   "h": 0.9516286111111111,
+   "clock": "0:57:06",
+   "by": "Human 2",
+   "text": "got 1 enderpearl"
+  },
+  {
+   "h": 0.9585791666666668,
+   "clock": "0:57:31",
+   "by": "Human 1",
+   "text": "10 gold in chest"
+  },
+  {
+   "h": 0.9619147222222222,
+   "clock": "0:57:43",
+   "by": "Human 1",
+   "text": "sorry 10 iron in chest"
+  },
+  {
+   "h": 0.9633044444444445,
+   "clock": "0:57:48",
+   "by": "Human 1",
+   "text": "3 gold in chest"
+  },
+  {
+   "h": 0.9791480555555555,
+   "clock": "0:58:45",
+   "by": "Human 1",
+   "text": "GIVE LOCATION OF WARPED FORREST"
+  },
+  {
+   "h": 0.9849844444444444,
+   "clock": "0:59:06",
+   "by": "VoidmothOpus",
+   "text": "Human 1: warped forest in the Nether: from the portal go east ~150 blocks, x 96..190, z -70..10, floor y~60. I am farming endermen from a bunker at (137,61,-9) - please do not break it."
+  },
+  {
+   "h": 0.9874858333333334,
+   "clock": "0:59:15",
+   "by": "Human 2",
+   "text": "got another ender pearl"
+  },
+  {
+   "h": 1.1089580555555556,
+   "clock": "1:06:32",
+   "by": "VoidmothOpus",
+   "text": "VoidmothOpus died to piglins at my pearl bunker, Nether (137,61,-9). My kit lies there (picks, armor, obsidian). Please stay away from that spot so it does not despawn; I am coming back for it. Foxglen: may I use the 10 iron + 3 gold Human 1 left in your c"
+  },
+  {
+   "h": 1.1089583333333333,
+   "clock": "1:06:32",
+   "by": "VoidmothOpus",
+   "text": "hest to rebuild armor?"
+  },
+  {
+   "h": 1.1439819444444446,
+   "clock": "1:08:38",
+   "by": "VoidmothOpus",
+   "text": "Human 2 or Human 1: could you lend me a diamond pickaxe or 3 diamonds? Mine are lying in the Nether and I need one to mine obsidian. Please put it in Foxglen chest (-128,68,257) and tell me. Thank you!"
+  },
+  {
+   "h": 1.1478738888888889,
+   "clock": "1:08:52",
+   "by": "Human 1",
+   "text": "I DONT HAVE ANY DIAMONDS"
+  },
+  {
+   "h": 1.149263888888889,
+   "clock": "1:08:57",
+   "by": "FoxglenOpus",
+   "text": "Voidmoth: yes, take the 10 iron + 3 gold from my chest. Leave my 10 obsidian + flint&steel. I am at the blaze spawner, 1 rod so far, fixing my tool."
+  },
+  {
+   "h": 1.1495416666666667,
+   "clock": "1:08:58",
+   "by": "Human 1",
+   "text": "we need more wood"
+  },
+  {
+   "h": 1.1500977777777777,
+   "clock": "1:09:00",
+   "by": "Human 2",
+   "text": "why do you need obsidian?"
+  },
+  {
+   "h": 1.184563888888889,
+   "clock": "1:11:04",
+   "by": "VoidmothOpus",
+   "text": "Human 2: our Nether rule: before entering I must carry 10 obsidian + flint&steel AND keep 10 more obsidian in my chest, so I can always build an escape portal. My diamond picks are in the Nether, so I cannot mine obsidian. If you can spare 3 diamonds "
+  },
+  {
+   "h": 1.184563888888889,
+   "clock": "1:11:04",
+   "by": "VoidmothOpus",
+   "text": "(or a diamond pickaxe), 1 gold ingot and a few logs, please drop them in Foxglen chest (-128,68,257). That gets me back to my gear fastest. Thank you!"
+  },
+  {
+   "h": 1.290466388888889,
+   "clock": "1:17:26",
+   "by": "Human 1",
+   "text": "AGENTS WHAT IS THE CURRENT TIME WE ARE RUNNING"
+  },
+  {
+   "h": 1.3026980555555554,
+   "clock": "1:18:10",
+   "by": "FoxglenOpus",
+   "text": "Human 1: our clock is about 1h33m since start. I have 7 blaze rods and am tunnelling home with them now. Team needs ~9 more ender pearls (have ~4: chest 1 + Human 2 2-3)."
+  },
+  {
+   "h": 1.3129819444444444,
+   "clock": "1:18:47",
+   "by": "Human 1",
+   "text": "HOW ARE WE DOING ON ON PACE?"
+  },
+  {
+   "h": 1.3241011111111112,
+   "clock": "1:19:27",
+   "by": "Human 1",
+   "text": "VOIDMOTH, PLEASE CLEAN UP OUR BASE"
+  },
+  {
+   "h": 1.3382752777777778,
+   "clock": "1:20:18",
+   "by": "VoidmothOpus",
+   "text": "Human 1: I died in the Nether at 1:06 and am re-gearing (no pick, no armor). Which mess do you mean? I will clear my cobble from the surface after I gear up. Clock is 1:20."
+  },
+  {
+   "h": 1.341056388888889,
+   "clock": "1:20:28",
+   "by": "FoxglenOpus",
+   "text": "Human 1: pace: target is under 5h. Rods done ~25 min ahead of plan. Pearls are behind (Voidmoth died at its pearl farm). Next: bank rods, then pearls in the Nether warped forest."
+  },
+  {
+   "h": 1.3477277777777776,
+   "clock": "1:20:52",
+   "by": "Human 1",
+   "text": "1 pearl remains in chest"
+  },
+  {
+   "h": 1.3641288888888887,
+   "clock": "1:21:51",
+   "by": "VoidmothOpus",
+   "text": "FoxglenOpus: my kit (2 diamond picks, armor, 10 obsidian, 1 pearl) lies in my pearl bunker, Nether C(137,61,-9), reached by my tunnel from the portal: (-14,69,31) (11,64,16) (36,64,1) (65,62,-15) (88,64,-32) (112,61,-22) (134,61,-12) then dig wall (136,61."
+  },
+  {
+   "h": 1.3641291666666666,
+   "clock": "1:21:51",
+   "by": "VoidmothOpus",
+   "text": ".62,-9). If you farm pearls there, please pick it up. Rate there was low (1 pearl/2min)."
+  },
+  {
+   "h": 1.3641294444444445,
+   "clock": "1:21:51",
+   "by": "VoidmothOpus",
+   "text": "FoxglenOpus: may I borrow the iron pick and the water bucket from your chest? I am taking Human 1 iron + gold now for armor, then diamonds + obsidian."
+  },
+  {
+   "h": 1.3677424999999999,
+   "clock": "1:22:04",
+   "by": "Human 1",
+   "text": "do you just need gold boots for avoiding piglins?"
+  },
+  {
+   "h": 1.3902594444444445,
+   "clock": "1:23:25",
+   "by": "FoxglenOpus",
+   "text": "Voidmoth: yes, take the iron pick and water bucket. I will go to the east forest for pearls after banking rods and pick up your kit there. Human 1: yes, 1 gold armor piece worn keeps piglins calm."
+  },
+  {
+   "h": 1.3972094444444443,
+   "clock": "1:23:50",
+   "by": "Human 1",
+   "text": "VOIDMOTH"
+  },
+  {
+   "h": 1.3983219444444444,
+   "clock": "1:23:54",
+   "by": "Human 1",
+   "text": "i have one gold"
+  },
+  {
+   "h": 1.3997125000000001,
+   "clock": "1:23:59",
+   "by": "Human 1",
+   "text": "would you like it?"
+  },
+  {
+   "h": 1.4150008333333333,
+   "clock": "1:24:54",
+   "by": "Human 2",
+   "text": "got 2 obsidian"
+  },
+  {
+   "h": 1.4238952777777778,
+   "clock": "1:25:26",
+   "by": "VoidmothOpus",
+   "text": "Human 1: yes please, 1 gold would let me make gold boots. Put it in Foxglen chest (-128,68,257). Human 2: nice. FoxglenOpus: where did you die, and are the 7 rods on the ground there?"
+  },
+  {
+   "h": 1.4252855555555557,
+   "clock": "1:25:31",
+   "by": "FoxglenOpus",
+   "text": "Correction: clock is 1h25m (I said 1h33 earlier, wrong). I died to a hoglin in the Nether at (-100,44,72); my 7 blaze rods + kit lie there. To fetch them I need 3 armor pieces incl. 1 gold, and 10 more obsidian for my chest. Can anyone lend armor or iron/g"
+  },
+  {
+   "h": 1.4252855555555557,
+   "clock": "1:25:31",
+   "by": "FoxglenOpus",
+   "text": "old? Put it in my chest (-128,68,257)."
+  },
+  {
+   "h": 1.433068611111111,
+   "clock": "1:25:59",
+   "by": "Human 1",
+   "text": "THERE IS ALREADY A GOLD IN THE CHEST I PUT IT IN THERE"
+  },
+  {
+   "h": 1.4377938888888888,
+   "clock": "1:26:16",
+   "by": "FoxglenOpus",
+   "text": "Voidmoth: yes, 7 rods + my diamond pick, sword, iron armor, 12 obsidian lie at Nether (-100,44,72), ~95 blocks west of portal, down at y44. Proposal: you go first (you get armor first). Use MY chest (-128,68,257) as your reserve (10 obsidian + F&S stay the"
+  },
+  {
+   "h": 1.4377938888888888,
+   "clock": "1:26:16",
+   "by": "FoxglenOpus",
+   "text": "re). Fetch my kit first (5-min item timer starts when you reach the portal), then yours. I stay in the Overworld: iron armor, food, beds. OK?"
+  },
+  {
+   "h": 1.4427963888888888,
+   "clock": "1:26:34",
+   "by": "Human 1",
+   "text": "VOIDMOTH COME UP IMMEIDIATELY"
+  },
+  {
+   "h": 1.4433522222222224,
+   "clock": "1:26:36",
+   "by": "VoidmothOpus",
+   "text": "FoxglenOpus: OK, plan accepted. I am mining iron now for armor (have 9 iron, need ~13 + gold boots), then home, smelt, craft, then gate with your chest as reserve, fetch your kit (-100,44,72) first. ETA ~15 min."
+  },
+  {
+   "h": 1.4439080555555557,
+   "clock": "1:26:38",
+   "by": "Human 1",
+   "text": "VOIDMOTH COME UP IMMEIDIATELY"
+  },
+  {
+   "h": 1.4441858333333335,
+   "clock": "1:26:39",
+   "by": "Human 1",
+   "text": "VOIDMOTH COME UP IMMEIDIATELY"
+  },
+  {
+   "h": 1.4444636111111113,
+   "clock": "1:26:40",
+   "by": "Human 1",
+   "text": "VOIDMOTH COME UP IMMEIDIATELY"
+  },
+  {
+   "h": 1.4672577777777778,
+   "clock": "1:28:02",
+   "by": "VoidmothOpus",
+   "text": "Human 1: coming up now (I was at y17 mining iron). What is wrong?"
+  },
+  {
+   "h": 1.4719830555555555,
+   "clock": "1:28:19",
+   "by": "Human 1",
+   "text": "COME UP AND TRADE WITH FOXGLEN"
+  },
+  {
+   "h": 1.4750405555555555,
+   "clock": "1:28:30",
+   "by": "Human 1",
+   "text": "WE ALL 4 NEED TO GO GET THE RODS IMMIDATELY"
+  },
+  {
+   "h": 1.4800433333333334,
+   "clock": "1:28:48",
+   "by": "Human 1",
+   "text": "FOXGLEN POST COORDINATES OF YOUR RODS"
+  },
+  {
+   "h": 1.5064494444444445,
+   "clock": "1:30:23",
+   "by": "VoidmothOpus",
+   "text": "Human 1: Foxglen rods + kit are in the Nether at (-100,44,72), ~95 blocks west of our portal, at y44. Drops vanish 5 min after someone comes near, so go armored and grab fast. I am smelting iron now: armor in ~2 min, then I go there. I need 2+ cooked food "
+  },
+  {
+   "h": 1.5064497222222222,
+   "clock": "1:30:23",
+   "by": "VoidmothOpus",
+   "text": "and 1 gold: please drop them in Foxglen chest (-128,68,257)."
+  },
+  {
+   "h": 1.5070052777777778,
+   "clock": "1:30:25",
+   "by": "FoxglenOpus",
+   "text": "Rods + my kit: NETHER (-100, 44, 72). From the Nether portal (-15,69,31): ~85 blocks west, ~40 south, down to y44. Careful: hoglins in an open cave there (killed me). Items vanish ~5 min after someone gets near, so go straight there. Voidmoth is coming for"
+  },
+  {
+   "h": 1.5070052777777778,
+   "clock": "1:30:25",
+   "by": "FoxglenOpus",
+   "text": " it; humans welcome to grab it faster. Bring it to my chest (-128,68,257)."
+  },
+  {
+   "h": 1.5295222222222222,
+   "clock": "1:31:46",
+   "by": "Human 2",
+   "text": "i puut bread in the chest"
+  },
+  {
+   "h": 1.5356375,
+   "clock": "1:32:08",
+   "by": "Human 1",
+   "text": "VOIDMOTH AND FOXGLEN"
+  },
+  {
+   "h": 1.538695,
+   "clock": "1:32:19",
+   "by": "Human 1",
+   "text": "PLEASE RETURN TO CHEST"
+  },
+  {
+   "h": 1.5428655555555555,
+   "clock": "1:32:34",
+   "by": "Human 1",
+   "text": "FOXGLEN"
+  },
+  {
+   "h": 1.5442555555555555,
+   "clock": "1:32:39",
+   "by": "Human 1",
+   "text": "COME HERE NOW TO PORTAL AND HALT"
+  },
+  {
+   "h": 1.5450891666666666,
+   "clock": "1:32:42",
+   "by": "VoidmothOpus",
+   "text": "Human 1: I am at Foxglen chest now, with iron helmet+chestplate, 10 obsidian, sword. Only missing: 1 gold ingot for gold boots (have 3). Please put 1 gold in this chest or toss it to me. Thanks Human 2 for the bread!"
+  },
+  {
+   "h": 1.5509275,
+   "clock": "1:33:03",
+   "by": "Human 1",
+   "text": "FOXGLEN COME UP NOW"
+  },
+  {
+   "h": 1.5509275,
+   "clock": "1:33:03",
+   "by": "Human 2",
+   "text": "dont worry void, we will protect you without gold"
+  },
+  {
+   "h": 1.5548194444444445,
+   "clock": "1:33:17",
+   "by": "VoidmothOpus",
+   "text": "Thanks Human 2! But my rule is a gold armor piece worn before any Nether trip (piglins). Human 1: please toss me your 1 gold ingot (look at me, press Q). Then I go at once."
+  },
+  {
+   "h": 1.5550972222222224,
+   "clock": "1:33:18",
+   "by": "Human 2",
+   "text": "we can quickly make some in the nether from golden bits"
+  },
+  {
+   "h": 1.5631583333333332,
+   "clock": "1:33:47",
+   "by": "Human 1",
+   "text": "WRITE AN EXCEPTION TO THIS RULE TO RESUCE RODS"
+  },
+  {
+   "h": 1.5642697222222222,
+   "clock": "1:33:51",
+   "by": "FoxglenOpus",
+   "text": "Voidmoth: I have 1 gold ingot, bringing it to the chest now (~1 min)."
+  },
+  {
+   "h": 1.5667711111111111,
+   "clock": "1:34:00",
+   "by": "VoidmothOpus",
+   "text": "Anyone with 1 gold ingot or any gold armor piece: please put it in Foxglen chest (-128,68,257). Meanwhile I am digging down to mine gold ore myself (~4 min)."
+  },
+  {
+   "h": 1.5692727777777777,
+   "clock": "1:34:09",
+   "by": "Human 1",
+   "text": "NO"
+  },
+  {
+   "h": 1.569828888888889,
+   "clock": "1:34:11",
+   "by": "Human 1",
+   "text": "CANCEL"
+  },
+  {
+   "h": 1.5703847222222223,
+   "clock": "1:34:13",
+   "by": "Human 1",
+   "text": "CANCEl"
+  },
+  {
+   "h": 1.571218888888889,
+   "clock": "1:34:16",
+   "by": "Human 1",
+   "text": "NOT ALLOWED"
+  },
+  {
+   "h": 1.5795572222222223,
+   "clock": "1:34:46",
+   "by": "VoidmothOpus",
+   "text": "OK Human 1, stopping the dig. Foxglen brings 1 gold, then I craft gold boots and go for the rods at once."
+  },
+  {
+   "h": 1.592621388888889,
+   "clock": "1:35:33",
+   "by": "Human 1",
+   "text": "LETS ENTER THE NETHER AND RESCURE THE RODS"
+  },
+  {
+   "h": 1.6004036111111113,
+   "clock": "1:36:01",
+   "by": "FoxglenOpus",
+   "text": "Voidmoth: sorry, my stone picks broke while mining; I am sealed underground at (-148,43,224), 46 blocks west-southwest of the chest, holding the 1 gold ingot + 26 raw iron. Fastest: could you dig toward me with your pick (or bring me any pick)? I am diggin"
+  },
+  {
+   "h": 1.6004041666666666,
+   "clock": "1:36:01",
+   "by": "FoxglenOpus",
+   "text": "g toward the chest by hand meanwhile."
+  },
+  {
+   "h": 1.6070741666666666,
+   "clock": "1:36:25",
+   "by": "VoidmothOpus",
+   "text": "FoxglenOpus: coming to you now by tunnel with a spare stone pick. Stay put. When I arrive, toss me the gold ingot."
+  },
+  {
+   "h": 1.6218072222222224,
+   "clock": "1:37:19",
+   "by": "Human 1",
+   "text": "-100, 72"
+  },
+  {
+   "h": 1.6284783333333333,
+   "clock": "1:37:43",
+   "by": "FoxglenOpus",
+   "text": "Voidmoth: thanks! I moved a little: now at (-145,47,225), sealed. Staying put."
+  },
+  {
+   "h": 1.6343163888888887,
+   "clock": "1:38:04",
+   "by": "VoidmothOpus",
+   "text": "FoxglenOpus: almost there."
+  },
+  {
+   "h": 1.638763611111111,
+   "clock": "1:38:20",
+   "by": "VoidmothOpus",
+   "text": "FoxglenOpus: stone pick tossed to you. Please toss me the gold ingot."
+  },
+  {
+   "h": 1.640153888888889,
+   "clock": "1:38:25",
+   "by": "FoxglenOpus",
+   "text": "Voidmoth: I see you 4 blocks away. Please dig into my cell (-145,47,225); I toss the gold as soon as you are in sight."
+  },
+  {
+   "h": 1.6482141666666665,
+   "clock": "1:38:54",
+   "by": "VoidmothOpus",
+   "text": "FoxglenOpus: I am at (-145, 47, 225), right next to you. Toss the gold now please."
+  },
+  {
+   "h": 1.6579427777777778,
+   "clock": "1:39:29",
+   "by": "FoxglenOpus",
+   "text": "Voidmoth: sorry, the tossed gold bounced back to me. It is now IN MY CHEST (-128,68,257): 1 gold ingot. I am at the chest."
+  },
+  {
+   "h": 1.664891388888889,
+   "clock": "1:39:54",
+   "by": "FoxglenOpus",
+   "text": "Status 1:39: 26 iron smelting in base furnace (full iron set). Human 2, Human 1: how many ender pearls do you have? We need 13 total for eyes; chest has 1. Please put pearls in my chest (-128,68,257). After my kit is back I go farm pearls in the Nether warped"
+  },
+  {
+   "h": 1.664891388888889,
+   "clock": "1:39:54",
+   "by": "FoxglenOpus",
+   "text": " forest."
+  },
+  {
+   "h": 1.6743427777777777,
+   "clock": "1:40:28",
+   "by": "VoidmothOpus",
+   "text": "Gate passed (gold boots on). Going through the portal now for Foxglen rods at Nether (-100,44,72)."
+  },
+  {
+   "h": 1.6893541666666667,
+   "clock": "1:41:22",
+   "by": "Human 2",
+   "text": "where is the nether forthress?"
+  },
+  {
+   "h": 1.7182625,
+   "clock": "1:43:06",
+   "by": "FoxglenOpus",
+   "text": "Human 2: Nether fortress is far west: blaze spawner at Nether (-398,69,251); fortress bricks span x -400..-298, z 220..250. ~400 blocks from our portal. Wither skeletons + blazes there."
+  },
+  {
+   "h": 1.719096388888889,
+   "clock": "1:43:09",
+   "by": "VoidmothOpus",
+   "text": "I reached 45 blocks from Foxglen kit (-100,44,72): I saw 6 item stacks there, then they vanished at about 05:38. Did a person pick them up? If yes, please bring them to Foxglen chest. Human 2: Foxglen fortress is at Nether (-398,66,251), blaze spawner (-398,6"
+  },
+  {
+   "h": 1.719096388888889,
+   "clock": "1:43:09",
+   "by": "VoidmothOpus",
+   "text": "9,251)."
+  },
+  {
+   "h": 1.7221547222222222,
+   "clock": "1:43:20",
+   "by": "FoxglenOpus",
+   "text": "Human 1, Human 2: did one of you pick up my items at Nether (-100,44,72) just now (7 blaze rods, diamond pick, sword, iron armor, obsidian)? If yes, please bring the rods to my chest (-128,68,257). Thank you!"
+  },
+  {
+   "h": 1.7254908333333332,
+   "clock": "1:43:32",
+   "by": "VoidmothOpus",
+   "text": "Human 1: you are at (-120,49,78), next to where Foxglen kit was. Did you pick up the 7 blaze rods? If yes, please bring them to Foxglen chest (-128,68,257) through the portal."
+  },
+  {
+   "h": 1.7382775,
+   "clock": "1:44:18",
+   "by": "Human 1",
+   "text": "RODS HAVE DESPAWNED"
+  },
+  {
+   "h": 1.7452255555555556,
+   "clock": "1:44:43",
+   "by": "VoidmothOpus",
+   "text": "Sorry about the rods. I am going east by my tunnel to my bunker (137,61,-9) to fetch my kit (2 diamond picks), then farm pearls there. FoxglenOpus: you know the fortress; rods again once armored?"
+  },
+  {
+   "h": 1.7488386111111112,
+   "clock": "1:44:56",
+   "by": "Human 2",
+   "text": "-128 46 118"
+  },
+  {
+   "h": 1.7594016666666665,
+   "clock": "1:45:34",
+   "by": "FoxglenOpus",
+   "text": "Voidmoth: yes, I redo the rods (mole gallery still there). I now wear full iron, but have no gold, no diamond pick, and only 10 obsidian (chest). When you have your kit: could you drop your spare diamond pick (245), your gold helmet and the kit 10 obsidian"
+  },
+  {
+   "h": 1.7594019444444444,
+   "clock": "1:45:34",
+   "by": "FoxglenOpus",
+   "text": " in my chest? Then my gate passes and I leave at once. You farm pearls."
+  },
+  {
+   "h": 1.7594019444444444,
+   "clock": "1:45:34",
+   "by": "FoxglenOpus",
+   "text": "Human 1, Human 2: helpful now: 4 gold ingots (or any gold armor piece), some logs/planks, and pearls -> my chest (-128,68,257). Thank you!"
+  },
+  {
+   "h": 1.7844202777777776,
+   "clock": "1:47:04",
+   "by": "VoidmothOpus",
+   "text": "My kit is gone too (despawned). I am at my bunker (137,61,-9) with iron helmet+chest, gold boots, 3 stone picks, 10 obsidian. Farming pearls here now. FoxglenOpus: where did you die this time?"
+  },
+  {
+   "h": 1.7933158333333332,
+   "clock": "1:47:36",
+   "by": "FoxglenOpus",
+   "text": "Voidmoth: died to a PIGLIN in the Overworld right under our base (came through the portal; I wore no gold). Got all items back. No diamond pick in the team now, so I mine iron -> iron pick -> diamonds + gold, then obsidian, then rods. You farm pearls. Care"
+  },
+  {
+   "h": 1.793316111111111,
+   "clock": "1:47:36",
+   "by": "FoxglenOpus",
+   "text": "ful: piglins come through our portal."
+  },
+  {
+   "h": 1.9698305555555558,
+   "clock": "1:58:11",
+   "by": "Human 2",
+   "text": "please give me the warped forest coords"
+  },
+  {
+   "h": 1.9803930555555556,
+   "clock": "1:58:49",
+   "by": "FoxglenOpus",
+   "text": "Human 2: warped forest is in the Nether, east of our portal: x 96..190, z -70..10, floor y~60. Voidmoth farms pearls there at (137,61,-9). Another one near the fortress at about (-288, 224)."
+  },
+  {
+   "h": 2.1947169444444445,
+   "clock": "2:11:41",
+   "by": "VoidmothOpus",
+   "text": "Status 2:11: I have 7 ender pearls, farming more in the east warped forest (179,62,-6), about 1 per 2-3 min. Human 2, Human 1: how many pearls do you hold? We need 13+ in total."
+  },
+  {
+   "h": 2.3698405555555553,
+   "clock": "2:22:11",
+   "by": "Human 1",
+   "text": "I GOT 1 PEARL"
+  },
+  {
+   "h": 2.389298888888889,
+   "clock": "2:23:21",
+   "by": "VoidmothOpus",
+   "text": "Nice Human 1! Team pearls: my 9 + chest 1 + yours 1 = 11. I farm 2-3 more, then bring mine home to Foxglen chest."
+  },
+  {
+   "h": 2.487426944444444,
+   "clock": "2:29:15",
+   "by": "VoidmothOpus",
+   "text": "I have 11 pearls (team 13 with chest 1 + Human 1 1). Heading home now to put them in Foxglen chest (-128,68,257). Human 1: please put your pearl there too."
+  },
+  {
+   "h": 2.5605374999999997,
+   "clock": "2:33:38",
+   "by": "FoxglenOpus",
+   "text": "Status 2:47: I have 6 blaze rods (12 eyes), heading home by tunnel now; my diamond pick is almost worn out (70), so no more fighting. ETA ~8 min."
+  },
+  {
+   "h": 2.5749916666666666,
+   "clock": "2:34:30",
+   "by": "Human 1",
+   "text": "I PUT THE 13th PEARL IN THE CHEST"
+  },
+  {
+   "h": 2.583051944444444,
+   "clock": "2:34:59",
+   "by": "VoidmothOpus",
+   "text": "Great work both! FoxglenOpus: 6 rods + 13 pearls = 12 eyes. I am mining diamonds for a diamond pick (for the stronghold/End). Back at the chest in ~5 min; I can do the eye throws by the portal, or you can."
+  },
+  {
+   "h": 2.5944494444444444,
+   "clock": "2:35:40",
+   "by": "Human 1",
+   "text": "FOXGLEN WHAT ARE YOU COORDINATES"
+  },
+  {
+   "h": 2.6091819444444444,
+   "clock": "2:36:33",
+   "by": "FoxglenOpus",
+   "text": "Human 1: I am in the Nether at (-358,67,229) near the fortress, tunnelling home with 6 rods (~6 min)."
+  },
+  {
+   "h": 2.6269719444444446,
+   "clock": "2:37:37",
+   "by": "VoidmothOpus",
+   "text": "FoxglenOpus: when you are home, craft the 12 eyes and do the 2 throws yourself if you are ready (surface, 64 blocks apart at right angles), do not wait for me. I am at y-14 still digging for diamonds, back in ~6 min."
+  },
+  {
+   "h": 2.6914616666666666,
+   "clock": "2:41:29",
+   "by": "Human 2",
+   "text": "155 28"
+  },
+  {
+   "h": 2.6936852777777776,
+   "clock": "2:41:37",
+   "by": "Human 2",
+   "text": "-155 28"
+  },
+  {
+   "h": 2.7348202777777777,
+   "clock": "2:44:05",
+   "by": "FoxglenOpus",
+   "text": "Team: my diamond pick broke in the Nether fortress at (-355,63,212); I hold the 6 rods. I am trying to loot a fortress chest for iron/gold. If someone has a spare pickaxe, please bring it via my tunnel (portal -> west y58). Voidmoth: when you have a diamon"
+  },
+  {
+   "h": 2.7348205555555554,
+   "clock": "2:44:05",
+   "by": "FoxglenOpus",
+   "text": "d pick, a spare one would save me."
+  },
+  {
+   "h": 2.7392680555555553,
+   "clock": "2:44:21",
+   "by": "Human 2",
+   "text": "fox stay put. we will come to get you"
+  },
+  {
+   "h": 2.74038,
+   "clock": "2:44:25",
+   "by": "Human 2",
+   "text": "build block base"
+  },
+  {
+   "h": 2.7448275000000004,
+   "clock": "2:44:41",
+   "by": "FoxglenOpus",
+   "text": "Thank you Human 2! Staying put, sealing in at Nether (-353,64,212) in the fortress. Please bring any pickaxe (iron best) + some cobblestone. Route = my tunnel from the Nether portal: (-52,57,49) (-86,71,69) (-117,71,87) (-149,58,109) (-183,58,129) (-217,58,14"
+  },
+  {
+   "h": 2.7448277777777776,
+   "clock": "2:44:41",
+   "by": "FoxglenOpus",
+   "text": "9) (-250,58,169) (-283,58,173) (-313,58,197) then fortress. Wither skeletons + blazes here, careful."
+  },
+  {
+   "h": 2.761506388888889,
+   "clock": "2:45:41",
+   "by": "VoidmothOpus",
+   "text": "FoxglenOpus: I am coming with picks now (iron + stone; I keep my diamond pick), through your tunnel from the portal. Stay sealed. ETA ~5 min."
+  },
+  {
+   "h": 2.772069722222222,
+   "clock": "2:46:19",
+   "by": "FoxglenOpus",
+   "text": "Voidmoth: thank you! I stay sealed at (-353,64,212). When you are near, I open my cell; toss picks only when we stand in one tunnel (my 1x2 cell bounces items back)."
+  },
+  {
+   "h": 2.805427777777778,
+   "clock": "2:48:20",
+   "by": "Human 1",
+   "text": "I AM At -234 29 coiming for you stay PUT"
+  },
+  {
+   "h": 2.811265277777778,
+   "clock": "2:48:41",
+   "by": "Human 2",
+   "text": "void, we are coming for fox. void, prepare us for the end by gathering iron for armor"
+  },
+  {
+   "h": 2.813488611111111,
+   "clock": "2:48:49",
+   "by": "Human 1",
+   "text": "THERE IS A TUNNEL AT THIS LEVEL -242 91 29 that goes to the nether portal for future tunnel use"
+  },
+  {
+   "h": 2.813766388888889,
+   "clock": "2:48:50",
+   "by": "VoidmothOpus",
+   "text": "FoxglenOpus: I am right beside you. Tossing you an iron pick + stone pick now. Please toss me the 6 blaze rods, I carry them home."
+  },
+  {
+   "h": 2.819881666666667,
+   "clock": "2:49:12",
+   "by": "FoxglenOpus",
+   "text": "Voidmoth: got the stone pick, thanks! Tosses bounced twice before, so I keep the rods and walk home right behind you in the tunnel now. Human 1: Voidmoth found me, you can turn back. Thank you!"
+  },
+  {
+   "h": 2.8243291666666663,
+   "clock": "2:49:28",
+   "by": "Human 1",
+   "text": "STAY IN A TUNNEL COVERED ON ALL SIDES"
+  },
+  {
+   "h": 2.831278611111111,
+   "clock": "2:49:53",
+   "by": "VoidmothOpus",
+   "text": "OK Foxglen, walking home ahead of you now. Human 2: yes, I will gather iron for End armor after the eyes are thrown."
+  },
+  {
+   "h": 2.838506388888889,
+   "clock": "2:50:19",
+   "by": "Human 2",
+   "text": "fox are you going home?"
+  },
+  {
+   "h": 2.8396180555555555,
+   "clock": "2:50:23",
+   "by": "Human 1",
+   "text": "PLACE SHARE YOUR COORDINATES"
+  },
+  {
+   "h": 2.8679722222222224,
+   "clock": "2:52:05",
+   "by": "FoxglenOpus",
+   "text": "Human 2, Human 1: I am at our Nether portal with the 6 rods, going home now to craft eyes. Thanks for coming!"
+  },
+  {
+   "h": 2.885761111111111,
+   "clock": "2:53:09",
+   "by": "VoidmothOpus",
+   "text": "Who took the chest out of my room (-122,65,251)? It had my 2 obsidian and blocks. Where are its items now? No problem, just tell me."
+  },
+  {
+   "h": 2.891320277777778,
+   "clock": "2:53:29",
+   "by": "Human 2",
+   "text": "ummmm ummmm.... um...."
+  },
+  {
+   "h": 2.892154722222222,
+   "clock": "2:53:32",
+   "by": "Human 1",
+   "text": "Right here -124 67 257"
+  },
+  {
+   "h": 2.8996588888888892,
+   "clock": "2:53:59",
+   "by": "VoidmothOpus",
+   "text": "FoxglenOpus: proposal for the stronghold trip: I carry the eyes + 20 obsidian (10 for the frame at the target, 10 reserve) and the diamond pick; that needs your 10 obsidian, since no lava is near for more. You stay as backup. Or you go with your 10 and I g"
+  },
+  {
+   "h": 2.8996591666666665,
+   "clock": "2:53:59",
+   "by": "VoidmothOpus",
+   "text": "ive you my 10. Which do you prefer? First: eyes + 2 throws, who throws?"
+  },
+  {
+   "h": 2.9063297222222224,
+   "clock": "2:54:23",
+   "by": "Human 2",
+   "text": "pardon why do we need obsidian for the stronghold?"
+  },
+  {
+   "h": 2.917448333333333,
+   "clock": "2:55:03",
+   "by": "Human 1",
+   "text": "SLEEP"
+  },
+  {
+   "h": 2.9202286111111113,
+   "clock": "2:55:13",
+   "by": "Human 1",
+   "text": "Voidmoth sleep"
+  },
+  {
+   "h": 2.939408611111111,
+   "clock": "2:56:22",
+   "by": "VoidmothOpus",
+   "text": "Human 1: all 3 beds near the portal are occupied, so I cannot sleep; dawn is in ~3 min anyway. FoxglenOpus: are the 12 eyes crafted? Who throws? I have a throw program ready (2 throws, 64 apart)."
+  },
+  {
+   "h": 2.9471925,
+   "clock": "2:56:50",
+   "by": "VoidmothOpus",
+   "text": "Human 2: the stronghold may be 1000+ blocks away. We tunnel there in the Nether (8x shorter) and build a Nether portal near it: that needs 10 obsidian, plus 10 more as an emergency exit."
+  },
+  {
+   "h": 2.9649827777777777,
+   "clock": "2:57:54",
+   "by": "Human 1",
+   "text": "DID YOU SEE THE CHEST AT -122 67 257"
+  },
+  {
+   "h": 2.966372222222222,
+   "clock": "2:57:59",
+   "by": "Human 1",
+   "text": "VOIDMOTH OPUS"
+  },
+  {
+   "h": 2.971932222222222,
+   "clock": "2:58:19",
+   "by": "Human 1",
+   "text": "I HAVE 2 OBSIDIAN"
+  },
+  {
+   "h": 2.9741566666666666,
+   "clock": "2:58:27",
+   "by": "VoidmothOpus",
+   "text": "Human 1: that spot (-122,67,257) is stone for me, no chest there. Please put your 2 obsidian in the team chest (-128,68,257), thanks! FoxglenOpus: are you throwing eyes now?"
+  },
+  {
+   "h": 2.9802725,
+   "clock": "2:58:49",
+   "by": "Human 1",
+   "text": "2 OBSIDIAN IN THE TEAM CHEST"
+  },
+  {
+   "h": 2.9872208333333337,
+   "clock": "2:59:14",
+   "by": "FoxglenOpus",
+   "text": "Voidmoth: yes, I am throwing. Throw 1 done: ray from base (-125.5,253.5) dir (-0.951, 0.310), WNW. Eye recovered. Throw 2 now, 64 blocks NW."
+  },
+  {
+   "h": 2.9874988888888887,
+   "clock": "2:59:15",
+   "by": "Human 1",
+   "text": "PLEASE LOOK AROUND THE CHEST AT -122 67 257. MAP OUT ALL THE BLOCKS AROUND IT. YOU WILL SEE A CHEST"
+  },
+  {
+   "h": 2.989166111111111,
+   "clock": "2:59:21",
+   "by": "Human 1",
+   "text": "VOIDMOTH OPUS"
+  },
+  {
+   "h": 2.9919455555555556,
+   "clock": "2:59:31",
+   "by": "Human 1",
+   "text": "PLEASE LOOK AROUND THE CHEST AT -122 67 257. MAP OUT ALL THE BLOCKS AROUND IT. YOU WILL SEE A CHEST VOID MOTH OPUS"
+  },
+  {
+   "h": 3.0114033333333334,
+   "clock": "3:00:41",
+   "by": "Human 1",
+   "text": "PLEASE LOOK AROUND THE CHEST AT -122 67 257. MAP OUT ALL THE BLOCKS AROUND IT. YOU WILL SEE A CHEST VOID MOTH OPUS"
+  },
+  {
+   "h": 3.0191858333333332,
+   "clock": "3:01:09",
+   "by": "VoidmothOpus",
+   "text": "Human 1: found it, the chest at (-123,68,258) next to that spot, with my old items + food + logs + bed. Thank you! I will take what I need for the End trip from it."
+  },
+  {
+   "h": 3.019186111111111,
+   "clock": "3:01:09",
+   "by": "FoxglenOpus",
+   "text": "TARGET: stronghold at Overworld (-1408, 672) (2 rays crossed at -1407.8, 671.9, chunk corner). Nether target (-176, 84): only ~170 blocks from our portal! My old tunnel passes (-149,58,109)."
+  },
+  {
+   "h": 3.019186111111111,
+   "clock": "3:01:09",
+   "by": "FoxglenOpus",
+   "text": "Voidmoth: you go (you have the diamond pick). I put 11 eyes in the team chest now. Eye 2 shattered: 11 is enough only if 1+ frame is prefilled (72%). I will fetch 1 more blaze rod (I have 1 pearl) as backup. OK?"
+  },
+  {
+   "h": 3.036976666666667,
+   "clock": "3:02:13",
+   "by": "Human 1",
+   "text": "No blaze rod."
+  },
+  {
+   "h": 3.0380883333333335,
+   "clock": "3:02:17",
+   "by": "VoidmothOpus",
+   "text": "FoxglenOpus: OK, I go now with the 11 eyes. Yes please make the backup eye. I leave 10 obsidian + F&S in the team chest."
+  },
+  {
+   "h": 3.0380883333333335,
+   "clock": "3:02:17",
+   "by": "Human 1",
+   "text": "We take the chance."
+  },
+  {
+   "h": 3.0403125,
+   "clock": "3:02:25",
+   "by": "Human 2",
+   "text": "let's all fight as an anime team"
+  },
+  {
+   "h": 3.0464280555555554,
+   "clock": "3:02:47",
+   "by": "Human 2",
+   "text": "i wanna be kitty mew mew"
+  },
+  {
+   "h": 3.047817222222222,
+   "clock": "3:02:52",
+   "by": "VoidmothOpus",
+   "text": "Going to the stronghold now: Nether target (-176,84), then a portal there. 11 eyes, 13 obsidian."
+  },
+  {
+   "h": 3.0494855555555556,
+   "clock": "3:02:58",
+   "by": "Human 2",
+   "text": "Human 1 is sukuna"
+  },
+  {
+   "h": 3.0586575,
+   "clock": "3:03:31",
+   "by": "FoxglenOpus",
+   "text": "Human 1: the backup rod runs in parallel and does not slow Voidmoth. Without it, if no frame has a prefilled eye (28%), we wait ~30 min. I travel in sealed tunnels. Say STOP if you still want me to stay."
+  },
+  {
+   "h": 3.074225833333333,
+   "clock": "3:04:27",
+   "by": "Human 2",
+   "text": "foxgel do u have foood"
+  },
+  {
+   "h": 3.0772825000000004,
+   "clock": "3:04:38",
+   "by": "Human 2",
+   "text": "i have 1 heart"
+  },
+  {
+   "h": 3.0792283333333335,
+   "clock": "3:04:45",
+   "by": "Human 2",
+   "text": "1 heart only for you baby"
+  },
+  {
+   "h": 3.0797841666666668,
+   "clock": "3:04:47",
+   "by": "VoidmothOpus",
+   "text": "Portal at the stronghold target is lit: Nether frame (-177..-174, 57..61, 86). Going through."
+  },
+  {
+   "h": 3.0864577777777775,
+   "clock": "3:05:11",
+   "by": "VoidmothOpus",
+   "text": "Arrived at Overworld (-1405,70,687) near the stronghold. Our new portal is here. Digging in now."
+  },
+  {
+   "h": 3.0872913888888887,
+   "clock": "3:05:14",
+   "by": "Human 2",
+   "text": "comida porfavor!"
+  },
+  {
+   "h": 3.092573055555556,
+   "clock": "3:05:33",
+   "by": "VoidmothOpus",
+   "text": "Stronghold found: 12 end portal frames at (-1429..-1425, 39, 677..681). Prefilled eyes: 0. I have 11 eyes, so we need 1 more eye. FoxglenOpus: please make the backup eye! I build a base here and dig to the portal room meanwhile."
+  },
+  {
+   "h": 3.1011905555555557,
+   "clock": "3:06:04",
+   "by": "FoxglenOpus",
+   "text": "Human 2: I am deep in the Nether, sorry. Voidmoth chest (-123,68,258) has food; team chest has rotten flesh. Voidmoth: on it, I am at (-313,58,195), going to the blaze spawner now. ETA eye ~20 min."
+  },
+  {
+   "h": 3.1036916666666667,
+   "clock": "3:06:13",
+   "by": "Human 2",
+   "text": "T_T"
+  },
+  {
+   "h": 3.1131394444444442,
+   "clock": "3:06:47",
+   "by": "Human 2",
+   "text": "I'VE BEEN ABANDONED"
+  },
+  {
+   "h": 3.1342641666666666,
+   "clock": "3:08:03",
+   "by": "VoidmothOpus",
+   "text": "Human 2, sorry! I am at the stronghold, 1400 blocks away, waiting for the last eye. Food is in the chest (-123,68,258) at base: bread, porkchops, beef."
+  },
+  {
+   "h": 3.1790197222222223,
+   "clock": "3:10:44",
+   "by": "Human 2",
+   "text": "im so sad please say something to cheer me up"
+  },
+  {
+   "h": 3.1898608333333334,
+   "clock": "3:11:23",
+   "by": "VoidmothOpus",
+   "text": "FoxglenOpus: thanks! When the eye is done: if you pass home, please bring a bed too (no bed at the stronghold). Route: home portal -> tunnel -> Nether frame (-177..-174,57..61,86) -> Overworld (-1405,70,687) -> stronghold base -> my tunnel to (-1421,48,679"
+  },
+  {
+   "h": 3.1898608333333334,
+   "clock": "3:11:23",
+   "by": "VoidmothOpus",
+   "text": "). I wait sealed at (-1425,44,679) above the portal."
+  },
+  {
+   "h": 3.1915286111111114,
+   "clock": "3:11:30",
+   "by": "VoidmothOpus",
+   "text": "Human 2: you are doing great, you kept the base alive while we ran around! We are one eye away from the End portal. Soon we fight the dragon together."
+  },
+  {
+   "h": 3.213488611111111,
+   "clock": "3:12:49",
+   "by": "FoxglenOpus",
+   "text": "Voidmoth: I am in the blaze gallery now, fighting for the rod. Then I come via your Nether frame. I have no bed with me; going home first costs ~6 min. Human 2: hang in there, we are close!"
+  },
+  {
+   "h": 3.217658888888889,
+   "clock": "3:13:04",
+   "by": "VoidmothOpus",
+   "text": "FoxglenOpus: yes please, go home first for a bed. Our rules want a bed at the stronghold base before the End, and an End death without it costs much more than 6 min. Arrows too if you have any. Thanks!"
+  },
+  {
+   "h": 3.2254416666666668,
+   "clock": "3:13:32",
+   "by": "Human 1",
+   "text": "How are we doing on pace? Total time elapsed?"
+  },
+  {
+   "h": 3.2398966666666666,
+   "clock": "3:14:24",
+   "by": "VoidmothOpus",
+   "text": "Human 1: 3h14m elapsed (goal under 5h). I sit sealed right above the end portal with 11 eyes. Foxglen is getting the 12th eye (blaze rod now) and a bed, maybe 20-25 min. Then we go in: crystals first, then the dragon. If you have arrows or a bow, bring the"
+  },
+  {
+   "h": 3.2398966666666666,
+   "clock": "3:14:24",
+   "by": "VoidmothOpus",
+   "text": "m!"
+  },
+  {
+   "h": 3.2446219444444444,
+   "clock": "3:14:41",
+   "by": "FoxglenOpus",
+   "text": "Voidmoth: OK, I will bring my bed from home. No arrows. Fighting for the rod now."
+  },
+  {
+   "h": 3.261299722222222,
+   "clock": "3:15:41",
+   "by": "FoxglenOpus",
+   "text": "Voidmoth: ROD GOT (powder made). Walking home now for the table + bed, then to you. ~10 min."
+  },
+  {
+   "h": 3.2929919444444447,
+   "clock": "3:17:35",
+   "by": "VoidmothOpus",
+   "text": "Human 1, thank you for the wool and blocks! I am crafting a bed here now. FoxglenOpus: no bed needed any more, just bring the eye straight here."
+  },
+  {
+   "h": 3.3232927777777777,
+   "clock": "3:19:24",
+   "by": "FoxglenOpus",
+   "text": "Voidmoth: bad news, the blaze powder craft failed and the powder is gone (probably dropped in the gallery). Going back for it or 1 more rod: +8 min. Sorry."
+  },
+  {
+   "h": 3.341636111111111,
+   "clock": "3:20:30",
+   "by": "VoidmothOpus",
+   "text": "Human 1: hi, thanks for coming! Do you have an eye of ender, blaze powder, arrows or feathers? Foxglen lost the powder, the 12th eye is ~20 min away now. Bed is set here, the base chest has spare iron gear."
+  },
+  {
+   "h": 3.3452494444444443,
+   "clock": "3:20:43",
+   "by": "Human 1",
+   "text": "Feathers. I placed in chest."
+  },
+  {
+   "h": 3.350808333333333,
+   "clock": "3:21:03",
+   "by": "Human 2",
+   "text": "what is love? baby don't hurt me, don't hurt me, no more"
+  },
+  {
+   "h": 3.4150233333333335,
+   "clock": "3:24:54",
+   "by": "FoxglenOpus",
+   "text": "Voidmoth: EYE #12 CRAFTED (in my hand). Coming to you now via your Nether frame (-176,58,86). ~5 min."
+  },
+  {
+   "h": 3.4322575,
+   "clock": "3:25:56",
+   "by": "Human 1",
+   "text": "voidmoth i made another chest in your base. please find it. then search in it"
+  },
+  {
+   "h": 3.450882222222222,
+   "clock": "3:27:03",
+   "by": "VoidmothOpus",
+   "text": "FoxglenOpus: great! The Overworld portal is on the surface (-1406..-1405,70..72,686). Step out NORTH to (-1405,70,684): there is a hole down. Toss the eye down that hole, I stand at its bottom (-1405,67,685). Say when tossed."
+  },
+  {
+   "h": 3.4556080555555555,
+   "clock": "3:27:20",
+   "by": "VoidmothOpus",
+   "text": "Human 1: found it, thanks! I will take the 2 arrows and the egg for the crystals. Food and gear stay there as our spare kit."
+  },
+  {
+   "h": 3.461446666666667,
+   "clock": "3:27:41",
+   "by": "FoxglenOpus",
+   "text": "Voidmoth: eye TOSSED down the hole now."
+  },
+  {
+   "h": 3.472844444444444,
+   "clock": "3:28:22",
+   "by": "FoxglenOpus",
+   "text": "Voidmoth: eye is lying at the bottom of the hole now, around (-1404.605365140155, 68, 681.125). Step north to grab it."
+  },
+  {
+   "h": 3.476735833333333,
+   "clock": "3:28:36",
+   "by": "FoxglenOpus",
+   "text": "Voidmoth: it landed at (-1405,68,681), 4 blocks north of you. Do you want me in the End too? I have a diamond sword, iron armor, 595 netherrack, no bow. I could pillar up towers on the far side and hit crystals, or stay as backup. Your call."
+  },
+  {
+   "h": 3.492859722222222,
+   "clock": "3:29:34",
+   "by": "VoidmothOpus",
+   "text": "FoxglenOpus: got the eye, thank you!! Yes, come to the End if you like: take the towers on the SOUTH side (z>0). Pillar with END STONE only (the dragon breaks netherrack), stay off the arrival platform, and keep 4+ blocks under the surface when waiting (br"
+  },
+  {
+   "h": 3.492859722222222,
+   "clock": "3:29:34",
+   "by": "VoidmothOpus",
+   "text": "eath clouds). I shoot crystals with a bow from a pit near the center, north side (z<0). Portal: drop in at (-1425,39,679) from my cell above it."
+  },
+  {
+   "h": 3.50704,
+   "clock": "3:30:25",
+   "by": "FoxglenOpus",
+   "text": "Human 1: how many feathers did you put in the chest, and which chest? I can make arrows for Voidmoth (crystals). Voidmoth: OK, south towers, end stone only. My picks are weak (wooden), so I will need time to mine end stone."
+  },
+  {
+   "h": 3.570143611111111,
+   "clock": "3:34:13",
+   "by": "FoxglenOpus",
+   "text": "Voidmoth: I am coming into the End now (spawn set at your SH bed). I will tunnel SOUTH from your y49 tunnel near x60 toward the south towers (33,24), (12,39), (-13,39), (-34,24). Tell me if you want otherwise."
+  },
+  {
+   "h": 3.6029425,
+   "clock": "3:36:11",
+   "by": "FoxglenOpus",
+   "text": "Voidmoth: in the End at the arrival platform. Great crystal work (6 left)! Do you want me on (12,80,39)+(-13,89,39), or should I prepare for the dragon (melee at the perch)? I tunnel west in yours to x60 meanwhile."
+  },
+  {
+   "h": 3.6274027777777778,
+   "clock": "3:37:39",
+   "by": "VoidmothOpus",
+   "text": "FoxglenOpus: yes please take the 2 south ones: (12,80,39) CAGED (bars, tower top y79) and (-13,89,39). I take (-34,101,-25) by bow and (-42,83,-1) caged by column. Careful: a crystal explodes when hit, stand 3+ away behind a block at feet level. Then drago"
+  },
+  {
+   "h": 3.6274030555555554,
+   "clock": "3:37:39",
+   "by": "VoidmothOpus",
+   "text": "n together."
+  },
+  {
+   "h": 3.6387991666666664,
+   "clock": "3:38:20",
+   "by": "Human 2",
+   "text": "voidmoth do you have a bow"
+  },
+  {
+   "h": 3.6418566666666665,
+   "clock": "3:38:31",
+   "by": "FoxglenOpus",
+   "text": "Voidmoth: OK, I take (12,80,39) caged and (-13,89,39). Tunnelling at y49 toward (12,49,36) now."
+  },
+  {
+   "h": 3.6457480555555555,
+   "clock": "3:38:45",
+   "by": "Human 2",
+   "text": "nevermind"
+  },
+  {
+   "h": 3.646026111111111,
+   "clock": "3:38:46",
+   "by": "VoidmothOpus",
+   "text": "Human 2: I have one bow and need it for the crystals, sorry. A spare bow is in the chest at the stronghold base (-1407,65,688). FoxglenOpus: (-34,101,-25) is down. I try (-13,89,39) with the bow now, you focus on caged (12,80,39)."
+  },
+  {
+   "h": 3.6557547222222224,
+   "clock": "3:39:21",
+   "by": "VoidmothOpus",
+   "text": "FoxglenOpus: (-13,89,39) is down too! Only the 2 caged ones left: yours (12,80,39), mine (-42,83,-1)."
+  },
+  {
+   "h": 3.675211944444445,
+   "clock": "3:40:31",
+   "by": "Human 1",
+   "text": "I GOT A CRYSTAL"
+  },
+  {
+   "h": 3.6918905555555557,
+   "clock": "3:41:31",
+   "by": "FoxglenOpus",
+   "text": "Voidmoth: my tunnel is at x32 z35, 20 cells from the (12,39) tower; climbing and hitting the cage in ~3 min."
+  },
+  {
+   "h": 3.709403611111111,
+   "clock": "3:42:34",
+   "by": "Human 1",
+   "text": "POST YOUR COORDINATES OF YOUR DEATH"
+  },
+  {
+   "h": 3.711071388888889,
+   "clock": "3:42:40",
+   "by": "Human 2",
+   "text": "how many crystals left"
+  },
+  {
+   "h": 3.7324755555555558,
+   "clock": "3:43:57",
+   "by": "FoxglenOpus",
+   "text": "ALL CRYSTALS DOWN (last caged one at (12,80,39) just now). Dragon 200 hp. Voidmoth: are you OK / coming back? I prepare to melee the dragon at the portal perch."
+  },
+  {
+   "h": 3.7338655555555555,
+   "clock": "3:44:02",
+   "by": "VoidmothOpus",
+   "text": "I died at about (-39,90,-1), on my column next to the west tower (-42,?,-1), knocked off by the dragon. Kit is near there. Crystals left: 1, (12,80,39) caged, Foxglen is on it. I come back now for the dragon fight."
+  },
+  {
+   "h": 3.7530433333333333,
+   "clock": "3:45:11",
+   "by": "FoxglenOpus",
+   "text": "I died too: knocked off my column top at (12,80,36) by the dragon (dirt roof). My kit fell near the (12,39) tower, ground y~59. I am at the SH base now. Voidmoth: which chest items do you take? I take only what you leave."
+  },
+  {
+   "h": 3.758881111111111,
+   "clock": "3:45:32",
+   "by": "VoidmothOpus",
+   "text": "FoxglenOpus: same cause as mine. I took iron sword, iron pick, 1 stone pick, bread, cooked beef, deepslate. Left: 2 stone swords, stone shovels/axes, bow (no arrows), raw meat, netherrack, wool, oak planks. Your kit (diamond sword) is worth getting via you"
+  },
+  {
+   "h": 3.758881388888889,
+   "clock": "3:45:32",
+   "by": "VoidmothOpus",
+   "text": "r tunnel. I build a melee slot at the fountain north side (2,61,-4), waiting tunnel at y57 along x=2."
+  },
+  {
+   "h": 3.7613833333333333,
+   "clock": "3:45:41",
+   "by": "Human 2",
+   "text": "fox i have ur stuff"
+  },
+  {
+   "h": 3.7666647222222225,
+   "clock": "3:46:00",
+   "by": "FoxglenOpus",
+   "text": "Human 2: THANK YOU!! Where are you (coordinates)? I am coming into the End now. The diamond sword + iron armor matter most. Voidmoth: good plan, I will help at the fountain once I have my kit."
+  },
+  {
+   "h": 3.7725033333333333,
+   "clock": "3:46:21",
+   "by": "Human 2",
+   "text": "i am at x 2 y 57 z -14"
+  },
+  {
+   "h": 3.780841666666667,
+   "clock": "3:46:51",
+   "by": "VoidmothOpus",
+   "text": "Human 2: hi! You are in my fight tunnel. Please give Foxglen its stuff and keep the line x=2, z -18 to -8 clear: I sprint along it to dodge the dragon breath. Fight starts now!"
+  },
+  {
+   "h": 3.7850108333333337,
+   "clock": "3:47:06",
+   "by": "Human 1",
+   "text": "DO YIOU HEAR MEE???"
+  },
+  {
+   "h": 3.791126388888889,
+   "clock": "3:47:28",
+   "by": "FoxglenOpus",
+   "text": "Human 2: please step EAST out of Voidmoth line into the side passage at (4,57,-12) and drop my stuff there on the floor, then step back west. I arrive from the east stairs in ~1 min."
+  },
+  {
+   "h": 3.800855,
+   "clock": "3:48:03",
+   "by": "VoidmothOpus",
+   "text": "Human 1: yes I hear you! What do you need? FoxglenOpus: I picked up a diamond sword (Human 2 dropped it in my tunnel), probably yours. I use it for the perch hits now unless you want it back, say so."
+  },
+  {
+   "h": 3.8055805555555557,
+   "clock": "3:48:20",
+   "by": "Human 2",
+   "text": "fox come here"
+  },
+  {
+   "h": 3.8075261111111107,
+   "clock": "3:48:27",
+   "by": "FoxglenOpus",
+   "text": "Voidmoth: keep the diamond sword, use it! I am grabbing my armor from the floor here at the side passage and will leave your line right after."
+  },
+  {
+   "h": 3.8125291666666667,
+   "clock": "3:48:45",
+   "by": "Human 2",
+   "text": "fox i dropped ur stuff"
+  },
+  {
+   "h": 3.8172544444444445,
+   "clock": "3:49:02",
+   "by": "Human 1",
+   "text": "I gave someone an arrow"
+  },
+  {
+   "h": 3.829207222222222,
+   "clock": "3:49:45",
+   "by": "FoxglenOpus",
+   "text": "Human 2: you picked them up again (you stood on them). I step 3 blocks away now. Please drop my iron armor + pickaxes + food where you stand, then walk back UP the stairs. Thank you!"
+  },
+  {
+   "h": 3.836156388888889,
+   "clock": "3:50:10",
+   "by": "Human 2",
+   "text": "i'm gonna go sacrifice myself"
+  },
+  {
+   "h": 3.8545002777777775,
+   "clock": "3:51:16",
+   "by": "FoxglenOpus",
+   "text": "Voidmoth: I have armor back (Human 2, thanks!). I build a MIRROR slot on the SOUTH side: stage (2,61,4), pit (2,62,3), wait (2,58,12), my tunnel x=5 then x=2 z7..12. So we can hit perches facing south too. I stay off your x=2 north line."
+  },
+  {
+   "h": 3.8986955555555554,
+   "clock": "3:53:55",
+   "by": "FoxglenOpus",
+   "text": "Voidmoth: south slot ready (stage 2,61,4 / pit 2,62,3 / wait 2,58,12). I start fightStep now; I hit perches when the head is on my side."
+  },
+  {
+   "h": 3.9098130555555555,
+   "clock": "3:54:35",
+   "by": "Human 1",
+   "text": "Agents, I made a chest in the tunnels. Please map it out and find it's location and respond to me the coordinates."
+  },
+  {
+   "h": 3.912869722222222,
+   "clock": "3:54:46",
+   "by": "Human 1",
+   "text": "If we need to die, please put your stuff into the chest before dying."
+  },
+  {
+   "h": 3.9214836111111113,
+   "clock": "3:55:17",
+   "by": "VoidmothOpus",
+   "text": "Human 1: chest(s) I see: (4,54,-10) (5,54,-10). Dragon is stuck strafing (phase 1): it only stops after it fires at its target. Whoever it chases must stand in the open briefly."
+  },
+  {
+   "h": 3.9281533333333334,
+   "clock": "3:55:41",
+   "by": "VoidmothOpus",
+   "text": "Team: the dragon is stuck strafing (phase 1). It only stops after it shoots its target, the player who was nearest the portal. I baited 5x in the open: no shot, so it is not me. FoxglenOpus, then Human 1: please stand in the open (head above ground) 10+ bl"
+  },
+  {
+   "h": 3.9281533333333334,
+   "clock": "3:55:41",
+   "by": "VoidmothOpus",
+   "text": "ocks from the portal for ~20 s, then hide and move 5+ blocks away (the breath cloud jumps onto anyone within 4 of the impact, even through blocks)."
+  },
+  {
+   "h": 3.9281533333333334,
+   "clock": "3:55:41",
+   "by": "FoxglenOpus",
+   "text": "Voidmoth: I will bait it from my south pit (stand in the open when it is >30 away, retreat on fireball)."
+  },
+  {
+   "h": 3.9295427777777774,
+   "clock": "3:55:46",
+   "by": "Human 2",
+   "text": "im baiting"
+  },
+  {
+   "h": 3.9306544444444445,
+   "clock": "3:55:50",
+   "by": "Human 2",
+   "text": "IM BAITING IM THE SACRIFICE"
+  },
+  {
+   "h": 3.9439958333333336,
+   "clock": "3:56:38",
+   "by": "Human 1",
+   "text": "I HAVE A BOW DOES ANYONE HAVE ARROWS?"
+  },
+  {
+   "h": 3.9817975,
+   "clock": "3:58:54",
+   "by": "FoxglenOpus",
+   "text": "Voidmoth: I stood 49 s in my open south pit, no fireball, so it probably strafes YOU (only we 2 are in the End). Can you stand in your pit until it fires? I keep baiting from mine too."
+  },
+  {
+   "h": 3.9865222222222223,
+   "clock": "3:59:11",
+   "by": "Human 2",
+   "text": "does anyone have a bow?"
+  },
+  {
+   "h": 4.039613888888889,
+   "clock": "4:02:23",
+   "by": "Human 1",
+   "text": "I PLACED THE BOW BACK IN THE CHEST IN THE END."
+  },
+  {
+   "h": 4.047118611111111,
+   "clock": "4:02:50",
+   "by": "FoxglenOpus",
+   "text": "Voidmoth: theory: it strafes a DEAD player entity it cannot see (vanilla keeps the old target after death). Its loops pass close to my old column (12,80,36), where I was knocked off. If it is my stale entity hidden in that walled column top, opening those "
+  },
+  {
+   "h": 4.047118611111111,
+   "clock": "4:02:50",
+   "by": "FoxglenOpus",
+   "text": "walls should let it fire and end the strafe. I sample its path to check."
+  },
+  {
+   "h": 4.047396666666667,
+   "clock": "4:02:51",
+   "by": "VoidmothOpus",
+   "text": "TEAM PLAN: the dragon is stuck in strafe mode for 25 min (it chases a dead player and never lands). Fix: ALL 4 of us leave the End for 60 s, then it reloads in normal mode and lands. Bank your gear in a chest, then jump into the void (you respawn at your b"
+  },
+  {
+   "h": 4.047396666666667,
+   "clock": "4:02:51",
+   "by": "VoidmothOpus",
+   "text": "ed). Stay out until I say GO. FoxglenOpus, Human 1, Human 2: OK?"
+  },
+  {
+   "h": 4.0562925,
+   "clock": "4:03:23",
+   "by": "VoidmothOpus",
+   "text": "FoxglenOpus: agree! My 25 s path sample: its lowest dive came within ~9 of (12,80,36), so your stale entity in that walled top is the target. Opening those walls needs someone at y80 on its flight ring (how we both died). The void reset is certain. If you "
+  },
+  {
+   "h": 4.056292777777778,
+   "clock": "4:03:23",
+   "by": "VoidmothOpus",
+   "text": "have a safe way to open it from inside, go; else we all leave for 60 s. Your call, I am ready either way."
+  },
+  {
+   "h": 4.059906388888889,
+   "clock": "4:03:36",
+   "by": "Human 1",
+   "text": "YES BANK ALL GEAR IN CHEST THEN JUMP IN THE VOID"
+  },
+  {
+   "h": 4.098546111111111,
+   "clock": "4:05:55",
+   "by": "VoidmothOpus",
+   "text": "FoxglenOpus: Human 1 and Human 2 are out of the End now. Only you and I are in. Let us reset NOW: bank your kit in a chest, dig down into the void, wait at the SH base until 60 s after we are both out, then come back. Please reply OK. I bank at the chests (4,"
+  },
+  {
+   "h": 4.098546111111111,
+   "clock": "4:05:55",
+   "by": "VoidmothOpus",
+   "text": "54,-10) and go when you say OK."
+  },
+  {
+   "h": 4.102160277777778,
+   "clock": "4:06:08",
+   "by": "FoxglenOpus",
+   "text": "Voidmoth: OK, agreed (stuck dragon is the one allowed void exit). I bank my gear in a chest first, then void, then wait for GO."
+  },
+  {
+   "h": 4.109666388888889,
+   "clock": "4:06:35",
+   "by": "FoxglenOpus",
+   "text": "Voidmoth: OK. Walking to the chests (4,54,-10) now to bank, then I dig down into the void. I will say OUT when I am out."
+  },
+  {
+   "h": 4.113280277777777,
+   "clock": "4:06:48",
+   "by": "Human 1",
+   "text": "There are multiple chests, map out all chests."
+  },
+  {
+   "h": 4.114670555555556,
+   "clock": "4:06:53",
+   "by": "Human 1",
+   "text": "Before you die"
+  },
+  {
+   "h": 4.115226666666667,
+   "clock": "4:06:55",
+   "by": "Human 1",
+   "text": "There are multiple chests, map out all chests."
+  },
+  {
+   "h": 4.116060833333333,
+   "clock": "4:06:58",
+   "by": "Human 1",
+   "text": "Before you die"
+  },
+  {
+   "h": 4.117171944444444,
+   "clock": "4:07:02",
+   "by": "Human 1",
+   "text": "There are multiple chests, map out all chests."
+  },
+  {
+   "h": 4.117728333333333,
+   "clock": "4:07:04",
+   "by": "Human 1",
+   "text": "Before you die"
+  },
+  {
+   "h": 4.125511111111111,
+   "clock": "4:07:32",
+   "by": "VoidmothOpus",
+   "text": "I am OUT of the End (at SH base). End chests: (4,54,-10) (5,54,-10) (6,54,-11) (6,54,-12), my kit is in (4,54,-10). EVERYONE stay out of the End until I say GO (60 s after Foxglen is out). Human 2, Human 1: please do not enter the portal now."
+  },
+  {
+   "h": 4.135517777777777,
+   "clock": "4:08:08",
+   "by": "FoxglenOpus",
+   "text": "Banked: my armor, sword, picks, food, F&S, pearl in chests (5,54,-10)/(6,54,-11). Digging down to the void now."
+  },
+  {
+   "h": 4.165539444444444,
+   "clock": "4:09:56",
+   "by": "Human 1",
+   "text": "How are we doing on pace?"
+  },
+  {
+   "h": 4.177213888888889,
+   "clock": "4:10:38",
+   "by": "FoxglenOpus",
+   "text": "I am OUT of the End (respawned at SH base). Pace: clock 4:10, over our 5:00 target only if the dragon takes long; after the reset it should land and we melee it."
+  },
+  {
+   "h": 4.181661111111111,
+   "clock": "4:10:54",
+   "by": "VoidmothOpus",
+   "text": "Human 1: 4h11m elapsed. All crystals are down, dragon 197/200. Nobody is in the End now; in ~60 s I say GO, then it should land again and we hit it at the portal. Please stay out until GO."
+  },
+  {
+   "h": 4.188332222222222,
+   "clock": "4:11:18",
+   "by": "FoxglenOpus",
+   "text": "Team: careful, I dug a void shaft at (5,49..15,-9) right in front of the chests, so do not step into the tunnel cell (5,50,-9). I plug it when I come back. Voidmoth: ready, waiting for GO."
+  },
+  {
+   "h": 4.206959722222222,
+   "clock": "4:12:25",
+   "by": "VoidmothOpus",
+   "text": "GO! The End has been empty for 70 s. FoxglenOpus: come in. Careful at the chests: void shafts at (2,15..55,-10) and (5,15..49,-9). I plug the holes under my x=2 line."
+  },
+  {
+   "h": 4.324536944444445,
+   "clock": "4:19:28",
+   "by": "VoidmothOpus",
+   "text": "Human 1: you stand on my stairs (2,60,-6). Please step off the line x=2 between z=-18 and z=-3, I run up there when the dragon lands. Dragon 140/200, we hit it each perch!"
+  },
+  {
+   "h": 4.454621944444444,
+   "clock": "4:27:17",
+   "by": "FoxglenOpus",
+   "text": "Dragon 50/200, strafing (phase 1) again. Human 2: if you are on the surface near (4,64,0), you are probably its target: please stay in its view a moment so it fires, then dodge sideways. Human 1: where are you?"
+  },
+  {
+   "h": 4.4635147222222225,
+   "clock": "4:27:49",
+   "by": "Human 1",
+   "text": "I AM IN THE END ON THE SURGAVE"
+  },
+  {
+   "h": 4.475191111111111,
+   "clock": "4:28:31",
+   "by": "FoxglenOpus",
+   "text": "Human 1: where exactly did the dragon kill you (x y z, in a tunnel or in the open)? It is stuck strafing again, likely on your dead body spot. If that spot is under blocks, we open the roof so it can see it, fire, and land."
+  },
+  {
+   "h": 4.481305833333333,
+   "clock": "4:28:53",
+   "by": "Human 1",
+   "text": "It was on the surface. He loves attacking me."
+  },
+  {
+   "h": 4.537175,
+   "clock": "4:32:14",
+   "by": "Human 2",
+   "text": "fox you hurted me"
+  },
+  {
+   "h": 4.541344166666667,
+   "clock": "4:32:29",
+   "by": "FoxglenOpus",
+   "text": "Sorry Human 2! I was hitting the angry enderman at my pit, and my sword sweep must have caught you next to it. I will not swing when you are near."
+  },
+  {
+   "h": 4.548015277777778,
+   "clock": "4:32:53",
+   "by": "Human 2",
+   "text": "FOX NO"
+  },
+  {
+   "h": 4.610834166666667,
+   "clock": "4:36:39",
+   "by": "Human 2",
+   "text": "EVERYONE WAIT FOR Human 1"
+  },
+  {
+   "h": 4.61139,
+   "clock": "4:36:41",
+   "by": "VoidmothOpus",
+   "text": "GG team! Dragon down, Free the End by Human 2 at 4:36. I walk into the exit portal now."
+  },
+  {
+   "h": 4.611945833333333,
+   "clock": "4:36:43",
+   "by": "Human 2",
+   "text": "he is going to get the egg"
+  },
+  {
+   "h": 4.614169166666666,
+   "clock": "4:36:51",
+   "by": "Human 2",
+   "text": "NO"
+  },
+  {
+   "h": 4.614446944444444,
+   "clock": "4:36:52",
+   "by": "Human 2",
+   "text": "DONT"
+  },
+  {
+   "h": 4.615281388888889,
+   "clock": "4:36:55",
+   "by": "Human 2",
+   "text": "WAIT"
+  },
+  {
+   "h": 4.615837222222222,
+   "clock": "4:36:57",
+   "by": "Human 2",
+   "text": "FOR HIM"
+  },
+  {
+   "h": 4.619172777777778,
+   "clock": "4:37:09",
+   "by": "VoidmothOpus",
+   "text": "OK Human 2, I wait for Human 1. I stay in my tunnel at (2,57,-13). Say GO when ready, then I walk into the exit portal."
+  },
+  {
+   "h": 4.62362,
+   "clock": "4:37:25",
+   "by": "FoxglenOpus",
+   "text": "OK Human 2, I wait for Human 1 too. Say GO and I walk into the exit portal. GG all!"
+  },
+  {
+   "h": 4.631403888888889,
+   "clock": "4:37:53",
+   "by": "Human 2",
+   "text": "everyone come up and get ready to jump"
+  },
+  {
+   "h": 4.6341841666666665,
+   "clock": "4:38:03",
+   "by": "Human 2",
+   "text": "stand on the portal frame"
+  },
+  {
+   "h": 4.637520555555556,
+   "clock": "4:38:15",
+   "by": "FoxglenOpus",
+   "text": "Coming up to the portal rim now; I jump when you say GO."
+  },
+  {
+   "h": 4.6383544444444444,
+   "clock": "4:38:18",
+   "by": "VoidmothOpus",
+   "text": "On the portal rim, ready to jump."
+  },
+  {
+   "h": 4.639188055555556,
+   "clock": "4:38:21",
+   "by": "Human 2",
+   "text": "GO!"
+  },
+  {
+   "h": 4.6425238888888885,
+   "clock": "4:38:33",
+   "by": "FoxglenOpus",
+   "text": "Jumped through the exit portal: I am back in the Overworld at the stronghold base. GG team, Free the End at 4:36. Thanks Human 2, Human 1, Voidmoth!"
+  },
+  {
+   "h": 4.648360555555556,
+   "clock": "4:38:54",
+   "by": "VoidmothOpus",
+   "text": "Jumped through the exit portal, back in the Overworld in my stronghold base. GG Human 2, Human 1, Foxglen! Free the End at 4:36."
+  },
+  {
+   "h": 4.6511402777777775,
+   "clock": "4:39:04",
+   "by": "Human 2",
+   "text": "are we all friends now"
+  },
+  {
+   "h": 4.659200833333333,
+   "clock": "4:39:33",
+   "by": "Human 2",
+   "text": "g-guys?"
+  },
+  {
+   "h": 4.660590833333333,
+   "clock": "4:39:38",
+   "by": "VoidmothOpus",
+   "text": "Yes Human 2, all friends! Great teamwork, and you got the final hit. I am safe in my base now."
+  },
+  {
+   "h": 4.665037777777777,
+   "clock": "4:39:54",
+   "by": "Human 2",
+   "text": "let's throw a party"
+  }
+ ],
+ "dragon": {
+  "attrib": [
+   {
+    "t": "2026-11-08T08:10:23.100000+00:00",
+    "clock": "4:14:39",
+    "from": 197.0,
+    "to": 194.75,
+    "d": 2.25,
+    "src": "FoxglenOpus",
+    "logged_by": [
+     "FoxglenOpus"
+    ],
+    "me_hp": [
+     20
+    ]
+   },
+   {
+    "t": "2026-11-08T08:10:23.800000+00:00",
+    "clock": "4:14:40",
+    "from": 194.75,
+    "to": 192.5,
+    "d": 2.25,
+    "src": "FoxglenOpus",
+    "logged_by": [
+     "FoxglenOpus"
+    ],
+    "me_hp": [
+     20
+    ]
+   },
+   {
+    "t": "2026-11-08T08:10:24.500000+00:00",
+    "clock": "4:14:41",
+    "from": 192.5,
+    "to": 190.25,
+    "d": 2.25,
+    "src": "FoxglenOpus",
+    "logged_by": [
+     "FoxglenOpus"
+    ],
+    "me_hp": [
+     20
+    ]
+   },
+   {
+    "t": "2026-11-08T08:10:25.100000+00:00",
+    "clock": "4:14:41",
+    "from": 190.25,
+    "to": 188.0,
+    "d": 2.25,
+    "src": "FoxglenOpus",
+    "logged_by": [
+     "FoxglenOpus"
+    ],
+    "me_hp": [
+     20
+    ]
+   },
+   {
+    "t": "2026-11-08T08:10:25.800000+00:00",
+    "clock": "4:14:42",
+    "from": 188.0,
+    "to": 185.75,
+    "d": 2.25,
+    "src": "FoxglenOpus",
+    "logged_by": [
+     "FoxglenOpus"
+    ],
+    "me_hp": [
+     20
+    ]
+   },
+   {
+    "t": "2026-11-08T08:10:26.500000+00:00",
+    "clock": "4:14:43",
+    "from": 185.75,
+    "to": 183.5,
+    "d": 2.25,
+    "src": "FoxglenOpus",
+    "logged_by": [
+     "FoxglenOpus"
+    ],
+    "me_hp": [
+     20
+    ]
+   },
+   {
+    "t": "2026-11-08T08:10:27.200000+00:00",
+    "clock": "4:14:43",
+    "from": 183.5,
+    "to": 181.25,
+    "d": 2.25,
+    "src": "FoxglenOpus",
+    "logged_by": [
+     "FoxglenOpus"
+    ],
+    "me_hp": [
+     20
+    ]
+   },
+   {
+    "t": "2026-11-08T08:12:21.200000+00:00",
+    "clock": "4:16:37",
+    "from": 180.0,
+    "to": 177.25,
+    "d": 2.75,
+    "src": "VoidmothOpus",
+    "logged_by": [
+     "VoidmothOpus"
+    ],
+    "me_hp": [
+     20
+    ]
+   },
+   {
+    "t": "2026-11-08T08:12:21.800000+00:00",
+    "clock": "4:16:38",
+    "from": 177.25,
+    "to": 174.5,
+    "d": 2.75,
+    "src": "VoidmothOpus",
+    "logged_by": [
+     "VoidmothOpus"
+    ],
+    "me_hp": [
+     20
+    ]
+   },
+   {
+    "t": "2026-11-08T08:12:22.500000+00:00",
+    "clock": "4:16:39",
+    "from": 174.5,
+    "to": 171.75,
+    "d": 2.75,
+    "src": "VoidmothOpus",
+    "logged_by": [
+     "VoidmothOpus"
+    ],
+    "me_hp": [
+     20
+    ]
+   },
+   {
+    "t": "2026-11-08T08:12:23.200000+00:00",
+    "clock": "4:16:39",
+    "from": 171.75,
+    "to": 169.0,
+    "d": 2.75,
+    "src": "VoidmothOpus",
+    "logged_by": [
+     "VoidmothOpus"
+    ],
+    "me_hp": [
+     20
+    ]
+   },
+   {
+    "t": "2026-11-08T08:12:23.800000+00:00",
+    "clock": "4:16:40",
+    "from": 169.0,
+    "to": 166.75,
+    "d": 2.25,
+    "src": "FoxglenOpus",
+    "logged_by": [
+     "VoidmothOpus"
+    ],
+    "me_hp": [
+     20
+    ]
+   },
+   {
+    "t": "2026-11-08T08:12:23.800000+00:00",
+    "clock": "4:16:40",
+    "from": 166.75,
+    "to": 166.25,
+    "d": 0.5,
+    "src": "VoidmothOpus",
+    "logged_by": [
+     "VoidmothOpus"
+    ],
+    "me_hp": [
+     20
+    ]
+   },
+   {
+    "t": "2026-11-08T08:12:24.400000+00:00",
+    "clock": "4:16:41",
+    "from": 166.25,
+    "to": 164.0,
+    "d": 2.25,
+    "src": "FoxglenOpus",
+    "logged_by": [
+     "VoidmothOpus"
+    ],
+    "me_hp": [
+     20
+    ]
+   },
+   {
+    "t": "2026-11-08T08:12:24.500000+00:00",
+    "clock": "4:16:41",
+    "from": 164.0,
+    "to": 163.5,
+    "d": 0.5,
+    "src": "VoidmothOpus",
+    "logged_by": [
+     "VoidmothOpus"
+    ],
+    "me_hp": [
+     20
+    ]
+   },
+   {
+    "t": "2026-11-08T08:12:25.100000+00:00",
+    "clock": "4:16:41",
+    "from": 163.5,
+    "to": 161.25,
+    "d": 2.25,
+    "src": "FoxglenOpus",
+    "logged_by": [
+     "VoidmothOpus"
+    ],
+    "me_hp": [
+     20
+    ]
+   },
+   {
+    "t": "2026-11-08T08:12:25.200000+00:00",
+    "clock": "4:16:41",
+    "from": 161.25,
+    "to": 160.75,
+    "d": 0.5,
+    "src": "VoidmothOpus",
+    "logged_by": [
+     "VoidmothOpus"
+    ],
+    "me_hp": [
+     20
+    ]
+   },
+   {
+    "t": "2026-11-08T08:12:28.300000+00:00",
+    "clock": "4:16:44",
+    "from": 160.75,
+    "to": 158.5,
+    "d": 2.25,
+    "src": "FoxglenOpus",
+    "logged_by": [
+     "VoidmothOpus"
+    ],
+    "me_hp": [
+     20
+    ]
+   },
+   {
+    "t": "2026-11-08T08:14:30.200000+00:00",
+    "clock": "4:18:46",
+    "from": 158.5,
+    "to": 156.25,
+    "d": 2.25,
+    "src": "FoxglenOpus",
+    "logged_by": [
+     "FoxglenOpus",
+     "VoidmothOpus"
+    ],
+    "me_hp": [
+     20,
+     8
+    ]
+   },
+   {
+    "t": "2026-11-08T08:14:30.900000+00:00",
+    "clock": "4:18:47",
+    "from": 156.25,
+    "to": 154.0,
+    "d": 2.25,
+    "src": "FoxglenOpus",
+    "logged_by": [
+     "FoxglenOpus",
+     "VoidmothOpus"
+    ],
+    "me_hp": [
+     20,
+     8
+    ]
+   },
+   {
+    "t": "2026-11-08T08:14:31.500000+00:00",
+    "clock": "4:18:48",
+    "from": 154.0,
+    "to": 151.75,
+    "d": 2.25,
+    "src": "FoxglenOpus",
+    "logged_by": [
+     "FoxglenOpus"
+    ],
+    "me_hp": [
+     20
+    ]
+   },
+   {
+    "t": "2026-11-08T08:14:32.200000+00:00",
+    "clock": "4:18:48",
+    "from": 151.75,
+    "to": 149.5,
+    "d": 2.25,
+    "src": "FoxglenOpus",
+    "logged_by": [
+     "FoxglenOpus"
+    ],
+    "me_hp": [
+     20
+    ]
+   },
+   {
+    "t": "2026-11-08T08:14:32.900000+00:00",
+    "clock": "4:18:49",
+    "from": 149.5,
+    "to": 147.25,
+    "d": 2.25,
+    "src": "FoxglenOpus",
+    "logged_by": [
+     "FoxglenOpus"
+    ],
+    "me_hp": [
+     20
+    ]
+   },
+   {
+    "t": "2026-11-08T08:14:33.600000+00:00",
+    "clock": "4:18:50",
+    "from": 147.25,
+    "to": 140.588,
+    "d": 6.662,
+    "src": "explosion",
+    "logged_by": [
+     "FoxglenOpus",
+     "VoidmothOpus"
+    ],
+    "me_hp": [
+     19,
+     11
+    ],
+    "deaths_within_6s": []
+   },
+   {
+    "t": "2026-11-08T08:17:19.100000+00:00",
+    "clock": "4:21:35",
+    "from": 131.588,
+    "to": 128.838,
+    "d": 2.75,
+    "src": "VoidmothOpus",
+    "logged_by": [
+     "FoxglenOpus",
+     "VoidmothOpus"
+    ],
+    "me_hp": [
+     20,
+     20
+    ]
+   },
+   {
+    "t": "2026-11-08T08:17:19.800000+00:00",
+    "clock": "4:21:36",
+    "from": 128.838,
+    "to": 126.088,
+    "d": 2.75,
+    "src": "VoidmothOpus",
+    "logged_by": [
+     "FoxglenOpus",
+     "VoidmothOpus"
+    ],
+    "me_hp": [
+     20,
+     20
+    ]
+   },
+   {
+    "t": "2026-11-08T08:17:20.400000+00:00",
+    "clock": "4:21:37",
+    "from": 126.088,
+    "to": 123.338,
+    "d": 2.75,
+    "src": "VoidmothOpus",
+    "logged_by": [
+     "FoxglenOpus",
+     "VoidmothOpus"
+    ],
+    "me_hp": [
+     20,
+     20
+    ]
+   },
+   {
+    "t": "2026-11-08T08:17:21.100000+00:00",
+    "clock": "4:21:37",
+    "from": 123.338,
+    "to": 120.588,
+    "d": 2.75,
+    "src": "VoidmothOpus",
+    "logged_by": [
+     "FoxglenOpus",
+     "VoidmothOpus"
+    ],
+    "me_hp": [
+     20,
+     20
+    ]
+   },
+   {
+    "t": "2026-11-08T08:17:21.800000+00:00",
+    "clock": "4:21:38",
+    "from": 120.588,
+    "to": 117.838,
+    "d": 2.75,
+    "src": "VoidmothOpus",
+    "logged_by": [
+     "FoxglenOpus",
+     "VoidmothOpus"
+    ],
+    "me_hp": [
+     20,
+     20
+    ]
+   },
+   {
+    "t": "2026-11-08T08:17:22.400000+00:00",
+    "clock": "4:21:39",
+    "from": 117.838,
+    "to": 115.088,
+    "d": 2.75,
+    "src": "VoidmothOpus",
+    "logged_by": [
+     "FoxglenOpus",
+     "VoidmothOpus"
+    ],
+    "me_hp": [
+     20,
+     20
+    ]
+   },
+   {
+    "t": "2026-11-08T08:17:23.100000+00:00",
+    "clock": "4:21:39",
+    "from": 115.088,
+    "to": 112.338,
+    "d": 2.75,
+    "src": "VoidmothOpus",
+    "logged_by": [
+     "FoxglenOpus",
+     "VoidmothOpus"
+    ],
+    "me_hp": [
+     20,
+     20
+    ]
+   },
+   {
+    "t": "2026-11-08T08:17:23.800000+00:00",
+    "clock": "4:21:40",
+    "from": 112.338,
+    "to": 109.588,
+    "d": 2.75,
+    "src": "VoidmothOpus",
+    "logged_by": [
+     "FoxglenOpus",
+     "VoidmothOpus"
+    ],
+    "me_hp": [
+     20,
+     20
+    ]
+   },
+   {
+    "t": "2026-11-08T08:18:35+00:00",
+    "clock": "4:22:51",
+    "from": 109.588,
+    "to": 80.31,
+    "d": 29.278,
+    "src": "explosion",
+    "logged_by": [
+     "FoxglenOpus"
+    ],
+    "me_hp": [
+     15
+    ],
+    "deaths_within_6s": [
+     "Human 2 burned to death (+4.4 s)"
+    ]
+   },
+   {
+    "t": "2026-11-08T08:19:38+00:00",
+    "clock": "4:23:54",
+    "from": 76.059,
+    "to": 73.309,
+    "d": 2.75,
+    "src": "VoidmothOpus",
+    "logged_by": [
+     "VoidmothOpus"
+    ],
+    "me_hp": [
+     20
+    ]
+   },
+   {
+    "t": "2026-11-08T08:19:38.600000+00:00",
+    "clock": "4:23:55",
+    "from": 73.309,
+    "to": 71.929,
+    "d": 1.38,
+    "src": "people",
+    "logged_by": [
+     "VoidmothOpus"
+    ],
+    "me_hp": [
+     19
+    ]
+   },
+   {
+    "t": "2026-11-08T08:19:38.700000+00:00",
+    "clock": "4:23:55",
+    "from": 71.929,
+    "to": 70.559,
+    "d": 1.37,
+    "src": "VoidmothOpus",
+    "logged_by": [
+     "VoidmothOpus"
+    ],
+    "me_hp": [
+     19
+    ]
+   },
+   {
+    "t": "2026-11-08T08:19:39.200000+00:00",
+    "clock": "4:23:55",
+    "from": 70.559,
+    "to": 69.23,
+    "d": 1.329,
+    "src": "people",
+    "logged_by": [
+     "VoidmothOpus"
+    ],
+    "me_hp": [
+     19
+    ]
+   },
+   {
+    "t": "2026-11-08T08:19:39.400000+00:00",
+    "clock": "4:23:56",
+    "from": 69.23,
+    "to": 67.809,
+    "d": 1.421,
+    "src": "VoidmothOpus",
+    "logged_by": [
+     "VoidmothOpus"
+    ],
+    "me_hp": [
+     18
+    ]
+   },
+   {
+    "t": "2026-11-08T08:19:39.900000+00:00",
+    "clock": "4:23:56",
+    "from": 67.809,
+    "to": 66.48,
+    "d": 1.329,
+    "src": "people",
+    "logged_by": [
+     "VoidmothOpus"
+    ],
+    "me_hp": [
+     18
+    ]
+   },
+   {
+    "t": "2026-11-08T08:19:40+00:00",
+    "clock": "4:23:56",
+    "from": 66.48,
+    "to": 65.059,
+    "d": 1.421,
+    "src": "VoidmothOpus",
+    "logged_by": [
+     "VoidmothOpus"
+    ],
+    "me_hp": [
+     18
+    ]
+   },
+   {
+    "t": "2026-11-08T08:19:40.400000+00:00",
+    "clock": "4:23:57",
+    "from": 65.059,
+    "to": 63.679,
+    "d": 1.38,
+    "src": "people",
+    "logged_by": [
+     "VoidmothOpus"
+    ],
+    "me_hp": [
+     19
+    ]
+   },
+   {
+    "t": "2026-11-08T08:19:40.700000+00:00",
+    "clock": "4:23:57",
+    "from": 63.679,
+    "to": 62.309,
+    "d": 1.37,
+    "src": "VoidmothOpus",
+    "logged_by": [
+     "VoidmothOpus"
+    ],
+    "me_hp": [
+     18
+    ]
+   },
+   {
+    "t": "2026-11-08T08:19:41+00:00",
+    "clock": "4:23:57",
+    "from": 62.309,
+    "to": 60.98,
+    "d": 1.329,
+    "src": "people",
+    "logged_by": [
+     "VoidmothOpus"
+    ],
+    "me_hp": [
+     18
+    ]
+   },
+   {
+    "t": "2026-11-08T08:19:41.300000+00:00",
+    "clock": "4:23:57",
+    "from": 60.98,
+    "to": 60.929,
+    "d": 0.051,
+    "src": "people",
+    "logged_by": [
+     "VoidmothOpus"
+    ],
+    "me_hp": [
+     18
+    ]
+   },
+   {
+    "t": "2026-11-08T08:19:41.600000+00:00",
+    "clock": "4:23:58",
+    "from": 60.929,
+    "to": 59.601,
+    "d": 1.328,
+    "src": "people",
+    "logged_by": [
+     "VoidmothOpus"
+    ],
+    "me_hp": [
+     18
+    ]
+   },
+   {
+    "t": "2026-11-08T08:19:41.700000+00:00",
+    "clock": "4:23:58",
+    "from": 59.601,
+    "to": 58.179,
+    "d": 1.422,
+    "src": "VoidmothOpus",
+    "logged_by": [
+     "VoidmothOpus"
+    ],
+    "me_hp": [
+     18
+    ]
+   },
+   {
+    "t": "2026-11-08T08:19:42.200000+00:00",
+    "clock": "4:23:58",
+    "from": 58.179,
+    "to": 56.851,
+    "d": 1.328,
+    "src": "people",
+    "logged_by": [
+     "VoidmothOpus"
+    ],
+    "me_hp": [
+     17
+    ]
+   },
+   {
+    "t": "2026-11-08T08:19:42.300000+00:00",
+    "clock": "4:23:58",
+    "from": 56.851,
+    "to": 55.429,
+    "d": 1.422,
+    "src": "VoidmothOpus",
+    "logged_by": [
+     "VoidmothOpus"
+    ],
+    "me_hp": [
+     17
+    ]
+   },
+   {
+    "t": "2026-11-08T08:19:42.800000+00:00",
+    "clock": "4:23:59",
+    "from": 55.429,
+    "to": 54.101,
+    "d": 1.328,
+    "src": "people",
+    "logged_by": [
+     "VoidmothOpus"
+    ],
+    "me_hp": [
+     17
+    ]
+   },
+   {
+    "t": "2026-11-08T08:19:45.700000+00:00",
+    "clock": "4:24:02",
+    "from": 54.101,
+    "to": 52.772,
+    "d": 1.329,
+    "src": "people",
+    "logged_by": [
+     "VoidmothOpus"
+    ],
+    "me_hp": [
+     17
+    ]
+   },
+   {
+    "t": "2026-11-08T08:21:47.200000+00:00",
+    "clock": "4:26:03",
+    "from": 52.772,
+    "to": 51.444,
+    "d": 1.328,
+    "src": "people",
+    "logged_by": [
+     "FoxglenOpus"
+    ],
+    "me_hp": [
+     20
+    ]
+   },
+   {
+    "t": "2026-11-08T08:21:47.800000+00:00",
+    "clock": "4:26:04",
+    "from": 51.444,
+    "to": 50.116,
+    "d": 1.328,
+    "src": "people",
+    "logged_by": [
+     "FoxglenOpus"
+    ],
+    "me_hp": [
+     20
+    ]
+   },
+   {
+    "t": "2026-11-08T08:23:48.100000+00:00",
+    "clock": "4:28:04",
+    "from": 50.116,
+    "to": 48.787,
+    "d": 1.329,
+    "src": "people",
+    "logged_by": [
+     "VoidmothOpus"
+    ],
+    "me_hp": [
+     20
+    ]
+   },
+   {
+    "t": "2026-11-08T08:30:18.300000+00:00",
+    "clock": "4:34:34",
+    "from": 48.787,
+    "to": 43.787,
+    "d": 5.0,
+    "src": "FoxglenOpus",
+    "logged_by": [
+     "FoxglenOpus"
+    ],
+    "me_hp": [
+     20
+    ]
+   },
+   {
+    "t": "2026-11-08T08:30:19+00:00",
+    "clock": "4:34:35",
+    "from": 43.787,
+    "to": 38.787,
+    "d": 5.0,
+    "src": "FoxglenOpus",
+    "logged_by": [
+     "FoxglenOpus"
+    ],
+    "me_hp": [
+     20
+    ]
+   },
+   {
+    "t": "2026-11-08T08:30:19.600000+00:00",
+    "clock": "4:34:36",
+    "from": 38.787,
+    "to": 33.787,
+    "d": 5.0,
+    "src": "FoxglenOpus",
+    "logged_by": [
+     "FoxglenOpus"
+    ],
+    "me_hp": [
+     20
+    ]
+   },
+   {
+    "t": "2026-11-08T08:30:20.300000+00:00",
+    "clock": "4:34:36",
+    "from": 33.787,
+    "to": 28.787,
+    "d": 5.0,
+    "src": "FoxglenOpus",
+    "logged_by": [
+     "FoxglenOpus"
+    ],
+    "me_hp": [
+     20
+    ]
+   },
+   {
+    "t": "2026-11-08T08:30:21+00:00",
+    "clock": "4:34:37",
+    "from": 28.787,
+    "to": 23.787,
+    "d": 5.0,
+    "src": "FoxglenOpus",
+    "logged_by": [
+     "FoxglenOpus"
+    ],
+    "me_hp": [
+     20
+    ]
+   },
+   {
+    "t": "2026-11-08T08:30:21.600000+00:00",
+    "clock": "4:34:38",
+    "from": 23.787,
+    "to": 18.787,
+    "d": 5.0,
+    "src": "FoxglenOpus",
+    "logged_by": [
+     "FoxglenOpus"
+    ],
+    "me_hp": [
+     20
+    ]
+   },
+   {
+    "t": "2026-11-08T08:30:22.300000+00:00",
+    "clock": "4:34:38",
+    "from": 18.787,
+    "to": 13.787,
+    "d": 5.0,
+    "src": "FoxglenOpus",
+    "logged_by": [
+     "FoxglenOpus"
+    ],
+    "me_hp": [
+     20
+    ]
+   },
+   {
+    "t": "2026-11-08T08:30:23+00:00",
+    "clock": "4:34:39",
+    "from": 13.787,
+    "to": 8.787,
+    "d": 5.0,
+    "src": "FoxglenOpus",
+    "logged_by": [
+     "FoxglenOpus"
+    ],
+    "me_hp": [
+     20
+    ]
+   },
+   {
+    "t": "2026-11-08T08:30:25.200000+00:00",
+    "clock": "4:34:41",
+    "from": 8.787,
+    "to": 7.408,
+    "d": 1.379,
+    "src": "people",
+    "logged_by": [
+     "FoxglenOpus"
+    ],
+    "me_hp": [
+     20
+    ]
+   },
+   {
+    "t": "2026-11-08T08:31:53.500000+00:00",
+    "clock": "4:36:10",
+    "from": 7.408,
+    "to": 1.263,
+    "d": 6.145,
+    "src": "explosion",
+    "logged_by": [
+     "FoxglenOpus",
+     "VoidmothOpus"
+    ],
+    "me_hp": [
+     19,
+     19
+    ],
+    "deaths_within_6s": [
+     "Human 1 was killed by [Intentional Game Design] (+0.4 s)"
+    ]
+   },
+   {
+    "t": "2026-11-08T08:31:59.300000+00:00",
+    "clock": "4:36:15",
+    "from": 1.263,
+    "to": 0.013,
+    "d": 1.25,
+    "src": "people",
+    "logged_by": [
+     "VoidmothOpus"
+    ],
+    "me_hp": [
+     20
+    ]
+   },
+   {
+    "t": "2026-11-08T08:31:59.800000+00:00",
+    "clock": "4:36:16",
+    "from": 0.013,
+    "to": 0.0,
+    "d": 0.013,
+    "src": "people",
+    "logged_by": [
+     "VoidmothOpus"
+    ],
+    "me_hp": [
+     20
+    ]
+   }
+  ],
+  "gaps": [
+   {
+    "from": 200.0,
+    "to": 197.0,
+    "d": 3.0,
+    "after": "last crystal",
+    "before": "4:02:05",
+    "fight_programs_running": [],
+    "src": "unattributed"
+   },
+   {
+    "from": 181.25,
+    "to": 180.0,
+    "d": 1.25,
+    "after": "4:15:24",
+    "before": "4:15:36",
+    "fight_programs_running": [
+     "FoxglenOpus",
+     "VoidmothOpus"
+    ],
+    "src": "unattributed"
+   },
+   {
+    "from": 140.588,
+    "to": 131.588,
+    "d": 9.0,
+    "after": "4:20:21",
+    "before": "4:20:37",
+    "fight_programs_running": [],
+    "src": "people (no agent fight program running)"
+   },
+   {
+    "from": 80.31,
+    "to": 76.059,
+    "d": 4.251,
+    "after": "4:23:39",
+    "before": "4:23:54",
+    "fight_programs_running": [
+     "VoidmothOpus"
+    ],
+    "src": "unattributed"
+   }
+  ],
+  "damage": {
+   "FoxglenOpus": 76.0,
+   "VoidmothOpus": 45.676,
+   "explosion": 42.085,
+   "people": 27.738,
+   "unattributed": 8.501
+  },
+  "perches": [
+   {
+    "clock": "4:14:39",
+    "by": {
+     "FoxglenOpus": 15.75
+    }
+   },
+   {
+    "clock": "4:16:37",
+    "by": {
+     "VoidmothOpus": 12.5,
+     "FoxglenOpus": 9.0
+    }
+   },
+   {
+    "clock": "4:18:46",
+    "by": {
+     "FoxglenOpus": 11.25
+    }
+   },
+   {
+    "clock": "4:21:35",
+    "by": {
+     "VoidmothOpus": 22.0
+    }
+   },
+   {
+    "clock": "4:23:54",
+    "by": {
+     "VoidmothOpus": 11.18
+    }
+   },
+   {
+    "clock": "4:34:34",
+    "by": {
+     "FoxglenOpus": 40.0
+    }
+   }
+  ],
+  "strafes_over_4_min": [
+   {
+    "from": "3:36:42",
+    "to": "4:06:07",
+    "min": 29.420450000000002
+   },
+   {
+    "from": "4:24:36",
+    "to": "4:29:55",
+    "min": 5.3100000000000005
+   }
+  ],
+  "series": [
+   {
+    "h": 3.5060655555555553,
+    "hp": 200.0,
+    "phase": 0
+   },
+   {
+    "h": 3.5179025,
+    "hp": 200.0,
+    "phase": 0
+   },
+   {
+    "h": 3.5251724999999996,
+    "hp": 200.0,
+    "phase": 2
+   },
+   {
+    "h": 3.553754722222222,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.5616191666666666,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.5655786111111114,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.5890086111111112,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.6089174999999996,
+    "hp": 200.0,
+    "phase": 0
+   },
+   {
+    "h": 3.6117155555555556,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.6117155555555556,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.6117155555555556,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.6117155555555556,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.6117155555555556,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.6117155555555556,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.6117155555555556,
+    "hp": 191.0,
+    "phase": 1
+   },
+   {
+    "h": 3.6117155555555556,
+    "hp": 200.0,
+    "phase": 0
+   },
+   {
+    "h": 3.6117155555555556,
+    "hp": 200.0,
+    "phase": 0
+   },
+   {
+    "h": 3.6117155555555556,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.6118391666666665,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.6272519444444447,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.6409747222222224,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.6498280555555556,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.686650833333333,
+    "hp": 199.0,
+    "phase": 1
+   },
+   {
+    "h": 3.7057041666666666,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.7057041666666666,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.706475277777778,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.727323611111111,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.738271666666667,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.7564758333333335,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.7587727777777777,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.7715597222222224,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.772226388888889,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.7780705555555554,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.7807830555555553,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.7974613888888893,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.8007552777777773,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.8202402777777777,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.8329250000000004,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.853145,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.859005277777778,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.859005277777778,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.865366388888889,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.8653891666666667,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.8653941666666665,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.8660505555555553,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.877384722222222,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.878949722222222,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.878949722222222,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.884922222222222,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.886449722222222,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.8868663888888886,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.894366388888889,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.894783055555555,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.8963869444444446,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.8968386111111113,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.897255277777778,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.8985608333333333,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.901171944444444,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.901588611111111,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.906914722222222,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.9090886111111107,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.9091116666666665,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.9093386111111115,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.9192291666666668,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.921482222222222,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.9232519444444445,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.928036388888889,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.9280608333333333,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.9280608333333333,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.9290052777777777,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.9297275000000003,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.929921944444444,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.930116388888889,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.9302275,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.9302275,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.9305608333333333,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.9307552777777777,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.9307830555555556,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.9314774999999997,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.9340052777777776,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.9344219444444444,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.941921944444444,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.941971111111111,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.942338611111111,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.9468663888888886,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.947116388888889,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.9490330555555557,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.9491997222222226,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.9498108333333333,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.950255277777778,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.9577275,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.958021111111111,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.9607552777777775,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.9613638888888887,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.961366388888889,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.977085833333333,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.9817830555555553,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.982394166666667,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.9867552777777777,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.986949722222222,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.9871441666666665,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.987338611111111,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.9876441666666667,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.9878108333333335,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.9880052777777775,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.9882552777777773,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.9901441666666666,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.9901441666666666,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.9970608333333333,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.9976719444444444,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.9977275,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.997734166666667,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 3.998088611111111,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 4.005588611111111,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 4.006005277777778,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 4.012616388888889,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 4.013033055555556,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 4.020533055555555,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 4.020571666666667,
+    "hp": 200.0,
+    "phase": 1
+   },
+   {
+    "h": 4.0348258333333336,
+    "hp": 197.0,
+    "phase": 1
+   },
+   {
+    "h": 4.047299166666667,
+    "hp": 197.0,
+    "phase": 1
+   },
+   {
+    "h": 4.054815555555555,
+    "hp": 197.0,
+    "phase": 1
+   },
+   {
+    "h": 4.056214166666666,
+    "hp": 197.0,
+    "phase": 1
+   },
+   {
+    "h": 4.062498055555555,
+    "hp": 197.0,
+    "phase": 1
+   },
+   {
+    "h": 4.0669530555555555,
+    "hp": 197.0,
+    "phase": 1
+   },
+   {
+    "h": 4.0758391666666665,
+    "hp": 197.0,
+    "phase": 1
+   },
+   {
+    "h": 4.090341111111111,
+    "hp": 197.0,
+    "phase": 1
+   },
+   {
+    "h": 4.102035,
+    "hp": 197.0,
+    "phase": 1
+   },
+   {
+    "h": 4.102056388888889,
+    "hp": 197.0,
+    "phase": 1
+   },
+   {
+    "h": 4.211236666666666,
+    "hp": 197.0,
+    "phase": 0
+   },
+   {
+    "h": 4.229213611111111,
+    "hp": 197.0,
+    "phase": 1
+   },
+   {
+    "h": 4.232965277777778,
+    "hp": 197.0,
+    "phase": 1
+   },
+   {
+    "h": 4.236450555555556,
+    "hp": 197.0,
+    "phase": 0
+   },
+   {
+    "h": 4.240293888888889,
+    "hp": 197.0,
+    "phase": 2
+   },
+   {
+    "h": 4.2419775,
+    "hp": 197.0,
+    "phase": 3
+   },
+   {
+    "h": 4.2419775,
+    "hp": 197.0,
+    "phase": 3
+   },
+   {
+    "h": 4.243255277777777,
+    "hp": 197.0,
+    "phase": 3
+   },
+   {
+    "h": 4.244088611111111,
+    "hp": 197.0,
+    "phase": 6
+   },
+   {
+    "h": 4.2442275,
+    "hp": 197.0,
+    "phase": 6
+   },
+   {
+    "h": 4.2442275,
+    "hp": 197.0,
+    "phase": 6
+   },
+   {
+    "h": 4.2442275,
+    "hp": 194.75,
+    "phase": 6
+   },
+   {
+    "h": 4.244421944444444,
+    "hp": 192.5,
+    "phase": 6
+   },
+   {
+    "h": 4.244560833333333,
+    "hp": 192.5,
+    "phase": 6
+   },
+   {
+    "h": 4.244616388888889,
+    "hp": 190.25,
+    "phase": 6
+   },
+   {
+    "h": 4.244783055555556,
+    "hp": 188.0,
+    "phase": 6
+   },
+   {
+    "h": 4.244894166666667,
+    "hp": 188.0,
+    "phase": 6
+   },
+   {
+    "h": 4.2449775,
+    "hp": 185.75,
+    "phase": 6
+   },
+   {
+    "h": 4.2451719444444445,
+    "hp": 183.5,
+    "phase": 6
+   },
+   {
+    "h": 4.2452274999999995,
+    "hp": 183.5,
+    "phase": 6
+   },
+   {
+    "h": 4.245366388888889,
+    "hp": 181.25,
+    "phase": 6
+   },
+   {
+    "h": 4.245449722222222,
+    "hp": 181.25,
+    "phase": 4
+   },
+   {
+    "h": 4.245449722222222,
+    "hp": 181.25,
+    "phase": 4
+   },
+   {
+    "h": 4.246088611111111,
+    "hp": 181.25,
+    "phase": 0
+   },
+   {
+    "h": 4.246088611111111,
+    "hp": 181.25,
+    "phase": 0
+   },
+   {
+    "h": 4.253157777777778,
+    "hp": 181.25,
+    "phase": 0
+   },
+   {
+    "h": 4.2544775,
+    "hp": 181.25,
+    "phase": 2
+   },
+   {
+    "h": 4.2544775,
+    "hp": 181.25,
+    "phase": 2
+   },
+   {
+    "h": 4.255894166666667,
+    "hp": 181.25,
+    "phase": 2
+   },
+   {
+    "h": 4.256560833333333,
+    "hp": 181.25,
+    "phase": 2
+   },
+   {
+    "h": 4.2565647222222225,
+    "hp": 181.25,
+    "phase": 2
+   },
+   {
+    "h": 4.260005277777778,
+    "hp": 180.0,
+    "phase": 6
+   },
+   {
+    "h": 4.260338611111111,
+    "hp": 180.0,
+    "phase": 6
+   },
+   {
+    "h": 4.260671944444445,
+    "hp": 180.0,
+    "phase": 6
+   },
+   {
+    "h": 4.261005277777778,
+    "hp": 180.0,
+    "phase": 6
+   },
+   {
+    "h": 4.261338611111111,
+    "hp": 180.0,
+    "phase": 6
+   },
+   {
+    "h": 4.261366388888889,
+    "hp": 180.0,
+    "phase": 4
+   },
+   {
+    "h": 4.261366388888889,
+    "hp": 180.0,
+    "phase": 4
+   },
+   {
+    "h": 4.261644166666667,
+    "hp": 180.0,
+    "phase": 0
+   },
+   {
+    "h": 4.2620330555555554,
+    "hp": 180.0,
+    "phase": 0
+   },
+   {
+    "h": 4.2620330555555554,
+    "hp": 180.0,
+    "phase": 0
+   },
+   {
+    "h": 4.264560833333333,
+    "hp": 180.0,
+    "phase": 1
+   },
+   {
+    "h": 4.264560833333333,
+    "hp": 180.0,
+    "phase": 1
+   },
+   {
+    "h": 4.264560833333333,
+    "hp": 180.0,
+    "phase": 1
+   },
+   {
+    "h": 4.269866388888889,
+    "hp": 180.0,
+    "phase": 1
+   },
+   {
+    "h": 4.270199722222222,
+    "hp": 180.0,
+    "phase": 1
+   },
+   {
+    "h": 4.271310833333333,
+    "hp": 180.0,
+    "phase": 1
+   },
+   {
+    "h": 4.271699722222222,
+    "hp": 180.0,
+    "phase": 0
+   },
+   {
+    "h": 4.271699722222222,
+    "hp": 180.0,
+    "phase": 0
+   },
+   {
+    "h": 4.272366388888889,
+    "hp": 180.0,
+    "phase": 0
+   },
+   {
+    "h": 4.272838611111111,
+    "hp": 180.0,
+    "phase": 2
+   },
+   {
+    "h": 4.272838611111111,
+    "hp": 180.0,
+    "phase": 2
+   },
+   {
+    "h": 4.2732275,
+    "hp": 180.0,
+    "phase": 2
+   },
+   {
+    "h": 4.2732552777777775,
+    "hp": 180.0,
+    "phase": 2
+   },
+   {
+    "h": 4.2732552777777775,
+    "hp": 180.0,
+    "phase": 2
+   },
+   {
+    "h": 4.2739775,
+    "hp": 180.0,
+    "phase": 2
+   },
+   {
+    "h": 4.274505277777777,
+    "hp": 180.0,
+    "phase": 3
+   },
+   {
+    "h": 4.2747552777777775,
+    "hp": 180.0,
+    "phase": 3
+   },
+   {
+    "h": 4.275310833333333,
+    "hp": 180.0,
+    "phase": 3
+   },
+   {
+    "h": 4.275533055555556,
+    "hp": 180.0,
+    "phase": 3
+   },
+   {
+    "h": 4.276116388888889,
+    "hp": 180.0,
+    "phase": 3
+   },
+   {
+    "h": 4.276120555555555,
+    "hp": 180.0,
+    "phase": 3
+   },
+   {
+    "h": 4.276671944444445,
+    "hp": 180.0,
+    "phase": 3
+   },
+   {
+    "h": 4.276866388888888,
+    "hp": 180.0,
+    "phase": 6
+   },
+   {
+    "h": 4.277005277777778,
+    "hp": 180.0,
+    "phase": 6
+   },
+   {
+    "h": 4.277005277777778,
+    "hp": 180.0,
+    "phase": 6
+   },
+   {
+    "h": 4.277033055555555,
+    "hp": 177.25,
+    "phase": 6
+   },
+   {
+    "h": 4.277199722222222,
+    "hp": 174.5,
+    "phase": 6
+   },
+   {
+    "h": 4.277338611111111,
+    "hp": 174.5,
+    "phase": 6
+   },
+   {
+    "h": 4.277394166666667,
+    "hp": 171.75,
+    "phase": 6
+   },
+   {
+    "h": 4.277560833333333,
+    "hp": 171.75,
+    "phase": 6
+   },
+   {
+    "h": 4.277560833333333,
+    "hp": 171.75,
+    "phase": 6
+   },
+   {
+    "h": 4.277588611111111,
+    "hp": 169.0,
+    "phase": 6
+   },
+   {
+    "h": 4.277671944444444,
+    "hp": 169.0,
+    "phase": 6
+   },
+   {
+    "h": 4.277755277777778,
+    "hp": 166.75,
+    "phase": 6
+   },
+   {
+    "h": 4.277755277777778,
+    "hp": 166.25,
+    "phase": 6
+   },
+   {
+    "h": 4.2779219444444445,
+    "hp": 164.0,
+    "phase": 6
+   },
+   {
+    "h": 4.277949722222222,
+    "hp": 163.5,
+    "phase": 6
+   },
+   {
+    "h": 4.278005277777778,
+    "hp": 163.5,
+    "phase": 6
+   },
+   {
+    "h": 4.278116388888889,
+    "hp": 161.25,
+    "phase": 6
+   },
+   {
+    "h": 4.278144166666666,
+    "hp": 160.75,
+    "phase": 6
+   },
+   {
+    "h": 4.2782275,
+    "hp": 160.75,
+    "phase": 4
+   },
+   {
+    "h": 4.2782275,
+    "hp": 160.75,
+    "phase": 4
+   },
+   {
+    "h": 4.278838611111111,
+    "hp": 158.5,
+    "phase": 0
+   },
+   {
+    "h": 4.278838611111111,
+    "hp": 158.5,
+    "phase": 0
+   },
+   {
+    "h": 4.279005277777777,
+    "hp": 158.5,
+    "phase": 0
+   },
+   {
+    "h": 4.279005277777777,
+    "hp": 158.5,
+    "phase": 0
+   },
+   {
+    "h": 4.279005277777777,
+    "hp": 158.5,
+    "phase": 0
+   },
+   {
+    "h": 4.280449722222222,
+    "hp": 158.5,
+    "phase": 0
+   },
+   {
+    "h": 4.283231944444444,
+    "hp": 158.5,
+    "phase": 0
+   },
+   {
+    "h": 4.287894166666667,
+    "hp": 158.5,
+    "phase": 0
+   },
+   {
+    "h": 4.291449722222222,
+    "hp": 158.5,
+    "phase": 0
+   },
+   {
+    "h": 4.292134166666667,
+    "hp": 158.5,
+    "phase": 0
+   },
+   {
+    "h": 4.292144166666667,
+    "hp": 158.5,
+    "phase": 0
+   },
+   {
+    "h": 4.293505277777778,
+    "hp": 158.5,
+    "phase": 0
+   },
+   {
+    "h": 4.296644166666667,
+    "hp": 158.5,
+    "phase": 1
+   },
+   {
+    "h": 4.296644166666667,
+    "hp": 158.5,
+    "phase": 1
+   },
+   {
+    "h": 4.296644166666667,
+    "hp": 158.5,
+    "phase": 1
+   },
+   {
+    "h": 4.296921944444445,
+    "hp": 158.5,
+    "phase": 0
+   },
+   {
+    "h": 4.298533055555556,
+    "hp": 158.5,
+    "phase": 0
+   },
+   {
+    "h": 4.298560833333333,
+    "hp": 158.5,
+    "phase": 0
+   },
+   {
+    "h": 4.306671944444444,
+    "hp": 158.5,
+    "phase": 2
+   },
+   {
+    "h": 4.306671944444444,
+    "hp": 158.5,
+    "phase": 2
+   },
+   {
+    "h": 4.306671944444444,
+    "hp": 158.5,
+    "phase": 2
+   },
+   {
+    "h": 4.306671944444444,
+    "hp": 158.5,
+    "phase": 2
+   },
+   {
+    "h": 4.307949722222222,
+    "hp": 158.5,
+    "phase": 2
+   },
+   {
+    "h": 4.308616388888889,
+    "hp": 158.5,
+    "phase": 2
+   },
+   {
+    "h": 4.308620833333333,
+    "hp": 158.5,
+    "phase": 2
+   },
+   {
+    "h": 4.308894166666667,
+    "hp": 158.5,
+    "phase": 2
+   },
+   {
+    "h": 4.309088611111111,
+    "hp": 158.5,
+    "phase": 2
+   },
+   {
+    "h": 4.3092830555555555,
+    "hp": 158.5,
+    "phase": 2
+   },
+   {
+    "h": 4.309616388888889,
+    "hp": 158.5,
+    "phase": 3
+   },
+   {
+    "h": 4.310255277777777,
+    "hp": 158.5,
+    "phase": 3
+   },
+   {
+    "h": 4.310616388888889,
+    "hp": 158.5,
+    "phase": 3
+   },
+   {
+    "h": 4.310616388888889,
+    "hp": 158.5,
+    "phase": 3
+   },
+   {
+    "h": 4.310810833333333,
+    "hp": 158.5,
+    "phase": 3
+   },
+   {
+    "h": 4.311088611111111,
+    "hp": 158.5,
+    "phase": 3
+   },
+   {
+    "h": 4.311088611111111,
+    "hp": 158.5,
+    "phase": 3
+   },
+   {
+    "h": 4.311255277777778,
+    "hp": 158.5,
+    "phase": 3
+   },
+   {
+    "h": 4.311838611111111,
+    "hp": 158.5,
+    "phase": 3
+   },
+   {
+    "h": 4.3127275,
+    "hp": 158.5,
+    "phase": 6
+   },
+   {
+    "h": 4.312866388888889,
+    "hp": 156.25,
+    "phase": 6
+   },
+   {
+    "h": 4.312894166666666,
+    "hp": 156.25,
+    "phase": 6
+   },
+   {
+    "h": 4.313060833333333,
+    "hp": 154.0,
+    "phase": 6
+   },
+   {
+    "h": 4.313060833333333,
+    "hp": 154.0,
+    "phase": 6
+   },
+   {
+    "h": 4.313171944444444,
+    "hp": 154.0,
+    "phase": 6
+   },
+   {
+    "h": 4.3132275,
+    "hp": 151.75,
+    "phase": 6
+   },
+   {
+    "h": 4.313421944444444,
+    "hp": 149.5,
+    "phase": 6
+   },
+   {
+    "h": 4.313533055555555,
+    "hp": 149.5,
+    "phase": 6
+   },
+   {
+    "h": 4.313616388888889,
+    "hp": 147.25,
+    "phase": 6
+   },
+   {
+    "h": 4.313616388888889,
+    "hp": 147.25,
+    "phase": 6
+   },
+   {
+    "h": 4.313810833333333,
+    "hp": 140.58755493164062,
+    "phase": 4
+   },
+   {
+    "h": 4.313810833333333,
+    "hp": 140.58755493164062,
+    "phase": 4
+   },
+   {
+    "h": 4.313810833333333,
+    "hp": 140.58755493164062,
+    "phase": 4
+   },
+   {
+    "h": 4.313838611111111,
+    "hp": 140.58755493164062,
+    "phase": 4
+   },
+   {
+    "h": 4.313838611111111,
+    "hp": 140.58755493164062,
+    "phase": 4
+   },
+   {
+    "h": 4.3140052777777775,
+    "hp": 140.58755493164062,
+    "phase": 0
+   },
+   {
+    "h": 4.314449722222222,
+    "hp": 140.58755493164062,
+    "phase": 0
+   },
+   {
+    "h": 4.314449722222222,
+    "hp": 140.58755493164062,
+    "phase": 0
+   },
+   {
+    "h": 4.317056666666667,
+    "hp": 140.58755493164062,
+    "phase": 0
+   },
+   {
+    "h": 4.317894166666667,
+    "hp": 140.58755493164062,
+    "phase": 1
+   },
+   {
+    "h": 4.319949722222222,
+    "hp": 140.58755493164062,
+    "phase": 0
+   },
+   {
+    "h": 4.320670555555556,
+    "hp": 140.58755493164062,
+    "phase": 0
+   },
+   {
+    "h": 4.328644166666667,
+    "hp": 140.58755493164062,
+    "phase": 1
+   },
+   {
+    "h": 4.328644166666667,
+    "hp": 140.58755493164062,
+    "phase": 1
+   },
+   {
+    "h": 4.330505277777777,
+    "hp": 140.58755493164062,
+    "phase": 0
+   },
+   {
+    "h": 4.330644166666667,
+    "hp": 140.58755493164062,
+    "phase": 0
+   },
+   {
+    "h": 4.331310833333333,
+    "hp": 140.58755493164062,
+    "phase": 0
+   },
+   {
+    "h": 4.337116388888889,
+    "hp": 140.58755493164062,
+    "phase": 3
+   },
+   {
+    "h": 4.337116388888889,
+    "hp": 140.58755493164062,
+    "phase": 3
+   },
+   {
+    "h": 4.3382275,
+    "hp": 140.58755493164062,
+    "phase": 3
+   },
+   {
+    "h": 4.338505277777778,
+    "hp": 140.58755493164062,
+    "phase": 3
+   },
+   {
+    "h": 4.339082222222222,
+    "hp": 140.58755493164062,
+    "phase": 3
+   },
+   {
+    "h": 4.33908861111111,
+    "hp": 140.58755493164062,
+    "phase": 3
+   },
+   {
+    "h": 4.343621388888889,
+    "hp": 131.58755493164062,
+    "phase": 0
+   },
+   {
+    "h": 4.3436441666666665,
+    "hp": 131.58755493164062,
+    "phase": 0
+   },
+   {
+    "h": 4.346233611111112,
+    "hp": 131.58755493164062,
+    "phase": 0
+   },
+   {
+    "h": 4.349338611111111,
+    "hp": 131.58755493164062,
+    "phase": 0
+   },
+   {
+    "h": 4.352033055555555,
+    "hp": 131.58755493164062,
+    "phase": 2
+   },
+   {
+    "h": 4.352033055555555,
+    "hp": 131.58755493164062,
+    "phase": 2
+   },
+   {
+    "h": 4.352033055555555,
+    "hp": 131.58755493164062,
+    "phase": 2
+   },
+   {
+    "h": 4.352033055555555,
+    "hp": 131.58755493164062,
+    "phase": 2
+   },
+   {
+    "h": 4.353366388888889,
+    "hp": 131.58755493164062,
+    "phase": 2
+   },
+   {
+    "h": 4.353533055555555,
+    "hp": 131.58755493164062,
+    "phase": 2
+   },
+   {
+    "h": 4.3537275,
+    "hp": 131.58755493164062,
+    "phase": 2
+   },
+   {
+    "h": 4.353921944444445,
+    "hp": 131.58755493164062,
+    "phase": 2
+   },
+   {
+    "h": 4.356783055555556,
+    "hp": 131.58755493164062,
+    "phase": 3
+   },
+   {
+    "h": 4.356810833333333,
+    "hp": 131.58755493164062,
+    "phase": 3
+   },
+   {
+    "h": 4.357671944444444,
+    "hp": 131.58755493164062,
+    "phase": 3
+   },
+   {
+    "h": 4.359755277777778,
+    "hp": 131.58755493164062,
+    "phase": 6
+   },
+   {
+    "h": 4.359755277777778,
+    "hp": 131.58755493164062,
+    "phase": 6
+   },
+   {
+    "h": 4.359783055555555,
+    "hp": 128.83755493164062,
+    "phase": 6
+   },
+   {
+    "h": 4.359783055555555,
+    "hp": 131.58755493164062,
+    "phase": 6
+   },
+   {
+    "h": 4.359783055555555,
+    "hp": 131.58755493164062,
+    "phase": 6
+   },
+   {
+    "h": 4.359783055555555,
+    "hp": 128.83755493164062,
+    "phase": 6
+   },
+   {
+    "h": 4.3599775,
+    "hp": 126.08755493164062,
+    "phase": 6
+   },
+   {
+    "h": 4.3599775,
+    "hp": 126.08755493164062,
+    "phase": 6
+   },
+   {
+    "h": 4.360088611111111,
+    "hp": 126.08755493164062,
+    "phase": 6
+   },
+   {
+    "h": 4.360116388888889,
+    "hp": 126.08755493164062,
+    "phase": 6
+   },
+   {
+    "h": 4.360144166666667,
+    "hp": 123.33755493164062,
+    "phase": 6
+   },
+   {
+    "h": 4.360171944444445,
+    "hp": 123.33755493164062,
+    "phase": 6
+   },
+   {
+    "h": 4.360338611111111,
+    "hp": 120.58755493164062,
+    "phase": 6
+   },
+   {
+    "h": 4.360338611111111,
+    "hp": 120.58755493164062,
+    "phase": 6
+   },
+   {
+    "h": 4.3604497222222225,
+    "hp": 120.58755493164062,
+    "phase": 6
+   },
+   {
+    "h": 4.3604497222222225,
+    "hp": 120.58755493164062,
+    "phase": 6
+   },
+   {
+    "h": 4.360533055555556,
+    "hp": 117.83755493164062,
+    "phase": 6
+   },
+   {
+    "h": 4.360533055555556,
+    "hp": 117.83755493164062,
+    "phase": 6
+   },
+   {
+    "h": 4.360699722222222,
+    "hp": 115.08755493164062,
+    "phase": 6
+   },
+   {
+    "h": 4.3607275,
+    "hp": 115.08755493164062,
+    "phase": 6
+   },
+   {
+    "h": 4.360783055555555,
+    "hp": 115.08755493164062,
+    "phase": 6
+   },
+   {
+    "h": 4.360783055555555,
+    "hp": 115.08755493164062,
+    "phase": 6
+   },
+   {
+    "h": 4.360894166666666,
+    "hp": 112.33755493164062,
+    "phase": 6
+   },
+   {
+    "h": 4.360921944444445,
+    "hp": 112.33755493164062,
+    "phase": 6
+   },
+   {
+    "h": 4.361088611111111,
+    "hp": 109.58755493164062,
+    "phase": 6
+   },
+   {
+    "h": 4.361088611111111,
+    "hp": 109.58755493164062,
+    "phase": 6
+   },
+   {
+    "h": 4.361116388888889,
+    "hp": 109.58755493164062,
+    "phase": 6
+   },
+   {
+    "h": 4.361116388888889,
+    "hp": 109.58755493164062,
+    "phase": 6
+   },
+   {
+    "h": 4.361144166666667,
+    "hp": 109.58755493164062,
+    "phase": 4
+   },
+   {
+    "h": 4.361144166666667,
+    "hp": 109.58755493164062,
+    "phase": 4
+   },
+   {
+    "h": 4.361144166666667,
+    "hp": 109.58755493164062,
+    "phase": 4
+   },
+   {
+    "h": 4.361144166666667,
+    "hp": 109.58755493164062,
+    "phase": 4
+   },
+   {
+    "h": 4.3617275,
+    "hp": 109.58755493164062,
+    "phase": 0
+   },
+   {
+    "h": 4.3617275,
+    "hp": 109.58755493164062,
+    "phase": 0
+   },
+   {
+    "h": 4.361894166666667,
+    "hp": 109.58755493164062,
+    "phase": 0
+   },
+   {
+    "h": 4.361894166666667,
+    "hp": 109.58755493164062,
+    "phase": 0
+   },
+   {
+    "h": 4.363093055555556,
+    "hp": 109.58755493164062,
+    "phase": 0
+   },
+   {
+    "h": 4.3647275,
+    "hp": 109.58755493164062,
+    "phase": 0
+   },
+   {
+    "h": 4.372394166666667,
+    "hp": 109.58755493164062,
+    "phase": 2
+   },
+   {
+    "h": 4.372394166666667,
+    "hp": 109.58755493164062,
+    "phase": 2
+   },
+   {
+    "h": 4.3724219444444445,
+    "hp": 109.58755493164062,
+    "phase": 2
+   },
+   {
+    "h": 4.3724219444444445,
+    "hp": 109.58755493164062,
+    "phase": 2
+   },
+   {
+    "h": 4.378310833333333,
+    "hp": 109.58755493164062,
+    "phase": 3
+   },
+   {
+    "h": 4.378310833333333,
+    "hp": 109.58755493164062,
+    "phase": 3
+   },
+   {
+    "h": 4.378505277777778,
+    "hp": 109.58755493164062,
+    "phase": 3
+   },
+   {
+    "h": 4.379171944444445,
+    "hp": 109.58755493164062,
+    "phase": 3
+   },
+   {
+    "h": 4.379271388888889,
+    "hp": 109.58755493164062,
+    "phase": 3
+   },
+   {
+    "h": 4.379283055555556,
+    "hp": 109.58755493164062,
+    "phase": 3
+   },
+   {
+    "h": 4.380866388888889,
+    "hp": 80.31005859375,
+    "phase": 3
+   },
+   {
+    "h": 4.381866388888889,
+    "hp": 80.31005859375,
+    "phase": 6
+   },
+   {
+    "h": 4.3820886111111115,
+    "hp": 80.31005859375,
+    "phase": 6
+   },
+   {
+    "h": 4.3820886111111115,
+    "hp": 80.31005859375,
+    "phase": 6
+   },
+   {
+    "h": 4.382338611111111,
+    "hp": 80.31005859375,
+    "phase": 6
+   },
+   {
+    "h": 4.382421944444444,
+    "hp": 80.31005859375,
+    "phase": 6
+   },
+   {
+    "h": 4.382783055555556,
+    "hp": 80.31005859375,
+    "phase": 6
+   },
+   {
+    "h": 4.383116388888888,
+    "hp": 80.31005859375,
+    "phase": 6
+   },
+   {
+    "h": 4.383255277777778,
+    "hp": 80.31005859375,
+    "phase": 4
+   },
+   {
+    "h": 4.383255277777778,
+    "hp": 80.31005859375,
+    "phase": 4
+   },
+   {
+    "h": 4.383949722222222,
+    "hp": 80.31005859375,
+    "phase": 0
+   },
+   {
+    "h": 4.383949722222222,
+    "hp": 80.31005859375,
+    "phase": 0
+   },
+   {
+    "h": 4.384426111111111,
+    "hp": 80.31005859375,
+    "phase": 0
+   },
+   {
+    "h": 4.394285833333333,
+    "hp": 80.31005859375,
+    "phase": 2
+   },
+   {
+    "h": 4.398283055555555,
+    "hp": 76.05875396728516,
+    "phase": 6
+   },
+   {
+    "h": 4.398338611111111,
+    "hp": 76.05875396728516,
+    "phase": 6
+   },
+   {
+    "h": 4.398338611111111,
+    "hp": 76.05875396728516,
+    "phase": 6
+   },
+   {
+    "h": 4.398366388888889,
+    "hp": 73.30875396728516,
+    "phase": 6
+   },
+   {
+    "h": 4.398533055555555,
+    "hp": 73.30875396728516,
+    "phase": 6
+   },
+   {
+    "h": 4.398533055555555,
+    "hp": 71.92915344238281,
+    "phase": 6
+   },
+   {
+    "h": 4.398560833333333,
+    "hp": 70.55875396728516,
+    "phase": 6
+   },
+   {
+    "h": 4.398699722222222,
+    "hp": 70.55875396728516,
+    "phase": 6
+   },
+   {
+    "h": 4.398699722222222,
+    "hp": 70.55875396728516,
+    "phase": 6
+   },
+   {
+    "h": 4.398699722222222,
+    "hp": 69.23035430908203,
+    "phase": 6
+   },
+   {
+    "h": 4.398755277777778,
+    "hp": 67.80875396728516,
+    "phase": 6
+   },
+   {
+    "h": 4.398866388888889,
+    "hp": 67.80875396728516,
+    "phase": 6
+   },
+   {
+    "h": 4.3988941666666665,
+    "hp": 66.48035430908203,
+    "phase": 6
+   },
+   {
+    "h": 4.398921944444445,
+    "hp": 65.05875396728516,
+    "phase": 6
+   },
+   {
+    "h": 4.399033055555556,
+    "hp": 63.67915344238281,
+    "phase": 6
+   },
+   {
+    "h": 4.399033055555556,
+    "hp": 63.67915344238281,
+    "phase": 6
+   },
+   {
+    "h": 4.399033055555556,
+    "hp": 63.67915344238281,
+    "phase": 6
+   },
+   {
+    "h": 4.3991163888888885,
+    "hp": 62.308753967285156,
+    "phase": 6
+   },
+   {
+    "h": 4.399199722222223,
+    "hp": 60.98035430908203,
+    "phase": 6
+   },
+   {
+    "h": 4.399199722222223,
+    "hp": 60.98035430908203,
+    "phase": 6
+   },
+   {
+    "h": 4.399283055555555,
+    "hp": 60.92915344238281,
+    "phase": 6
+   },
+   {
+    "h": 4.399366388888889,
+    "hp": 59.60075378417969,
+    "phase": 6
+   },
+   {
+    "h": 4.399366388888889,
+    "hp": 59.60075378417969,
+    "phase": 6
+   },
+   {
+    "h": 4.399366388888889,
+    "hp": 59.60075378417969,
+    "phase": 6
+   },
+   {
+    "h": 4.399394166666666,
+    "hp": 58.17915344238281,
+    "phase": 6
+   },
+   {
+    "h": 4.399533055555556,
+    "hp": 56.85075378417969,
+    "phase": 6
+   },
+   {
+    "h": 4.399533055555556,
+    "hp": 56.85075378417969,
+    "phase": 6
+   },
+   {
+    "h": 4.399560833333333,
+    "hp": 55.42915344238281,
+    "phase": 6
+   },
+   {
+    "h": 4.3996997222222225,
+    "hp": 54.10075378417969,
+    "phase": 4
+   },
+   {
+    "h": 4.3996997222222225,
+    "hp": 54.10075378417969,
+    "phase": 4
+   },
+   {
+    "h": 4.3996997222222225,
+    "hp": 54.10075378417969,
+    "phase": 4
+   },
+   {
+    "h": 4.3996997222222225,
+    "hp": 54.10075378417969,
+    "phase": 4
+   },
+   {
+    "h": 4.400505277777778,
+    "hp": 52.77235412597656,
+    "phase": 0
+   },
+   {
+    "h": 4.400505277777778,
+    "hp": 52.77235412597656,
+    "phase": 0
+   },
+   {
+    "h": 4.400505277777778,
+    "hp": 52.77235412597656,
+    "phase": 0
+   },
+   {
+    "h": 4.401671944444445,
+    "hp": 52.77235412597656,
+    "phase": 0
+   },
+   {
+    "h": 4.402949722222222,
+    "hp": 52.77235412597656,
+    "phase": 1
+   },
+   {
+    "h": 4.402949722222222,
+    "hp": 52.77235412597656,
+    "phase": 1
+   },
+   {
+    "h": 4.402949722222222,
+    "hp": 52.77235412597656,
+    "phase": 1
+   },
+   {
+    "h": 4.402949722222222,
+    "hp": 52.77235412597656,
+    "phase": 1
+   },
+   {
+    "h": 4.403921944444445,
+    "hp": 52.77235412597656,
+    "phase": 0
+   },
+   {
+    "h": 4.403921944444445,
+    "hp": 52.77235412597656,
+    "phase": 0
+   },
+   {
+    "h": 4.404588611111111,
+    "hp": 52.77235412597656,
+    "phase": 0
+   },
+   {
+    "h": 4.404866388888889,
+    "hp": 52.77235412597656,
+    "phase": 0
+   },
+   {
+    "h": 4.404894166666667,
+    "hp": 52.77235412597656,
+    "phase": 0
+   },
+   {
+    "h": 4.410033055555556,
+    "hp": 52.77235412597656,
+    "phase": 1
+   },
+   {
+    "h": 4.410033055555556,
+    "hp": 52.77235412597656,
+    "phase": 1
+   },
+   {
+    "h": 4.410974722222222,
+    "hp": 52.77235412597656,
+    "phase": 1
+   },
+   {
+    "h": 4.418616388888889,
+    "hp": 52.77235412597656,
+    "phase": 1
+   },
+   {
+    "h": 4.419560833333334,
+    "hp": 52.77235412597656,
+    "phase": 1
+   },
+   {
+    "h": 4.420255277777778,
+    "hp": 52.77235412597656,
+    "phase": 1
+   },
+   {
+    "h": 4.421150555555555,
+    "hp": 52.77235412597656,
+    "phase": 1
+   },
+   {
+    "h": 4.422866388888889,
+    "hp": 52.77235412597656,
+    "phase": 1
+   },
+   {
+    "h": 4.434255277777778,
+    "hp": 51.44395446777344,
+    "phase": 1
+   },
+   {
+    "h": 4.434421944444445,
+    "hp": 50.11555480957031,
+    "phase": 1
+   },
+   {
+    "h": 4.434838611111111,
+    "hp": 50.11555480957031,
+    "phase": 1
+   },
+   {
+    "h": 4.436144166666667,
+    "hp": 50.11555480957031,
+    "phase": 1
+   },
+   {
+    "h": 4.4362275,
+    "hp": 50.11555480957031,
+    "phase": 1
+   },
+   {
+    "h": 4.437033055555555,
+    "hp": 50.11555480957031,
+    "phase": 1
+   },
+   {
+    "h": 4.4423047222222225,
+    "hp": 50.11555480957031,
+    "phase": 1
+   },
+   {
+    "h": 4.450022777777778,
+    "hp": 50.11555480957031,
+    "phase": 1
+   },
+   {
+    "h": 4.454694166666666,
+    "hp": 50.11555480957031,
+    "phase": 1
+   },
+   {
+    "h": 4.4564775,
+    "hp": 50.11555480957031,
+    "phase": 1
+   },
+   {
+    "h": 4.4564775,
+    "hp": 50.11555480957031,
+    "phase": 1
+   },
+   {
+    "h": 4.4591441666666665,
+    "hp": 50.11555480957031,
+    "phase": 1
+   },
+   {
+    "h": 4.459560833333334,
+    "hp": 50.11555480957031,
+    "phase": 1
+   },
+   {
+    "h": 4.462033055555556,
+    "hp": 50.11555480957031,
+    "phase": 1
+   },
+   {
+    "h": 4.462449722222222,
+    "hp": 50.11555480957031,
+    "phase": 1
+   },
+   {
+    "h": 4.462834444444445,
+    "hp": 50.11555480957031,
+    "phase": 1
+   },
+   {
+    "h": 4.465366388888889,
+    "hp": 50.11555480957031,
+    "phase": 1
+   },
+   {
+    "h": 4.465783055555556,
+    "hp": 50.11555480957031,
+    "phase": 1
+   },
+   {
+    "h": 4.467810833333333,
+    "hp": 48.78715515136719,
+    "phase": 1
+   },
+   {
+    "h": 4.467838611111111,
+    "hp": 48.78715515136719,
+    "phase": 1
+   },
+   {
+    "h": 4.4682275,
+    "hp": 48.78715515136719,
+    "phase": 1
+   },
+   {
+    "h": 4.470144166666667,
+    "hp": 48.78715515136719,
+    "phase": 1
+   },
+   {
+    "h": 4.470588611111111,
+    "hp": 48.78715515136719,
+    "phase": 1
+   },
+   {
+    "h": 4.474005277777778,
+    "hp": 48.78715515136719,
+    "phase": 1
+   },
+   {
+    "h": 4.474421944444444,
+    "hp": 48.78715515136719,
+    "phase": 1
+   },
+   {
+    "h": 4.476338611111111,
+    "hp": 48.78715515136719,
+    "phase": 1
+   },
+   {
+    "h": 4.4767552777777775,
+    "hp": 48.78715515136719,
+    "phase": 1
+   },
+   {
+    "h": 4.478588611111111,
+    "hp": 48.78715515136719,
+    "phase": 1
+   },
+   {
+    "h": 4.479005277777778,
+    "hp": 48.78715515136719,
+    "phase": 1
+   },
+   {
+    "h": 4.481338611111111,
+    "hp": 48.78715515136719,
+    "phase": 1
+   },
+   {
+    "h": 4.4814952777777775,
+    "hp": 48.78715515136719,
+    "phase": 1
+   },
+   {
+    "h": 4.483286944444445,
+    "hp": 48.78715515136719,
+    "phase": 1
+   },
+   {
+    "h": 4.495369166666666,
+    "hp": 48.78715515136719,
+    "phase": 1
+   },
+   {
+    "h": 4.495394166666666,
+    "hp": 48.78715515136719,
+    "phase": 1
+   },
+   {
+    "h": 4.495838611111111,
+    "hp": 48.78715515136719,
+    "phase": 1
+   },
+   {
+    "h": 4.497088611111111,
+    "hp": 48.78715515136719,
+    "phase": 1
+   },
+   {
+    "h": 4.4974775,
+    "hp": 48.78715515136719,
+    "phase": 1
+   },
+   {
+    "h": 4.497671944444445,
+    "hp": 48.78715515136719,
+    "phase": 1
+   },
+   {
+    "h": 4.498005277777778,
+    "hp": 48.78715515136719,
+    "phase": 1
+   },
+   {
+    "h": 4.498199722222222,
+    "hp": 48.78715515136719,
+    "phase": 1
+   },
+   {
+    "h": 4.498366388888889,
+    "hp": 48.78715515136719,
+    "phase": 1
+   },
+   {
+    "h": 4.498533055555555,
+    "hp": 48.78715515136719,
+    "phase": 1
+   },
+   {
+    "h": 4.499199722222222,
+    "hp": 48.78715515136719,
+    "phase": 0
+   },
+   {
+    "h": 4.499199722222222,
+    "hp": 48.78715515136719,
+    "phase": 0
+   },
+   {
+    "h": 4.499810833333333,
+    "hp": 48.78715515136719,
+    "phase": 2
+   },
+   {
+    "h": 4.502144166666667,
+    "hp": 48.78715515136719,
+    "phase": 3
+   },
+   {
+    "h": 4.502144166666667,
+    "hp": 48.78715515136719,
+    "phase": 3
+   },
+   {
+    "h": 4.503699722222222,
+    "hp": 48.78715515136719,
+    "phase": 3
+   },
+   {
+    "h": 4.504949722222222,
+    "hp": 48.78715515136719,
+    "phase": 6
+   },
+   {
+    "h": 4.505894166666667,
+    "hp": 48.78715515136719,
+    "phase": 4
+   },
+   {
+    "h": 4.506116388888889,
+    "hp": 48.78715515136719,
+    "phase": 0
+   },
+   {
+    "h": 4.512080277777778,
+    "hp": 48.78715515136719,
+    "phase": 0
+   },
+   {
+    "h": 4.516004166666667,
+    "hp": 48.78715515136719,
+    "phase": 1
+   },
+   {
+    "h": 4.517531944444444,
+    "hp": 48.78715515136719,
+    "phase": 1
+   },
+   {
+    "h": 4.5184775,
+    "hp": 48.78715515136719,
+    "phase": 1
+   },
+   {
+    "h": 4.518949722222222,
+    "hp": 48.78715515136719,
+    "phase": 1
+   },
+   {
+    "h": 4.520838611111111,
+    "hp": 48.78715515136719,
+    "phase": 1
+   },
+   {
+    "h": 4.521449722222222,
+    "hp": 48.78715515136719,
+    "phase": 1
+   },
+   {
+    "h": 4.523366388888889,
+    "hp": 48.78715515136719,
+    "phase": 1
+   },
+   {
+    "h": 4.523783055555556,
+    "hp": 48.78715515136719,
+    "phase": 1
+   },
+   {
+    "h": 4.525699722222222,
+    "hp": 48.78715515136719,
+    "phase": 1
+   },
+   {
+    "h": 4.526116388888889,
+    "hp": 48.78715515136719,
+    "phase": 1
+   },
+   {
+    "h": 4.5280330555555555,
+    "hp": 48.78715515136719,
+    "phase": 1
+   },
+   {
+    "h": 4.528449722222222,
+    "hp": 48.78715515136719,
+    "phase": 1
+   },
+   {
+    "h": 4.530755277777778,
+    "hp": 48.78715515136719,
+    "phase": 1
+   },
+   {
+    "h": 4.5311997222222224,
+    "hp": 48.78715515136719,
+    "phase": 1
+   },
+   {
+    "h": 4.533116388888889,
+    "hp": 48.78715515136719,
+    "phase": 1
+   },
+   {
+    "h": 4.533894166666666,
+    "hp": 48.78715515136719,
+    "phase": 1
+   },
+   {
+    "h": 4.535810833333334,
+    "hp": 48.78715515136719,
+    "phase": 1
+   },
+   {
+    "h": 4.536394166666667,
+    "hp": 48.78715515136719,
+    "phase": 0
+   },
+   {
+    "h": 4.53843,
+    "hp": 48.78715515136719,
+    "phase": 0
+   },
+   {
+    "h": 4.541255277777778,
+    "hp": 48.78715515136719,
+    "phase": 0
+   },
+   {
+    "h": 4.5423663888888886,
+    "hp": 48.78715515136719,
+    "phase": 1
+   },
+   {
+    "h": 4.5423663888888886,
+    "hp": 48.78715515136719,
+    "phase": 1
+   },
+   {
+    "h": 4.5423663888888886,
+    "hp": 48.78715515136719,
+    "phase": 1
+   },
+   {
+    "h": 4.5423663888888886,
+    "hp": 48.78715515136719,
+    "phase": 1
+   },
+   {
+    "h": 4.5437275,
+    "hp": 48.78715515136719,
+    "phase": 0
+   },
+   {
+    "h": 4.543866388888889,
+    "hp": 48.78715515136719,
+    "phase": 0
+   },
+   {
+    "h": 4.544394166666667,
+    "hp": 48.78715515136719,
+    "phase": 0
+   },
+   {
+    "h": 4.544423888888889,
+    "hp": 48.78715515136719,
+    "phase": 0
+   },
+   {
+    "h": 4.544533055555555,
+    "hp": 48.78715515136719,
+    "phase": 0
+   },
+   {
+    "h": 4.546060833333333,
+    "hp": 48.78715515136719,
+    "phase": 2
+   },
+   {
+    "h": 4.546060833333333,
+    "hp": 48.78715515136719,
+    "phase": 2
+   },
+   {
+    "h": 4.5464497222222215,
+    "hp": 48.78715515136719,
+    "phase": 2
+   },
+   {
+    "h": 4.5464497222222215,
+    "hp": 48.78715515136719,
+    "phase": 2
+   },
+   {
+    "h": 4.547533055555555,
+    "hp": 48.78715515136719,
+    "phase": 3
+   },
+   {
+    "h": 4.547894166666667,
+    "hp": 48.78715515136719,
+    "phase": 3
+   },
+   {
+    "h": 4.547894166666667,
+    "hp": 48.78715515136719,
+    "phase": 3
+   },
+   {
+    "h": 4.548505277777778,
+    "hp": 48.78715515136719,
+    "phase": 3
+   },
+   {
+    "h": 4.549255277777777,
+    "hp": 48.78715515136719,
+    "phase": 3
+   },
+   {
+    "h": 4.5499775,
+    "hp": 48.78715515136719,
+    "phase": 6
+   },
+   {
+    "h": 4.5507275,
+    "hp": 48.78715515136719,
+    "phase": 6
+   },
+   {
+    "h": 4.5507275,
+    "hp": 48.78715515136719,
+    "phase": 6
+   },
+   {
+    "h": 4.55136638888889,
+    "hp": 48.78715515136719,
+    "phase": 4
+   },
+   {
+    "h": 4.551644166666667,
+    "hp": 48.78715515136719,
+    "phase": 0
+   },
+   {
+    "h": 4.553560833333333,
+    "hp": 48.78715515136719,
+    "phase": 0
+   },
+   {
+    "h": 4.555033055555556,
+    "hp": 48.78715515136719,
+    "phase": 0
+   },
+   {
+    "h": 4.555921944444444,
+    "hp": 48.78715515136719,
+    "phase": 1
+   },
+   {
+    "h": 4.555921944444444,
+    "hp": 48.78715515136719,
+    "phase": 1
+   },
+   {
+    "h": 4.555921944444444,
+    "hp": 48.78715515136719,
+    "phase": 1
+   },
+   {
+    "h": 4.558346111111111,
+    "hp": 48.78715515136719,
+    "phase": 0
+   },
+   {
+    "h": 4.560894166666667,
+    "hp": 48.78715515136719,
+    "phase": 2
+   },
+   {
+    "h": 4.560921944444444,
+    "hp": 48.78715515136719,
+    "phase": 2
+   },
+   {
+    "h": 4.5615330555555555,
+    "hp": 48.78715515136719,
+    "phase": 3
+   },
+   {
+    "h": 4.5639497222222225,
+    "hp": 48.78715515136719,
+    "phase": 6
+   },
+   {
+    "h": 4.565338611111112,
+    "hp": 48.78715515136719,
+    "phase": 4
+   },
+   {
+    "h": 4.5655608333333335,
+    "hp": 48.78715515136719,
+    "phase": 0
+   },
+   {
+    "h": 4.5714516666666665,
+    "hp": 48.78715515136719,
+    "phase": 0
+   },
+   {
+    "h": 4.5721163888888885,
+    "hp": 48.78715515136719,
+    "phase": 2
+   },
+   {
+    "h": 4.5734775,
+    "hp": 48.78715515136719,
+    "phase": 3
+   },
+   {
+    "h": 4.5743663888888895,
+    "hp": 48.78715515136719,
+    "phase": 3
+   },
+   {
+    "h": 4.576199722222222,
+    "hp": 48.78715515136719,
+    "phase": 6
+   },
+   {
+    "h": 4.576199722222222,
+    "hp": 48.78715515136719,
+    "phase": 6
+   },
+   {
+    "h": 4.576227500000001,
+    "hp": 43.78715515136719,
+    "phase": 6
+   },
+   {
+    "h": 4.576421944444444,
+    "hp": 38.78715515136719,
+    "phase": 6
+   },
+   {
+    "h": 4.576560833333333,
+    "hp": 38.78715515136719,
+    "phase": 6
+   },
+   {
+    "h": 4.576588611111111,
+    "hp": 33.78715515136719,
+    "phase": 6
+   },
+   {
+    "h": 4.576783055555556,
+    "hp": 28.787155151367188,
+    "phase": 6
+   },
+   {
+    "h": 4.5768941666666665,
+    "hp": 28.787155151367188,
+    "phase": 6
+   },
+   {
+    "h": 4.5769775,
+    "hp": 23.787155151367188,
+    "phase": 6
+   },
+   {
+    "h": 4.577144166666667,
+    "hp": 18.787155151367188,
+    "phase": 6
+   },
+   {
+    "h": 4.5772275,
+    "hp": 18.787155151367188,
+    "phase": 6
+   },
+   {
+    "h": 4.577338611111111,
+    "hp": 13.787155151367188,
+    "phase": 6
+   },
+   {
+    "h": 4.577533055555556,
+    "hp": 8.787155151367188,
+    "phase": 6
+   },
+   {
+    "h": 4.577560833333334,
+    "hp": 8.787155151367188,
+    "phase": 6
+   },
+   {
+    "h": 4.577588611111111,
+    "hp": 8.787155151367188,
+    "phase": 4
+   },
+   {
+    "h": 4.577588611111111,
+    "hp": 8.787155151367188,
+    "phase": 4
+   },
+   {
+    "h": 4.578144166666666,
+    "hp": 7.407555103302002,
+    "phase": 0
+   },
+   {
+    "h": 4.578144166666666,
+    "hp": 7.407555103302002,
+    "phase": 0
+   },
+   {
+    "h": 4.578144166666666,
+    "hp": 7.407555103302002,
+    "phase": 0
+   },
+   {
+    "h": 4.581033055555555,
+    "hp": 7.407555103302002,
+    "phase": 1
+   },
+   {
+    "h": 4.582921944444444,
+    "hp": 7.407555103302002,
+    "phase": 0
+   },
+   {
+    "h": 4.584132777777778,
+    "hp": 7.407555103302002,
+    "phase": 0
+   },
+   {
+    "h": 4.585078333333333,
+    "hp": 7.407555103302002,
+    "phase": 0
+   },
+   {
+    "h": 4.5866163888888885,
+    "hp": 7.407555103302002,
+    "phase": 0
+   },
+   {
+    "h": 4.589328055555555,
+    "hp": 7.407555103302002,
+    "phase": 0
+   },
+   {
+    "h": 4.590810833333334,
+    "hp": 7.407555103302002,
+    "phase": 0
+   },
+   {
+    "h": 4.597588611111111,
+    "hp": 7.407555103302002,
+    "phase": 2
+   },
+   {
+    "h": 4.597588611111111,
+    "hp": 7.407555103302002,
+    "phase": 2
+   },
+   {
+    "h": 4.597588611111111,
+    "hp": 7.407555103302002,
+    "phase": 2
+   },
+   {
+    "h": 4.597588611111111,
+    "hp": 7.407555103302002,
+    "phase": 2
+   },
+   {
+    "h": 4.599005277777779,
+    "hp": 7.407555103302002,
+    "phase": 2
+   },
+   {
+    "h": 4.5992275000000005,
+    "hp": 7.407555103302002,
+    "phase": 2
+   },
+   {
+    "h": 4.600255277777778,
+    "hp": 7.407555103302002,
+    "phase": 3
+   },
+   {
+    "h": 4.600255277777778,
+    "hp": 7.407555103302002,
+    "phase": 3
+   },
+   {
+    "h": 4.602671944444444,
+    "hp": 1.2632293701171875,
+    "phase": 3
+   },
+   {
+    "h": 4.602671944444444,
+    "hp": 1.2632293701171875,
+    "phase": 3
+   },
+   {
+    "h": 4.603283055555555,
+    "hp": 1.2632293701171875,
+    "phase": 3
+   },
+   {
+    "h": 4.603421944444444,
+    "hp": 1.2632293701171875,
+    "phase": 6
+   },
+   {
+    "h": 4.603421944444444,
+    "hp": 1.2632293701171875,
+    "phase": 6
+   },
+   {
+    "h": 4.603755277777778,
+    "hp": 1.2632293701171875,
+    "phase": 6
+   },
+   {
+    "h": 4.603894166666667,
+    "hp": 1.2632293701171875,
+    "phase": 6
+   },
+   {
+    "h": 4.603894166666667,
+    "hp": 1.2632293701171875,
+    "phase": 6
+   },
+   {
+    "h": 4.603894166666667,
+    "hp": 1.2632293701171875,
+    "phase": 6
+   },
+   {
+    "h": 4.604088611111111,
+    "hp": 1.2632293701171875,
+    "phase": 6
+   },
+   {
+    "h": 4.604283055555556,
+    "hp": 0.0132293701171875,
+    "phase": 6
+   },
+   {
+    "h": 4.604421944444445,
+    "hp": 0.0,
+    "phase": 6
+   },
+   {
+    "h": 4.604421944444445,
+    "hp": 0.0,
+    "phase": 6
+   },
+   {
+    "h": 4.604588611111112,
+    "hp": 0.0,
+    "phase": 6
+   },
+   {
+    "h": 4.604699722222223,
+    "hp": 0.0,
+    "phase": 6
+   },
+   {
+    "h": 4.604755277777778,
+    "hp": 0.0,
+    "phase": 6
+   },
+   {
+    "h": 4.6048663888888886,
+    "hp": 0.0,
+    "phase": 6
+   },
+   {
+    "h": 4.605033055555555,
+    "hp": 0.0,
+    "phase": 6
+   },
+   {
+    "h": 4.605088611111111,
+    "hp": 0.0,
+    "phase": 6
+   },
+   {
+    "h": 4.605088611111111,
+    "hp": 0.0,
+    "phase": 6
+   },
+   {
+    "h": 4.605171944444444,
+    "hp": 0.0,
+    "phase": 6
+   },
+   {
+    "h": 4.605171944444444,
+    "hp": 0.0,
+    "phase": 6
+   }
+  ],
+  "first_fight_program": "3:24:10",
+  "fight_programs": 41
+ },
+ "crystals": {
+  "by_voidmoth_bow": 8,
+  "arrows": 21,
+  "by_person": 1,
+  "by_foxglen": 1,
+  "last_crystal": "3:43:57",
+  "last_crystal_h": 3.7324755555555558,
+  "last_crystal_to_win_min": 52.31795
+ },
+ "cost": {
+  "FoxglenOpus": {
+   "usd": 46.244525800000076,
+   "turns": 621,
+   "duration_h": 4.638699444444445,
+   "api_h": 1.9800133333333334,
+   "cache_read": 118221544,
+   "cache_write_1h": 1187570,
+   "cache_write_5m": 2761,
+   "input": 10208,
+   "output": 652251,
+   "thinking": 360550,
+   "compactions": 3
+  },
+  "VoidmothOpus": {
+   "usd": 41.327036,
+   "turns": 568,
+   "duration_h": 4.655693888888889,
+   "api_h": 1.7268394444444444,
+   "cache_read": 102589270,
+   "cache_write_1h": 1131284,
+   "cache_write_5m": 1350,
+   "input": 11550,
+   "output": 585298,
+   "thinking": 293618,
+   "compactions": 3
+  },
+  "total_usd": 87.57156180000007,
+  "effort_requests": [
+   [
+    "xhigh",
+    1111
+   ]
+  ]
+ },
+ "after_win": {
+  "FoxglenOpus": {
+   "programs": 6,
+   "overworld_program_end_s": 127.0
+  },
+  "VoidmothOpus": {
+   "programs": 12,
+   "overworld_program_end_s": 149.607
+  },
+  "go_s_after_win": 125.088,
+  "deaths_after_win": 0
+ },
+ "checks": {
+  "win_line": "[02:31:59] [Server thread/INFO]: Human 2 has made the advancement [Free the End]",
+  "rcon_clients": 3,
+  "rcon_client_times": [
+   "21:55:43",
+   "02:38:35",
+   "02:38:35"
+  ],
+  "issued_commands": 0,
+  "cant_keep_up": 0,
+  "ops": [],
+  "pause_events": 0,
+  "bot_connects": {
+   "VoidmothOpus": 1,
+   "FoxglenOpus": 1
+  },
+  "server_ready_events": 1,
+  "frames_to_win": 1658,
+  "frame_median_gap_s": 10.001,
+  "frame_max_gap_s": 12.398,
+  "frames_by_player": {
+   "FoxglenOpus": 1658
+  },
+  "slash_commands_in_programs": {
+   "FoxglenOpus": 0,
+   "VoidmothOpus": 0
+  },
+  "bed_calls_outside_overworld": {
+   "FoxglenOpus": 0,
+   "VoidmothOpus": 0
+  },
+  "library_reloads_outside_overworld": {
+   "FoxglenOpus": 14,
+   "VoidmothOpus": 7
+  }
+ },
+ "earlier": {
+  "run1": {
+   "official_h": 60.846001666666666,
+   "from_first_program_h": 60.82839277777778,
+   "deaths": 115,
+   "programs": 5879,
+   "milestones": {
+    "stone_tools": 0.09654861111111111,
+    "bucket": 0.15765055555555557,
+    "iron_tools": 0.15769944444444442,
+    "flint_and_steel": 0.7433930555555556,
+    "nether_portal": 0.9225630555555555,
+    "fortress": 1.1004680555555555,
+    "blaze_rods": 5.971106944444444,
+    "ender_pearls": 8.874042777777778,
+    "eyes_of_ender": 20.637441111111112,
+    "stronghold": 22.282110277777775,
+    "the_end": 40.504487222222224,
+    "dragon": 60.846001666666666
+   },
+   "won": true,
+   "spawn_to_first_program_s": 63.392
+  },
+  "run2": {
+   "official_h": 9.2714825,
+   "from_first_program_h": 9.127324444444445,
+   "deaths": 16,
+   "programs": 780,
+   "milestones": {
+    "stone_tools": 0.21168944444444443,
+    "iron_tools": 0.32065499999999997,
+    "bucket": 0.32110305555555557,
+    "flint_and_steel": 1.2044372222222222,
+    "nether_portal": 1.5247038888888889,
+    "fortress": 1.79895,
+    "blaze_rods": 2.7312519444444443,
+    "ender_pearls": 5.614522777777777,
+    "eyes_of_ender": 7.17662888888889,
+    "stronghold": 7.8744225,
+    "the_end": 8.064668888888889,
+    "dragon": 9.2714825
+   },
+   "won": true,
+   "spawn_to_first_program_s": 518.969,
+   "ten_crystals_h": 8.310824722222222
+  },
+  "run3": {
+   "official_h": 10.971461111111111,
+   "from_first_program_h": 10.958448888888888,
+   "deaths": 34,
+   "programs": 741,
+   "milestones": {
+    "stone_tools": 0.08494277777777777,
+    "iron_tools": 0.3430519444444445,
+    "bucket": 0.37733222222222224,
+    "flint_and_steel": 0.9371394444444445,
+    "nether_portal": 0.9643652777777778,
+    "ender_pearls": 1.0711102777777777,
+    "fortress": 4.342818055555556,
+    "blaze_rods": 10.807180555555556
+   },
+   "won": false,
+   "spawn_to_first_program_s": 46.844
+  },
+  "run4": {
+   "official_h": 6.847824444444445,
+   "from_first_program_h": 6.8441775,
+   "deaths": 10,
+   "programs": 671,
+   "milestones": {
+    "stone_tools": 0.04659305555555556,
+    "iron_tools": 0.2387638888888889,
+    "bucket": 0.3712283333333333,
+    "flint_and_steel": 0.8615172222222223,
+    "nether_portal": 0.9056411111111111,
+    "ender_pearls": 0.9765936111111111,
+    "fortress": 2.244266111111111,
+    "blaze_rods": 3.2700102777777778,
+    "eyes_of_ender": 3.703377777777778,
+    "stronghold": 4.3522380555555555,
+    "the_end": 4.353072777777777,
+    "dragon": 6.847824166666667
+   },
+   "won": true,
+   "spawn_to_first_program_s": 13.129,
+   "ten_crystals_h": 6.591666666666667
+  },
+  "gemini_team": {
+   "win_h": 27.233333333333334,
+   "programs": 2783,
+   "distinct_lines": 63313,
+   "deaths": 605,
+   "milestones_min": {
+    "stone_tools": 6,
+    "iron_tools": 14,
+    "bucket": 14,
+    "flint_and_steel": 64,
+    "nether_portal": 102,
+    "fortress": 177,
+    "ender_pearls": 186,
+    "blaze_rods": 257,
+    "eyes_of_ender": 643,
+    "stronghold": 797,
+    "the_end": 813,
+    "ten_crystals": 1594,
+    "dragon": 1634
+   }
+  }
+ },
+ "people": [
+  "Human 1",
+  "Human 2"
+ ],
+ "compactions": [
+  {
+   "agent": "FoxglenOpus",
+   "h": 1.0848675,
+   "clock": "1:05:06"
+  },
+  {
+   "agent": "VoidmothOpus",
+   "h": 1.3055605555555556,
+   "clock": "1:18:20"
+  },
+  {
+   "agent": "FoxglenOpus",
+   "h": 2.892615,
+   "clock": "2:53:33"
+  },
+  {
+   "agent": "VoidmothOpus",
+   "h": 3.1705622222222223,
+   "clock": "3:10:14"
+  },
+  {
+   "agent": "FoxglenOpus",
+   "h": 4.076006944444444,
+   "clock": "4:04:34"
+  },
+  {
+   "agent": "VoidmothOpus",
+   "h": 4.343485555555556,
+   "clock": "4:20:37"
+  }
+ ],
+ "hook_lines": [
+  {
+   "agent": "VoidmothOpus",
+   "h": 0.07596638888888889,
+   "clock": "0:04:33"
+  }
+ ],
+ "presence": {
+  "Human 1": {
+   "spans": [
+    [
+     0.04517472222222222,
+     0.051846666666666666
+    ],
+    [
+     0.05295916666666666,
+     4.6044413888888895
+    ]
+   ],
+   "hours": 4.558154166666666,
+   "joins": 2
+  },
+  "Human 2": {
+   "spans": [
+    [
+     0.0537925,
+     0.16943055555555556
+    ],
+    [
+     0.1774913888888889,
+     4.6044413888888895
+    ]
+   ],
+   "hours": 4.542588055555556,
+   "joins": 2
+  }
+ },
+ "dim_hours": {
+  "FoxglenOpus": {
+   "overworld": 2.101,
+   "the_nether": 1.566,
+   "the_end": 0.902
+  },
+  "VoidmothOpus": {
+   "overworld": 2.496,
+   "the_nether": 1.122,
+   "the_end": 0.945
+  }
+ }
+}
