@@ -25,8 +25,8 @@ THEMES = {
 }
 FONT = 'system-ui, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif'
 
-W, H = 800, 520
-LEFT, RIGHT, TOP, BOTTOM = 64, 776, 130, 440
+W, H = 800, 540
+LEFT, RIGHT, TOP, BOTTOM = 64, 776, 110, 440
 Y_MAX = 70  # hours at the top of the plot
 Y_TICKS = [0, 20, 40, 60]
 
@@ -35,6 +35,12 @@ def hm(hours):
     """6.8478 -> '6 h 51 min'."""
     total = round(hours * 60)
     return f"{total // 60} h {total % 60} min"
+
+
+def hms(hours):
+    """6.8442 -> '6 h 50 min 39 s'."""
+    total = round(hours * 3600)
+    return f"{total // 3600} h {total % 3600 // 60} min {total % 60} s"
 
 
 def y_of(hours):
@@ -125,14 +131,22 @@ def svg(runs, team_h, t):
         else:
             text(x[r] + 9, y[r] - 10, hm(h[r]), 14, t["ink"])
 
-    # Headline factor in the empty upper right.
-    factor = h[first] / h[record]
-    text(RIGHT, 216, f"{factor:.1f}× faster", 30, t["ink"], anchor="end", weight="700")
-    text(RIGHT, 238, f"run {record[3:]} against run {first[3:]}", 14, t["ink2"], anchor="end")
+    # Headline factors side by side in the empty upper right: the record against
+    # run 1, and against the Gemini team. The team's clock starts at its first
+    # program, so the record is put on that clock for the second one.
+    vs_first = h[first] / h[record]
+    record_from_program = h[record] - runs[record]["spawn_to_first_program_s"] / 3600
+    vs_team = team_h / record_from_program
+    for xa, factor, sub in ((500, vs_first, f"run {record[3:]} against run {first[3:]}"),
+                            (RIGHT, vs_team, f"run {record[3:]} against the Gemini team")):
+        text(xa, 200, f"{factor:.1f}× faster", 30, t["ink"], anchor="end", weight="700")
+        text(xa, 222, sub, 14, t["ink2"], anchor="end")
 
     # Source note for the reference line.
-    text(24, H - 14, "Gemini team: Faldor et al. (2026), arXiv 2610.22319, timed from its first program "
+    text(24, H - 32, "Gemini team: Faldor et al. (2026), arXiv 2610.22319, timed from its first program "
          "rather than first spawn.", 12, t["muted"])
+    text(24, H - 14, f"The {vs_team:.1f}× puts run {record[3:]} on that clock too "
+         f"({hms(record_from_program)} from its first program).", 12, t["muted"])
 
     add("</svg>")
     return "\n".join(out) + "\n"

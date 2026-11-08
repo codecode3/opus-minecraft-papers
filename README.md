@@ -25,7 +25,7 @@ Official times run from the player's first spawn to the win, as recomputed in th
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/run-times-dark.svg">
-  <img alt="Line chart of official time per run: run 1 took 60 h 51 min, run 2 9 h 16 min, run 3 ended at 10 h 58 min without a win, and run 4 took 6 h 51 min, the category record, 8.9 times faster than run 1. A dashed line marks the 27 h 14 min of a team of four Gemini 4 Argon agents." src="images/run-times-light.svg">
+  <img alt="Line chart of official time per run: run 1 took 60 h 51 min, run 2 9 h 16 min, run 3 ended at 10 h 58 min without a win, and run 4 took 6 h 51 min, the category record, 8.9 times faster than run 1. A dashed line marks the 27 h 14 min of a team of four Gemini 4 Argon agents, which run 4 beat by 4.0 times on the same clock." src="images/run-times-light.svg">
 </picture>
 
 ## What's here
