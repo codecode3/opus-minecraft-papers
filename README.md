@@ -23,7 +23,7 @@ Four preprints by Ben Batsuk on Claude Opus 5.5 agents defeating the Ender Drago
 | Run 4 | [A Claude Opus 5.5 agent, given three earlier players' files, beats Minecraft in 6 hours 51 minutes and misses its 5-hour plan](Run-4-Opus-5.5-beats-Minecraft-in-6h51m.pdf) | **6:50:52** (category record) | 10 | 671 |
 | Team run | [Two Claude Opus 5.5 agents and two people beat Minecraft in 4 hours 36 minutes](Team-run-Opus-5.5-agents-and-people-beat-Minecraft-in-4h36m.pdf) | 4:36:16 (with two humans, so outside the category) | 7 by the agents, 31 by the humans | 695 |
 
-Official times run from the player's first spawn to the win, as recomputed in the run 4 paper. The first two papers report their times from the first program: 60:49 and 9:07.
+Official times run from the player's first spawn to the win, as recomputed in the run 4 paper. The first two papers report their times from the first program: 60:49 and 9:07. The team run's time runs from the first agent's spawn.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/run-times-dark.svg">
