@@ -23,9 +23,14 @@ Three preprints by Ben Batsuk on Claude Opus 5.5 agents defeating the Ender Drag
 
 Official times run from the player's first spawn to the win, as recomputed in the run 4 paper. The first two papers report their times from the first program: 60:49 and 9:07.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/run-times-dark.svg">
+  <img alt="Line chart of official time per run: run 1 took 60 h 51 min, run 2 9 h 16 min, run 3 ended at 10 h 58 min without a win, and run 4 took 6 h 51 min, the category record." src="images/run-times-light.svg">
+</picture>
+
 ## What's here
 
-The three PDFs are at the top of this repo. Everything else is in `source/`, with one folder per paper: `preprint` (run 1), `preprint-run2` and `preprint-run4`. Each holds:
+The three PDFs are at the top of this repo, and the chart is in `images/`. Everything else is in `source/`, with one folder per paper: `preprint` (run 1), `preprint-run2` and `preprint-run4`. Each holds:
 
 - `main.pdf`: the compiled paper, identical to its copy at the top
 - `main.tex`, `refs.bib`, `main.bbl`: its source
@@ -34,6 +39,8 @@ The three PDFs are at the top of this repo. Everything else is in `source/`, wit
 - `scripts/`: `run_data.py` computes `data/` from the run records, and `make_figures.py` draws the figures from `data/` (run 1's also reads one run record)
 
 To build a paper, run this in its folder under `source/`: `pdflatex main && bibtex main && pdflatex main && pdflatex main`.
+
+To redraw the chart from the run 4 paper's `data/run4.json`, run `python3 images/make_run_times.py` at the top of the repo.
 
 The run records (programs, events, server logs, camera frames and transcripts) are not public, so `run_data.py` and run 1's `make_figures.py` can't be rerun from this repo. Each paper gives its run's world seed, and the run 4 paper lists all four.
 

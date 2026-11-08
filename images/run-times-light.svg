@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="440" viewBox="0 0 800 440" font-family='system-ui, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif' role="img" aria-labelledby="t d">
+<title id="t">Time to beat Minecraft, run by run</title>
+<desc id="d">Official time per run, from first spawn to the win. run 1: 60 h 51 min; run 2: 9 h 16 min; run 3: 10 h 58 min, ended without a win; run 4: 6 h 51 min.</desc>
+<text x="24" y="36" font-size="20" font-weight="600" fill="#0b0b0b">Time to beat Minecraft, run by run</text>
+<text x="24" y="60" font-size="13" fill="#52514e">Official time from first spawn to the Ender Dragon's death. Each run inherited the earlier players' files.</text>
+<line x1="64" y1="384.0" x2="776" y2="384.0" stroke="#c3c2b7" stroke-width="1"/>
+<text x="54" y="388.0" font-size="12" text-anchor="end" fill="#6f6d68" style="font-variant-numeric: tabular-nums">0 h</text>
+<line x1="64" y1="301.7" x2="776" y2="301.7" stroke="#e1e0d9" stroke-width="1"/>
+<text x="54" y="305.7" font-size="12" text-anchor="end" fill="#6f6d68" style="font-variant-numeric: tabular-nums">20 h</text>
+<line x1="64" y1="219.4" x2="776" y2="219.4" stroke="#e1e0d9" stroke-width="1"/>
+<text x="54" y="223.4" font-size="12" text-anchor="end" fill="#6f6d68" style="font-variant-numeric: tabular-nums">40 h</text>
+<line x1="64" y1="137.1" x2="776" y2="137.1" stroke="#e1e0d9" stroke-width="1"/>
+<text x="54" y="141.1" font-size="12" text-anchor="end" fill="#6f6d68" style="font-variant-numeric: tabular-nums">60 h</text>
+<text x="153.0" y="410" font-size="13" text-anchor="middle" fill="#52514e">Run 1</text>
+<text x="331.0" y="410" font-size="13" text-anchor="middle" fill="#52514e">Run 2</text>
+<text x="509.0" y="410" font-size="13" text-anchor="middle" fill="#52514e">Run 3</text>
+<text x="687.0" y="410" font-size="13" text-anchor="middle" fill="#52514e">Run 4</text>
+<polyline points="153.0,133.7 331.0,345.9 687.0,355.8" fill="none" stroke="#2a78d6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="153.0" cy="133.7" r="5" fill="#2a78d6" stroke="#ffffff" stroke-width="2"/>
+<circle cx="331.0" cy="345.9" r="5" fill="#2a78d6" stroke="#ffffff" stroke-width="2"/>
+<circle cx="509.0" cy="338.9" r="5" fill="#ffffff" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="687.0" cy="355.8" r="5" fill="#2a78d6" stroke="#ffffff" stroke-width="2"/>
+<text x="153.0" y="119.7" font-size="13" font-weight="400" text-anchor="middle" fill="#0b0b0b">60 h 51 min</text>
+<text x="339.0" y="335.9" font-size="13" font-weight="400" text-anchor="start" fill="#0b0b0b">9 h 16 min</text>
+<text x="509.0" y="324.9" font-size="13" font-weight="400" text-anchor="middle" fill="#52514e">10 h 58 min, no win</text>
+<text x="687.0" y="341.8" font-size="13" font-weight="600" text-anchor="middle" fill="#0b0b0b">6 h 51 min, category record</text>
+</svg>
