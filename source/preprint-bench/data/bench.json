@@ -1,0 +1,2507 @@
+{
+ "pair": "2026-11-10-1904-bench",
+ "arms": [
+  {
+   "name": "opus",
+   "model": "claude-opus-5-5",
+   "effort": "xhigh",
+   "t0": "2026-11-11T01:06:09.194000+00:00",
+   "milestones": [
+    {
+     "key": "stone_tools",
+     "label": "Stone tools",
+     "clock": 182
+    },
+    {
+     "key": "iron_tools",
+     "label": "Iron tools",
+     "clock": 467
+    },
+    {
+     "key": "bucket",
+     "label": "Bucket",
+     "clock": 468
+    },
+    {
+     "key": "flint_and_steel",
+     "label": "Flint and steel",
+     "clock": 5027
+    },
+    {
+     "key": "nether_portal",
+     "label": "Nether portal",
+     "clock": 5311
+    },
+    {
+     "key": "ender_pearls",
+     "label": "Ender pearls",
+     "clock": 6135
+    },
+    {
+     "key": "fortress",
+     "label": "Nether fortress",
+     "clock": 9427
+    },
+    {
+     "key": "blaze_rods",
+     "label": "Blaze rods",
+     "clock": 9890
+    },
+    {
+     "key": "eyes_of_ender",
+     "label": "Eyes of Ender",
+     "clock": 11343
+    },
+    {
+     "key": "stronghold",
+     "label": "Stronghold",
+     "clock": 12498
+    },
+    {
+     "key": "the_end",
+     "label": "The End",
+     "clock": 12502
+    }
+   ],
+   "deaths": [
+    {
+     "clock": 2169,
+     "text": "opus tried to swim in lava"
+    },
+    {
+     "clock": 13255,
+     "text": "opus was doomed to fall by Ender Dragon"
+    },
+    {
+     "clock": 13631,
+     "text": "opus was killed by Ender Dragon using magic"
+    },
+    {
+     "clock": 14151,
+     "text": "opus tried to swim in lava"
+    },
+    {
+     "clock": 14369,
+     "text": "opus was shot by Skeleton"
+    },
+    {
+     "clock": 16222,
+     "text": "opus was slain by Zombie"
+    },
+    {
+     "clock": 16700,
+     "text": "opus was slain by Silverfish"
+    }
+   ],
+   "advancements": [
+    {
+     "clock": 161,
+     "text": "Stone Age"
+    },
+    {
+     "clock": 182,
+     "text": "Getting an Upgrade"
+    },
+    {
+     "clock": 465,
+     "text": "Acquire Hardware"
+    },
+    {
+     "clock": 467,
+     "text": "Isn't It Iron Pick"
+    },
+    {
+     "clock": 654,
+     "text": "Diamonds!"
+    },
+    {
+     "clock": 942,
+     "text": "Cover Me with Diamonds"
+    },
+    {
+     "clock": 1605,
+     "text": "Monster Hunter"
+    },
+    {
+     "clock": 1657,
+     "text": "Ice Bucket Challenge"
+    },
+    {
+     "clock": 2164,
+     "text": "Hot Stuff"
+    },
+    {
+     "clock": 3068,
+     "text": "Sweet Dreams"
+    },
+    {
+     "clock": 5311,
+     "text": "We Need to Go Deeper"
+    },
+    {
+     "clock": 8645,
+     "text": "Hot Tourist Destinations"
+    },
+    {
+     "clock": 9427,
+     "text": "A Terrible Fortress"
+    },
+    {
+     "clock": 9890,
+     "text": "Into Fire"
+    },
+    {
+     "clock": 12498,
+     "text": "Eye Spy"
+    },
+    {
+     "clock": 12502,
+     "text": "The End?"
+    },
+    {
+     "clock": 17958,
+     "text": "Suit Up"
+    }
+   ],
+   "programs": 395,
+   "program_errors": 1,
+   "program_timeouts": 3,
+   "program_seconds": 11431,
+   "last_program": 18921,
+   "last_model_message": 19010,
+   "dims": [
+    [
+     26,
+     "overworld"
+    ],
+    [
+     5305,
+     "the_nether"
+    ],
+    [
+     11239,
+     "overworld"
+    ],
+    [
+     11756,
+     "the_nether"
+    ],
+    [
+     12113,
+     "overworld"
+    ],
+    [
+     12496,
+     "the_end"
+    ],
+    [
+     13151,
+     "overworld"
+    ],
+    [
+     13502,
+     "the_end"
+    ],
+    [
+     13635,
+     "overworld"
+    ]
+   ],
+   "limits": [
+    {
+     "clock": 7,
+     "status": "allowed",
+     "utilization": 0.07,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 12,
+     "status": "allowed",
+     "utilization": 0.08,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 17,
+     "status": "allowed",
+     "utilization": 0.09,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 36,
+     "status": "allowed",
+     "utilization": 0.1,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 78,
+     "status": "allowed",
+     "utilization": 0.12,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 111,
+     "status": "allowed",
+     "utilization": 0.13,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 127,
+     "status": "allowed",
+     "utilization": 0.14,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 214,
+     "status": "allowed",
+     "utilization": 0.15,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 508,
+     "status": "allowed",
+     "utilization": 0.16,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 814,
+     "status": "allowed",
+     "utilization": 0.17,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 1115,
+     "status": "allowed",
+     "utilization": 0.18,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 1205,
+     "status": "allowed",
+     "utilization": 0.19,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 1253,
+     "status": "allowed",
+     "utilization": 0.2,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 1364,
+     "status": "allowed",
+     "utilization": 0.21,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 1623,
+     "status": "allowed",
+     "utilization": 0.22,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 1668,
+     "status": "allowed",
+     "utilization": 0.22,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 1675,
+     "status": "allowed",
+     "utilization": 0.23,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 2077,
+     "status": "allowed",
+     "utilization": 0.26,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 2100,
+     "status": "allowed",
+     "utilization": 0.27,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 2109,
+     "status": "allowed",
+     "utilization": 0.28,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 2272,
+     "status": "allowed",
+     "utilization": 0.29,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 2405,
+     "status": "allowed",
+     "utilization": 0.3,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 2425,
+     "status": "allowed",
+     "utilization": 0.31,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 2619,
+     "status": "allowed",
+     "utilization": 0.32,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 2821,
+     "status": "allowed",
+     "utilization": 0.34,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 2874,
+     "status": "allowed",
+     "utilization": 0.35,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 3106,
+     "status": "allowed",
+     "utilization": 0.36,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 3175,
+     "status": "allowed",
+     "utilization": 0.37,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 3198,
+     "status": "allowed",
+     "utilization": 0.38,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 3306,
+     "status": "allowed",
+     "utilization": 0.39,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 3402,
+     "status": "allowed",
+     "utilization": 0.4,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 3443,
+     "status": "allowed",
+     "utilization": 0.41,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 3752,
+     "status": "allowed",
+     "utilization": 0.43,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 3784,
+     "status": "allowed",
+     "utilization": 0.44,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 3789,
+     "status": "allowed",
+     "utilization": 0.45,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 3980,
+     "status": "allowed",
+     "utilization": 0.46,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 4011,
+     "status": "allowed",
+     "utilization": 0.47,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 4518,
+     "status": "allowed",
+     "utilization": 0.52,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 4724,
+     "status": "allowed",
+     "utilization": 0.54,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 4759,
+     "status": "allowed",
+     "utilization": 0.55,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 4869,
+     "status": "allowed",
+     "utilization": 0.56,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 5103,
+     "status": "allowed",
+     "utilization": 0.57,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 5211,
+     "status": "allowed",
+     "utilization": 0.58,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 5281,
+     "status": "allowed",
+     "utilization": 0.59,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 5418,
+     "status": "allowed",
+     "utilization": 0.6,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 5477,
+     "status": "allowed",
+     "utilization": 0.61,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 5632,
+     "status": "allowed",
+     "utilization": 0.62,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 5828,
+     "status": "allowed",
+     "utilization": 0.63,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 5850,
+     "status": "allowed",
+     "utilization": 0.64,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 5939,
+     "status": "allowed",
+     "utilization": 0.65,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 5993,
+     "status": "allowed",
+     "utilization": 0.66,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 6004,
+     "status": "allowed",
+     "utilization": 0.67,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 6277,
+     "status": "allowed",
+     "utilization": 0.68,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 6391,
+     "status": "allowed",
+     "utilization": 0.69,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 6595,
+     "status": "allowed",
+     "utilization": 0.7,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 6696,
+     "status": "allowed",
+     "utilization": 0.7,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 6939,
+     "status": "allowed",
+     "utilization": 0.72,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 7139,
+     "status": "allowed",
+     "utilization": 0.73,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 7549,
+     "status": "allowed",
+     "utilization": 0.74,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 7754,
+     "status": "allowed",
+     "utilization": 0.75,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 7873,
+     "status": "allowed",
+     "utilization": 0.76,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 8003,
+     "status": "allowed",
+     "utilization": 0.77,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 8012,
+     "status": "allowed",
+     "utilization": 0.78,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 8038,
+     "status": "allowed",
+     "utilization": 0.79,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 8311,
+     "status": "allowed",
+     "utilization": 0.8,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 8389,
+     "status": "allowed",
+     "utilization": 0.81,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 8605,
+     "status": "allowed",
+     "utilization": 0.82,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 8694,
+     "status": "allowed",
+     "utilization": 0,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 8811,
+     "status": "allowed",
+     "utilization": 0.01,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 8953,
+     "status": "allowed",
+     "utilization": 0.02,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 9063,
+     "status": "allowed",
+     "utilization": 0.03,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 9118,
+     "status": "allowed",
+     "utilization": 0.04,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 9236,
+     "status": "allowed",
+     "utilization": 0.05,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 9474,
+     "status": "allowed",
+     "utilization": 0.06,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 9616,
+     "status": "allowed",
+     "utilization": 0.07,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 9703,
+     "status": "allowed",
+     "utilization": 0.08,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 9794,
+     "status": "allowed",
+     "utilization": 0.09,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 10155,
+     "status": "allowed",
+     "utilization": 0.1,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 10332,
+     "status": "allowed",
+     "utilization": 0.11,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 10407,
+     "status": "allowed",
+     "utilization": 0.12,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 10419,
+     "status": "allowed",
+     "utilization": 0.12,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 10495,
+     "status": "allowed",
+     "utilization": 0.13,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 10712,
+     "status": "allowed",
+     "utilization": 0.14,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 10753,
+     "status": "allowed",
+     "utilization": 0.15,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 10992,
+     "status": "allowed",
+     "utilization": 0.16,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 11225,
+     "status": "allowed",
+     "utilization": 0.17,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 11239,
+     "status": "allowed",
+     "utilization": 0.18,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 11329,
+     "status": "allowed",
+     "utilization": 0.19,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 11370,
+     "status": "allowed",
+     "utilization": 0.2,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 11465,
+     "status": "allowed",
+     "utilization": 0.21,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 11492,
+     "status": "allowed",
+     "utilization": 0.22,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 11497,
+     "status": "allowed",
+     "utilization": 0.23,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 11574,
+     "status": "allowed",
+     "utilization": 0.24,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 11649,
+     "status": "allowed",
+     "utilization": 0.25,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 11651,
+     "status": "allowed",
+     "utilization": 0.26,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 11787,
+     "status": "allowed",
+     "utilization": 0.28,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 11824,
+     "status": "allowed",
+     "utilization": 0.29,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 11828,
+     "status": "allowed",
+     "utilization": 0.3,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 12014,
+     "status": "allowed",
+     "utilization": 0.31,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 12113,
+     "status": "allowed",
+     "utilization": 0.32,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 12180,
+     "status": "allowed",
+     "utilization": 0.33,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 12438,
+     "status": "allowed",
+     "utilization": 0.36,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 12496,
+     "status": "allowed",
+     "utilization": 0.37,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 12575,
+     "status": "allowed",
+     "utilization": 0.38,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 12720,
+     "status": "allowed",
+     "utilization": 0.39,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 12857,
+     "status": "allowed",
+     "utilization": 0.42,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 12920,
+     "status": "allowed",
+     "utilization": 0.43,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 12969,
+     "status": "allowed",
+     "utilization": 0.44,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 13145,
+     "status": "allowed",
+     "utilization": 0.45,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 13356,
+     "status": "allowed",
+     "utilization": 0.46,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 13487,
+     "status": "allowed",
+     "utilization": 0.49,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 13721,
+     "status": "allowed",
+     "utilization": 0.5,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 13927,
+     "status": "allowed",
+     "utilization": 0.51,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 13974,
+     "status": "allowed",
+     "utilization": 0.53,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 14067,
+     "status": "allowed",
+     "utilization": 0.54,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 14184,
+     "status": "allowed",
+     "utilization": 0.55,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 14339,
+     "status": "allowed",
+     "utilization": 0.56,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 14587,
+     "status": "allowed",
+     "utilization": 0.57,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 14604,
+     "status": "allowed",
+     "utilization": 0.58,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 14914,
+     "status": "allowed",
+     "utilization": 0.59,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 15029,
+     "status": "allowed",
+     "utilization": 0.6,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 15035,
+     "status": "allowed",
+     "utilization": 0.61,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 15080,
+     "status": "allowed",
+     "utilization": 0.62,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 15190,
+     "status": "allowed",
+     "utilization": 0.64,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 15307,
+     "status": "allowed",
+     "utilization": 0.65,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 15428,
+     "status": "allowed",
+     "utilization": 0.66,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 15557,
+     "status": "allowed",
+     "utilization": 0.67,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 15597,
+     "status": "allowed",
+     "utilization": 0.68,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 15662,
+     "status": "allowed",
+     "utilization": 0.69,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 15758,
+     "status": "allowed",
+     "utilization": 0.7,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 16230,
+     "status": "allowed",
+     "utilization": 0.71,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 16321,
+     "status": "allowed",
+     "utilization": 0.72,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 16336,
+     "status": "allowed",
+     "utilization": 0.72,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 16526,
+     "status": "allowed",
+     "utilization": 0.73,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 16633,
+     "status": "allowed",
+     "utilization": 0.74,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 16637,
+     "status": "allowed",
+     "utilization": 0.75,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 16657,
+     "status": "allowed",
+     "utilization": 0.76,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 16791,
+     "status": "allowed",
+     "utilization": 0.77,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 16891,
+     "status": "allowed",
+     "utilization": 0.78,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 17029,
+     "status": "allowed",
+     "utilization": 0.79,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 17053,
+     "status": "allowed",
+     "utilization": 0.8,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 17352,
+     "status": "allowed",
+     "utilization": 0.82,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 17440,
+     "status": "allowed",
+     "utilization": 0.83,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 17552,
+     "status": "allowed",
+     "utilization": 0.84,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 17899,
+     "status": "allowed",
+     "utilization": 0.87,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 18147,
+     "status": "allowed",
+     "utilization": 0.88,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 18255,
+     "status": "allowed",
+     "utilization": 0.89,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 18260,
+     "status": "allowed_warning",
+     "utilization": 0.9,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 18353,
+     "status": "allowed_warning",
+     "utilization": 0.9,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 18423,
+     "status": "allowed_warning",
+     "utilization": 0.91,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 18456,
+     "status": "allowed_warning",
+     "utilization": 0.92,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 18552,
+     "status": "allowed_warning",
+     "utilization": 0.93,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 18632,
+     "status": "allowed_warning",
+     "utilization": 0.94,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 18682,
+     "status": "allowed_warning",
+     "utilization": 0.95,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 18720,
+     "status": "allowed_warning",
+     "utilization": 0.96,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 18784,
+     "status": "allowed_warning",
+     "utilization": 0.96,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 18869,
+     "status": "allowed_warning",
+     "utilization": 0.97,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 18898,
+     "status": "allowed_warning",
+     "utilization": 0.98,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 18931,
+     "status": "allowed_warning",
+     "utilization": 0.99,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 19010,
+     "status": "rejected",
+     "utilization": 1,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 19010,
+     "status": "rejected",
+     "utilization": 1,
+     "resetsAt": 1794385800
+    }
+   ],
+   "usage": {
+    "cost": 53.61755159999995,
+    "modelUsage": {
+     "claude-opus-5-5": {
+      "inputTokens": 10855,
+      "outputTokens": 878664,
+      "cacheReadInputTokens": 119364518,
+      "cacheCreationInputTokens": 1520030,
+      "webSearchRequests": 0,
+      "costUSD": 53.61755159999995,
+      "contextWindow": 1000000,
+      "maxOutputTokens": 128000,
+      "thinkingTokens": 515165,
+      "cacheCreationEphemeral5mInputTokens": 10764,
+      "cacheCreationEphemeral1hInputTokens": 1509266,
+      "canonicalModel": "claude-opus-5-5",
+      "provider": "firstParty",
+      "costBasis": "list"
+     }
+    },
+    "api_ms": 10384186
+   }
+  },
+  {
+   "name": "fable",
+   "model": "claude-fable-5-2",
+   "effort": "low",
+   "t0": "2026-11-11T01:06:09.198000+00:00",
+   "milestones": [
+    {
+     "key": "stone_tools",
+     "label": "Stone tools",
+     "clock": 168
+    },
+    {
+     "key": "iron_tools",
+     "label": "Iron tools",
+     "clock": 561
+    },
+    {
+     "key": "bucket",
+     "label": "Bucket",
+     "clock": 1094
+    },
+    {
+     "key": "flint_and_steel",
+     "label": "Flint and steel",
+     "clock": 2050
+    },
+    {
+     "key": "nether_portal",
+     "label": "Nether portal",
+     "clock": 3191
+    },
+    {
+     "key": "fortress",
+     "label": "Nether fortress",
+     "clock": 4400
+    },
+    {
+     "key": "blaze_rods",
+     "label": "Blaze rods",
+     "clock": 4521
+    },
+    {
+     "key": "ender_pearls",
+     "label": "Ender pearls",
+     "clock": 6807
+    },
+    {
+     "key": "eyes_of_ender",
+     "label": "Eyes of Ender",
+     "clock": 9758
+    },
+    {
+     "key": "stronghold",
+     "label": "Stronghold",
+     "clock": 11439
+    },
+    {
+     "key": "the_end",
+     "label": "The End",
+     "clock": 11627
+    }
+   ],
+   "deaths": [
+    {
+     "clock": 7938,
+     "text": "fable burned to death"
+    },
+    {
+     "clock": 12134,
+     "text": "fable was slain by Ender Dragon"
+    },
+    {
+     "clock": 13802,
+     "text": "fable was slain by Ender Dragon"
+    },
+    {
+     "clock": 14882,
+     "text": "fable was killed by Ender Dragon using magic"
+    },
+    {
+     "clock": 15460,
+     "text": "fable was slain by Zombie"
+    },
+    {
+     "clock": 16415,
+     "text": "fable was doomed to fall by Ender Dragon"
+    },
+    {
+     "clock": 16905,
+     "text": "fable fell out of the world"
+    },
+    {
+     "clock": 16940,
+     "text": "fable was shot by Skeleton"
+    },
+    {
+     "clock": 18118,
+     "text": "fable was slain by Zombie"
+    },
+    {
+     "clock": 18417,
+     "text": "fable drowned"
+    },
+    {
+     "clock": 18756,
+     "text": "fable was shot by Skeleton"
+    },
+    {
+     "clock": 22815,
+     "text": "fable was shot by Skeleton"
+    },
+    {
+     "clock": 22843,
+     "text": "fable was shot by Skeleton"
+    },
+    {
+     "clock": 22877,
+     "text": "fable was shot by Skeleton"
+    }
+   ],
+   "advancements": [
+    {
+     "clock": 157,
+     "text": "Stone Age"
+    },
+    {
+     "clock": 168,
+     "text": "Getting an Upgrade"
+    },
+    {
+     "clock": 559,
+     "text": "Acquire Hardware"
+    },
+    {
+     "clock": 561,
+     "text": "Isn't It Iron Pick"
+    },
+    {
+     "clock": 791,
+     "text": "Diamonds!"
+    },
+    {
+     "clock": 1092,
+     "text": "Cover Me with Diamonds"
+    },
+    {
+     "clock": 1150,
+     "text": "Suit Up"
+    },
+    {
+     "clock": 2156,
+     "text": "Ice Bucket Challenge"
+    },
+    {
+     "clock": 3191,
+     "text": "We Need to Go Deeper"
+    },
+    {
+     "clock": 4400,
+     "text": "A Terrible Fortress"
+    },
+    {
+     "clock": 4454,
+     "text": "Monster Hunter"
+    },
+    {
+     "clock": 4521,
+     "text": "Into Fire"
+    },
+    {
+     "clock": 11439,
+     "text": "Eye Spy"
+    },
+    {
+     "clock": 11627,
+     "text": "The End?"
+    }
+   ],
+   "programs": 283,
+   "program_errors": 2,
+   "program_timeouts": 3,
+   "program_seconds": 13771,
+   "last_program": 19010,
+   "last_model_message": 19010,
+   "dims": [
+    [
+     11,
+     "overworld"
+    ],
+    [
+     3186,
+     "the_nether"
+    ],
+    [
+     5620,
+     "overworld"
+    ],
+    [
+     5751,
+     "the_nether"
+    ],
+    [
+     5886,
+     "overworld"
+    ],
+    [
+     5920,
+     "the_nether"
+    ],
+    [
+     7978,
+     "overworld"
+    ],
+    [
+     8029,
+     "the_nether"
+    ],
+    [
+     9650,
+     "overworld"
+    ],
+    [
+     10371,
+     "the_nether"
+    ],
+    [
+     11074,
+     "overworld"
+    ],
+    [
+     11625,
+     "the_end"
+    ],
+    [
+     12129,
+     "overworld"
+    ],
+    [
+     13008,
+     "the_end"
+    ],
+    [
+     14033,
+     "overworld"
+    ],
+    [
+     14551,
+     "the_end"
+    ],
+    [
+     15623,
+     "overworld"
+    ]
+   ],
+   "limits": [
+    {
+     "clock": 6,
+     "status": "allowed",
+     "utilization": 0.07,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 11,
+     "status": "allowed",
+     "utilization": 0.08,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 21,
+     "status": "allowed",
+     "utilization": 0.09,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 58,
+     "status": "allowed",
+     "utilization": 0.1,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 90,
+     "status": "allowed",
+     "utilization": 0.12,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 110,
+     "status": "allowed",
+     "utilization": 0.13,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 177,
+     "status": "allowed",
+     "utilization": 0.14,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 440,
+     "status": "allowed",
+     "utilization": 0.15,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 576,
+     "status": "allowed",
+     "utilization": 0.16,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 827,
+     "status": "allowed",
+     "utilization": 0.17,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 1133,
+     "status": "allowed",
+     "utilization": 0.18,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 1218,
+     "status": "allowed",
+     "utilization": 0.19,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 1322,
+     "status": "allowed",
+     "utilization": 0.2,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 1421,
+     "status": "allowed",
+     "utilization": 0.21,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 1628,
+     "status": "allowed",
+     "utilization": 0.22,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 1694,
+     "status": "allowed",
+     "utilization": 0.22,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 1729,
+     "status": "allowed",
+     "utilization": 0.23,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 1776,
+     "status": "allowed",
+     "utilization": 0.24,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 1960,
+     "status": "allowed",
+     "utilization": 0.25,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 2052,
+     "status": "allowed",
+     "utilization": 0.26,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 2070,
+     "status": "allowed",
+     "utilization": 0.27,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 2314,
+     "status": "allowed",
+     "utilization": 0.29,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 2337,
+     "status": "allowed",
+     "utilization": 0.29,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 2342,
+     "status": "allowed",
+     "utilization": 0.3,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 2546,
+     "status": "allowed",
+     "utilization": 0.31,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 2580,
+     "status": "allowed",
+     "utilization": 0.32,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 2714,
+     "status": "allowed",
+     "utilization": 0.33,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 2758,
+     "status": "allowed",
+     "utilization": 0.34,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 2764,
+     "status": "allowed",
+     "utilization": 0.34,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 2957,
+     "status": "allowed",
+     "utilization": 0.35,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 3071,
+     "status": "allowed",
+     "utilization": 0.36,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 3160,
+     "status": "allowed",
+     "utilization": 0.37,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 3249,
+     "status": "allowed",
+     "utilization": 0.38,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 3289,
+     "status": "allowed",
+     "utilization": 0.38,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 3383,
+     "status": "allowed",
+     "utilization": 0.39,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 3430,
+     "status": "allowed",
+     "utilization": 0.4,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 3510,
+     "status": "allowed",
+     "utilization": 0.41,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 3611,
+     "status": "allowed",
+     "utilization": 0.42,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 3762,
+     "status": "allowed",
+     "utilization": 0.43,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 3769,
+     "status": "allowed",
+     "utilization": 0.44,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 3776,
+     "status": "allowed",
+     "utilization": 0.45,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 4003,
+     "status": "allowed",
+     "utilization": 0.46,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 4170,
+     "status": "allowed",
+     "utilization": 0.47,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 4244,
+     "status": "allowed",
+     "utilization": 0.49,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 4316,
+     "status": "allowed",
+     "utilization": 0.5,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 4379,
+     "status": "allowed",
+     "utilization": 0.51,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 4445,
+     "status": "allowed",
+     "utilization": 0.52,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 4698,
+     "status": "allowed",
+     "utilization": 0.53,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 4705,
+     "status": "allowed",
+     "utilization": 0.54,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 4903,
+     "status": "allowed",
+     "utilization": 0.56,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 5115,
+     "status": "allowed",
+     "utilization": 0.57,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 5244,
+     "status": "allowed",
+     "utilization": 0.58,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 5272,
+     "status": "allowed",
+     "utilization": 0.58,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 5338,
+     "status": "allowed",
+     "utilization": 0.59,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 5395,
+     "status": "allowed",
+     "utilization": 0.6,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 5604,
+     "status": "allowed",
+     "utilization": 0.61,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 5738,
+     "status": "allowed",
+     "utilization": 0.62,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 5804,
+     "status": "allowed",
+     "utilization": 0.63,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 5847,
+     "status": "allowed",
+     "utilization": 0.64,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 5860,
+     "status": "allowed",
+     "utilization": 0.64,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 5947,
+     "status": "allowed",
+     "utilization": 0.65,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 5970,
+     "status": "allowed",
+     "utilization": 0.66,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 6018,
+     "status": "allowed",
+     "utilization": 0.67,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 6350,
+     "status": "allowed",
+     "utilization": 0.68,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 6464,
+     "status": "allowed",
+     "utilization": 0.69,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 6654,
+     "status": "allowed",
+     "utilization": 0.7,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 6844,
+     "status": "allowed",
+     "utilization": 0.7,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 6857,
+     "status": "allowed",
+     "utilization": 0.71,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 6908,
+     "status": "allowed",
+     "utilization": 0.72,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 7269,
+     "status": "allowed",
+     "utilization": 0.73,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 7723,
+     "status": "allowed",
+     "utilization": 0.75,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 7819,
+     "status": "allowed",
+     "utilization": 0.76,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 7963,
+     "status": "allowed",
+     "utilization": 0.77,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 7999,
+     "status": "allowed",
+     "utilization": 0.78,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 8335,
+     "status": "allowed",
+     "utilization": 0.8,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 8377,
+     "status": "allowed",
+     "utilization": 0.81,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 8598,
+     "status": "allowed",
+     "utilization": 0.82,
+     "resetsAt": 1794367800
+    },
+    {
+     "clock": 8839,
+     "status": "allowed",
+     "utilization": 0.01,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 9056,
+     "status": "allowed",
+     "utilization": 0.02,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 9067,
+     "status": "allowed",
+     "utilization": 0.03,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 9100,
+     "status": "allowed",
+     "utilization": 0.04,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 9409,
+     "status": "allowed",
+     "utilization": 0.05,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 9483,
+     "status": "allowed",
+     "utilization": 0.06,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 9619,
+     "status": "allowed",
+     "utilization": 0.07,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 9724,
+     "status": "allowed",
+     "utilization": 0.08,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 9825,
+     "status": "allowed",
+     "utilization": 0.09,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 10371,
+     "status": "allowed",
+     "utilization": 0.11,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 10407,
+     "status": "allowed",
+     "utilization": 0.12,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 10467,
+     "status": "allowed",
+     "utilization": 0.12,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 10698,
+     "status": "allowed",
+     "utilization": 0.13,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 10706,
+     "status": "allowed",
+     "utilization": 0.14,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 11045,
+     "status": "allowed",
+     "utilization": 0.16,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 11156,
+     "status": "allowed",
+     "utilization": 0.17,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 11290,
+     "status": "allowed",
+     "utilization": 0.18,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 11318,
+     "status": "allowed",
+     "utilization": 0.19,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 11339,
+     "status": "allowed",
+     "utilization": 0.2,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 11491,
+     "status": "allowed",
+     "utilization": 0.21,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 11496,
+     "status": "allowed",
+     "utilization": 0.22,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 11508,
+     "status": "allowed",
+     "utilization": 0.23,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 11510,
+     "status": "allowed",
+     "utilization": 0.23,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 11526,
+     "status": "allowed",
+     "utilization": 0.24,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 11600,
+     "status": "allowed",
+     "utilization": 0.24,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 11605,
+     "status": "allowed",
+     "utilization": 0.25,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 11767,
+     "status": "allowed",
+     "utilization": 0.26,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 11788,
+     "status": "allowed",
+     "utilization": 0.27,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 11792,
+     "status": "allowed",
+     "utilization": 0.28,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 11810,
+     "status": "allowed",
+     "utilization": 0.29,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 11826,
+     "status": "allowed",
+     "utilization": 0.3,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 12015,
+     "status": "allowed",
+     "utilization": 0.3,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 12106,
+     "status": "allowed",
+     "utilization": 0.31,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 12115,
+     "status": "allowed",
+     "utilization": 0.32,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 12386,
+     "status": "allowed",
+     "utilization": 0.35,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 12439,
+     "status": "allowed",
+     "utilization": 0.36,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 12516,
+     "status": "allowed",
+     "utilization": 0.37,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 12574,
+     "status": "allowed",
+     "utilization": 0.38,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 12622,
+     "status": "allowed",
+     "utilization": 0.39,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 12781,
+     "status": "allowed",
+     "utilization": 0.4,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 12806,
+     "status": "allowed",
+     "utilization": 0.41,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 12828,
+     "status": "allowed",
+     "utilization": 0.42,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 12937,
+     "status": "allowed",
+     "utilization": 0.43,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 13003,
+     "status": "allowed",
+     "utilization": 0.44,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 13049,
+     "status": "allowed",
+     "utilization": 0.45,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 13334,
+     "status": "allowed",
+     "utilization": 0.46,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 13390,
+     "status": "allowed",
+     "utilization": 0.47,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 13445,
+     "status": "allowed",
+     "utilization": 0.48,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 13625,
+     "status": "allowed",
+     "utilization": 0.49,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 13810,
+     "status": "allowed",
+     "utilization": 0.5,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 13951,
+     "status": "allowed",
+     "utilization": 0.52,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 13997,
+     "status": "allowed",
+     "utilization": 0.53,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 14109,
+     "status": "allowed",
+     "utilization": 0.54,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 14251,
+     "status": "allowed",
+     "utilization": 0.55,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 14550,
+     "status": "allowed",
+     "utilization": 0.56,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 14565,
+     "status": "allowed",
+     "utilization": 0.57,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 14642,
+     "status": "allowed",
+     "utilization": 0.58,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 14669,
+     "status": "allowed",
+     "utilization": 0.58,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 15009,
+     "status": "allowed",
+     "utilization": 0.59,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 15041,
+     "status": "allowed",
+     "utilization": 0.6,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 15053,
+     "status": "allowed",
+     "utilization": 0.61,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 15129,
+     "status": "allowed",
+     "utilization": 0.62,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 15136,
+     "status": "allowed",
+     "utilization": 0.63,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 15173,
+     "status": "allowed",
+     "utilization": 0.64,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 15313,
+     "status": "allowed",
+     "utilization": 0.65,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 15367,
+     "status": "allowed",
+     "utilization": 0.66,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 15623,
+     "status": "allowed",
+     "utilization": 0.67,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 15959,
+     "status": "allowed",
+     "utilization": 0.7,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 16131,
+     "status": "allowed",
+     "utilization": 0.71,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 16406,
+     "status": "allowed",
+     "utilization": 0.72,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 16535,
+     "status": "allowed",
+     "utilization": 0.73,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 16625,
+     "status": "allowed",
+     "utilization": 0.74,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 16638,
+     "status": "allowed",
+     "utilization": 0.75,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 16728,
+     "status": "allowed",
+     "utilization": 0.76,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 16947,
+     "status": "allowed",
+     "utilization": 0.78,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 16967,
+     "status": "allowed",
+     "utilization": 0.79,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 17144,
+     "status": "allowed",
+     "utilization": 0.8,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 17258,
+     "status": "allowed",
+     "utilization": 0.81,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 17529,
+     "status": "allowed",
+     "utilization": 0.83,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 17592,
+     "status": "allowed",
+     "utilization": 0.84,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 17655,
+     "status": "allowed",
+     "utilization": 0.84,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 17701,
+     "status": "allowed",
+     "utilization": 0.85,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 17864,
+     "status": "allowed",
+     "utilization": 0.86,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 17892,
+     "status": "allowed",
+     "utilization": 0.87,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 18099,
+     "status": "allowed",
+     "utilization": 0.88,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 18446,
+     "status": "allowed_warning",
+     "utilization": 0.9,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 18526,
+     "status": "allowed_warning",
+     "utilization": 0.92,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 18575,
+     "status": "allowed_warning",
+     "utilization": 0.93,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 18608,
+     "status": "allowed_warning",
+     "utilization": 0.94,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 18831,
+     "status": "allowed_warning",
+     "utilization": 0.96,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 18874,
+     "status": "allowed_warning",
+     "utilization": 0.97,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 18939,
+     "status": "allowed_warning",
+     "utilization": 0.98,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 18958,
+     "status": "allowed_warning",
+     "utilization": 0.99,
+     "resetsAt": 1794385800
+    },
+    {
+     "clock": 19020,
+     "status": "rejected",
+     "utilization": 1,
+     "resetsAt": 1794385800
+    }
+   ],
+   "usage": {
+    "cost": 49.57755139999999,
+    "modelUsage": {
+     "claude-fable-5-2": {
+      "inputTokens": 5279,
+      "outputTokens": 540803,
+      "cacheReadInputTokens": 58427507,
+      "cacheCreationInputTokens": 1014004,
+      "webSearchRequests": 0,
+      "costUSD": 49.57755139999999,
+      "contextWindow": 1000000,
+      "maxOutputTokens": 128000,
+      "thinkingTokens": 285932,
+      "cacheCreationEphemeral5mInputTokens": 1061,
+      "cacheCreationEphemeral1hInputTokens": 1012943,
+      "canonicalModel": "claude-fable-5-2",
+      "provider": "firstParty",
+      "costBasis": "list"
+     }
+    },
+    "api_ms": 5854617
+   }
+  }
+ ]
+}

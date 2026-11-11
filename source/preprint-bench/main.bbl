@@ -1,0 +1,75 @@
+\begin{thebibliography}{11}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[{Anthropic}(2026)]{claudecode}
+{Anthropic}.
+\newblock {Claude {Code}}.
+\newblock \url{https://code.claude.com/docs}, 2026.
+\newblock Agentic coding tool. Accessed 2026-11-04.
+
+\bibitem[Baker et~al.(2022)Baker, Akkaya, Zhokhov, Huizinga, Tang, Ecoffet, Houghton, Sampedro, and Clune]{baker2022vpt}
+B.~Baker, I.~Akkaya, P.~Zhokhov, J.~Huizinga, J.~Tang, A.~Ecoffet, B.~Houghton, R.~Sampedro, and J.~Clune.
+\newblock {Video {PreTraining} ({VPT}): Learning to Act by Watching Unlabeled Online Videos}.
+\newblock In \emph{Advances in Neural Information Processing Systems}, 2022.
+\newblock \doi{10.48550/arXiv.2206.11795}.
+\newblock URL \url{https://arxiv.org/abs/2206.11795}.
+
+\bibitem[Batsuk(2026{\natexlab{a}})]{batsuk2026fourth}
+B.~Batsuk.
+\newblock A {Claude Opus 5.5} agent, given three earlier players' files, beats {Minecraft} in 6 hours 51 minutes and misses its 5-hour plan, 2026{\natexlab{a}}.
+\newblock Preprint.
+
+\bibitem[Batsuk(2026{\natexlab{b}})]{batsuk2026second}
+B.~Batsuk.
+\newblock A second {Claude Opus 5.5} agent, given the first one's files, beats {Minecraft} in nine hours, 2026{\natexlab{b}}.
+\newblock Preprint.
+
+\bibitem[Batsuk(2026{\natexlab{c}})]{batsuk2026single}
+B.~Batsuk.
+\newblock A single {Claude Opus 5.5} agent beats {Minecraft}, 2026{\natexlab{c}}.
+\newblock Preprint.
+
+\bibitem[Faldor et~al.(2026)Faldor, Singh, and Raileanu]{faldor2026team}
+M.~Faldor, S.~Singh, and R.~Raileanu.
+\newblock {A team of {Gemini} 4 {Argon} agents beats {Minecraft}}.
+\newblock \emph{arXiv preprint arXiv:2610.22319}, 2026.
+\newblock \doi{10.48550/arXiv.2610.22319}.
+\newblock URL \url{https://arxiv.org/abs/2610.22319}.
+
+\bibitem[Hafner et~al.(2025)Hafner, Pasukonis, Ba, and Lillicrap]{hafner2025dreamer}
+D.~Hafner, J.~Pasukonis, J.~Ba, and T.~Lillicrap.
+\newblock {Mastering diverse control tasks through world models}.
+\newblock \emph{Nature}, 640\penalty0 (8059):\penalty0 647--653, 2025.
+\newblock \doi{10.1038/s41586-025-08744-2}.
+
+\bibitem[{PrismarineJS}(2026)]{mineflayer}
+{PrismarineJS}.
+\newblock {Mineflayer: create {Minecraft} bots with a stable, high level {JavaScript} {API}}.
+\newblock \url{https://github.com/PrismarineJS/mineflayer}, 2026.
+\newblock Version 4.39.0, with mineflayer-pathfinder 2.4.5.
+
+\bibitem[{speedrun.com}(2026)]{speedrun2026}
+{speedrun.com}.
+\newblock {Minecraft: Java Edition, Any\% Glitchless, Random Seed, 1.16+}.
+\newblock \url{https://www.speedrun.com/mc/runs/y44238ky}, 2026.
+\newblock Top entry of the leaderboard, run dated 2026-07-27. Accessed 2026-11-05.
+
+\bibitem[Wang et~al.(2024)Wang, Xie, Jiang, Mandlekar, Xiao, Zhu, Fan, and Anandkumar]{wang2024voyager}
+G.~Wang, Y.~Xie, Y.~Jiang, A.~Mandlekar, C.~Xiao, Y.~Zhu, L.~Fan, and A.~Anandkumar.
+\newblock {Voyager: An Open-Ended Embodied Agent with Large Language Models}.
+\newblock \emph{Transactions on Machine Learning Research}, 2024.
+\newblock \doi{10.48550/arXiv.2305.16291}.
+\newblock URL \url{https://arxiv.org/abs/2305.16291}.
+
+\bibitem[Zhu et~al.(2023)Zhu, Chen, Tian, Tao, Su, Yang, Huang, Li, Lu, Wang, Qiao, Zhang, and Dai]{zhu2023gitm}
+X.~Zhu, Y.~Chen, H.~Tian, C.~Tao, W.~Su, C.~Yang, G.~Huang, B.~Li, L.~Lu, X.~Wang, Y.~Qiao, Z.~Zhang, and J.~Dai.
+\newblock {Ghost in the {Minecraft}: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory}.
+\newblock \emph{arXiv preprint arXiv:2305.17144}, 2023.
+\newblock \doi{10.48550/arXiv.2305.17144}.
+\newblock URL \url{https://arxiv.org/abs/2305.17144}.
+
+\end{thebibliography}
