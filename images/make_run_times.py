@@ -2,18 +2,19 @@
 
 Reads each run's official time (first spawn to the win, or to the end of a run
 without one), whether it won, and the Gemini team's time from the run 4
-paper's data, then writes run-times-light.svg and run-times-dark.svg next to
+paper's data, adds run 5 from the run 5 paper's data, then writes run-times-light.svg and run-times-dark.svg next to
 this script.
 
     python3 images/make_run_times.py
 """
 import json
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
 HERE = Path(__file__).resolve().parent
 DATA = HERE.parent / "source" / "preprint-run4" / "data" / "run4.json"
+RUN5 = HERE.parent / "source" / "preprint-run5" / "data" / "run5.json"
 TZ = ZoneInfo("America/Chicago")
 
 # Colours: one series, validated against GitHub's page backgrounds.
@@ -83,7 +84,7 @@ def svg(runs, team_h, t):
     # Title and subtitle.
     text(24, 38, title, 22, t["ink"], weight="600")
     text(24, 64, f"Official time from first spawn to the Ender Dragon's death, {dates}.", 14, t["ink2"])
-    text(24, 84, "Each Claude Opus 5.5 player inherited the files of the players before it.", 14, t["ink2"])
+    text(24, 84, "Each player inherited the files of the players before it. Runs 1 to 4: Claude Opus 5.5. Run 5: Claude Fable 5.2.", 14, t["ink2"])
 
     # Gridlines, y labels and the zero baseline.
     for v in Y_TICKS:
@@ -154,6 +155,12 @@ def svg(runs, team_h, t):
 
 def main():
     data = json.loads(DATA.read_text())
+    r5 = json.loads(RUN5.read_text())
+    spawn = datetime.fromisoformat(r5["t0_utc"])
+    data["runs"]["run5"] = {
+        "spawn_utc": r5["t0_utc"], "end_utc": (spawn + timedelta(seconds=r5["win_s"])).isoformat(),
+        "won": True, "official_h": r5["win_s"] / 3600,
+        "spawn_to_first_program_s": r5["win_s"] - r5["from_first_program_s"]}
     for theme, t in THEMES.items():
         (HERE / f"run-times-{theme}.svg").write_text(svg(data["runs"], data["team"]["win_h"], t))
         print("wrote", HERE / f"run-times-{theme}.svg")

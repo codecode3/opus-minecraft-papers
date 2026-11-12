@@ -1,0 +1,23 @@
+{
+ "_note": "Sensitivity variant: the food work left inside the crossing, no surprise.",
+ "run": "2026-11-11-2058",
+ "won": true,
+ "minutes": 279.9,
+ "stage_minutes": {
+  "to_nether": 35.3,
+  "fort_rods": 19.7,
+  "pearls": 31.5,
+  "home_eyes": 10.5,
+  "crossing": 53.9,
+  "crystals": 9.3,
+  "dragon": 45.1
+ },
+ "deaths": {
+  "lava_stock": 0,
+  "nether": 2,
+  "end": 2,
+  "bare_after_end": 0
+ },
+ "surprise": false,
+ "idle_minutes": 60.7
+}

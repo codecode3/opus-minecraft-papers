@@ -1,0 +1,3104 @@
+{
+ "run": "2026-11-11-2058",
+ "model": "claude-fable-5-2",
+ "effort": "low",
+ "t0_utc": "2026-11-12T02:59:12.437000+00:00",
+ "win_s": 16794.4,
+ "win_clock": "4:39:54",
+ "from_first_program_s": 16781.4,
+ "milestones": [
+  {
+   "key": "stone_tools",
+   "label": "Stone tools",
+   "clock": 222
+  },
+  {
+   "key": "iron_tools",
+   "label": "Iron tools",
+   "clock": 536
+  },
+  {
+   "key": "bucket",
+   "label": "Bucket",
+   "clock": 1148
+  },
+  {
+   "key": "flint_and_steel",
+   "label": "Flint and steel",
+   "clock": 1944
+  },
+  {
+   "key": "nether_portal",
+   "label": "Nether portal",
+   "clock": 2119
+  },
+  {
+   "key": "fortress",
+   "label": "Nether fortress",
+   "clock": 2285
+  },
+  {
+   "key": "blaze_rods",
+   "label": "Blaze rods",
+   "clock": 2399
+  },
+  {
+   "key": "ender_pearls",
+   "label": "Ender pearls",
+   "clock": 4422
+  },
+  {
+   "key": "eyes_of_ender",
+   "label": "Eyes of Ender",
+   "clock": 6125
+  },
+  {
+   "key": "stronghold",
+   "label": "Stronghold",
+   "clock": 6890
+  },
+  {
+   "key": "the_end",
+   "label": "The End",
+   "clock": 12761
+  },
+  {
+   "key": "dragon",
+   "label": "Ender Dragon",
+   "clock": 16794
+  }
+ ],
+ "deaths": [
+  {
+   "clock": 3508,
+   "text": "fable was slain by Zombified Piglin",
+   "dim": "the_nether"
+  },
+  {
+   "clock": 7873,
+   "text": "fable was doomed to fall",
+   "dim": "the_nether"
+  },
+  {
+   "clock": 15413,
+   "text": "fable was slain by Enderman",
+   "dim": "the_end"
+  },
+  {
+   "clock": 15908,
+   "text": "fable was slain by Enderman",
+   "dim": "the_end"
+  }
+ ],
+ "dims": [
+  [
+   1,
+   "overworld"
+  ],
+  [
+   2120,
+   "the_nether"
+  ],
+  [
+   3510,
+   "overworld"
+  ],
+  [
+   3750,
+   "the_nether"
+  ],
+  [
+   6120,
+   "overworld"
+  ],
+  [
+   6700,
+   "the_nether"
+  ],
+  [
+   6890,
+   "overworld"
+  ],
+  [
+   7820,
+   "the_nether"
+  ],
+  [
+   7880,
+   "overworld"
+  ],
+  [
+   9511,
+   "the_nether"
+  ],
+  [
+   10311,
+   "overworld"
+  ],
+  [
+   12771,
+   "the_end"
+  ],
+  [
+   15421,
+   "overworld"
+  ],
+  [
+   15661,
+   "the_end"
+  ],
+  [
+   15911,
+   "overworld"
+  ],
+  [
+   16021,
+   "the_end"
+  ]
+ ],
+ "programs": {
+  "to_win": 197,
+  "after_win": 3,
+  "errors": 1,
+  "timeouts": 0,
+  "median_s": 17.4,
+  "running_s": 13155,
+  "running_share": 0.783,
+  "idle_min": 60.7,
+  "first_program_s": 13.1,
+  "distinct_lines": 4655,
+  "over_60s": 70,
+  "under_5s": 81,
+  "spans": [
+   [
+    13,
+    13
+   ],
+   [
+    18,
+    18
+   ],
+   [
+    22,
+    222
+   ],
+   [
+    234,
+    234
+   ],
+   [
+    235,
+    499
+   ],
+   [
+    530,
+    530
+   ],
+   [
+    530,
+    860
+   ],
+   [
+    890,
+    890
+   ],
+   [
+    890,
+    1154
+   ],
+   [
+    1180,
+    1382
+   ],
+   [
+    1400,
+    1422
+   ],
+   [
+    1431,
+    1482
+   ],
+   [
+    1486,
+    1759
+   ],
+   [
+    1775,
+    1955
+   ],
+   [
+    1978,
+    1978
+   ],
+   [
+    1978,
+    2005
+   ],
+   [
+    2019,
+    2019
+   ],
+   [
+    2019,
+    2019
+   ],
+   [
+    2028,
+    2028
+   ],
+   [
+    2044,
+    2044
+   ],
+   [
+    2044,
+    2059
+   ],
+   [
+    2091,
+    2135
+   ],
+   [
+    2159,
+    2319
+   ],
+   [
+    2349,
+    2349
+   ],
+   [
+    2349,
+    2384
+   ],
+   [
+    2388,
+    2586
+   ],
+   [
+    2592,
+    2835
+   ],
+   [
+    2851,
+    2856
+   ],
+   [
+    2868,
+    2868
+   ],
+   [
+    2896,
+    2896
+   ],
+   [
+    2896,
+    2936
+   ],
+   [
+    2940,
+    3112
+   ],
+   [
+    3125,
+    3131
+   ],
+   [
+    3140,
+    3140
+   ],
+   [
+    3151,
+    3192
+   ],
+   [
+    3197,
+    3277
+   ],
+   [
+    3292,
+    3294
+   ],
+   [
+    3309,
+    3498
+   ],
+   [
+    3525,
+    3527
+   ],
+   [
+    3527,
+    3527
+   ],
+   [
+    3593,
+    3593
+   ],
+   [
+    3593,
+    3597
+   ],
+   [
+    3605,
+    3605
+   ],
+   [
+    3612,
+    3751
+   ],
+   [
+    3773,
+    3944
+   ],
+   [
+    3965,
+    3983
+   ],
+   [
+    3983,
+    3983
+   ],
+   [
+    4023,
+    4023
+   ],
+   [
+    4045,
+    4176
+   ],
+   [
+    4195,
+    4377
+   ],
+   [
+    4389,
+    4426
+   ],
+   [
+    4431,
+    4617
+   ],
+   [
+    4627,
+    4627
+   ],
+   [
+    4643,
+    4865
+   ],
+   [
+    4883,
+    5093
+   ],
+   [
+    5113,
+    5113
+   ],
+   [
+    5114,
+    5320
+   ],
+   [
+    5330,
+    5330
+   ],
+   [
+    5348,
+    5583
+   ],
+   [
+    5587,
+    5669
+   ],
+   [
+    5697,
+    5916
+   ],
+   [
+    5934,
+    6037
+   ],
+   [
+    6045,
+    6127
+   ],
+   [
+    6138,
+    6138
+   ],
+   [
+    6146,
+    6155
+   ],
+   [
+    6165,
+    6306
+   ],
+   [
+    6340,
+    6560
+   ],
+   [
+    6673,
+    6903
+   ],
+   [
+    6969,
+    7011
+   ],
+   [
+    7072,
+    7072
+   ],
+   [
+    7072,
+    7214
+   ],
+   [
+    7278,
+    7404
+   ],
+   [
+    7447,
+    7455
+   ],
+   [
+    7530,
+    7542
+   ],
+   [
+    7660,
+    7660
+   ],
+   [
+    7660,
+    7737
+   ],
+   [
+    7751,
+    7768
+   ],
+   [
+    7773,
+    7792
+   ],
+   [
+    7800,
+    7862
+   ],
+   [
+    7872,
+    7872
+   ],
+   [
+    7883,
+    7884
+   ],
+   [
+    7936,
+    7939
+   ],
+   [
+    8049,
+    8049
+   ],
+   [
+    8049,
+    8050
+   ],
+   [
+    8078,
+    8078
+   ],
+   [
+    8078,
+    8537
+   ],
+   [
+    8677,
+    8677
+   ],
+   [
+    8677,
+    8972
+   ],
+   [
+    9013,
+    9086
+   ],
+   [
+    9096,
+    9304
+   ],
+   [
+    9314,
+    9380
+   ],
+   [
+    9441,
+    9441
+   ],
+   [
+    9441,
+    9491
+   ],
+   [
+    9500,
+    9654
+   ],
+   [
+    9685,
+    9835
+   ],
+   [
+    9862,
+    9886
+   ],
+   [
+    9892,
+    9910
+   ],
+   [
+    9975,
+    9975
+   ],
+   [
+    9975,
+    9981
+   ],
+   [
+    10007,
+    10025
+   ],
+   [
+    10035,
+    10052
+   ],
+   [
+    10066,
+    10130
+   ],
+   [
+    10137,
+    10186
+   ],
+   [
+    10193,
+    10197
+   ],
+   [
+    10205,
+    10318
+   ],
+   [
+    10361,
+    10508
+   ],
+   [
+    10542,
+    10609
+   ],
+   [
+    10655,
+    10655
+   ],
+   [
+    10655,
+    10655
+   ],
+   [
+    10655,
+    10885
+   ],
+   [
+    10896,
+    10896
+   ],
+   [
+    10907,
+    11010
+   ],
+   [
+    11016,
+    11070
+   ],
+   [
+    11122,
+    11155
+   ],
+   [
+    11175,
+    11196
+   ],
+   [
+    11215,
+    11230
+   ],
+   [
+    11276,
+    11276
+   ],
+   [
+    11276,
+    11451
+   ],
+   [
+    11476,
+    11489
+   ],
+   [
+    11496,
+    11508
+   ],
+   [
+    11531,
+    11531
+   ],
+   [
+    11531,
+    11785
+   ],
+   [
+    11806,
+    12019
+   ],
+   [
+    12027,
+    12027
+   ],
+   [
+    12028,
+    12422
+   ],
+   [
+    12428,
+    12579
+   ],
+   [
+    12594,
+    12596
+   ],
+   [
+    12608,
+    12611
+   ],
+   [
+    12618,
+    12779
+   ],
+   [
+    12817,
+    12823
+   ],
+   [
+    12857,
+    13022
+   ],
+   [
+    13046,
+    13103
+   ],
+   [
+    13119,
+    13119
+   ],
+   [
+    13119,
+    13163
+   ],
+   [
+    13171,
+    13171
+   ],
+   [
+    13171,
+    13238
+   ],
+   [
+    13260,
+    13265
+   ],
+   [
+    13265,
+    13265
+   ],
+   [
+    13265,
+    13348
+   ],
+   [
+    13372,
+    13372
+   ],
+   [
+    13431,
+    13460
+   ],
+   [
+    13481,
+    13492
+   ],
+   [
+    13497,
+    13497
+   ],
+   [
+    13497,
+    13558
+   ],
+   [
+    13571,
+    13571
+   ],
+   [
+    13571,
+    13723
+   ],
+   [
+    13735,
+    13887
+   ],
+   [
+    13924,
+    13924
+   ],
+   [
+    13924,
+    13924
+   ],
+   [
+    13924,
+    14100
+   ],
+   [
+    14144,
+    14162
+   ],
+   [
+    14170,
+    14170
+   ],
+   [
+    14170,
+    14340
+   ],
+   [
+    14419,
+    14419
+   ],
+   [
+    14553,
+    14553
+   ],
+   [
+    14558,
+    14728
+   ],
+   [
+    14737,
+    14737
+   ],
+   [
+    14737,
+    14908
+   ],
+   [
+    14944,
+    14944
+   ],
+   [
+    14969,
+    14969
+   ],
+   [
+    14969,
+    15139
+   ],
+   [
+    15169,
+    15169
+   ],
+   [
+    15179,
+    15349
+   ],
+   [
+    15374,
+    15374
+   ],
+   [
+    15374,
+    15418
+   ],
+   [
+    15429,
+    15429
+   ],
+   [
+    15457,
+    15458
+   ],
+   [
+    15463,
+    15466
+   ],
+   [
+    15471,
+    15471
+   ],
+   [
+    15479,
+    15483
+   ],
+   [
+    15493,
+    15640
+   ],
+   [
+    15648,
+    15660
+   ],
+   [
+    15670,
+    15670
+   ],
+   [
+    15678,
+    15678
+   ],
+   [
+    15687,
+    15689
+   ],
+   [
+    15697,
+    15714
+   ],
+   [
+    15724,
+    15724
+   ],
+   [
+    15738,
+    15750
+   ],
+   [
+    15760,
+    15911
+   ],
+   [
+    15966,
+    16019
+   ],
+   [
+    16058,
+    16146
+   ],
+   [
+    16174,
+    16216
+   ],
+   [
+    16226,
+    16247
+   ],
+   [
+    16268,
+    16280
+   ],
+   [
+    16306,
+    16306
+   ],
+   [
+    16307,
+    16336
+   ],
+   [
+    16336,
+    16336
+   ],
+   [
+    16344,
+    16345
+   ],
+   [
+    16345,
+    16515
+   ],
+   [
+    16524,
+    16524
+   ],
+   [
+    16524,
+    16695
+   ],
+   [
+    16700,
+    16794
+   ]
+  ]
+ },
+ "context": [
+  [
+   3,
+   18308
+  ],
+  [
+   8,
+   23974
+  ],
+  [
+   9,
+   48226
+  ],
+  [
+   15,
+   50807
+  ],
+  [
+   20,
+   56113
+  ],
+  [
+   31,
+   59159
+  ],
+  [
+   35,
+   68009
+  ],
+  [
+   42,
+   69691
+  ],
+  [
+   44,
+   90575
+  ],
+  [
+   51,
+   92759
+  ],
+  [
+   72,
+   94766
+  ],
+  [
+   75,
+   101831
+  ],
+  [
+   81,
+   106607
+  ],
+  [
+   227,
+   107675
+  ],
+  [
+   239,
+   112914
+  ],
+  [
+   244,
+   123194
+  ],
+  [
+   254,
+   127431
+  ],
+  [
+   519,
+   129604
+  ],
+  [
+   533,
+   132756
+  ],
+  [
+   546,
+   136187
+  ],
+  [
+   552,
+   139377
+  ],
+  [
+   868,
+   141356
+  ],
+  [
+   879,
+   142835
+  ],
+  [
+   893,
+   145186
+  ],
+  [
+   899,
+   150056
+  ],
+  [
+   1170,
+   152051
+  ],
+  [
+   1183,
+   154408
+  ],
+  [
+   1225,
+   155837
+  ],
+  [
+   1272,
+   158470
+  ],
+  [
+   1297,
+   164887
+  ],
+  [
+   1393,
+   166978
+  ],
+  [
+   1426,
+   169440
+  ],
+  [
+   1485,
+   170790
+  ],
+  [
+   1502,
+   171251
+  ],
+  [
+   1507,
+   178552
+  ],
+  [
+   1767,
+   180178
+  ],
+  [
+   1780,
+   182010
+  ],
+  [
+   1973,
+   185695
+  ],
+  [
+   2015,
+   188454
+  ],
+  [
+   2025,
+   190351
+  ],
+  [
+   2037,
+   191315
+  ],
+  [
+   2079,
+   193413
+  ],
+  [
+   2143,
+   198009
+  ],
+  [
+   2152,
+   207452
+  ],
+  [
+   2177,
+   208966
+  ],
+  [
+   2182,
+   210753
+  ],
+  [
+   2186,
+   213371
+  ],
+  [
+   2342,
+   215224
+  ],
+  [
+   2386,
+   218280
+  ],
+  [
+   2391,
+   218768
+  ],
+  [
+   2408,
+   219770
+  ],
+  [
+   2590,
+   222524
+  ],
+  [
+   2595,
+   223164
+  ],
+  [
+   2615,
+   227546
+  ],
+  [
+   2847,
+   231427
+  ],
+  [
+   2864,
+   233424
+  ],
+  [
+   2889,
+   235733
+  ],
+  [
+   2937,
+   239009
+  ],
+  [
+   3119,
+   242677
+  ],
+  [
+   3136,
+   244415
+  ],
+  [
+   3144,
+   245504
+  ],
+  [
+   3194,
+   247034
+  ],
+  [
+   3285,
+   249215
+  ],
+  [
+   3302,
+   250859
+  ],
+  [
+   3321,
+   252487
+  ],
+  [
+   3323,
+   258684
+  ],
+  [
+   3520,
+   260202
+  ],
+  [
+   3559,
+   262774
+  ],
+  [
+   3564,
+   267136
+  ],
+  [
+   3577,
+   268161
+  ],
+  [
+   3601,
+   271447
+  ],
+  [
+   3610,
+   272318
+  ],
+  [
+   3765,
+   274109
+  ],
+  [
+   3791,
+   276265
+  ],
+  [
+   3956,
+   280132
+  ],
+  [
+   4019,
+   283175
+  ],
+  [
+   4043,
+   286971
+  ],
+  [
+   4060,
+   288732
+  ],
+  [
+   4063,
+   290073
+  ],
+  [
+   4187,
+   291455
+  ],
+  [
+   4201,
+   293102
+  ],
+  [
+   4385,
+   295809
+  ],
+  [
+   4429,
+   297093
+  ],
+  [
+   4623,
+   297782
+  ],
+  [
+   4639,
+   299643
+  ],
+  [
+   4876,
+   301672
+  ],
+  [
+   5097,
+   304216
+  ],
+  [
+   5106,
+   306579
+  ],
+  [
+   5326,
+   308735
+  ],
+  [
+   5346,
+   309824
+  ],
+  [
+   5585,
+   311898
+  ],
+  [
+   5688,
+   312852
+  ],
+  [
+   5712,
+   315862
+  ],
+  [
+   5713,
+   318173
+  ],
+  [
+   5721,
+   321775
+  ],
+  [
+   5925,
+   323745
+  ],
+  [
+   6042,
+   325734
+  ],
+  [
+   6134,
+   327366
+  ],
+  [
+   6141,
+   328694
+  ],
+  [
+   6161,
+   329982
+  ],
+  [
+   6202,
+   330985
+  ],
+  [
+   6330,
+   335542
+  ],
+  [
+   6342,
+   338633
+  ],
+  [
+   6365,
+   344088
+  ],
+  [
+   6630,
+   31755
+  ],
+  [
+   6637,
+   62745
+  ],
+  [
+   6667,
+   63935
+  ],
+  [
+   6923,
+   68971
+  ],
+  [
+   6935,
+   74919
+  ],
+  [
+   6951,
+   77482
+  ],
+  [
+   7026,
+   82072
+  ],
+  [
+   7030,
+   85761
+  ],
+  [
+   7034,
+   87472
+  ],
+  [
+   7041,
+   89643
+  ],
+  [
+   7051,
+   91852
+  ],
+  [
+   7256,
+   96463
+  ],
+  [
+   7428,
+   104061
+  ],
+  [
+   7434,
+   106950
+  ],
+  [
+   7449,
+   109111
+  ],
+  [
+   7454,
+   110312
+  ],
+  [
+   7493,
+   113337
+  ],
+  [
+   7520,
+   119330
+  ],
+  [
+   7600,
+   121870
+  ],
+  [
+   7630,
+   128150
+  ],
+  [
+   7686,
+   134681
+  ],
+  [
+   7689,
+   137057
+  ],
+  [
+   7745,
+   138361
+  ],
+  [
+   7771,
+   140147
+  ],
+  [
+   7796,
+   140791
+  ],
+  [
+   7864,
+   142158
+  ],
+  [
+   7878,
+   143445
+  ],
+  [
+   7928,
+   144638
+  ],
+  [
+   7959,
+   150373
+  ],
+  [
+   8009,
+   152516
+  ],
+  [
+   8013,
+   156572
+  ],
+  [
+   8023,
+   157229
+  ],
+  [
+   8052,
+   161608
+  ],
+  [
+   8062,
+   162933
+  ],
+  [
+   8072,
+   163194
+  ],
+  [
+   8651,
+   166424
+  ],
+  [
+   8661,
+   175800
+  ],
+  [
+   8996,
+   179773
+  ],
+  [
+   9092,
+   184936
+  ],
+  [
+   9309,
+   186631
+  ],
+  [
+   9390,
+   188515
+  ],
+  [
+   9406,
+   190534
+  ],
+  [
+   9442,
+   196699
+  ],
+  [
+   9495,
+   197548
+  ],
+  [
+   9669,
+   200340
+  ],
+  [
+   9855,
+   204624
+  ],
+  [
+   9890,
+   207395
+  ],
+  [
+   9951,
+   208319
+  ],
+  [
+   9987,
+   215100
+  ],
+  [
+   10002,
+   216825
+  ],
+  [
+   10030,
+   218840
+  ],
+  [
+   10056,
+   220091
+  ],
+  [
+   10062,
+   221128
+  ],
+  [
+   10134,
+   222250
+  ],
+  [
+   10190,
+   223068
+  ],
+  [
+   10203,
+   223925
+  ],
+  [
+   10343,
+   225393
+  ],
+  [
+   10524,
+   230868
+  ],
+  [
+   10629,
+   235910
+  ],
+  [
+   10889,
+   242089
+  ],
+  [
+   10900,
+   243496
+  ],
+  [
+   11014,
+   244988
+  ],
+  [
+   11109,
+   245577
+  ],
+  [
+   11165,
+   251557
+  ],
+  [
+   11206,
+   255032
+  ],
+  [
+   11257,
+   258084
+  ],
+  [
+   11455,
+   263329
+  ],
+  [
+   11468,
+   264607
+  ],
+  [
+   11493,
+   266762
+  ],
+  [
+   11526,
+   267680
+  ],
+  [
+   11797,
+   270176
+  ],
+  [
+   11928,
+   272589
+  ],
+  [
+   11947,
+   272715
+  ],
+  [
+   12025,
+   277690
+  ],
+  [
+   12031,
+   278347
+  ],
+  [
+   12056,
+   279932
+  ],
+  [
+   12088,
+   285919
+  ],
+  [
+   12091,
+   286848
+  ],
+  [
+   12095,
+   290329
+  ],
+  [
+   12099,
+   291427
+  ],
+  [
+   12105,
+   292569
+  ],
+  [
+   12109,
+   294313
+  ],
+  [
+   12426,
+   295672
+  ],
+  [
+   12591,
+   296952
+  ],
+  [
+   12604,
+   299168
+  ],
+  [
+   12614,
+   300438
+  ],
+  [
+   12797,
+   301766
+  ],
+  [
+   12838,
+   306970
+  ],
+  [
+   12847,
+   308949
+  ],
+  [
+   13033,
+   311150
+  ],
+  [
+   13108,
+   313959
+  ],
+  [
+   13167,
+   316715
+  ],
+  [
+   13251,
+   318724
+  ],
+  [
+   13352,
+   322136
+  ],
+  [
+   13358,
+   324816
+  ],
+  [
+   13367,
+   327656
+  ],
+  [
+   13411,
+   332860
+  ],
+  [
+   13416,
+   337177
+  ],
+  [
+   13463,
+   339416
+  ],
+  [
+   13469,
+   340190
+  ],
+  [
+   13494,
+   342316
+  ],
+  [
+   13569,
+   344229
+  ],
+  [
+   13733,
+   345928
+  ],
+  [
+   13919,
+   347535
+  ],
+  [
+   14140,
+   29173
+  ],
+  [
+   14168,
+   51278
+  ],
+  [
+   14408,
+   53879
+  ],
+  [
+   14414,
+   63847
+  ],
+  [
+   14504,
+   65156
+  ],
+  [
+   14531,
+   73490
+  ],
+  [
+   14556,
+   78696
+  ],
+  [
+   14734,
+   80241
+  ],
+  [
+   14939,
+   82102
+  ],
+  [
+   14963,
+   85297
+  ],
+  [
+   15164,
+   88594
+  ],
+  [
+   15177,
+   91518
+  ],
+  [
+   15368,
+   92753
+  ],
+  [
+   15425,
+   95871
+  ],
+  [
+   15441,
+   101004
+  ],
+  [
+   15460,
+   104504
+  ],
+  [
+   15469,
+   104955
+  ],
+  [
+   15475,
+   105791
+  ],
+  [
+   15489,
+   106518
+  ],
+  [
+   15643,
+   107703
+  ],
+  [
+   15666,
+   108550
+  ],
+  [
+   15674,
+   109461
+  ],
+  [
+   15682,
+   110344
+  ],
+  [
+   15692,
+   111256
+  ],
+  [
+   15718,
+   112290
+  ],
+  [
+   15733,
+   113620
+  ],
+  [
+   15756,
+   115022
+  ],
+  [
+   15781,
+   117989
+  ],
+  [
+   15784,
+   119432
+  ],
+  [
+   15958,
+   122047
+  ],
+  [
+   16044,
+   127206
+  ],
+  [
+   16162,
+   131550
+  ],
+  [
+   16220,
+   134698
+  ],
+  [
+   16254,
+   135852
+  ],
+  [
+   16296,
+   138406
+  ],
+  [
+   16341,
+   141385
+  ],
+  [
+   16520,
+   143811
+  ],
+  [
+   16699,
+   146459
+  ],
+  [
+   16811,
+   148505
+  ],
+  [
+   16875,
+   148919
+  ],
+  [
+   16909,
+   150102
+  ],
+  [
+   16921,
+   151231
+  ],
+  [
+   16935,
+   152060
+  ]
+ ],
+ "context_max": 347535,
+ "turns_to_win": 246,
+ "compactions": [
+  {
+   "clock": 6562,
+   "pre": 351518,
+   "post": 9875,
+   "seconds": 64,
+   "trigger": "auto"
+  },
+  {
+   "clock": 14100,
+   "pre": 351391,
+   "post": 8951,
+   "seconds": 36,
+   "trigger": "auto"
+  }
+ ],
+ "usage": {
+  "cost_usd": 39.51952739999999,
+  "duration_ms": 16933389,
+  "api_ms": 4325192,
+  "turns": 262,
+  "model": {
+   "claude-fable-5-2": {
+    "inputTokens": 10331,
+    "outputTokens": 409891,
+    "cacheReadInputTokens": 49165997,
+    "cacheCreationInputTokens": 825963,
+    "webSearchRequests": 0,
+    "costUSD": 39.51952739999999,
+    "contextWindow": 1000000,
+    "maxOutputTokens": 128000,
+    "thinkingTokens": 192257,
+    "cacheCreationEphemeral5mInputTokens": 1228,
+    "cacheCreationEphemeral1hInputTokens": 824735,
+    "canonicalModel": "claude-fable-5-2",
+    "provider": "firstParty",
+    "costBasis": "list"
+   }
+  }
+ },
+ "tools": {
+  "Bash": 251,
+  "Read": 8
+ },
+ "reads": [
+  [
+   8,
+   "a87b76e8-3062-44bd-b52d-4b058fbbc735/tool-results/boa5v0exb.txt"
+  ],
+  [
+   42,
+   "a87b76e8-3062-44bd-b52d-4b058fbbc735/tool-results/bdh7upd0l.txt"
+  ],
+  [
+   6632,
+   "a87b76e8-3062-44bd-b52d-4b058fbbc735/tool-results/hook-0eabcacd-c86b-447b-98c3-d4b00cc1af01-stdout.txt"
+  ],
+  [
+   6632,
+   "speedrun-manifest.md"
+  ],
+  [
+   6633,
+   "infrastructure-manifest.md"
+  ],
+  [
+   6633,
+   "planning-manifest.md"
+  ],
+  [
+   14145,
+   "speedrun-manifest.md"
+  ],
+  [
+   14145,
+   "infrastructure-manifest.md"
+  ]
+ ],
+ "limits": [
+  {
+   "clock": 5,
+   "status": "allowed",
+   "five_hour": 0.03,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.48
+  },
+  {
+   "clock": 8,
+   "status": "allowed",
+   "five_hour": 0.04,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.48
+  },
+  {
+   "clock": 18,
+   "status": "allowed",
+   "five_hour": 0.05,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.48
+  },
+  {
+   "clock": 33,
+   "status": "allowed",
+   "five_hour": 0.06,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.48
+  },
+  {
+   "clock": 68,
+   "status": "allowed",
+   "five_hour": 0.07,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.48
+  },
+  {
+   "clock": 73,
+   "status": "allowed",
+   "five_hour": 0.08,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.48
+  },
+  {
+   "clock": 83,
+   "status": "allowed",
+   "five_hour": 0.08,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.49
+  },
+  {
+   "clock": 236,
+   "status": "allowed",
+   "five_hour": 0.09,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.49
+  },
+  {
+   "clock": 256,
+   "status": "allowed",
+   "five_hour": 0.1,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.49
+  },
+  {
+   "clock": 535,
+   "status": "allowed",
+   "five_hour": 0.11,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.49
+  },
+  {
+   "clock": 869,
+   "status": "allowed",
+   "five_hour": 0.13,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.49
+  },
+  {
+   "clock": 895,
+   "status": "allowed",
+   "five_hour": 0.14,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.49
+  },
+  {
+   "clock": 1180,
+   "status": "allowed",
+   "five_hour": 0.15,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.49
+  },
+  {
+   "clock": 1294,
+   "status": "allowed",
+   "five_hour": 0.16,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.49
+  },
+  {
+   "clock": 1299,
+   "status": "allowed",
+   "five_hour": 0.17,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.49
+  },
+  {
+   "clock": 1486,
+   "status": "allowed",
+   "five_hour": 0.18,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.5
+  },
+  {
+   "clock": 1509,
+   "status": "allowed",
+   "five_hour": 0.18,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.5
+  },
+  {
+   "clock": 1793,
+   "status": "allowed",
+   "five_hour": 0.19,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.5
+  },
+  {
+   "clock": 2028,
+   "status": "allowed",
+   "five_hour": 0.2,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.5
+  },
+  {
+   "clock": 2146,
+   "status": "allowed",
+   "five_hour": 0.21,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.5
+  },
+  {
+   "clock": 2177,
+   "status": "allowed",
+   "five_hour": 0.22,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.5
+  },
+  {
+   "clock": 2388,
+   "status": "allowed",
+   "five_hour": 0.23,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.5
+  },
+  {
+   "clock": 2592,
+   "status": "allowed",
+   "five_hour": 0.24,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.5
+  },
+  {
+   "clock": 2628,
+   "status": "allowed",
+   "five_hour": 0.24,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.5
+  },
+  {
+   "clock": 2851,
+   "status": "allowed",
+   "five_hour": 0.25,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.5
+  },
+  {
+   "clock": 2940,
+   "status": "allowed",
+   "five_hour": 0.26,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.5
+  },
+  {
+   "clock": 3197,
+   "status": "allowed",
+   "five_hour": 0.27,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.5
+  },
+  {
+   "clock": 3321,
+   "status": "allowed",
+   "five_hour": 0.28,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.5
+  },
+  {
+   "clock": 3561,
+   "status": "allowed",
+   "five_hour": 0.29,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.5
+  },
+  {
+   "clock": 3593,
+   "status": "allowed",
+   "five_hour": 0.3,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.5
+  },
+  {
+   "clock": 3605,
+   "status": "allowed",
+   "five_hour": 0.3,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.51
+  },
+  {
+   "clock": 3773,
+   "status": "allowed",
+   "five_hour": 0.31,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.51
+  },
+  {
+   "clock": 4023,
+   "status": "allowed",
+   "five_hour": 0.32,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.51
+  },
+  {
+   "clock": 4060,
+   "status": "allowed",
+   "five_hour": 0.33,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.51
+  },
+  {
+   "clock": 4208,
+   "status": "allowed",
+   "five_hour": 0.34,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.51
+  },
+  {
+   "clock": 4627,
+   "status": "allowed",
+   "five_hour": 0.35,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.51
+  },
+  {
+   "clock": 4883,
+   "status": "allowed",
+   "five_hour": 0.36,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.51
+  },
+  {
+   "clock": 5098,
+   "status": "allowed",
+   "five_hour": 0.36,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.51
+  },
+  {
+   "clock": 5330,
+   "status": "allowed",
+   "five_hour": 0.37,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.51
+  },
+  {
+   "clock": 5697,
+   "status": "allowed",
+   "five_hour": 0.38,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.51
+  },
+  {
+   "clock": 5724,
+   "status": "allowed",
+   "five_hour": 0.39,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.51
+  },
+  {
+   "clock": 6045,
+   "status": "allowed",
+   "five_hour": 0.4,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.51
+  },
+  {
+   "clock": 6137,
+   "status": "allowed",
+   "five_hour": 0.41,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.51
+  },
+  {
+   "clock": 6204,
+   "status": "allowed",
+   "five_hour": 0.41,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.52
+  },
+  {
+   "clock": 6340,
+   "status": "allowed",
+   "five_hour": 0.42,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.52
+  },
+  {
+   "clock": 6344,
+   "status": "allowed",
+   "five_hour": 0.43,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.52
+  },
+  {
+   "clock": 6562,
+   "status": "allowed",
+   "five_hour": 0.44,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.52
+  },
+  {
+   "clock": 6633,
+   "status": "allowed",
+   "five_hour": 0.45,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.52
+  },
+  {
+   "clock": 6638,
+   "status": "allowed",
+   "five_hour": 0.46,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.52
+  },
+  {
+   "clock": 6673,
+   "status": "allowed",
+   "five_hour": 0.47,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.52
+  },
+  {
+   "clock": 6937,
+   "status": "allowed",
+   "five_hour": 0.47,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.52
+  },
+  {
+   "clock": 6968,
+   "status": "allowed",
+   "five_hour": 0.48,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.52
+  },
+  {
+   "clock": 7032,
+   "status": "allowed",
+   "five_hour": 0.49,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.52
+  },
+  {
+   "clock": 7429,
+   "status": "allowed",
+   "five_hour": 0.5,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.52
+  },
+  {
+   "clock": 7447,
+   "status": "allowed",
+   "five_hour": 0.51,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.52
+  },
+  {
+   "clock": 7530,
+   "status": "allowed",
+   "five_hour": 0.52,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.52
+  },
+  {
+   "clock": 7602,
+   "status": "allowed",
+   "five_hour": 0.53,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.52
+  },
+  {
+   "clock": 7660,
+   "status": "allowed",
+   "five_hour": 0.53,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.53
+  },
+  {
+   "clock": 7687,
+   "status": "allowed",
+   "five_hour": 0.54,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.53
+  },
+  {
+   "clock": 7690,
+   "status": "allowed",
+   "five_hour": 0.55,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.53
+  },
+  {
+   "clock": 7883,
+   "status": "allowed",
+   "five_hour": 0.56,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.53
+  },
+  {
+   "clock": 8011,
+   "status": "allowed",
+   "five_hour": 0.57,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.53
+  },
+  {
+   "clock": 8049,
+   "status": "allowed",
+   "five_hour": 0.58,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.53
+  },
+  {
+   "clock": 8078,
+   "status": "allowed",
+   "five_hour": 0.59,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.53
+  },
+  {
+   "clock": 8677,
+   "status": "allowed",
+   "five_hour": 0.6,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.53
+  },
+  {
+   "clock": 9013,
+   "status": "allowed",
+   "five_hour": 0.61,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.53
+  },
+  {
+   "clock": 9314,
+   "status": "allowed",
+   "five_hour": 0.62,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.53
+  },
+  {
+   "clock": 9443,
+   "status": "allowed",
+   "five_hour": 0.63,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.53
+  },
+  {
+   "clock": 9862,
+   "status": "allowed",
+   "five_hour": 0.64,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.53
+  },
+  {
+   "clock": 9974,
+   "status": "allowed",
+   "five_hour": 0.65,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.53
+  },
+  {
+   "clock": 9988,
+   "status": "allowed",
+   "five_hour": 0.65,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.54
+  },
+  {
+   "clock": 10007,
+   "status": "allowed",
+   "five_hour": 0.66,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.54
+  },
+  {
+   "clock": 10066,
+   "status": "allowed",
+   "five_hour": 0.67,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.54
+  },
+  {
+   "clock": 10541,
+   "status": "allowed",
+   "five_hour": 0.68,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.54
+  },
+  {
+   "clock": 10655,
+   "status": "allowed",
+   "five_hour": 0.69,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.54
+  },
+  {
+   "clock": 10896,
+   "status": "allowed",
+   "five_hour": 0.7,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.54
+  },
+  {
+   "clock": 11175,
+   "status": "allowed",
+   "five_hour": 0.71,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.54
+  },
+  {
+   "clock": 11215,
+   "status": "allowed",
+   "five_hour": 0.72,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.54
+  },
+  {
+   "clock": 11456,
+   "status": "allowed",
+   "five_hour": 0.73,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.54
+  },
+  {
+   "clock": 11531,
+   "status": "allowed",
+   "five_hour": 0.74,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.54
+  },
+  {
+   "clock": 11928,
+   "status": "allowed",
+   "five_hour": 0.75,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.54
+  },
+  {
+   "clock": 12042,
+   "status": "allowed",
+   "five_hour": 0.76,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.54
+  },
+  {
+   "clock": 12089,
+   "status": "allowed",
+   "five_hour": 0.77,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.54
+  },
+  {
+   "clock": 12101,
+   "status": "allowed",
+   "five_hour": 0.77,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.55
+  },
+  {
+   "clock": 12107,
+   "status": "allowed",
+   "five_hour": 0.78,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.55
+  },
+  {
+   "clock": 12608,
+   "status": "allowed",
+   "five_hour": 0.79,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.55
+  },
+  {
+   "clock": 12840,
+   "status": "allowed",
+   "five_hour": 0.8,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.55
+  },
+  {
+   "clock": 13045,
+   "status": "allowed",
+   "five_hour": 0.81,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.55
+  },
+  {
+   "clock": 13171,
+   "status": "allowed",
+   "five_hour": 0.82,
+   "five_hour_resets_s": 13248,
+   "seven_day": 0.55
+  },
+  {
+   "clock": 13355,
+   "status": "allowed",
+   "five_hour": 0,
+   "five_hour_resets_s": 31248,
+   "seven_day": 0.55
+  },
+  {
+   "clock": 13372,
+   "status": "allowed",
+   "five_hour": 0.01,
+   "five_hour_resets_s": 31248,
+   "seven_day": 0.55
+  },
+  {
+   "clock": 13431,
+   "status": "allowed",
+   "five_hour": 0.02,
+   "five_hour_resets_s": 31248,
+   "seven_day": 0.55
+  },
+  {
+   "clock": 13481,
+   "status": "allowed",
+   "five_hour": 0.03,
+   "five_hour_resets_s": 31248,
+   "seven_day": 0.55
+  },
+  {
+   "clock": 13735,
+   "status": "allowed",
+   "five_hour": 0.04,
+   "five_hour_resets_s": 31248,
+   "seven_day": 0.55
+  },
+  {
+   "clock": 14145,
+   "status": "allowed",
+   "five_hour": 0.05,
+   "five_hour_resets_s": 31248,
+   "seven_day": 0.55
+  },
+  {
+   "clock": 14170,
+   "status": "allowed",
+   "five_hour": 0.06,
+   "five_hour_resets_s": 31248,
+   "seven_day": 0.55
+  },
+  {
+   "clock": 14418,
+   "status": "allowed",
+   "five_hour": 0.07,
+   "five_hour_resets_s": 31248,
+   "seven_day": 0.56
+  },
+  {
+   "clock": 14506,
+   "status": "allowed",
+   "five_hour": 0.08,
+   "five_hour_resets_s": 31248,
+   "seven_day": 0.56
+  },
+  {
+   "clock": 14558,
+   "status": "allowed",
+   "five_hour": 0.09,
+   "five_hour_resets_s": 31248,
+   "seven_day": 0.56
+  },
+  {
+   "clock": 14944,
+   "status": "allowed",
+   "five_hour": 0.1,
+   "five_hour_resets_s": 31248,
+   "seven_day": 0.56
+  },
+  {
+   "clock": 15179,
+   "status": "allowed",
+   "five_hour": 0.11,
+   "five_hour_resets_s": 31248,
+   "seven_day": 0.56
+  },
+  {
+   "clock": 15463,
+   "status": "allowed",
+   "five_hour": 0.12,
+   "five_hour_resets_s": 31248,
+   "seven_day": 0.56
+  },
+  {
+   "clock": 15648,
+   "status": "allowed",
+   "five_hour": 0.13,
+   "five_hour_resets_s": 31248,
+   "seven_day": 0.56
+  },
+  {
+   "clock": 15723,
+   "status": "allowed",
+   "five_hour": 0.13,
+   "five_hour_resets_s": 31248,
+   "seven_day": 0.56
+  },
+  {
+   "clock": 15738,
+   "status": "allowed",
+   "five_hour": 0.14,
+   "five_hour_resets_s": 31248,
+   "seven_day": 0.56
+  },
+  {
+   "clock": 15966,
+   "status": "allowed",
+   "five_hour": 0.15,
+   "five_hour_resets_s": 31248,
+   "seven_day": 0.56
+  },
+  {
+   "clock": 16174,
+   "status": "allowed",
+   "five_hour": 0.16,
+   "five_hour_resets_s": 31248,
+   "seven_day": 0.56
+  },
+  {
+   "clock": 16306,
+   "status": "allowed",
+   "five_hour": 0.17,
+   "five_hour_resets_s": 31248,
+   "seven_day": 0.56
+  },
+  {
+   "clock": 16700,
+   "status": "allowed",
+   "five_hour": 0.18,
+   "five_hour_resets_s": 31248,
+   "seven_day": 0.56
+  },
+  {
+   "clock": 16935,
+   "status": "allowed",
+   "five_hour": 0.19,
+   "five_hour_resets_s": 31248,
+   "seven_day": 0.56
+  }
+ ],
+ "stages": [
+  {
+   "key": "to_nether",
+   "label": "To Nether entry",
+   "a": 0,
+   "b": 2119,
+   "target_end": 2640,
+   "clock_min": 35.3,
+   "recover_min": 0.0,
+   "food_min": 0.0,
+   "work_min": 35.3,
+   "work_less_food_min": 35.3,
+   "prior": {
+    "5": 28.2,
+    "50": 43.1,
+    "95": 65.0
+   }
+  },
+  {
+   "key": "fort_rods",
+   "label": "Fortress and 7 rods",
+   "a": 2119,
+   "b": 3300,
+   "target_end": 4440,
+   "clock_min": 19.7,
+   "recover_min": 0.0,
+   "food_min": 0.0,
+   "work_min": 19.7,
+   "work_less_food_min": 19.7,
+   "prior": {
+    "5": 14.5,
+    "50": 31.7,
+    "95": 69.1
+   }
+  },
+  {
+   "key": "pearls",
+   "label": "13 pearls",
+   "a": 3300,
+   "b": 5670,
+   "target_end": 6240,
+   "recover": [
+    [
+     3508,
+     3990
+    ]
+   ],
+   "clock_min": 39.5,
+   "recover_min": 8.0,
+   "food_min": 0.0,
+   "work_min": 31.5,
+   "work_less_food_min": 31.5,
+   "prior": {
+    "5": 19.2,
+    "50": 40.8,
+    "95": 87.9
+   }
+  },
+  {
+   "key": "home_eyes",
+   "label": "Home: eyes, two throws",
+   "a": 5670,
+   "b": 6300,
+   "target_end": 6660,
+   "clock_min": 10.5,
+   "recover_min": 0.0,
+   "food_min": 0.0,
+   "work_min": 10.5,
+   "work_less_food_min": 10.5,
+   "prior": {
+    "5": 6.7,
+    "50": 10.2,
+    "95": 15.5
+   }
+  },
+  {
+   "key": "crossing",
+   "label": "Crossing, base, End entry",
+   "a": 6300,
+   "b": 12761,
+   "target_end": 8760,
+   "recover": [
+    [
+     7873,
+     11100
+    ]
+   ],
+   "food": [
+    [
+     7500,
+     7873
+    ],
+    [
+     11100,
+     12420
+    ]
+   ],
+   "clock_min": 107.7,
+   "recover_min": 53.8,
+   "food_min": 28.2,
+   "work_min": 53.9,
+   "work_less_food_min": 25.7,
+   "prior": {
+    "5": 18.8,
+    "50": 28.2,
+    "95": 42.6
+   }
+  },
+  {
+   "key": "crystals",
+   "label": "Ten crystals",
+   "a": 12761,
+   "b": 13320,
+   "target_end": 9840,
+   "clock_min": 9.3,
+   "recover_min": 0.0,
+   "food_min": 0.0,
+   "work_min": 9.3,
+   "work_less_food_min": 9.3,
+   "prior": {
+    "5": 20.2,
+    "50": 33.0,
+    "95": 52.5
+   }
+  },
+  {
+   "key": "dragon",
+   "label": "Dragon",
+   "a": 13320,
+   "b": 16794,
+   "target_end": 10740,
+   "recover": [
+    [
+     15412,
+     15800
+    ],
+    [
+     15908,
+     16290
+    ]
+   ],
+   "clock_min": 57.9,
+   "recover_min": 12.8,
+   "food_min": 0.0,
+   "work_min": 45.1,
+   "work_less_food_min": 45.1,
+   "prior": {
+    "5": 9.6,
+    "50": 14.6,
+    "95": 22.1
+   }
+  }
+ ],
+ "prior": {
+  "p_win_mu": 0.503,
+  "p_win_sigma": 0.184,
+  "s_mean": 0.75,
+  "q_mean": 0.5,
+  "beta_a": 3.22,
+  "beta_b": 3.18,
+  "predictive": {
+   "stage_minutes": {
+    "to_nether": {
+     "5": 28.2,
+     "50": 43.1,
+     "95": 65.0
+    },
+    "pearls": {
+     "5": 19.2,
+     "50": 40.8,
+     "95": 87.9
+    },
+    "fort_rods": {
+     "5": 14.5,
+     "50": 31.7,
+     "95": 69.1
+    },
+    "home_eyes": {
+     "5": 6.7,
+     "50": 10.2,
+     "95": 15.5
+    },
+    "crossing": {
+     "5": 18.8,
+     "50": 28.2,
+     "95": 42.6
+    },
+    "crystals": {
+     "5": 20.2,
+     "50": 33.0,
+     "95": 52.5
+    },
+    "dragon": {
+     "5": 9.6,
+     "50": 14.6,
+     "95": 22.1
+    }
+   },
+   "deaths": {
+    "nether": {
+     "5": 0,
+     "50": 1,
+     "95": 4
+    },
+    "end": {
+     "5": 1,
+     "50": 3,
+     "95": 7
+    }
+   }
+  }
+ },
+ "earlier": {
+  "run2": {
+   "won": true,
+   "official_s": 33377,
+   "milestones": {
+    "stone_tools": 762,
+    "iron_tools": 1154,
+    "bucket": 1156,
+    "flint_and_steel": 4336,
+    "nether_portal": 5489,
+    "fortress": 6476,
+    "blaze_rods": 9833,
+    "ender_pearls": 20212,
+    "eyes_of_ender": 25836,
+    "stronghold": 28348,
+    "the_end": 29033,
+    "dragon": 33377
+   }
+  },
+  "run4": {
+   "won": true,
+   "official_s": 24652,
+   "milestones": {
+    "stone_tools": 168,
+    "iron_tools": 860,
+    "bucket": 1336,
+    "flint_and_steel": 3101,
+    "nether_portal": 3260,
+    "ender_pearls": 3516,
+    "fortress": 8079,
+    "blaze_rods": 11772,
+    "eyes_of_ender": 13332,
+    "stronghold": 15668,
+    "the_end": 15671,
+    "dragon": 24652
+   }
+  },
+  "bench_opus": {
+   "won": false,
+   "official_s": null,
+   "deaths": 7,
+   "stopped_s": 19010,
+   "milestones": {
+    "stone_tools": 182,
+    "iron_tools": 467,
+    "bucket": 468,
+    "flint_and_steel": 5027,
+    "nether_portal": 5311,
+    "ender_pearls": 6135,
+    "fortress": 9427,
+    "blaze_rods": 9890,
+    "eyes_of_ender": 11343,
+    "stronghold": 12498,
+    "the_end": 12502
+   }
+  },
+  "bench_fable": {
+   "won": false,
+   "official_s": null,
+   "deaths": 11,
+   "stopped_s": 19010,
+   "milestones": {
+    "stone_tools": 168,
+    "iron_tools": 561,
+    "bucket": 1094,
+    "flint_and_steel": 2050,
+    "nether_portal": 3191,
+    "fortress": 4400,
+    "blaze_rods": 4521,
+    "ender_pearls": 6807,
+    "eyes_of_ender": 9758,
+    "stronghold": 11439,
+    "the_end": 11627
+   }
+  }
+ },
+ "inherit": [
+  "2026-11-01-1211",
+  "2026-11-06-0651",
+  "2026-11-06-2240",
+  "2026-11-10-1904-bench-fable",
+  "2026-11-10-1904-bench-opus",
+  "2026-11-04-1901"
+ ],
+ "workspace": {
+  "lib_files": 79,
+  "lib_lines": 4344,
+  "prog_files": 71,
+  "prog_lines": 1242,
+  "lessons_lines": 37
+ }
+}
