@@ -1,0 +1,37 @@
+# run-2: advancement and death lines of player `opus` from the server log
+# first spawn 2026-11-05T01:01:52Z; the clock in front is time since then (the log has whole seconds)
+
+  0:11:38  opus has made the advancement [Stone Age]
+  0:12:41  opus has made the advancement [Getting an Upgrade]
+  0:18:31  opus has made the advancement [Acquire Hardware]
+  0:19:13  opus has made the advancement [Isn't It Iron Pick]
+  0:26:29  opus was shot by Skeleton
+  0:27:37  opus has made the advancement [Monster Hunter]
+  0:28:10  opus was slain by Zombie
+  0:29:04  opus has made the advancement [Sweet Dreams]
+  0:30:27  opus was skewered by a falling stalactite
+  0:45:38  opus has made the advancement [Suit Up]
+  1:09:04  opus has made the advancement [Diamonds!]
+  1:16:52  opus has made the advancement [Ice Bucket Challenge]
+  1:31:28  opus has made the advancement [We Need to Go Deeper]
+  1:47:54  opus has made the advancement [A Terrible Fortress]
+  1:48:30  opus was slain by Wither Skeleton
+  1:51:03  opus was fireballed by Blaze
+  2:34:35  opus was slain by Zombified Piglin
+  2:43:51  opus has made the advancement [Into Fire]
+  2:55:17  opus was slain by Zombified Piglin
+  3:24:31  opus withered away
+  3:52:19  opus has made the advancement [Hot Stuff]
+  4:17:36  opus has made the advancement [Cover Me with Diamonds]
+  5:38:15  opus was slain by Piglin
+  5:51:58  opus tried to swim in lava
+  6:15:03  opus suffocated in a wall
+  7:00:15  opus was slain by Piglin
+  7:52:26  opus has made the advancement [Eye Spy]
+  8:03:52  opus has made the advancement [The End?]
+  8:10:51  opus has made the advancement [Take Aim]
+  8:25:47  opus was killed by Ender Dragon using magic
+  8:50:46  opus was slain by Enderman
+  8:55:14  opus was killed by Ender Dragon using magic
+  9:03:25  opus was killed by Ender Dragon using magic
+  9:16:16  opus has made the advancement [Free the End]

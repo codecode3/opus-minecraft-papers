@@ -1,0 +1,139 @@
+# run-1: advancement and death lines of player `opus` from the server log
+# first spawn 2026-11-01T18:12:08Z; the clock in front is time since then (the log has whole seconds)
+
+  0:00:23  opus was slain by Zombie
+  0:04:27  opus has made the advancement [Stone Age]
+  0:05:46  opus has made the advancement [Getting an Upgrade]
+  0:08:31  opus has made the advancement [Acquire Hardware]
+  0:09:26  opus has made the advancement [Isn't It Iron Pick]
+  0:12:33  opus has made the advancement [Monster Hunter]
+  0:21:32  opus has made the advancement [Suit Up]
+  0:32:05  opus has made the advancement [Diamonds!]
+  0:34:38  opus suffocated in a wall
+  0:34:45  opus fell from a high place
+  0:39:02  opus has made the advancement [Hot Stuff]
+  0:40:08  opus has made the advancement [Ice Bucket Challenge]
+  0:50:50  opus has made the advancement [Sweet Dreams]
+  0:55:20  opus has made the advancement [We Need to Go Deeper]
+  1:06:01  opus has made the advancement [A Terrible Fortress]
+  1:06:11  opus was doomed to fall
+  1:07:13  opus tried to swim in lava
+  1:15:11  opus drowned
+  1:31:49  opus has made the advancement [Cover Me with Diamonds]
+  1:42:58  opus was fireballed by Blaze
+  1:44:19  opus was blown up by Creeper
+  2:30:30  opus was burned to a crisp while fighting Blaze
+  2:32:32  opus tried to swim in lava
+  3:17:23  opus tried to swim in lava
+  3:41:17  opus drowned
+  4:08:06  opus drowned
+  4:40:54  opus was shot by Skeleton
+  4:43:01  opus was shot by Skeleton
+  5:17:45  opus was shot by Skeleton
+  5:44:08  opus has made the advancement [Not Today, Thank You]
+  5:58:14  opus has made the advancement [Into Fire]
+  6:05:39  opus was slain by Piglin
+  6:49:27  opus tried to swim in lava
+  8:34:27  opus has completed the challenge [Hot Tourist Destinations]
+  8:57:43  opus was slain by Enderman
+  9:31:02  opus was slain by Zombie
+ 14:21:02  opus was slain by Enderman
+ 15:56:25  opus was slain by Zombie
+ 16:30:39  opus was shot by Pillager
+ 17:00:10  opus was shot by Skeleton
+ 17:24:20  opus was shot by Pillager
+ 17:58:13  opus was slain by Zombie
+ 21:10:34  opus was blown up by Creeper
+ 22:16:54  opus has made the advancement [Eye Spy]
+ 22:17:21  opus burned to death
+ 23:18:13  opus drowned
+ 23:36:57  opus drowned
+ 24:06:40  opus drowned
+ 24:45:02  opus drowned
+ 24:57:36  opus was shot by Skeleton
+ 25:36:16  opus tried to swim in lava
+ 27:27:09  opus tried to swim in lava
+ 27:47:24  opus was shot by Skeleton
+ 27:52:39  opus was shot by Skeleton
+ 28:37:09  opus was slain by Piglin
+ 30:45:48  opus was burned to a crisp while fighting Skeleton
+ 31:48:14  opus was shot by Skeleton
+ 32:32:50  opus went up in flames
+ 33:10:33  opus was shot by Pillager
+ 33:11:38  opus was shot by Skeleton
+ 33:22:36  opus was slain by Hoglin
+ 33:28:33  opus was slain by Piglin
+ 34:27:04  opus tried to swim in lava
+ 35:35:33  opus tried to swim in lava
+ 35:54:08  opus was slain by Zombie
+ 36:48:15  opus has made the advancement [A Seedy Place]
+ 37:30:32  opus was slain by Piglin
+ 38:59:41  opus was slain by Silverfish
+ 40:30:15  opus has made the advancement [The End?]
+ 40:30:57  opus was killed by Ender Dragon using magic
+ 40:33:23  opus tried to swim in lava to escape Silverfish
+ 40:34:16  opus fell out of the world
+ 40:34:46  opus was killed by Ender Dragon using magic
+ 40:51:51  opus was killed by Ender Dragon using magic
+ 41:06:10  opus was doomed to fall by Ender Dragon
+ 41:07:48  opus was killed by Ender Dragon using magic
+ 41:17:51  opus was shot by Skeleton
+ 41:40:38  opus was killed by Ender Dragon using magic
+ 41:42:37  opus fell out of the world
+ 41:43:26  opus fell out of the world
+ 42:06:50  opus was slain by Ender Dragon
+ 42:32:04  opus fell out of the world
+ 42:34:14  opus was blown up by Creeper
+ 43:27:06  opus has made the advancement [Take Aim]
+ 43:36:57  opus drowned while trying to escape Skeleton
+ 44:01:45  opus was killed by Ender Dragon using magic
+ 44:02:36  opus fell out of the world
+ 44:08:15  opus was killed by Ender Dragon using magic
+ 44:11:46  opus was blown up by Creeper
+ 44:15:30  opus didn't want to live in the same world as Ender Dragon
+ 44:16:32  opus fell out of the world
+ 44:17:24  opus drowned
+ 44:22:12  opus was slain by Silverfish
+ 44:22:50  opus drowned
+ 44:23:44  opus drowned
+ 44:24:20  opus fell out of the world
+ 44:34:15  opus was slain by Zombie
+ 44:58:37  opus was shot by Skeleton
+ 45:38:38  opus was slain by Enderman
+ 46:12:44  opus was shot by Skeleton
+ 47:26:45  opus didn't want to live in the same world as Ender Dragon
+ 47:32:52  opus drowned
+ 47:56:56  opus was slain by Spider
+ 48:10:55  opus was slain by Spider
+ 48:20:15  opus suffocated in a wall
+ 49:16:15  opus was killed by Ender Dragon using magic
+ 49:18:34  opus was killed by Ender Dragon using magic
+ 49:30:20  opus was shot by Skeleton
+ 52:18:54  opus was doomed to fall by Ender Dragon
+ 52:22:17  opus fell out of the world
+ 52:24:55  opus was slain by Zombie
+ 52:38:32  opus fell out of the world
+ 52:39:11  opus fell out of the world
+ 52:51:03  opus was shot by Skeleton
+ 53:32:23  opus was shot by Skeleton
+ 54:08:40  opus fell from a high place
+ 54:15:03  opus fell from a high place
+ 54:16:15  opus was slain by Zombie
+ 54:39:31  opus drowned
+ 54:58:34  opus drowned
+ 55:00:14  opus was blown up by Creeper
+ 55:37:16  opus was shot by Skeleton
+ 56:28:30  opus was slain by Zombie
+ 56:43:26  opus was slain by Zombie Villager
+ 57:03:47  opus drowned
+ 57:06:57  opus was blown up by Creeper
+ 57:17:43  opus was blown up by Creeper
+ 57:33:56  opus tried to swim in lava to escape Cave Spider
+ 58:21:16  opus drowned
+ 59:31:57  opus was killed by Ender Dragon using magic
+ 59:53:14  opus was killed by Ender Dragon using magic
+ 60:27:52  opus was killed by Ender Dragon using magic
+ 60:39:35  opus was doomed to fall by Ender Dragon
+ 60:41:35  opus drowned
+ 60:44:05  opus was killed by Ender Dragon using magic
+ 60:50:45  opus has made the advancement [Free the End]

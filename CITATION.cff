@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use these papers or their data, please cite the paper you used; the run 5 paper is the preferred citation for the record."
+title: "Claude agents beat Minecraft: six preprints on single-agent runs that inherit earlier players' files"
+type: dataset
+authors:
+  - family-names: Batsuk
+    given-names: Ben
+repository-code: "https://github.com/codecode3/opus-minecraft-papers"
+url: "https://github.com/codecode3/opus-minecraft-papers"
+date-released: "2026-11-12"
+keywords:
+  - Minecraft
+  - AI agents
+  - LLM agents
+  - Claude
+  - speedrun
+  - Ender Dragon
+  - Mineflayer
+preferred-citation:
+  type: unpublished
+  title: "A Claude Fable 5.2 agent at low effort beats Minecraft in 4 hours 40 minutes, a world record for a single AI agent on a random seed, inside a 5-hour plan that was given even odds"
+  authors:
+    - family-names: Batsuk
+      given-names: Ben
+  year: 2026
+  month: 11
+  notes: "Preprint"
+  url: "https://github.com/codecode3/opus-minecraft-papers/blob/main/Run-5-Fable-5.2-beats-Minecraft-in-4h40m.pdf"

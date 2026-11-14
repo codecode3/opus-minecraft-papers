@@ -1,0 +1,29 @@
+# run-4: advancement and death lines of player `opus` from the server log
+# first spawn 2026-11-07T04:42:23Z; the clock in front is time since then (the log has whole seconds)
+
+  0:02:08  opus has made the advancement [Stone Age]
+  0:02:46  opus has made the advancement [Getting an Upgrade]
+  0:03:21  opus has made the advancement [Monster Hunter]
+  0:13:30  opus has made the advancement [Acquire Hardware]
+  0:13:31  opus has made the advancement [Sweet Dreams]
+  0:14:18  opus has made the advancement [Isn't It Iron Pick]
+  0:20:51  opus has made the advancement [Diamonds!]
+  0:22:12  opus has made the advancement [Suit Up]
+  0:31:08  opus has made the advancement [Ice Bucket Challenge]
+  0:54:19  opus has made the advancement [We Need to Go Deeper]
+  1:02:29  opus was slain by Enderman
+  1:25:58  opus was slain by Enderman
+  1:47:19  opus tried to swim in lava
+  2:14:39  opus has made the advancement [A Terrible Fortress]
+  2:17:48  opus was burned to a crisp while fighting Blaze
+  2:56:08  opus was slain by Blaze
+  3:16:11  opus has made the advancement [Into Fire]
+  4:21:07  opus has made the advancement [Eye Spy]
+  4:21:10  opus has made the advancement [The End?]
+  4:21:27  opus fell out of the world
+  4:40:58  opus has made the advancement [Cover Me with Diamonds]
+  4:48:37  opus was killed by Ender Dragon using magic
+  5:00:17  opus was doomed to fall by Ender Dragon
+  5:54:30  opus was killed by Ender Dragon using magic
+  6:13:01  opus was killed by Ender Dragon using magic
+  6:50:51  opus has made the advancement [Free the End]
