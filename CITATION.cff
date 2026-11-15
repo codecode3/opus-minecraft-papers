@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use these papers or their data, please cite the paper you used; the run 5 paper is the preferred citation for the record."
-title: "Claude agents beat Minecraft: seven preprints on single-agent and team runs that inherit earlier players' files"
+title: "Claude agents beat Minecraft: eight preprints on single-agent and team runs that inherit earlier players' files, and on how one run was planned"
 type: dataset
 authors:
   - family-names: Batsuk

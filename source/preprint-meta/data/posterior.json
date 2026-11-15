@@ -1,0 +1,27 @@
+{
+ "_note": "Printed by bayes/update.py on 2026-11-12 (seed fixed in the script).",
+ "prior": {
+  "p_win_mu": 0.503,
+  "p_win_sigma": 0.184,
+  "s_mean": 0.75,
+  "q_mean": 0.5,
+  "beta_a": 3.22,
+  "beta_b": 3.18
+ },
+ "posterior": {
+  "p_win_mu": 0.731,
+  "p_win_sigma": 0.069,
+  "s_mean": 0.96,
+  "q_mean": 0.67,
+  "beta_a": 29.46,
+  "beta_b": 10.85
+ },
+ "posterior_crossing_with_food": {
+  "p_win_mu": 0.782,
+  "p_win_sigma": 0.065,
+  "s_mean": 0.96,
+  "q_mean": 0.33,
+  "beta_a": 30.7,
+  "beta_b": 8.56
+ }
+}

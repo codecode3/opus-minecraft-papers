@@ -198,6 +198,27 @@
    ],
    "server_log_excerpt": null,
    "caveats": "Outside the category: the humans took about 98% of the dragon's health after the crystals, by hand with swords and an axe (no beds), and a human made the winning hit. The same two humans had played the first team run and a rehearsal that evening. Its clock starts at the first agent's spawn."
+  },
+  {
+   "attempt": "Methods paper",
+   "folder": "preprint-meta",
+   "pdf": "Methods-Meta-space-optimization-behind-the-run-5-record.pdf",
+   "first_spawn_utc": null,
+   "model": "Claude Fable 5.2 as the planning agent (the player it planned for is Run 5's)",
+   "effort": "not applicable",
+   "players": "no run of its own: 1 human and 1 planning agent in one conversation",
+   "won": false,
+   "official_time": "no run of its own; a study of the planning conversation behind Run 5",
+   "time_from_first_program": null,
+   "deaths": "not applicable",
+   "programs": "not applicable",
+   "seed": "not applicable",
+   "in_category": false,
+   "inherited": [
+    "not applicable"
+   ],
+   "server_log_excerpt": null,
+   "caveats": "One conversation and one run, with names given four days later. The rise in the plan's chances is the planning agent's own estimate; no run played an earlier edit of the plan. The claim that Fable 5.2 forecasts tasks better than earlier models is the human's impression, and the paper's use as context for future agents is untested."
   }
  ]
 }

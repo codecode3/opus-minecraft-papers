@@ -1,0 +1,200 @@
+\begin{thebibliography}{37}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[{Anthropic}(2026)]{claudecode}
+{Anthropic}.
+\newblock {Claude {Code}}.
+\newblock \url{https://code.claude.com/docs}, 2026.
+\newblock Agentic coding tool. Accessed 2026-11-04.
+
+\bibitem[Argyris(1977)]{argyris1977}
+C.~Argyris.
+\newblock Double loop learning in organizations.
+\newblock \emph{Harvard Business Review}, 55\penalty0 (5):\penalty0 115--125, 1977.
+
+\bibitem[Bainbridge(1983)]{bainbridge1983}
+L.~Bainbridge.
+\newblock Ironies of automation.
+\newblock \emph{Automatica}, 19\penalty0 (6):\penalty0 775--779, 1983.
+
+\bibitem[Batsuk(2026{\natexlab{a}})]{batsuk2026bench}
+B.~Batsuk.
+\newblock {Claude Opus 5.5} against {Claude Fable 5.2} on one {Minecraft} seed: a subscription's usage limit stopped both agents at 5 hours 17 minutes, before either beat the game, 2026{\natexlab{a}}.
+\newblock Preprint.
+
+\bibitem[Batsuk(2026{\natexlab{b}})]{batsuk2026fifth}
+B.~Batsuk.
+\newblock A {Claude Fable 5.2} agent at low effort beats {Minecraft} in 4 hours 40 minutes, a world record for a single ai agent on a random seed, inside a 5-hour plan that was given even odds, 2026{\natexlab{b}}.
+\newblock Preprint.
+
+\bibitem[Batsuk(2026{\natexlab{c}})]{batsuk2026fourth}
+B.~Batsuk.
+\newblock A {Claude Opus 5.5} agent, given three earlier players' files, beats {Minecraft} in 6 hours 51 minutes and misses its 5-hour plan, 2026{\natexlab{c}}.
+\newblock Preprint.
+
+\bibitem[Brier(1950)]{brier1950}
+G.~W. Brier.
+\newblock Verification of forecasts expressed in terms of probability.
+\newblock \emph{Monthly Weather Review}, 78\penalty0 (1):\penalty0 1--3, 1950.
+
+\bibitem[Clark and Chalmers(1998)]{clark1998}
+A.~Clark and D.~Chalmers.
+\newblock The extended mind.
+\newblock \emph{Analysis}, 58\penalty0 (1):\penalty0 7--19, 1998.
+
+\bibitem[Deisenroth and Rasmussen(2011)]{deisenroth2011pilco}
+M.~P. Deisenroth and C.~E. Rasmussen.
+\newblock {PILCO}: a model-based and data-efficient approach to policy search.
+\newblock In \emph{Proceedings of the 28th International Conference on Machine Learning}, pages 465--472, 2011.
+
+\bibitem[Dennett(1995)]{dennett1995}
+D.~C. Dennett.
+\newblock \emph{Darwin's Dangerous Idea: Evolution and the Meanings of Life}.
+\newblock Simon and Schuster, 1995.
+
+\bibitem[Engelbart(1962)]{engelbart1962}
+D.~C. Engelbart.
+\newblock Augmenting human intellect: a conceptual framework.
+\newblock Technical Report AFOSR-3223, Stanford Research Institute, 1962.
+
+\bibitem[Faldor et~al.(2026)Faldor, Singh, and Raileanu]{faldor2026team}
+M.~Faldor, S.~Singh, and R.~Raileanu.
+\newblock {A team of {Gemini} 4 {Argon} agents beats {Minecraft}}.
+\newblock \emph{arXiv preprint arXiv:2610.22319}, 2026.
+\newblock \doi{10.48550/arXiv.2610.22319}.
+\newblock URL \url{https://arxiv.org/abs/2610.22319}.
+
+\bibitem[Flavell(1979)]{flavell1979}
+J.~H. Flavell.
+\newblock Metacognition and cognitive monitoring: a new area of cognitive-developmental inquiry.
+\newblock \emph{American Psychologist}, 34\penalty0 (10):\penalty0 906--911, 1979.
+
+\bibitem[Gelman et~al.(2013)Gelman, Carlin, Stern, Dunson, Vehtari, and Rubin]{gelman2013bda}
+A.~Gelman, J.~B. Carlin, H.~S. Stern, D.~B. Dunson, A.~Vehtari, and D.~B. Rubin.
+\newblock \emph{Bayesian Data Analysis}.
+\newblock Chapman and Hall/CRC, third edition, 2013.
+
+\bibitem[Goodhart(1984)]{goodhart1984}
+C.~A.~E. Goodhart.
+\newblock Problems of monetary management: the {U.K.} experience.
+\newblock In \emph{Monetary Theory and Practice}, pages 91--121. Macmillan, 1984.
+
+\bibitem[Hospedales et~al.(2022)Hospedales, Antoniou, Micaelli, and Storkey]{hospedales2022}
+T.~Hospedales, A.~Antoniou, P.~Micaelli, and A.~Storkey.
+\newblock Meta-learning in neural networks: a survey.
+\newblock \emph{IEEE Transactions on Pattern Analysis and Machine Intelligence}, 44\penalty0 (9):\penalty0 5149--5169, 2022.
+
+\bibitem[Hume(1739)]{hume1739}
+D.~Hume.
+\newblock \emph{A Treatise of Human Nature}.
+\newblock John Noon, London, 1739.
+
+\bibitem[Hutchins(1995)]{hutchins1995}
+E.~Hutchins.
+\newblock \emph{Cognition in the Wild}.
+\newblock MIT Press, 1995.
+
+\bibitem[Jones et~al.(1998)Jones, Schonlau, and Welch]{jones1998ego}
+D.~R. Jones, M.~Schonlau, and W.~J. Welch.
+\newblock Efficient global optimization of expensive black-box functions.
+\newblock \emph{Journal of Global Optimization}, 13\penalty0 (4):\penalty0 455--492, 1998.
+
+\bibitem[Kaelbling et~al.(1998)Kaelbling, Littman, and Cassandra]{kaelbling1998}
+L.~P. Kaelbling, M.~L. Littman, and A.~R. Cassandra.
+\newblock Planning and acting in partially observable stochastic domains.
+\newblock \emph{Artificial Intelligence}, 101\penalty0 (1--2):\penalty0 99--134, 1998.
+
+\bibitem[Krakovna et~al.(2020)Krakovna, Uesato, Mikulik, Rahtz, Everitt, Kumar, Kenton, Leike, and Legg]{krakovna2020}
+V.~Krakovna, J.~Uesato, V.~Mikulik, M.~Rahtz, T.~Everitt, R.~Kumar, Z.~Kenton, J.~Leike, and S.~Legg.
+\newblock Specification gaming: the flip side of {AI} ingenuity.
+\newblock DeepMind blog, 2020.
+
+\bibitem[Licklider(1960)]{licklider1960}
+J.~C.~R. Licklider.
+\newblock Man-computer symbiosis.
+\newblock \emph{IRE Transactions on Human Factors in Electronics}, HFE-1\penalty0 (1):\penalty0 4--11, 1960.
+
+\bibitem[Manheim and Garrabrant(2018)]{manheim2018}
+D.~Manheim and S.~Garrabrant.
+\newblock Categorizing variants of {Goodhart's} law.
+\newblock \emph{arXiv preprint arXiv:1803.04585}, 2018.
+
+\bibitem[Nosek et~al.(2018)Nosek, Ebersole, DeHaven, and Mellor]{nosek2018}
+B.~A. Nosek, C.~R. Ebersole, A.~C. DeHaven, and D.~T. Mellor.
+\newblock The preregistration revolution.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 115\penalty0 (11):\penalty0 2600--2606, 2018.
+
+\bibitem[Polanyi(1966)]{polanyi1966}
+M.~Polanyi.
+\newblock \emph{The Tacit Dimension}.
+\newblock Doubleday, 1966.
+
+\bibitem[Popper(1963)]{popper1963}
+K.~R. Popper.
+\newblock \emph{Conjectures and Refutations: The Growth of Scientific Knowledge}.
+\newblock Routledge and Kegan Paul, 1963.
+
+\bibitem[Premack and Woodruff(1978)]{premack1978}
+D.~Premack and G.~Woodruff.
+\newblock Does the chimpanzee have a theory of mind?
+\newblock \emph{Behavioral and Brain Sciences}, 1\penalty0 (4):\penalty0 515--526, 1978.
+
+\bibitem[Selten(1998)]{selten1998}
+R.~Selten.
+\newblock Aspiration adaptation theory.
+\newblock \emph{Journal of Mathematical Psychology}, 42\penalty0 (2--3):\penalty0 191--214, 1998.
+
+\bibitem[Shapley(1953)]{shapley1953}
+L.~S. Shapley.
+\newblock A value for n-person games.
+\newblock In \emph{Contributions to the Theory of Games, Volume {II}}, pages 307--317. Princeton University Press, 1953.
+
+\bibitem[Shinn et~al.(2023)Shinn, Cassano, Berman, Gopinath, Narasimhan, and Yao]{shinn2023reflexion}
+N.~Shinn, F.~Cassano, E.~Berman, A.~Gopinath, K.~Narasimhan, and S.~Yao.
+\newblock Reflexion: Language agents with verbal reinforcement learning.
+\newblock In \emph{Advances in Neural Information Processing Systems}, volume~36, 2023.
+
+\bibitem[Simon(1956)]{simon1956}
+H.~A. Simon.
+\newblock Rational choice and the structure of the environment.
+\newblock \emph{Psychological Review}, 63\penalty0 (2):\penalty0 129--138, 1956.
+
+\bibitem[Sutton(1991)]{sutton1991dyna}
+R.~S. Sutton.
+\newblock Dyna, an integrated architecture for learning, planning, and reacting.
+\newblock \emph{ACM SIGART Bulletin}, 2\penalty0 (4):\penalty0 160--163, 1991.
+
+\bibitem[Sutton and Barto(2018)]{sutton2018}
+R.~S. Sutton and A.~G. Barto.
+\newblock \emph{Reinforcement Learning: An Introduction}.
+\newblock MIT Press, second edition, 2018.
+
+\bibitem[Vaccaro et~al.(2024)Vaccaro, Almaatouq, and Malone]{vaccaro2024}
+M.~Vaccaro, A.~Almaatouq, and T.~Malone.
+\newblock When combinations of humans and {AI} are useful: a systematic review and meta-analysis.
+\newblock \emph{Nature Human Behaviour}, 8:\penalty0 2293--2303, 2024.
+
+\bibitem[Wang et~al.(2024{\natexlab{a}})Wang, Xie, Jiang, Mandlekar, Xiao, Zhu, Fan, and Anandkumar]{wang2024voyager}
+G.~Wang, Y.~Xie, Y.~Jiang, A.~Mandlekar, C.~Xiao, Y.~Zhu, L.~Fan, and A.~Anandkumar.
+\newblock {Voyager: An Open-Ended Embodied Agent with Large Language Models}.
+\newblock \emph{Transactions on Machine Learning Research}, 2024{\natexlab{a}}.
+\newblock \doi{10.48550/arXiv.2305.16291}.
+\newblock URL \url{https://arxiv.org/abs/2305.16291}.
+
+\bibitem[Wang et~al.(2024{\natexlab{b}})Wang, Mao, Fried, and Neubig]{wang2024awm}
+Z.~Z. Wang, J.~Mao, D.~Fried, and G.~Neubig.
+\newblock {Agent Workflow Memory}.
+\newblock \emph{arXiv preprint arXiv:2409.07429}, 2024{\natexlab{b}}.
+\newblock \doi{10.48550/arXiv.2409.07429}.
+\newblock URL \url{https://arxiv.org/abs/2409.07429}.
+
+\bibitem[Wiener(1960)]{wiener1960}
+N.~Wiener.
+\newblock Some moral and technical consequences of automation.
+\newblock \emph{Science}, 131\penalty0 (3410):\penalty0 1355--1358, 1960.
+
+\end{thebibliography}
