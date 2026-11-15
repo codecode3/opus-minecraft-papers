@@ -17,7 +17,7 @@ In this series a single Claude Opus 5.5 agent first beat the Ender Dragon in th
 
 We ask three questions. How did two agents and two people split the work, and who took the dragon’s health (Sections <a href="#sec:run" data-reference-type="ref" data-reference="sec:run">3</a> and <a href="#sec:who" data-reference-type="ref" data-reference="sec:who">4</a>)? How did the agents work with people who were bound by none of the agents’ rules (Section <a href="#sec:people" data-reference-type="ref" data-reference="sec:people">5</a>)? And what did the run use, in tokens, cost and the owner’s subscription limits (Section <a href="#sec:usage" data-reference-type="ref" data-reference="sec:usage">8</a>)?
 
-In brief, the agents did the planning and nearly all of the steps up to the End portal, and they did them quickly: the portal room was open at 1:20:35, more than two hours earlier than in either comparison run. The people collected the ender pearls, brought food, a bow and arrows, and recovered FableFire’s gear after its one death. Then the people killed the dragon, in about eight minutes of fighting, while the agents were still digging the trench their plan called for. Two things have to be kept in mind when reading the time. The people were not new to this: they had played the first team run and a 45-minute rehearsal earlier the same evening. And the people are not bound by the agents’ rules, so the fight used methods the agents may not use.
+In brief, the agents did the planning and nearly all of the steps up to the End portal, and they did them quickly: the portal room was open at 1:20:35, more than two hours earlier than in either comparison run. The people collected the ender pearls, brought food, a bow and arrows, and recovered FableFire’s gear after its one death. Then the people killed the dragon, in about eight minutes of fighting, while the agents were still digging the trench their plan called for. Two things have to be kept in mind when reading the time. The people were not new to this: they had played the first team run and a 45-minute rehearsal earlier the same evening. And the people fought differently: they struck the dragon in the open with swords and an axe, while the agents’ plan kept them under cover until their trench was finished.
 
 <div class="minipage">
 
@@ -144,7 +144,7 @@ The owner’s rule is that an agent leaves through the exit portal after the win
 
 <figure id="fig:dragon" data-latex-placement="t">
 <img src="figures/png/fig3_dragon.png" alt="" width="100%">
-<figcaption>The dragon’s health from the first entry to the End until the win, as read by the agents’ programs (a reading exists only when an agent’s program printed one, so a drop may be drawn later than it happened). The grey drop is the size of one caged crystal’s explosion. The blue drop is FableFox’s two sword hits. No agent program caused the orange drops. Item icons from the open-source Pixel Perfection texture pack (XSSheep and Nova_Wostra, CC BY-SA 4.0), not Minecraft’s textures.</figcaption>
+<figcaption>The dragon’s health from the first entry to the End until the win, as read by the agents’ programs (a reading exists only when an agent’s program printed one, so a drop may be drawn later than it happened). The grey drop is the size of one caged crystal’s explosion. The blue drop is FableFox’s two sword hits. The orange drops are Human 1’s and Human 2’s hits with swords and an axe. Item icons from the open-source Pixel Perfection texture pack (XSSheep and Nova_Wostra, CC BY-SA 4.0), not Minecraft’s textures.</figcaption>
 </figure>
 
 #### Steps.
@@ -157,7 +157,7 @@ The agents’ logs account for nine of the ten crystals, and Human 1 most likel
 
 #### The dragon.
 
-The dragon has 200 health. The first reading after the crystals, 190, is 10 below full, which is what a caged crystal’s explosion does to a dragon nearby; we treat this as an inference too. Of the remaining 190, the agents’ fight programs report two sword hits by FableFox (142.7 to 141.2 to 139.7) and none by FableFire, and no arrow was aimed at the dragon. That leaves about 187 health, 98%, to Human 1 and Human 2. Several of the drops are between 13 and 52 health between readings, larger than a sword or an arrow can do in one hit. They are consistent with beds exploded beside the perched dragon, a common method that the agents’ rules forbid them and that the people were free to use. The harness does not record the people’s actions, and no death message names a bed, so we cannot confirm the method. FableFire’s own health fell from 18 to 7 at the moment of one such drop, which fits an explosion near the fountain.
+The dragon has 200 health. The first reading after the crystals, 190, is 10 below full, which is what a caged crystal’s explosion does to a dragon nearby; we treat this as an inference too. Of the remaining 190, the agents’ fight programs report two sword hits by FableFox (142.7 to 141.2 to 139.7) and none by FableFire, and no arrow was aimed at the dragon. That leaves about 187 health, 98%, to Human 1 and Human 2. Human 1 and Human 2 did this damage by hand, hitting the dragon with a diamond sword, other swords and an axe; no beds or other explosives were used on it. The harness does not record the people’s actions, so this comes from the people’s own account after the run, and the server log agrees as far as it goes: no death message in it names a bed. Several drops are between 13 and 52 health between two readings. Each is several hits: a reading exists only when an agent’s program printed one, sometimes seconds or minutes apart, and two people were striking the perched dragon at the same time.
 
 The agents’ trench was not wasted effort by their own lights: it is the method that won run 5. In this run the dragon was dead eight minutes after the last crystal, before the ring was finished.
 
@@ -319,7 +319,7 @@ Faldor et al. (2026) describe the environment and report a team of four agents d
 
 - **One run.** One world, one seed, one evening. The Nether portal happened to lead near a fortress with a blaze spawner, and the stronghold was close.
 
-- **The time is not a solo time, and mostly not an agents’ time.** The people took about 98% of the dragon’s health after the crystals, probably by a method the agents are forbidden. A fair reading is that the agents brought the team to an open End portal by 1:20:35 and to a dragon without crystals by 1:35:28; what happened in the last eight minutes says more about the people.
+- **The time is not a solo time, and mostly not an agents’ time.** The people took about 98% of the dragon’s health after the crystals, with swords and an axe, fighting in the open while the agents were still digging. A fair reading is that the agents brought the team to an open End portal by 1:20:35 and to a dragon without crystals by 1:35:28; what happened in the last eight minutes says more about the people.
 
 - **Practised people.** Human 1 and Human 2 had played the first team run and a rehearsal the same evening. The agents had not, but they inherited seven earlier players’ files and a plan written after the fastest of them.
 

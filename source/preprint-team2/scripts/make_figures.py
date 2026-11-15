@@ -259,7 +259,7 @@ def fig_dragon():
     ax.text(LAST + 0.25, 204, "all ten crystals gone", fontsize=F(5.2), color=INK2, ha="left", va="center")
     ax.annotate("FableFox's two sword hits (3.0)", xy=(98.5, 141), xytext=(96.2, 118), fontsize=F(5.2), color=C2, ha="right", va="center",
                 arrowprops=dict(arrowstyle="-", color=C2, lw=0.6))
-    ax.text(100.8, 112, "drops no agent\nprogram caused", fontsize=F(5.2), color=C1, ha="left", va="center", linespacing=1.1)
+    ax.text(100.8, 112, "the people's hits:\nswords and an axe", fontsize=F(5.2), color=C1, ha="left", va="center", linespacing=1.1)
     for name, y in ((A1, 216), (A2, 209)):
         t_in = next(c["s"] for c in D["dims"][name] if c["dim"] == "the_end") / 60
         ax.plot([t_in, WIN], [y, y], color=END, lw=2.2, solid_capstyle="butt", zorder=3)
