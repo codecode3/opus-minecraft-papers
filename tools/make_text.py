@@ -21,6 +21,7 @@ PDF_NAMES = {
     "preprint-team": "Team-run-Opus-5.5-agents-and-people-beat-Minecraft-in-4h36m.pdf",
     "preprint-bench": "Benchmark-Opus-5.5-vs-Fable-5.2-stopped-by-usage-limit-at-5h17m.pdf",
     "preprint-run5": "Run-5-Fable-5.2-beats-Minecraft-in-4h40m.pdf",
+    "preprint-team2": "Team-run-2-Fable-5.2-agents-and-people-beat-Minecraft-in-1h43m.pdf",
 }
 
 
